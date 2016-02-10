@@ -1,4 +1,5 @@
-[![](https://img.shields.io/badge/Facebook-%23TestowanieOprogramowania-blue.svg)](https://www.facebook.com/groups/TestowanieOprogramowania/)
+[![](https://img.shields.io/badge/Facebook-%23TestowanieOprogramowania-blue.svg)](https://www.facebook.com/groups/TestowanieOprogramowania/){:target="_blank"}
+
 
 # Testowanie Oprogramowania - Materiały
 
@@ -9,7 +10,7 @@
 
 ## Narzędzia
 
-* Appium
+* [Appium](Materialy/Narzedzia/Appium.md)
 * JMeter 🏣
 * Selenium 🏣
 * Spock 🏣
@@ -37,7 +38,7 @@
 * Pytania rekrutacyjne 🏣
 * Gdzie można dorobić zdalnie 🏣
 * Przydatne zbiory RSS 🏣
-* Zabawne
+* [Zabawne](Pliki/Zabawne)
 
 
 ## *Warto wiedzieć*
