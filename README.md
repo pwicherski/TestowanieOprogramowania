@@ -20,7 +20,7 @@
 
 ## PigułkaWiedzy
 
-* Testowanie Mobilne 🏣
+* [Testowanie Mobilne](Materialy/PigulkaWiedzy/TestowanieMobilne.md) 🏣
 * Jak zacząć 🏣
 
 
