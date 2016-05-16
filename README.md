@@ -30,11 +30,11 @@
 * Książki (PL) 🏣
 * Książki (EN) 🏣
 * Narzędzia testerskie (Spis)  🏣
-* MindMapy testerskie 🏣
+* [MindMapy testerskie](Materialy/Inne/MindMapy.md) 🏣
 * Gry i zadania 🏣
 * Magazyny testerskie 🏣
 * Materiały z konferencji 🏣
-* Polskie Blogi 🏣
+* [Polskie Blogi](Materialy/Inne/PolskieBlogi.md) 🏣
 * Pytania rekrutacyjne 🏣
 * Gdzie można dorobić zdalnie 🏣
 * Przydatne zbiory RSS 🏣
