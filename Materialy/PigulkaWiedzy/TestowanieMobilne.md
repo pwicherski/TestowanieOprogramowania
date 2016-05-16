@@ -10,6 +10,8 @@
     * Test Lab - Stephen Janaway’s Mobile Testing Cheatsheet
 * http://adventuresinqa.com/2016/01/11/mobile-testing-cheat-sheet/
     * Mobile Testing Cheat Sheet
+* https://medium.com/@YogX/use-network-link-conditioner-when-testing-your-app-bad18ecad877
+   * Use Network Link Conditioner When Testing Your App
 
 ## Blogi
 Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informacje na temat testowania mobilnego.
