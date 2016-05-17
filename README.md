@@ -21,7 +21,7 @@
 ## PigułkaWiedzy
 
 * [Testowanie Mobilne](Materialy/PigulkaWiedzy/TestowanieMobilne.md) 🏣
-* [Jak zacząć](Materialy/PigulkaWiedzy/JakZaczac.md) 🏣
+* Jak zacząć 🏣
 
 
 ## Inne
