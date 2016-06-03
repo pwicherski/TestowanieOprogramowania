@@ -11,15 +11,16 @@
 ## Narzędzia
 
 * [Appium](Materialy/Narzedzia/Appium.md)
-* JMeter 🏣
-* Selenium 🏣
-* Spock 🏣
-* TestLink 🏣
-* Winium 🏣
+* [JMeter](Materialy/Narzedzia/JMeter.md) 🏣
+* [Selenium](Materialy/Narzedzia/Selenium.md) 🏣
+* [Spock](Materialy/Narzedzia/Spock.md) 🏣
+* [TestLink](Materialy/Narzedzia/TestLink.md) 🏣
+* [Winium](Materialy/Narzedzia/Winium.md) 🏣
 
 
 ## PigułkaWiedzy
 
+* [Dane testowe](Materialy/Inne/DaneTestowe.md)
 * [Testowanie Mobilne](Materialy/PigulkaWiedzy/TestowanieMobilne.md) 🏣
 * Jak zacząć 🏣 [Aktualnie nie akceptuję PR]
 
@@ -29,7 +30,7 @@
 * Certfikaty 🏣
 * Książki (PL) 🏣
 * Książki (EN) 🏣
-* Narzędzia testerskie (Spis)  🏣
+* Narzędzia testerskie (Spis) 🏣
 * [MindMapy testerskie](Materialy/Inne/MindMapy.md) 🏣
 * Gry i zadania 🏣
 * Magazyny testerskie 🏣
@@ -43,6 +44,7 @@
 
 ## *Warto wiedzieć*
 
+* [Wartościowe dyskusje na grupie](WartoWiedziec/WartoscioweDyskusje.md)
 * Testowanie par (pairwise testing) 🏣
 * Porównywanie obrazów & OCR (image comparision & OCR) 🏣
 * Testy wydajnościowe (Performance testing) 🏣
