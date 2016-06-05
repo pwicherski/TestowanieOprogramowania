@@ -14,7 +14,7 @@
 * http://katrinatester.blogspot.com/2015/08/mobile-testing-pathway.html
     * Mobile Testing Pathway
 * http://www.softwaretestinghelp.com/beginners-guide-to-mobile-application-testing/
-    * Kilka podstawowych porad |Beginner’s Guide to Mobile Application Testing
+    * Kilka podstawowych porad | Beginner’s Guide to Mobile Application Testing
 * http://adventuresinqa.com/2016/05/03/10-mobile-app-testing-mistakes-to-avoid/
     * 10 Mobile App Testing Mistakes to Avoid
 * https://medium.com/@YogX/use-network-link-conditioner-when-testing-your-app-bad18ecad877
