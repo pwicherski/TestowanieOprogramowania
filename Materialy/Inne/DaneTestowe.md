@@ -6,8 +6,6 @@
 
 ## Generatory
 
-*
- *
 
 ## Zbiory
 
