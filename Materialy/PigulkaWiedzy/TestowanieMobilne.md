@@ -105,7 +105,7 @@
 
 ## Narzędzia do automatyzacji testów
 * Automatyzacja black/white box mobile/web/mobile web
-   * [Appium](Materialy/Narzedzia/Appium.md)
+   * [Appium](https://github.com/pwicherski/TestowanieOprogramowania/blob/master/Materialy/Narzedzia/Appium.md)
    * Espresso [Materiały w przygotowaniu]
    * Robotium [Materiały w przygotowaniu]
    * Calabash [Materiały w przygotowaniu]
