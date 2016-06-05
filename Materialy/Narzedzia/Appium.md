@@ -31,11 +31,11 @@
     * Rozpoznawanie obrazu w grach
 * http://testautomation.applitools.com/post/99795889592/master-appium-in-4-steps-and-11-tutorials
     * Opanuj Appium w 4 krokach i 11 tutorialach
-* http://software-testing-tutorials-automation.blogspot.com/2015/10/appium-tutorials.html
+* http://www.software-testing-tutorials-automation.com/2015/10/appium-tutorials.html
     * Spis ponad 40 krótkich tutoriali
 * http://executeautomation.com/blog/
     * Wpisy i nagrania wideo
-* http://software-testing-tutorials-automation.blogspot.com/2015/11/test-apps-to-use-in-appium-automation.html
+* http://www.software-testing-tutorials-automation.com/2015/11/test-apps-to-use-in-appium-automation.html
 * https://github.com/appium/sample-code/tree/master/sample-code/apps
     * Pliki apk, których można z powodzeniem użyć do nauki Appium
 
