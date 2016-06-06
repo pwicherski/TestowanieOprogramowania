@@ -11,16 +11,16 @@
 ## Narzędzia
 
 * [Appium](Materialy/Narzedzia/Appium.md)
-* [JMeter](Materialy/Narzedzia/JMeter.md) 🏣
+* [JMeter](Materialy/Narzedzia/JMeter.md)
 * [Selenium](Materialy/Narzedzia/Selenium.md) 🏣
 * [Spock](Materialy/Narzedzia/Spock.md) 🏣
 * [TestLink](Materialy/Narzedzia/TestLink.md) 🏣
-* [Winium](Materialy/Narzedzia/Winium.md) 🏣
+* [Winium](Materialy/Narzedzia/Winium.md)
 
 
 ## PigułkaWiedzy
 
-* [Dane testowe](Materialy/Inne/DaneTestowe.md)
+* [Dane testowe](Materialy/Inne/DaneTestowe.md) 🏣
 * [Testowanie Mobilne](Materialy/PigulkaWiedzy/TestowanieMobilne.md)
 * Jak zacząć 🏣 [Aktualnie nie akceptuję PR]
 
