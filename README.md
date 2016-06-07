@@ -11,11 +11,11 @@
 ## Narzędzia
 
 * [Appium](Materialy/Narzedzia/Appium.md)
-* [JMeter](Materialy/Narzedzia/JMeter.md) 🏣
+* [JMeter](Materialy/Narzedzia/JMeter.md)
 * [Selenium](Materialy/Narzedzia/Selenium.md) 🏣
 * [Spock](Materialy/Narzedzia/Spock.md) 🏣
 * [TestLink](Materialy/Narzedzia/TestLink.md) 🏣
-* [Winium](Materialy/Narzedzia/Winium.md) 🏣
+* [Winium](Materialy/Narzedzia/Winium.md)
 
 
 ## PigułkaWiedzy
@@ -31,7 +31,7 @@
 * Książki (PL) 🏣
 * Książki (EN) 🏣
 * Narzędzia testerskie (Spis) 🏣
-* [MindMapy testerskie](Materialy/Inne/MindMapy.md) 🏣
+* [MindMapy testerskie](Materialy/Inne/MapyMysli.md) 🏣
 * Gry i zadania 🏣
 * Magazyny testerskie 🏣
 * Materiały z konferencji 🏣
