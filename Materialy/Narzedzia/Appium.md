@@ -56,7 +56,8 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
     * Android & iOS automation using Appium : Getting started  
 * https://www.youtube.com/watch?v=cwZrKSGdvrA
     * Step-by-Step Appium Webinar: Building Scalable Appium Test Automation Infrastructure
-
+* https://www.youtube.com/watch?v=PtiXc9i4kiU
+    * Webinar - Automate your Appium tests like a pro 
 
 ## Kursy wideo
 
