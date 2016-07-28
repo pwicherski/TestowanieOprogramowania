@@ -23,9 +23,9 @@ KIF używa nieudokumentowanych API, dlatego kod wykorzystywany w testach nie pow
 * http://www.raywenderlich.com/61419/ios-ui-testing-with-kif
     * Tutorial na Ray Wenderlich.
 * http://www.raywenderlich.com/91410/unit-testing-ellen-shapiro-podcast-s02-e10
-    *  Podcast o testowaniu na iOS
+    * Podcast o testowaniu na iOS
 *  http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/
-    *  Tutorial o dodawaniu KIF do projektu
+    * Tutorial o dodawaniu KIF do projektu
 * https://engineering.linkedin.com/blog/2016/01/ui-automation--keep-it-functional--and-stable-
     * Artykuł o wykorzystaniu KIF w LinkedIn
 * http://kleinlieu.com/2014/07/21/supercharging-continuous-delivery-with-kif-ios-ui-automation/
@@ -35,14 +35,14 @@ KIF używa nieudokumentowanych API, dlatego kod wykorzystywany w testach nie pow
 * http://www.bradheintz.com/ios/2014/06/12/tutorial-getting-kif-to-work-in-your-swift-project/
 * https://www.natashatherobot.com/kif-swift-feature-testing/
 * http://baiduhix.blogspot.com/2015/06/swift-functional-tests-kif-get-uiview.html
-    *  KIF i Swift
+    * KIF i Swift
 *  https://saucelabs.com/resources/mobile-testing-tools/kif-ios
-    *  Porównanie Appium i KIF
+    * Porównanie Appium i KIF
 * http://www.imind.eu/mobile/2014/02/19/ios-integration-testing-on-ci/
     * Uruchamianie testów przez xcode Server
 * https://gopekannan.wordpress.com/2015/08/27/family-of-ios-automation-frameworks-and-its-comparison-matrix/
-    *  Porównanie kilku frameworków dla iOS
+    * Porównanie kilku frameworków dla iOS
 *  http://adventuresinqa.com/tag/kif/
-    *  Różne artykuły
+    * Różne artykuły
 * http://engineering.shopspring.com/2015/03/02/ios-integration-tests/
     * Tutorial o KIF
