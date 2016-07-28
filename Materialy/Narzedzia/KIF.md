@@ -7,13 +7,12 @@ KIF używa nieudokumentowanych API, dlatego kod wykorzystywany w testach nie pow
 
 * https://github.com/kif-framework/KIF
     * Strona główna projektu
-* https://groups.google.com/forum/#!forum/kif-framework
-    * Grupa dyskusyjna
 
 
 ## Materiały - różne
 
-
+* https://groups.google.com/forum/#!forum/kif-framework
+    * Grupa dyskusyjna
 * https://stackoverflow.com/questions/tagged/kif-framework
 * https://stackoverflow.com/questions/tagged/kif
     * Tematy związane z KIF na Stack Overflow
