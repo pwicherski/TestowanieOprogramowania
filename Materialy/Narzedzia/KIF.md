@@ -36,13 +36,11 @@ KIF używa nieudokumentowanych API, dlatego kod wykorzystywany w testach nie pow
     * Uruchamianie testów przez xcode Server
 * https://gopekannan.wordpress.com/2015/08/27/family-of-ios-automation-frameworks-and-its-comparison-matrix/
     * Porównanie kilku frameworków dla iOS
-*  http://adventuresinqa.com/tag/kif/
-    * Różne artykuły
 
 ## Blogi
 Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informacje na temat KIF.
 
-*  http://adventuresinqa.com/tag/kif/
+* http://adventuresinqa.com/tag/kif/
 
 ## Materiały audio
 
@@ -53,7 +51,7 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
 
 * http://www.raywenderlich.com/61419/ios-ui-testing-with-kif
     * Tutorial na Ray Wenderlich.
-*  http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/
+* http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/
     * Tutorial o dodawaniu KIF do projektu
 * http://engineering.shopspring.com/2015/03/02/ios-integration-tests/
     * Tutorial o KIF
