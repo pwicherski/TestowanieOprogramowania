@@ -16,6 +16,7 @@
 * [Spock](Materialy/Narzedzia/Spock.md) 🏣
 * [TestLink](Materialy/Narzedzia/TestLink.md) 🏣
 * [Winium](Materialy/Narzedzia/Winium.md)
+* [KIF](Materialy/Narzedzia/KIF.md)
 
 
 ## PigułkaWiedzy
