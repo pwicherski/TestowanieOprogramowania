@@ -30,7 +30,7 @@ KIF używa nieudokumentowanych API, dlatego kod wykorzystywany w testach nie pow
 * https://www.natashatherobot.com/kif-swift-feature-testing/
 * http://baiduhix.blogspot.com/2015/06/swift-functional-tests-kif-get-uiview.html
     * KIF i Swift
-*  https://saucelabs.com/resources/mobile-testing-tools/kif-ios
+* https://saucelabs.com/resources/mobile-testing-tools/kif-ios
     * Porównanie Appium i KIF
 * http://www.imind.eu/mobile/2014/02/19/ios-integration-testing-on-ci/
     * Uruchamianie testów przez xcode Server
