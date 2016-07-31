@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Facebook-%23TestowanieOprogramowania-blue.svg)](https://www.facebook.com/groups/TestowanieOprogramowania/)
+[![](https://img.shields.io/badge/Facebook-%23TestowanieOprogramowania-blue.svg)](https://www.facebook.com/groups/TestowanieOprogramowania/) [![]https://travis-ci.org/pwicherski/TestowanieOprogramowania.svg?branch=master]
 
 
 # Testowanie Oprogramowania - Materiały
