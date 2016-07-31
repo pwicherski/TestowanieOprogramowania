@@ -23,7 +23,7 @@
 ## PigułkaWiedzy
 
 * [Dane testowe](Materialy/Inne/DaneTestowe.md) 🏣
-* [Testowanie Mobilne](Materialy/PigulkaWiedzy/TestowanieMobilne.md)
+* [Testowanie Mobilne](Materialy/TestowanieMobilne/TestowanieMobilne.md)
 * Jak zacząć 🏣 [Aktualnie nie akceptuję PR]
 
 
