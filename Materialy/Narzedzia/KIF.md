@@ -1,6 +1,9 @@
+[![](https://img.shields.io/badge/Facebook-%23TestowanieOprogramowania-blue.svg)](https://www.facebook.com/groups/TestowanieOprogramowania/)
+
+
 # KIF - Keep It Functional - An iOS Functional Testing Framework
 KIF jest frameworkiem do tworzenia testów integracyjnych dla platformy iOS. W testach wykorzystywane są atrybuty accessibillity.
-KIF używa nieudokumentowanych API, dlatego kod wykorzystywany w testach nie powinien trafić do kodu produkcyjnego, bo aplikacja zostanie odrzucona w momencie weryfikacji przez Apple. 
+KIF używa nieudokumentowanych API, dlatego kod wykorzystywany w testach nie powinien trafić do kodu produkcyjnego, bo aplikacja zostanie odrzucona w momencie weryfikacji przez Apple.
 
 
 ## Repozytorium
