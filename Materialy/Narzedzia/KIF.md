@@ -45,7 +45,7 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
 ## Materiały audio
 
 * http://www.raywenderlich.com/91410/unit-testing-ellen-shapiro-podcast-s02-e10
-    * Podcast o testowaniu na iOS
+    * Jeden odcinek podcastu o testowaniu na iOS
 
 ## Kursy
 
