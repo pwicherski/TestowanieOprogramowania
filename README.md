@@ -24,7 +24,7 @@
 
 * [Dane testowe](Materialy/Inne/DaneTestowe.md) 🏣
 * [Testowanie Mobilne](Materialy/TestowanieMobilne/TestowanieMobilne.md)
-* Jak zacząć 🏣 [Aktualnie nie akceptuję PR]
+* Jak zacząć [Aktualnie nie akceptuję PR]
 
 
 ## Testowanie Mobilne
