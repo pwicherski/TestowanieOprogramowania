@@ -22,6 +22,7 @@
 * https://wiki.saucelabs.com/dosearchsite.action?queryString=appium
     * Wiki space należąca do Souce Labs. Posiadają w niej wiele ciekawych materiałów o Appium
 
+
 ## Materiały - różne
 
 * http://testdroid.com/news/37-things-you-should-know-about-appium
@@ -57,7 +58,7 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
 * https://www.youtube.com/watch?v=cwZrKSGdvrA
     * Step-by-Step Appium Webinar: Building Scalable Appium Test Automation Infrastructure
 * https://www.youtube.com/watch?v=PtiXc9i4kiU
-    * Webinar - Automate your Appium tests like a pro 
+    * Webinar - Automate your Appium tests like a pro
 
 ## Kursy wideo
 

@@ -73,36 +73,6 @@
    * Facebook F8 2015 - Move Fast: Ensuring Mobile Performance Without Breaking Things
 
 
-## Online | Android skanery, inżynieria odwrotna itp. na plikach .apk
-
-* http://andrototal.org/
-   * AndroTotal
-* http://anubis.iseclab.org/
-   * Anubis
-* http://www.apk-analyzer.net/
-   * Apk Analyzer
-* http://apkscan.nviso.be/
-   * ApkScan
-* http://www.decompileandroid.com/
-   * Android APK Decompiler
-* http://www.av-comparatives.org/avc-analyzer/
-   * AVC UnDroid
-* https://www.virustotal.com/en/
-   * VirusTotal
-
-
-## Offline | Android skanery, inżynieria odwrotna itp. na plikach .apk
-
-* https://code.google.com/p/androguard/
-   * AndroGuard
-* http://ibotpeaches.github.io/Apktool/
-   * Android-apktool
-* https://github.com/honeynet/apkinspector/
-   * Apkinspector
-* http://code.google.com/p/dex2jar/
-   * Dex2jar
-
-
 ## Narzędzia do automatyzacji testów
 * Automatyzacja black/white box mobile/web/mobile web
    * [Appium](https://github.com/pwicherski/TestowanieOprogramowania/blob/master/Materialy/Narzedzia/Appium.md)

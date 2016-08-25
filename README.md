@@ -13,7 +13,7 @@
 * [Appium](Materialy/Narzedzia/Appium.md)
 * [Espresso](Materialy/Narzedzia/Espresso.md) 🏣
 * [JMeter](Materialy/Narzedzia/JMeter.md)
-* [Selenium](Materialy/Narzedzia/Selenium.md) 🏣
+* [Selenium](Materialy/Narzedzia/Selenium.md)
 * [Spock](Materialy/Narzedzia/Spock.md) 🏣
 * [TestLink](Materialy/Narzedzia/TestLink.md) 🏣
 * [Winium](Materialy/Narzedzia/Winium.md)
@@ -30,13 +30,13 @@
 ## Testowanie Mobilne
 
 * [Testowanie Mobilne](Materialy/TestowanieMobilne/TestowanieMobilne.md)
-* [Android - Testowanie Bezpieczeństwa](Materialy/TestowanieMobilne/AndroidBezpieczenstwo.md) 🏣
-* [iOS - Testowanie Bezpieczeństwa](Materialy/TestowanieMobilne/iOSBezpieczenstwo.md) 🏣
+* [Testowanie Bezpieczeństwa - Android](Materialy/TestowanieMobilne/AndroidBezpieczenstwo.md) 🏣
+* [Testowanie Bezpieczeństwa - iOS](Materialy/TestowanieMobilne/iOSBezpieczenstwo.md) 🏣
 
 
 ## Inne
 
-* Certfikaty 🏣
+* [Certfikaty](Materialy/Inne/Certyfikaty.md)
 * Książki (PL) 🏣
 * Książki (EN) 🏣
 * Narzędzia testerskie (Spis) 🏣
