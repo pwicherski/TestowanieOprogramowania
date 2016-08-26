@@ -20,7 +20,7 @@
 * [KIF](Materialy/Narzedzia/KIF.md)
 
 
-## PigułkaWiedzy
+## Pigułka Wiedzy
 
 * [Dane testowe](Materialy/Inne/DaneTestowe.md) 🏣
 * [Testowanie Mobilne](Materialy/TestowanieMobilne/TestowanieMobilne.md)
