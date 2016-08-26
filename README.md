@@ -22,8 +22,8 @@
 
 ## Pigułka Wiedzy
 
-* [Dane testowe](Materialy/Inne/DaneTestowe.md) 🏣
 * [Testowanie Mobilne](Materialy/TestowanieMobilne/TestowanieMobilne.md)
+* [Dane testowe](Materialy/Inne/DaneTestowe.md) 🏣
 * Jak zacząć [Aktualnie nie akceptuję PR]
 
 
