@@ -71,7 +71,9 @@
    * Automated Performance Testing
 * https://www.youtube.com/watch?v=htGxYO155rQ
    * Facebook F8 2015 - Move Fast: Ensuring Mobile Performance Without Breaking Things
-
+* http://developer.att.com/application-resource-optimizer
+* https://dzone.com/articles/testing-mobile-apps-using-atampt-aro-tool
+  * ARO (Application Resource Optimizer) is a free and open source tool by AT&T Developer Program.
 
 ## Narzędzia do automatyzacji testów
 * Automatyzacja black/white box mobile/web/mobile web
