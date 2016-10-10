@@ -31,3 +31,5 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
    * Sebastiana Kapela
 * http://jakzostactesterem.pl/
    * Blog pewnego Michała
+* testerslife.pl
+   * Rafał Kubik
