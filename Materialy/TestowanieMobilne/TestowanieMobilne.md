@@ -94,6 +94,9 @@ Większość z wymienionych tutaj pozycji jest bardzo podstawowa jak też przeka
 Wymienione pozycje zostały zebrane wyłącznie w celu umożliwienia zapoznania się z tymi pozycjami.
 Pozycje polecane są wyróżnione 📖
 
+Większość z wymienionych pozycji jest dostępna do przeczytania w ramach darmowego 10-dniowego planu na O'Reilly Safari Books Online
+https://www.safaribooksonline.com/
+
 * http://handsonmobileapptesting.com/
    * Hands-On Mobile App Testing | Daniel Knott  📖
 * https://leanpub.com/smartwatchapptesting
@@ -116,6 +119,8 @@ Pozycje polecane są wyróżnione 📖
    * "Software Test Attacks to Break Mobile and Embedded Devices" | Jon Duncan Hagar
 * http://www.apress.com/9781430240624
    * "Android Apps Security" | Sheran Gunasekera
+* https://www.packtpub.com/application-development/mobile-application-penetration-testing
+   * "Mobile Application Penetration Testing" | Vijay Kumar Velu
 * http://helion.pl/ksiazki/application-security-for-the-android-platform-processes-permissions-and-other-safeguards-jeff-six,e_2gec.htm
    * "Application Security for the Android Platform. Processes, Permissions, and Other Safeguards" | Jeff Six  📖
 
