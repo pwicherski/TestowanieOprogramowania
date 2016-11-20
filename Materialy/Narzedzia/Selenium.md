@@ -57,6 +57,22 @@
 * https://docs.saucelabs.com/reference/platforms-configurator/#/
   * (Sauce Labs) Automated Test Configurator
 
+## Strony na któych można trenować
+
+* http://the-internet.herokuapp.com/
+  * Herokuapp. The internet.
+  
+* https://asta.pgs-soft.com/
+  * Automated Software Testing Arena
+
+* http://automationpractice.com
+  * Wirtualny sklep
+
+* http://demoqa.com/
+  * Różne funkcje
+  
+* http://newtours.demoaut.com/
+  * Strona o tematyce turystycznej
 
 ## Książki
 
