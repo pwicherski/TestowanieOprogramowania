@@ -73,6 +73,12 @@
   
 * http://newtours.demoaut.com/
   * Strona o tematyce turystycznej
+  
+* http://bdonline.sqe.com/
+  * B&D is a fictitious online brokerage firm
+
+* http://adam.goucher.ca/parkcalc/
+  * This "application" has some serious flaws, and has been the subject of lots of exploratory testing.
 
 ## Książki
 
