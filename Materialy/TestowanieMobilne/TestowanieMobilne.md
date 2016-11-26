@@ -52,16 +52,12 @@
 
 * https://developer.android.com/studio/run/managing-avds.html
    * Android AVD.
-
 * https://www.genymotion.com/
    * Genymotion
-
 * http://www.bluestacks.com/
    * BlueStacks
-
 * http://www.andyroid.net/
    * AndY Emulator for PC
-
 * https://www.visualstudio.com/pl/vs/msft-android-emulator/
    * Microsoft Visual Studio Emulator for Android
 
