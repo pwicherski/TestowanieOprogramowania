@@ -11,7 +11,7 @@
 ## Narzędzia
 
 * [Appium](Materialy/Narzedzia/Appium.md)
-* [Espresso](Materialy/Narzedzia/Espresso.md) 🏣
+* [Espresso](Materialy/Narzedzia/Espresso.md)
 * [JMeter](Materialy/Narzedzia/JMeter.md)
 * [Selenium](Materialy/Narzedzia/Selenium.md)
 * [Spock](Materialy/Narzedzia/Spock.md) 🏣
@@ -24,7 +24,6 @@
 
 * [Testowanie Mobilne](Materialy/TestowanieMobilne/TestowanieMobilne.md)
 * [Dane testowe](Materialy/Inne/DaneTestowe.md) 🏣
-* Jak zacząć [Aktualnie nie akceptuję PR]
 
 
 ## Testowanie Mobilne
