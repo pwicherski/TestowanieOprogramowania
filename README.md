@@ -28,7 +28,7 @@
 
 ## Testowanie Mobilne
 
-* [Testowanie Mobilne](Materialy/TestowanieMobilne/TestowanieMobilne.md)
+* [Testowanie Mobilne - zbiór ogólny](Materialy/TestowanieMobilne/TestowanieMobilne.md)
 * [Testowanie Bezpieczeństwa - Android](Materialy/TestowanieMobilne/AndroidBezpieczenstwo.md) 🏣
 * [Testowanie Bezpieczeństwa - iOS](Materialy/TestowanieMobilne/iOSBezpieczenstwo.md) 🏣
 
@@ -45,7 +45,7 @@
 * Materiały z konferencji 🏣
 * [Polskie Blogi](Materialy/Inne/PolskieBlogi.md)
 * Pytania rekrutacyjne 🏣
-* Gdzie można dorobić zdalnie 🏣
+* [Praca zdalna](Materialy/Inne/PracaZdalna.md)
 * Przydatne zbiory RSS 🏣
 * [Zabawne](Pliki/Zabawne)
 
