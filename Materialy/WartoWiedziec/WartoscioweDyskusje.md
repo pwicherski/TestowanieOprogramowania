@@ -7,7 +7,7 @@ Często najbardziej pomocne w rozwiązywaniu problemów i poznawaniu nowych tema
 
 ## Lista dyskusji
 
-* Zakładanie wielu kont (przykładowo GMail)
+* Zakładanie wielu kont (przykładowo Gmail)
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1043251712364073/
 
 * Rozmowy rekrutacyjne / Przeprowadzanie rozmów rekrutacyjnych
