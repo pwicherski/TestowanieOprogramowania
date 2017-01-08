@@ -35,7 +35,7 @@
 
 ## Inne
 
-* [Certfikaty](Materialy/Inne/Certyfikaty.md)
+* [Certyfikaty](Materialy/Inne/Certyfikaty.md)
 * Książki (PL) 🏣
 * Książki (EN) 🏣
 * Narzędzia testerskie (Spis) 🏣
