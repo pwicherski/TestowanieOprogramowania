@@ -136,7 +136,21 @@ https://www.safaribooksonline.com/
    * "Mobile Application Penetration Testing" | Vijay Kumar Velu
 * http://helion.pl/ksiazki/application-security-for-the-android-platform-processes-permissions-and-other-safeguards-jeff-six,e_2gec.htm
    * "Application Security for the Android Platform. Processes, Permissions, and Other Safeguards" | Jeff Six  📖
-
+* https://www.packtpub.com/application-development/mastering-mobile-test-automation
+   * Mastering Mobile Test Automation
+* https://www.packtpub.com/application-development/appium-essentials
+   * Appium Essentials
+* https://www.packtpub.com/application-development/mobile-application-penetration-testing
+   * Mobile Application Penetration Testing
+* https://www.packtpub.com/web-development/instant-adobe-edge-inspect-starter-instant
+   * Instant Adobe Edge Inspect Starter
+* https://www.packtpub.com/application-development/robotium-automated-testing-android
+   * Robotium Automated Testing for Android
+* https://www.packtpub.com/hardware-and-creative/mobile-device-exploitation-cookbook
+   * Mobile Device Exploitation Cookbook
+* https://www.packtpub.com/networking-and-servers/learning-ios-penetration-testing
+   * Learning iOS Penetration Testing
+   
 ----
 Częściowo:
 
