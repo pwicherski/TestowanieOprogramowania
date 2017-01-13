@@ -70,7 +70,7 @@
 * http://stephenjanaway.co.uk/stephenjanaway/wp-content/uploads/2015/11/Mobile-Testing-Cheatsheet-Stephen-Janaway.pdf
     * Test Lab - Stephen Janaway’s Mobile Testing Cheatsheet
 * https://github.com/mgasiorowski/quality_mobile_apps_mindmap
-    * Michał Gąsiorowski
+    * Maciej Gąsiorowski
 
 ## Mobile Performance Testing
 
