@@ -11,40 +11,49 @@
 ## Narzędzia
 
 * [Appium](Materialy/Narzedzia/Appium.md)
-* JMeter 🏣
-* Selenium 🏣
-* Spock 🏣
-* TestLink 🏣
-* Winium 🏣
+* [Espresso](Materialy/Narzedzia/Espresso.md)
+* [JMeter](Materialy/Narzedzia/JMeter.md)
+* [Selenium](Materialy/Narzedzia/Selenium.md)
+* [Spock](Materialy/Narzedzia/Spock.md) 🏣
+* [TestLink](Materialy/Narzedzia/TestLink.md) 🏣
+* [Winium](Materialy/Narzedzia/Winium.md)
+* [KIF](Materialy/Narzedzia/KIF.md)
 
 
-## PigułkaWiedzy
+## Pigułka Wiedzy
 
-* [Testowanie Mobilne](Materialy/PigulkaWiedzy/TestowanieMobilne.md) 🏣
-* Jak zacząć 🏣 [Aktualnie nie akceptuję PR]
+* [Testowanie Mobilne](Materialy/TestowanieMobilne/TestowanieMobilne.md)
+* [Dane testowe](Materialy/Inne/DaneTestowe.md) 🏣
+
+
+## Testowanie Mobilne
+
+* [Testowanie Mobilne - zbiór ogólny](Materialy/TestowanieMobilne/TestowanieMobilne.md)
+* [Testowanie Bezpieczeństwa - Android](Materialy/TestowanieMobilne/AndroidBezpieczenstwo.md) 🏣
+* [Testowanie Bezpieczeństwa - iOS](Materialy/TestowanieMobilne/iOSBezpieczenstwo.md) 🏣
 
 
 ## Inne
 
-* Certfikaty 🏣
+* [Certyfikaty](Materialy/Inne/Certyfikaty.md)
 * Książki (PL) 🏣
 * Książki (EN) 🏣
-* Narzędzia testerskie (Spis)  🏣
-* [MindMapy testerskie](Materialy/Inne/MindMapy.md) 🏣
+* Narzędzia testerskie (Spis) 🏣
+* [MindMapy testerskie](Materialy/Inne/MapyMysli.md)
 * Gry i zadania 🏣
 * Magazyny testerskie 🏣
 * Materiały z konferencji 🏣
-* [Polskie Blogi](Materialy/Inne/PolskieBlogi.md) 🏣
+* [Polskie Blogi](Materialy/Inne/PolskieBlogi.md)
 * Pytania rekrutacyjne 🏣
-* Gdzie można dorobić zdalnie 🏣
+* [Praca zdalna](Materialy/Inne/PracaZdalna.md)
 * Przydatne zbiory RSS 🏣
 * [Zabawne](Pliki/Zabawne)
 
 
 ## *Warto wiedzieć*
 
+* [Wartościowe dyskusje na grupie](Materialy/WartoWiedziec/WartoscioweDyskusje.md)
 * Testowanie par (pairwise testing) 🏣
 * Porównywanie obrazów & OCR (image comparision & OCR) 🏣
 * Testy wydajnościowe (Performance testing) 🏣
 * Uczenie maszynowe (Machine learning) 🏣
-* Android Security 🏣

@@ -1,3 +1,6 @@
+[![](https://img.shields.io/badge/Facebook-%23TestowanieOprogramowania-blue.svg)](https://www.facebook.com/groups/TestowanieOprogramowania/)
+
+
 # Appium
 
 
@@ -14,10 +17,11 @@
     * Appium Discuss jest świetnym miejscem dyskusji na wszelkie tematy dotyczące pracy z appium i jego rozwoju.
 * http://appium.io/slate/en/v1.0.0/?ruby#
     *  Appium Docs
-*  https://bitbucket.org/appium/appium.app/downloads/
+* https://bitbucket.org/appium/appium.app/downloads/
     *  Bitbucket z różnymi wersjami Appium do pobrania
 * https://wiki.saucelabs.com/dosearchsite.action?queryString=appium
     * Wiki space należąca do Souce Labs. Posiadają w niej wiele ciekawych materiałów o Appium
+
 
 ## Materiały - różne
 
@@ -31,11 +35,11 @@
     * Rozpoznawanie obrazu w grach
 * http://testautomation.applitools.com/post/99795889592/master-appium-in-4-steps-and-11-tutorials
     * Opanuj Appium w 4 krokach i 11 tutorialach
-* http://software-testing-tutorials-automation.blogspot.com/2015/10/appium-tutorials.html
+* http://www.software-testing-tutorials-automation.com/2015/10/appium-tutorials.html
     * Spis ponad 40 krótkich tutoriali
 * http://executeautomation.com/blog/
     * Wpisy i nagrania wideo
-* http://software-testing-tutorials-automation.blogspot.com/2015/11/test-apps-to-use-in-appium-automation.html
+* http://www.software-testing-tutorials-automation.com/2015/11/test-apps-to-use-in-appium-automation.html
 * https://github.com/appium/sample-code/tree/master/sample-code/apps
     * Pliki apk, których można z powodzeniem użyć do nauki Appium
 
@@ -53,7 +57,8 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
     * Android & iOS automation using Appium : Getting started  
 * https://www.youtube.com/watch?v=cwZrKSGdvrA
     * Step-by-Step Appium Webinar: Building Scalable Appium Test Automation Infrastructure
-
+* https://www.youtube.com/watch?v=PtiXc9i4kiU
+    * Webinar - Automate your Appium tests like a pro
 
 ## Kursy wideo
 
