@@ -6,7 +6,7 @@
 ## Materiały różne
 
 * http://www.seleniumhq.org/projects/webdriver/
-  *
+  * Strona projektu
 
 ## Kursy
 
