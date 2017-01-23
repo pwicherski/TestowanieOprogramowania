@@ -23,7 +23,7 @@
 ## Pigułka Wiedzy
 
 * [Testowanie Mobilne](Materialy/TestowanieMobilne/TestowanieMobilne.md)
-* [Dane testowe](Materialy/Inne/DaneTestowe.md) 🏣
+* [Dane testowe](Materialy/Inne/DaneTestowe.md)
 
 
 ## Testowanie Mobilne
