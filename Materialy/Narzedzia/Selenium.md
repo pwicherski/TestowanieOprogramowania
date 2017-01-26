@@ -44,6 +44,9 @@
 
 * https://seleniumguidebook.com/
   * Oprócz książki, można też zakupić kursy wideo.
+  
+* http://mailcourse.seleniumbook.com/
+  * 7 tygodniowy kurs Selenium WebDriver w środowisku .NET.
 
 
 ## Blogi, wpisy, poradniki
