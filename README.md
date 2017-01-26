@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/Facebook-%23TestowanieOprogramowania-blue.svg)](https://www.facebook.com/groups/TestowanieOprogramowania/)
 
 
-# Testowanie Oprogramowania - Materiały
+# Testowanie oprogramowania - materiały
 
 🔰 Zbiór materiałów przydatnych dla testerów. PRy mile widziane 📖
 
@@ -20,22 +20,23 @@
 * [KIF](Materialy/Narzedzia/KIF.md)
 
 
-## Pigułka Wiedzy
+## Pigułka wiedzy
 
-* [Testowanie Mobilne](Materialy/TestowanieMobilne/TestowanieMobilne.md)
+* [Testowanie mobilne](Materialy/TestowanieMobilne/TestowanieMobilne.md)
 * [Dane testowe](Materialy/Inne/DaneTestowe.md)
 
 
-## Testowanie Mobilne
+## Testowanie mobilne
 
-* [Testowanie Mobilne - zbiór ogólny](Materialy/TestowanieMobilne/TestowanieMobilne.md)
-* [Testowanie Bezpieczeństwa - Android](Materialy/TestowanieMobilne/AndroidBezpieczenstwo.md) 🏣
-* [Testowanie Bezpieczeństwa - iOS](Materialy/TestowanieMobilne/iOSBezpieczenstwo.md) 🏣
+* [Testowanie mobilne - zbiór ogólny](Materialy/TestowanieMobilne/TestowanieMobilne.md)
+* [Testowanie bezpieczeństwa - Android](Materialy/TestowanieMobilne/AndroidBezpieczenstwo.md) 🏣
+* [Testowanie bezpieczeństwa - iOS](Materialy/TestowanieMobilne/iOSBezpieczenstwo.md) 🏣
 
 
 ## Inne
 
 * [Certyfikaty](Materialy/Inne/Certyfikaty.md)
+* [Społeczności testerskie](Materialy/Inne/SpolecznosciTesterskie.md)
 * Książki (PL) 🏣
 * Książki (EN) 🏣
 * Narzędzia testerskie (Spis) 🏣
@@ -43,8 +44,7 @@
 * Gry i zadania 🏣
 * Magazyny testerskie 🏣
 * Materiały z konferencji 🏣
-* [Polskie Blogi](Materialy/Inne/PolskieBlogi.md)
-* Pytania rekrutacyjne 🏣
+* [Polskie blogi testerskie](Materialy/Inne/PolskieBlogi.md)
 * [Praca zdalna](Materialy/Inne/PracaZdalna.md)
 * Przydatne zbiory RSS 🏣
 * [Zabawne](Pliki/Zabawne)
