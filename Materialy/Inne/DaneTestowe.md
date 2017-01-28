@@ -14,6 +14,9 @@ Dane, które istnieją (przykładowo w bazie danych) przed wykonaniem testu, i k
   * https://support.buckaroo.nl/index.php/EN/Test_data
   * https://stripe.com/docs/testing 
 
+* Ciągi znaków
+  * https://github.com/minimaxir/big-list-of-naughty-strings
+
 ## Generatory
 
 * Z lewej strony jest zbiór generatorów, IBAN, NIP< REGON, PESEL, Dowodu osobistego, GUID.
