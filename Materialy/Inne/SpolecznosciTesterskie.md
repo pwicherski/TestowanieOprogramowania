@@ -38,3 +38,7 @@ Społeczności testerskie mogą dostarczyć regularny impuls skłaniający do pr
   * Reddit
 * https://www.quora.com/topic/Software-Testing
   * Quora (+ related topics)
+* https://www.stickyminds.com/q-and-a
+  * StickyMinds Q&A
+* https://www.utest.com/forums
+  * uTest forum
