@@ -8,7 +8,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 # Lista blogów
 
 * http://testerzy.pl/
-   * Testerzy.pl | Radosław Smilgin
+   * Testerzy.pl
 * https://testujemy.mobi
    * Testowanie aplikacji mobilnych | Piotr Wicherski
 * https://testerblog.pl
