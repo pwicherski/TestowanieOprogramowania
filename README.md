@@ -20,12 +20,6 @@
 * [KIF](Materialy/Narzedzia/KIF.md)
 
 
-## Pigułka wiedzy
-
-* [Testowanie mobilne](Materialy/TestowanieMobilne/TestowanieMobilne.md)
-* [Dane testowe](Materialy/Inne/DaneTestowe.md)
-
-
 ## Testowanie mobilne
 
 * [Testowanie mobilne - zbiór ogólny](Materialy/TestowanieMobilne/TestowanieMobilne.md)
@@ -36,6 +30,7 @@
 ## Inne
 
 * [Certyfikaty](Materialy/Inne/Certyfikaty.md)
+* [Dane testowe](Materialy/Inne/DaneTestowe.md)
 * [Społeczności testerskie](Materialy/Inne/SpolecznosciTesterskie.md)
 * Książki (PL) 🏣
 * Książki (EN) 🏣
