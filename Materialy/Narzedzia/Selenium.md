@@ -102,3 +102,6 @@
 
 * https://www.amazon.com/Mastering-Selenium-WebDriver-Mark-Collin-ebook/dp/B010V8SIIQ/
   * Mastering Selenium WebDriver
+  
+* http://seleniumbook.com/
+  * End-to-end testing
