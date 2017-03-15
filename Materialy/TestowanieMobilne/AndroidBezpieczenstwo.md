@@ -22,7 +22,8 @@
    * AVC UnDroid
 * https://www.virustotal.com/en/
    * VirusTotal
-
+* http://judge.rednaga.io/
+   * Android malware scanner and app analyser
 
 ## Offline | Android skanery, inżynieria odwrotna itp. na plikach .apk
 
