@@ -7,18 +7,22 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 
 # Lista blogów
 
+* https://testujemy.mobi
+   * Testowanie oprogramowania i aplikacji mobilnych | Piotr Wicherski
 * http://testerzy.pl/
    * Testerzy.pl
-* https://testujemy.mobi
-   * Testowanie aplikacji mobilnych | Piotr Wicherski
-* https://testerblog.pl
-   * Różności o testowaniu | Piotr Wicherski
 * http://blog.testuj.pl/
    * Testuj.pl Blog
+* https://testerblog.pl
+   * Różności o testowaniu | Piotr Wicherski
 * http://blog.testowka.pl/
    * Wiktor Żołnowski
 * https://medium.com/@SimonKaz/
    * Szymon Kazmierczak | Automation Engineer
+* http://mzur.pl/
+   * Mateusz Żur
+* http://testerka.pl/
+   * Dorota Poręba-Połomska
 * http://testdetective.com/
    * Łukasz Rosłonek
 * http://awesome-testing.blogspot.com/
