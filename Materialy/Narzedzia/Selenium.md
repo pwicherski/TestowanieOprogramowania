@@ -82,6 +82,17 @@
 
 * http://adam.goucher.ca/parkcalc/
   * This "application" has some serious flaws, and has been the subject of lots of exploratory testing.
+  
+* http://executeautomation.com/demosite/index.html
+  * User form
+  
+* Http://Enterprise.Demo.Orangehrmlive.Com/
+  * Demo HR management site
+  
+* http://www.way2automation.com/demo.html
+  * Rózne elementy do przetestowania i zabawy
+
+
 
 ## Książki
 
