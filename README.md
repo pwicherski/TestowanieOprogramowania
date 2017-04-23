@@ -20,7 +20,7 @@
 
 ## Testowanie mobilne
 
-* [Testowanie mobilne - zbiór ogólny](Materialy/TestowanieMobilne/TestowanieMobilne.md)
+* [Testowanie aplikacji mobilnych - zbiór ogólny](Materialy/TestowanieMobilne/TestowanieMobilne.md)
 * [Testowanie mobilne - Książki](Materialy/TestowanieMobilne/Ksiazki.md)
 * [Testowanie bezpieczeństwa - Android](Materialy/TestowanieMobilne/AndroidBezpieczenstwo.md)
 
