@@ -1,10 +1,9 @@
 [![](https://img.shields.io/badge/Facebook-%23TestowanieOprogramowania-blue.svg)](https://www.facebook.com/groups/TestowanieOprogramowania/)
 
 
-# Testowanie oprogramowania - materiały
+adasdasdasdas
 
-🔰 Zbiór materiałów przydatnych dla testerów. PRy mile widziane 📖
-
+blah abl
 
 ## Narzędzia
 
