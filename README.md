@@ -1,9 +1,10 @@
 [![](https://img.shields.io/badge/Facebook-%23TestowanieOprogramowania-blue.svg)](https://www.facebook.com/groups/TestowanieOprogramowania/)
 
 
-adasdasdasdas
+# Testowanie oprogramowania - materiały
 
-blah abl
+🔰 Zbiór materiałów przydatnych dla testerów. PRy mile widziane 📖
+
 
 ## Narzędzia
 
@@ -19,7 +20,7 @@ blah abl
 
 ## Testowanie mobilne
 
-* [Testowanie aplikacji mobilnych - zbiór ogólny](Materialy/TestowanieMobilne/TestowanieMobilne.md)
+* [Testowanie mobilne - zbiór ogólny](Materialy/TestowanieMobilne/TestowanieMobilne.md)
 * [Testowanie mobilne - Książki](Materialy/TestowanieMobilne/Ksiazki.md)
 * [Testowanie bezpieczeństwa - Android](Materialy/TestowanieMobilne/AndroidBezpieczenstwo.md)
 
