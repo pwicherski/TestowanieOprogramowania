@@ -11,6 +11,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
    * Testowanie oprogramowania i aplikacji mobilnych | Piotr Wicherski
 * http://testerzy.pl/
    * Testerzy.pl
+* http://javagirl.pl/
+   * JavaGirl
 * http://blog.testuj.pl/
    * Testuj.pl Blog
 * https://testerblog.pl
