@@ -19,6 +19,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
    * Różności o testowaniu | Piotr Wicherski
 * http://blog.testowka.pl/
    * Wiktor Żołnowski
+* https://martamaracje.blogspot.com/
+   * Marta Zajac
 * https://medium.com/@SimonKaz/
    * Szymon Kazmierczak | Automation Engineer
 * http://mzur.pl/
