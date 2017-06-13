@@ -20,6 +20,8 @@ Społeczności testerskie mogą dostarczyć regularny impuls skłaniający do pr
   * Wykop
 * http://www.goldenline.pl/grupy/Komputery_Internet/software-quality-assurance/
   * Goldenline Polska
+* https://www.facebook.com/groups/girlswhotest/
+  * Girls Who Test community (treści po polsku)
 
 ## Lista społeczności testerskich [EN]
 
