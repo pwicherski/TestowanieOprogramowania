@@ -10,7 +10,7 @@
 
 * http://apps.testinsane.com/mindmaps/
 
-* http://www.ministryoftesting.com/resources/mindmaps/
+* https://www.ministryoftesting.com/tag/mindmap/
 
 * https://www.pinterest.com/rosiesherry/testing-mindmaps/
 
