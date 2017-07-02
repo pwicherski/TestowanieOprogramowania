@@ -10,13 +10,23 @@ Często najbardziej pomocne w rozwiązywaniu problemów i poznawaniu nowych tema
 * Zakładanie wielu kont (przykładowo Gmail)
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1043251712364073/
 
-* Rozmowy rekrutacyjne / Przeprowadzanie rozmów rekrutacyjnych
+* Rozmowy rekrutacyjne / Przeprowadzanie rozmów rekrutacyjnych / CV
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1077770498912194/
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1021871111168800/
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1042626019093309/
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1105074382848472/
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1296258673730041/
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1346915191997722/
+  * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1452903078065599/
+  * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1452377648118142/
+  * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1469995643023009/
+  * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1465572033465370/
+
+* Narzędzia do zarządzania przypadkami testowymi
+  * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/878880168801229/
+  * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/973734775982434/
+  * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1004672692888642/
+  * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1403612839661290/
 
 * Jak organizować testy w CMSie w którym mamy operację dodaj/zmodyfikuj/usuń na różnych rodzajach obiektów.
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1069258766430034/
