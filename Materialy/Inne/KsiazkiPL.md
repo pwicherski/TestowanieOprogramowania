@@ -50,3 +50,6 @@ Druga zawiera pozycje, które mogą przydać się testerom.
    * Wiszniewski Bogdan, Bereza-Jarociński Bogdan
 
 # Dodatkowe
+
+* Interaktywna lista z aktualnymi cenami
+   * https://testujemy.mobi/ksiazki-o-testowaniu-oprogramowania-po-polsku/
