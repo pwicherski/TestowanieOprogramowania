@@ -47,6 +47,8 @@
    * Otwarte, względnie aktualne repozytorium danych pewnej firmy
 * http://gs.statcounter.com/#mobile+tablet-resolution-ww-monthly-201603-201605-bar
    * StatCounter Mobile
+* http://ranking.pl/pl/rankings/screen-resolutions.html
+   * Dane od Gemius
 
 ## Emulatory
 
