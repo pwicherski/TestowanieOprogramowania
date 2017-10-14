@@ -107,7 +107,7 @@
 ## Blogi
 Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informacje na temat testowania mobilnego.
 
-* http://testujemy.mobi
+* https://testujemy.mobi
    * Testowanie Aplikacji Mobilnych | Piotr Wicherski
 * http://adventuresinqa.com/
    * Adventures in QA | Daniel Knott
