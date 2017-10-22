@@ -7,6 +7,7 @@
 ## Książki
 Większość z wymienionych tutaj pozycji jest bardzo podstawowa jak też przekazywana wiedza graniczy z poziomem, który warto polecić.
 Wymienione pozycje zostały zebrane wyłącznie w celu umożliwienia zapoznania się z tymi pozycjami.
+
 Pozycje polecane są wyróżnione 📖
 
 Większość z wymienionych pozycji jest dostępna do przeczytania w ramach darmowego 10-dniowego planu na O'Reilly Safari Books Online
@@ -44,8 +45,6 @@ https://www.safaribooksonline.com/
    * Appium Essentials
 * https://www.packtpub.com/application-development/mobile-application-penetration-testing
    * Mobile Application Penetration Testing
-* https://www.packtpub.com/web-development/instant-adobe-edge-inspect-starter-instant
-   * Instant Adobe Edge Inspect Starter
 * https://www.packtpub.com/application-development/robotium-automated-testing-android
    * Robotium Automated Testing for Android
 * https://www.packtpub.com/hardware-and-creative/mobile-device-exploitation-cookbook
@@ -56,6 +55,8 @@ https://www.safaribooksonline.com/
 ----
 Częściowo:
 
+* https://www.amazon.com/dp/0692885994/
+   * "The Digital Quality Handbook: Guide for Achieving Continuous Quality in a DevOps Reality" 📖
 * https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices
    * "Learning Pentesting for Android Devices"
 * http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111860864X.html
