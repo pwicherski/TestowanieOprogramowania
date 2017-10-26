@@ -60,7 +60,7 @@
 * https://docs.saucelabs.com/reference/platforms-configurator/#/
   * (Sauce Labs) Automated Test Configurator
 
-## Strony na któych można trenować
+## Strony na których można trenować
 
 * http://the-internet.herokuapp.com/
   * Herokuapp. The internet.
