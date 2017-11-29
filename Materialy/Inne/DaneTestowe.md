@@ -8,7 +8,7 @@ Dane, które istnieją (przykładowo w bazie danych) przed wykonaniem testu, i k
 ## Zbiory
 
 * Facebook Test Users for Apps
- * https://developers.facebook.com/docs/apps/test-users?hc_location=ufi
+  * https://developers.facebook.com/docs/apps/test-users?hc_location=ufi
 
 * Karty płatnicze
   * https://support.buckaroo.nl/index.php/EN/Test_data
