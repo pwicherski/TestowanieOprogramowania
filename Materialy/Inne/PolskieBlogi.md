@@ -49,5 +49,9 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
    * Michał Ślęzak
 * http://termometr.blogspot.com/
    * Tomasz Zdanowicz
+* http://browserspot.com
+   * Wojciech Piętka
+* https://automatingguy.com/
+   * Michał Krzyżanowski
 * http://web.archive.org/web/20160309122123/http://blog.alvarus.org/
    * Wersja archiwalna bloga | Łukasz Jasiński
