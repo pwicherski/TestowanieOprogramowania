@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/Facebook-%23TestowanieOprogramowania-blue.svg)](https://www.facebook.com/groups/TestowanieOprogramowania/)
 
-Materiały przygotowywane pod dedykowaną darmową książkę, zapraszam:
-[Testowanie Oprogramowania - początek](https://goo.gl/ToQYJT).
+Materiały przygotowywane pod darmową książkę dla początkujących:
+[Testowanie Oprogramowania - początek](https://goo.gl/ToQYJT)
 
 # Testowanie oprogramowania - materiały
 
