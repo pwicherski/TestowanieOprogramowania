@@ -26,6 +26,9 @@ Materiały przygotowywane pod darmową książkę dla początkujących:
 * [Testowanie mobilne - Książki](Materialy/TestowanieMobilne/Ksiazki.md)
 * [Testowanie bezpieczeństwa - Android](Materialy/TestowanieMobilne/AndroidBezpieczenstwo.md)
 
+## Testowanie baz danych
+
+* [Testowanie baz danych - narzędzia](Materialy/TestowanieBazDanych/TestowanieBazDanychNarzedzia.md)
 
 ## Inne
 
