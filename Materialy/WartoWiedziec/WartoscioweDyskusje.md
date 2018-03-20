@@ -27,6 +27,7 @@ Często najbardziej pomocne w rozwiązywaniu problemów i poznawaniu nowych tema
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/973734775982434/
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1004672692888642/
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1403612839661290/
+  * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1710074912348413/
 
 * Jak organizować testy w CMSie w którym mamy operację dodaj/zmodyfikuj/usuń na różnych rodzajach obiektów.
   * https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1069258766430034/
