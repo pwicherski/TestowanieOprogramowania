@@ -42,6 +42,10 @@ The Apache JMeter™ application is open source software, a 100% pure Java appli
 
 * http://info.blazemeter.com/jmeter-training-course
    * 5 dniowy kurs poprzez email
+* https://www.blazemeter.com/jmeter-tutorial
+   * Introduction to JMeter (6-8 godzin)
+   * Advanced JMeter (6-8 godzin)
+   * Continous Testing Testing (6-8 godzin)
 
 
 ## Kursy płatne
