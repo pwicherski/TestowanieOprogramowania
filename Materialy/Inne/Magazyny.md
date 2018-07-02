@@ -7,7 +7,7 @@ Druga zawiera pozycje, które mogą przydać się testerom.
 
 ## Polskie
 
-* http://quale.pl/pl/
+* http://sjsi.org/quale/pobierz-magazyn/
    * Quale
 
 * http://pl.coremag.eu/
