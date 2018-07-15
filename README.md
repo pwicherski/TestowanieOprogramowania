@@ -46,3 +46,7 @@ Autor: [Piotr Wicherski](https://www.linkedin.com/in/pwicherski)
 [https://www.linkedin.com/in/pwicherski](https://www.linkedin.com/in/pwicherski)  
 Prawa autorskie: [CC BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+{% hint style="success" %}
+[https://pwicherski.gitbook.io/testowanie-oprogramowania/](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+{% endhint %}
+
