@@ -20,7 +20,7 @@ Chcę wskazać przykładowe kroki i materiały, które \(jeśli tylko zechcesz\)
 
 Wybrane materiały nie wyczerpują tematu, należy je raczej potraktować jako wskazówę do dalszego rozwoju.
 
-**"Jak czytać tę książkę"** pokazuje, w jaki sposób wygodniej korzystać z dokumentu.
+**"Jak czytać tę książkę"** pokazuje, w jaki sposób wygodniej korzystać z książki.
 
 {% page-ref page="jak-czytac-te-ksiazke/" %}
 
@@ -29,6 +29,8 @@ Wybrane materiały nie wyczerpują tematu, należy je raczej potraktować jako w
 {% page-ref page="faq.md" %}
 
 **"Rozwój materiałów**" zawiera instrukcje, w jaki sposób można pomóc w rozwoju tego dokumentu.
+
+{% page-ref page="rozwoj-materialow.md" %}
 
 Chciałbym żebyś drogi Czytelniku tego dokumentu pamiętał o kilku bardzo ważnych kwestiach:
 
