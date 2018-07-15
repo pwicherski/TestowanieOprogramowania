@@ -2,7 +2,9 @@
 
 ### Poprzez GitHub
 
+![](.gitbook/assets/editodgithub.PNG)
 
+Zapraszam do wysyłania pull requestów ze zmianami do repozytorium, które po zaakceptowaniu zostaną zsynchronizowane z obecną wersją książki.
 
 ### Poprzez Google Forms
 
