@@ -47,7 +47,7 @@ Betabound jest darmowym projektem, który ma na celu darmowe wspieranie oprogram
 
 Strona projektu: [https://www.freecodecamp.com/](https://www.freecodecamp.com/)
 
-Dzięki FreeCodeCamp mamy możliwość pomagania w rozwoju projektów nonprofit w trakcie nauki procesu wytwarzania oprogramowania.
+Dzięki FreeCodeCamp mamy możliwość pomagania w rozwoju projektów non profit w trakcie nauki procesu wytwarzania oprogramowania.
 
 Pomimo tego, że projekt jest nakierowany na programistów, to techniczni testerzy także mogą dzięki niemu zdobyć sporą dawkę wiedzy.
 

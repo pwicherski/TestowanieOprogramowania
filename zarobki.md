@@ -26,8 +26,8 @@
 
 * ["Zarobki" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765794140109823&ref=manage_page) 🏤🌞
 * [Na jakie zarobki mogę liczyć na początek w Warszawie ? A ile po 1-2 roku pracy?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1309418115747430/?match=emFyb2JraQ%3D%3D) 🌞
-* [Na ilę mogę się wycenić? 2 lata doświadczenia w testach, automatyk, Warszawa](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1205366086152634/?match=emFyb2JraQ%3D%3D) 🌞
-* [Jak klasują się zarobki testera automatycznego w porównaniu do front-end-developera](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1202685009754075/?match=emFyb2JraQ%3D%3D) 🌞
+* [Na ile mogę się wycenić? 2 lata doświadczenia w testach, automatyk, Warszawa](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1205366086152634/?match=emFyb2JraQ%3D%3D) 🌞
+* [Jak plasują się zarobki testera automatycznego w porównaniu do front-end-developera](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1202685009754075/?match=emFyb2JraQ%3D%3D) 🌞
 * [Jakie powinny być realne zarobki testera głównie manualnego z 'dodatkiem' pisania testów automatycznych](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1141912895831287/?match=emFyb2JraQ%3D%3D) 🌞
 * [Zarobki doświadczonego zdalnego testera manualnego w jakich widełkach się poruszają?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1134230916599485/?match=emFyb2JraQ%3D%3D) 🌞
 * [Dyskusja na temat raportu płacowego Hays 2017](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1292137867475455/?match=aGF5cw%3D%3D) 🌞

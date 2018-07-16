@@ -22,13 +22,13 @@ Od części "Nauka" rozpocząłem przedstawianie materiałów, które mogą pom�
 
 ### Nie maluj trawy na zielono.
 
-Nawet jeżeli na prawdę nie masz co wpisać do swojego CV, ponieważ przez ostatnie 5 lat nie nauczyłeś się niczego co można uznać za przydatne, nie maluj trawy na zielono. W momencie kiedy nie będziesz w stanie odpowiedzieć na pytanie czym są testy funkcjonalne, pomimo wpisania tego jako jeden z punktów Twojej wieloletniej kariery, spalisz potencjalnie całą rozmowę.
+Nawet jeżeli na prawdę nie masz co wpisać do swojego CV, ponieważ przez ostatnie 5 lat nie nauczyłeś się niczego co można uznać za przydatne, nie maluj trawy na zielono. W momencie kiedy nie będziesz w stanie odpowiedzieć na pytanie czym są testy funkcjonalne, pomimo wpisania tego jako jeden z punktów swojej wieloletniej kariery, spalisz potencjalnie całą rozmowę.
 
 Moją propozycją byłoby opisanie własnego doświadczenia. Własnymi słowami.
 
 ### Nie wpisuj buzzwordów.
 
-Zwłaszcza jeżeli tak na prawdę nie masz z nimi doczynienia. Nie wspominając o nieznajomości ich definicji.
+Zwłaszcza jeżeli tak na prawdę nie masz z nimi do czynienia. Nie wspominając o nieznajomości ich definicji.
 
 ### Przemyśl kilka ważnych tematów przed rozmową.
 
@@ -44,7 +44,7 @@ Uważasz, że certyfikacja ISTQB jest bez sensu, jednak znajomość podstaw syla
 
 W tym ma też odrobinę pomóc ten dokument. Nie wiem jak Ty, ja uwielbiam pracować z ludźmi, którzy lubią to co robią i interesują się tym. Spróbuj nie traktować testowania jako pracy "9 to 5".
 
-Jest mnóstwo materiałów, które możesz czytać, słuchać i oglądać przy okazji których zwiększych swoją wiedzę i świadomość. Więcej w rozdziale: Motywacja.
+Jest mnóstwo materiałów, które możesz czytać, słuchać i oglądać przy okazji których zwiększ swoją wiedzę i świadomość.
 
 ### Szukasz pracy, nie możesz jej znaleźć pomimo tego, że podobno jest to łatwe?
 
@@ -61,7 +61,7 @@ Koniecznie zapoznaj się z tym artykułem: [10 powodów, dla których adepci tes
 ### \*\*\*\*![](../.gitbook/assets/icons8-facebook-50%20%281%29.png) **Dyskusje**
 
 * [Doświadczenia i przemyślenia jednego z użytkowników odnośnie przygotowywania CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1452377648118142/)
-* [Doświadczenia i przemyślenia jednej z użytkownikowniczek odnośnie przygotowywania CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1469995643023009/)
+* [Doświadczenia i przemyślenia jednej z użytkowniczek odnośnie przygotowywania CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1469995643023009/)
 * [Dyskusja na temat wyglądu CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1465572033465370/)
 * [Jak się ma liczba przesłanych CV na testera do liczby uczestników szkoleń na testerów](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1452903078065599/)
 * [Przykładowe CV poddane ocenie](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1465572033465370/)

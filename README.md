@@ -18,7 +18,7 @@ W tym dokumencie nie będę Cię, drogi Czytelniku, uczył.
 
 Chcę wskazać przykładowe kroki i materiały, które \(jeśli tylko zechcesz\) będziesz mógł wykorzystać na drodze wiodącej ku byciu lepszym testerem.
 
-Wybrane materiały nie wyczerpują tematu, należy je raczej potraktować jako wskazówę do dalszego rozwoju.
+Wybrane materiały nie wyczerpują tematu, należy je raczej potraktować jako wskazówkę do dalszego rozwoju.
 
 **"Jak czytać tę książkę"** pokazuje, w jaki sposób wygodniej korzystać z książki.
 

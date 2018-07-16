@@ -14,7 +14,7 @@ Lub testera obdarzonego 4 letnim doświadczeniem, który nie wie, że istnieją 
 
 Nie odnoszę się tutaj do sytuacji takich jak niemożność przypomnienia sobie adresu konkretnego bloga czy tytułu książki. Odnoszę się do sytuacji w których ktoś faktycznie nie zna żadnej książki, ponieważ żadnej nie przeczytał. I sytuacji w której ktoś tak naprawdę nie śledzi żadnych blogów \(czyta blogi a jednak nie potrafi przypomnieć sobie ani adresu, ani nazwy, ani autora czy niestety treści ani jednego wpisu czy bloga - to może sugerować, że jednak nie do końca czytuje\), tylko chce polepszyć własny wizerunek w czyichś oczach. Na przykład podczas rozmowy rekrutacyjnej.
 
-Są to autentyczne rozmowy, które odbyłem w trakcie rozmów rekrutacyjnych, na meetupach, konferencjach, przy kawie i przy wielu innych okazjach. Są uproszczone, odnoszą się do conajmniej kilkudziesięciu sytuacji.  
+Są to autentyczne rozmowy, które odbyłem w trakcie rozmów rekrutacyjnych, na meetupach, konferencjach, przy kawie i przy wielu innych okazjach. Są uproszczone, odnoszą się do co najmniej kilkudziesięciu sytuacji.  
 Czy mam przez to negatywne zdanie o kimkolwiek z kim odbyłem taką rozmowę? W żadnym wypadku!  
 To nie świadczy o nich źle. To pokazuje jak wiele mogą jeszcze się nauczyć, jak wiele mogą odkryć, na ile tematów mogą wyrobić sobie opinię dzięki przyjemnej czynność, którą można potraktować jako formę odpoczynku.
 
@@ -25,7 +25,7 @@ To, co do tej pory napisałem może brzmieć negatywnie, marudząco wręcz. Chci
 Dajcie szanse jakiejś książce.  
 Są promocje, ebooki lub używane egzemplarze. Nie będzie to kosztowało wiele.
 
-Dla osób zainteresowanych \(zapewne cząstkowa\) lista pozycji o które można wzbogacić swoje biurko lub półkę szukając kołysanki do poduszki. Kolejność książęk jest przypadkowa a wymieniona lista składa się po prostu z większości pozycji w których jestem posiadaniu, więc wiem, że są możliwe do zdobycia.
+Dla osób zainteresowanych \(zapewne cząstkowa\) lista pozycji o które można wzbogacić swoje biurko lub półkę szukając kołysanki do poduszki. Kolejność książek jest przypadkowa a wymieniona lista składa się po prostu z większości pozycji w których jestem posiadaniu, więc wiem, że są możliwe do zdobycia.
 
 Dla ułatwienia pod częścią książek znajduje się link z wynikami wyszukiwania najtańszych cen z większości portali \(w tym oczywiście strony producentów, TaniaKsiazka, EbookPoint, Allegro, Ceneo itd.\).
 

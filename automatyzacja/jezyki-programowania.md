@@ -1,8 +1,8 @@
 # Języki programowania
 
-Nie istnieje jeden najlepszy język programowania, od którego powinno sie zacząć naukę. Chociaż niektórzy twierdzą, że jest nim angielski. Aktualnie istnieje jednak sporo materiałów dostępnych w naszym jęzku, dzięki którym można bez problemu zacząć naukę.
+Nie istnieje jeden najlepszy język programowania, od którego powinno się zacząć naukę. Chociaż niektórzy twierdzą, że jest nim angielski. Aktualnie istnieje jednak sporo materiałów dostępnych w naszym języku, dzięki którym można bez problemu zacząć naukę.
 
-Pamiętaj proszę, że wybór języka, od którego rozpoczniesz swoją naukę wcale nie jest aż tak ważny. Zdecydowana wiekszość testerów i programistów pracuje z więcej niż jednym językiem.
+Pamiętaj proszę, że wybór języka, od którego rozpoczniesz swoją naukę wcale nie jest aż tak ważny. Zdecydowana większość testerów i programistów pracuje z więcej niż jednym językiem.
 
 ![](../.gitbook/assets/which-programming-language-should-i-learn-first-infographic.png)
 
@@ -23,4 +23,7 @@ Na początku najważniejsze jest zrozumienie podstaw programowania, na przykład
 
 ### ![](../.gitbook/assets/icons8-facebook-50%20%287%29.png) Dyskusje
 
-* 
+* [Jaki język dla web i mobile?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1139129899442920/)
+* [Na jaki język jest największy popyt?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1411316595557581/)
+* [Python czy Java dla QA?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1704663669556204/)
+

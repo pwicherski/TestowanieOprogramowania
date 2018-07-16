@@ -8,7 +8,7 @@
 
 ![](https://pwicherski.gitbooks.io/testowanieoprogramowania/assets/nope_logo1.gif)
 
-Przypuszczam, że wątpie.
+Przypuszczam, że wątpię.
 
 Kilka opinii z którymi warto się zapoznać, więcej zamieściłem jak zwykle w części 📚 Materiały.
 

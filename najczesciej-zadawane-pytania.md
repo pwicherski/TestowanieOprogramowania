@@ -1,6 +1,10 @@
 # Najczęściej zadawane pytania
 
-## Jak w ogóle zacząć naukę, jakie materiały polecacie na początekCzy nadaję się na testera
+## Jak w ogóle zacząć naukę, jakie materiały polecacie na początek
+
+{% page-ref page="od-czego-zaczac/" %}
+
+## Czy nadaję się na testera
 
 {% page-ref page="od-czego-zaczac/" %}
 

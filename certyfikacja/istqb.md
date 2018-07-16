@@ -38,7 +38,7 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 * ["ISTQB" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765191683503402&ref=story_subtitle) 🏤🌞
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat ISTQB.
 * [Przykładowe pytania ISTQB](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1241196819236227/)
-* [Często czytałam opinie, ze na egzaminie ISTQB pytania sa z kosmosu.](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1241196819236227/)
+* [Często czytałam opinie, że na egzaminie ISTQB pytania są z kosmosu.](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1241196819236227/)
 * [Czy te certyfikaty ISTQB Advanced jakoś specjalnie przełożyły się na waszą pracę zawodową?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1108713379151239/)
 
 

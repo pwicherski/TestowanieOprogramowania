@@ -6,7 +6,7 @@ Przed zdecydowaniem się na rozpoczęcie swojej przygody z testowaniem, warto za
 
 Warto pamiętać o tym, że od paru już lat panuje coraz większe zainteresowanie pracą na rynku IT. Przełożyło się to na ogromną popularność wszelkiego rodzaju szkoleń, kursów czy bootcampów.
 
-Nie jednokrotnie można znaleźć artykuły traktujące o tym, że w świecie IT jest ogromne zapotrzebowanie na przykład na programistów. Na grupach facebookowych z ogłoszeniami o pracę można też zaobserwować, że wiele firm szuka specjalistów od testowania niejednokrotnie 2 lata i dłużej, nie potrafiąc zapełnić wakatu.
+Niejednokrotnie można znaleźć artykuły traktujące o tym, że w świecie IT jest ogromne zapotrzebowanie na przykład na programistów. Na grupach facebookowych z ogłoszeniami o pracę można też zaobserwować, że wiele firm szuka specjalistów od testowania niejednokrotnie 2 lata i dłużej, nie potrafiąc zapełnić wakatu.
 
 {% hint style="info" %}
 Szkopuł tkwi w tym, że zapotrzebowanie jest przede wszystkim na specjalistów

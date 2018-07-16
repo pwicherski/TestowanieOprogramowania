@@ -26,7 +26,7 @@ Nie ma jednego prostego sposobu na osiągnięcie upragnionej umiejętności auto
 
 Taka umiejętność automatyzacji nie przyniesie Ci \(najprawdopodobniej\) worków złota z kont bankowych potencjalnego pracodawcy.
 
-Jeżeli chcesz zacząć nauke automatyzacji, polecam Plan Nauki - Automatyzacja:
+Jeżeli chcesz zacząć naukę automatyzacji, polecam Plan Nauki - Automatyzacja:
 
 {% page-ref page="nauka-automatyzacji.md" %}
 

@@ -30,7 +30,7 @@
   * Python
 * Dodane gry i zadania
 * Zaktualizowana lista polskich blogerów
-* Dodana lista angielsko języcznych blogerów
+* Dodana lista angielskojęzycznych blogerów
 * Dodana lista polskich testerów do śledzenia na twitterze
 * Dodana lista testerów do śledzenia na twitterze
 * I wiele, wiele innych.
