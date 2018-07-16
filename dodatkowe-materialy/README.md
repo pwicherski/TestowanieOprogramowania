@@ -1,4 +1,4 @@
-# Dodatkowe materiały
+# Gdzie szukać wiedzy
 
 ## 📚 Materiały
 
