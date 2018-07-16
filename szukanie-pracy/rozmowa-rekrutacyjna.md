@@ -4,9 +4,8 @@
 
 ### 📚 Materiały
 
-* [Jak szukać pracy](https://pwicherski.gitbooks.io/testowanieoprogramowania/content/szukanie-pracy.html) 🌞 🏤
-* [Historie zostania testerem](https://pwicherski.gitbooks.io/testowanieoprogramowania/content/motywacja.html) 🌞 🏤
 * [How I interview testers](https://www.linkedin.com/pulse/how-i-interview-testers-dan-ashby) 
+* [Kilka porad rekrutacyjnych](https://arturzwolinski.gitbooks.io/software-tester-interview/content/)
 
 ### \*\*\*\*![](../.gitbook/assets/icons8-facebook-50%20%288%29.png) **Dyskusje**
 

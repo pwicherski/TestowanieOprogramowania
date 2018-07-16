@@ -1,7 +1,3 @@
----
-description: International Software Testing Qualifications Board
----
-
 # ISTQB
 
 ### **Certyfikat ISTQB**

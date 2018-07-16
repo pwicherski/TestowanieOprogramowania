@@ -1,7 +1,3 @@
----
-description: Gdzie uczyć programowania online
----
-
 # Platformy do nauki programowania
 
 ### 📚 Materiały

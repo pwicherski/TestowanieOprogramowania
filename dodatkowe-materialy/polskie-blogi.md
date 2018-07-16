@@ -1,7 +1,3 @@
----
-description: Blogi o testowaniu
----
-
 # Polskie blogi
 
 Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej część wpisów zamieszczaną przez polaków.

@@ -1,12 +1,6 @@
----
-description: >-
-  Dziennik większych zmian prowadzony od dnia wejścia na nową wersję platformy
-  gitbook.io
----
-
 # Dziennik zmian
 
-### 1.0.0 - 2018-07-15
+### 1.0.0 - 2018-07-16
 
 #### Poprawki
 
@@ -22,6 +16,7 @@ description: >-
 * Dodany rozdział "Zarobki"
 * Nowe raporty płacowe
 * Ponad 60 nowych certyfikatów
+* Gdzie szukać stażu i pierwszej pracy
 * Dodane plany naki
 * Dodane materiały:
   * Selenium

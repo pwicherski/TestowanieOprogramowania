@@ -1,7 +1,3 @@
----
-description: Nauka programowania dla testerów
----
-
 # Nauka programowania
 
 

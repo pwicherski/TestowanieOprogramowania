@@ -109,5 +109,9 @@
 29. Jak w systemie unixowym wyświetlić zawartość folderu?
 30. Jak w systemie unixowym wyświetlić na ekranie zawartość pliku?
 
+{% hint style="info" %}
+Źródło części pytań: [https://arturzwolinski.gitbooks.io/software-tester-interview/content/](https://arturzwolinski.gitbooks.io/software-tester-interview/content/)
+{% endhint %}
+
 
 

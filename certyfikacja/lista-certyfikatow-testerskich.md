@@ -1,7 +1,3 @@
----
-description: Lista certyfikatów przydatnych dla testera. Kolejność losowa.
----
-
 # Lista certyfikatów testerskich
 
 ###  [\(ISTQB\) International Software Testing Qualifications Board](https://www.istqb.org/certification-path-root.html)

@@ -1,7 +1,3 @@
----
-description: Jak zostałem testerem. Historia M.
----
-
 # Historia JZT 1
 
 ### **Czy są tutaj chętni do pracy w testowaniu oprogramowania?** {#czy-są-tutaj-chętni-do-pracy-w-testowaniu-oprogramowania}

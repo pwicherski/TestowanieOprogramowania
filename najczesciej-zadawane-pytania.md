@@ -1,9 +1,3 @@
----
-description: >-
-  Ten dokument ma być zbiorem odpowiedzi na najczęściej zadawane pytania przez
-  początkujących testerów.
----
-
 # Najczęściej zadawane pytania
 
 ## Jak w ogóle zacząć naukę, jakie materiały polecacie na początekCzy nadaję się na testera
@@ -70,7 +64,7 @@ description: >-
 
 ## Jakiego języka programowania nauczyć się najpierw
 
-{% page-ref page="automatyzacja/untitled-1/" %}
+{% page-ref page="automatyzacja/nauka-programowania/" %}
 
 ## Studia podyplomowe z testowania oprogramowania, czy to się opłaca
 

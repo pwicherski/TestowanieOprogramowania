@@ -1,7 +1,3 @@
----
-description: Piotr Wicherski - Testowanie Oprogramowania
----
-
 # Autor
 
 ### Piotr Wicherski

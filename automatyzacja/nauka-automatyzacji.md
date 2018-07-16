@@ -28,7 +28,7 @@ Taka umiejętność automatyzacji nie przyniesie Ci \(najprawdopodobniej\) work�
 
 Jeżeli chcesz zacząć nauke automatyzacji, polecam Plan Nauki - Automatyzacja:
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="nauka-automatyzacji.md" %}
 
 ### 📚 Materiały
 

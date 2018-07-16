@@ -1,5 +1,21 @@
 # Pierwsze doświadczenie
 
+### Jak zdobyć pierwsze doświadczenie
+
+Są trzy najprostsze sposoby zdobycia pierwszego doświadczenia:
+
+#### Praktyczne w swojej pierwszej pracy lub stażu
+
+{% page-ref page="../szukanie-pracy/" %}
+
+{% page-ref page="../szukanie-pracy/szukanie-stazu.md" %}
+
+#### Teoretyczne
+
+{% page-ref page="../automatyzacja/strony-do-trenowania.md" %}
+
+#### Praktyczne zdalne przedstawione poniżej w formie pracy lub wolontariatu połączonego z nauką przedstawione poniżej. 
+
 ### Crowdsourced testing
 
 {% page-ref page="../praca-zdalna.md" %}

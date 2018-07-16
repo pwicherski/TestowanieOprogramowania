@@ -56,6 +56,7 @@ Koniecznie zapoznaj się z tym artykułem: [10 powodów, dla których adepci tes
 * [Webinarium: "Przetestuj swoje CV!" \| Jakub Rosiński](https://www.youtube.com/watch?v=1lloUWO8Vzc) 📺🌞
   * [Slajdy z prezentacji Jakuba](http://www.slideshare.net/JakubRosiski1/przetestuj-swoje-cv) 🌞
 * [Kurs - Jak sprawić by to rekruterzy się do Ciebie odezwali](https://www.linkedin.com/learning/j-t-o-donnell-on-making-recruiters-come-to-you/welcome) 📺
+* [E-book przygotowanie do rekrutacji](https://jakzostactesterem.pl/bezplatny-ebook-pdf-mlodszy-tester-oprogramowania-przygotowanie-do-rekrutacji/)
 
 ### \*\*\*\*![](../.gitbook/assets/icons8-facebook-50%20%281%29.png) **Dyskusje**
 

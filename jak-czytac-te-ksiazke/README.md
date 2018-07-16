@@ -12,7 +12,7 @@ Mogą też zawierać dodatkowe źródła informacji.
 Zawiera spis dyskusji, które mogą być przydatne przy lepszym zrozumieniu tematu.  
 Mogą też zawierać dodatkowe źródła informacji.
 
-### Ikony oznaczeń
+### Ikony oznaczeń materiałów
 
 🌞 - Materiał w języku polskim.
 

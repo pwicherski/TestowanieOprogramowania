@@ -26,7 +26,7 @@ Wybrane materiały nie wyczerpują tematu, należy je raczej potraktować jako w
 
 **"Najczęściej zadawane pytania"** zawiera przykładowe pytania, na które odpowiedzi znalazły się w tym dokumencie. Każde pytanie odnosi bezpośrednio do materiałów, w których znajduje się odpowiedź lub rozwinięcie tematu.
 
-{% page-ref page="faq.md" %}
+{% page-ref page="najczesciej-zadawane-pytania.md" %}
 
 **"Rozwój materiałów**" zawiera instrukcje, w jaki sposób można pomóc w rozwoju tego dokumentu.
 
@@ -47,3 +47,4 @@ Autor: [Piotr Wicherski](https://www.linkedin.com/in/pwicherski)
 
 [https://www.linkedin.com/in/pwicherski](https://www.linkedin.com/in/pwicherski)  
 Prawa autorskie: [CC BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+

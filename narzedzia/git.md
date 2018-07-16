@@ -1,7 +1,3 @@
----
-description: GIT system kontroli wersji
----
-
 # GIT
 
 ### Materiały od autorów
