@@ -4,7 +4,13 @@
 
 ![](.gitbook/assets/editodgithub.PNG)
 
-Zapraszam do wysyłania pull requestów ze zmianami do repozytorium, które po zaakceptowaniu zostaną zsynchronizowane z obecną wersją książki.
+Zapraszam do wysyłania pull requestów ze zmianami do repozytorium, które po przeglądzie i zaakceptowaniu zostaną następnie zsynchronizowane z obecną wersją książki.
+
+{% embed data="{\"url\":\"https://github.com/pwicherski/TestowanieOprogramowania\",\"type\":\"link\",\"title\":\"pwicherski/TestowanieOprogramowania\",\"description\":\"TestowanieOprogramowania - Książka dla początkujących\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars2.githubusercontent.com/u/6884051?s=400&v=4\",\"width\":215,\"height\":215,\"aspectRatio\":1}}" %}
+
+Wszelkie błędy i sugestie także można zgłaszać poprzez zakładkę [Issues](https://github.com/pwicherski/TestowanieOprogramowania/issues)**.**
+
+![](.gitbook/assets/screen-shot-2018-07-16-at-17.23.59.png)
 
 ### Poprzez Google Forms
 
