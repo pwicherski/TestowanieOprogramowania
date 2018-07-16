@@ -72,7 +72,7 @@
 
 ## Na jakich stronach mogę potrenować testowanie lub automatyzację
 
-{% page-ref page="automatyzacja/strony-do-trenowania.md" %}
+{% page-ref page="automatyzacja/gdzie-trenowac.md" %}
 
 
 
