@@ -19,6 +19,7 @@
 * [Zarobki](zarobki.md)
 * [Kursy online](kursy-online.md)
 * [Studia z testowania](studia-z-testowania.md)
+* [1](1.md)
 * [Automatyzacja](automatyzacja/README.md)
   * [Nauka automatyzacji](automatyzacja/nauka-automatyzacji.md)
   * [Nauka programowania](automatyzacja/nauka-programowania/README.md)
