@@ -27,7 +27,7 @@ Więcej materiałów znajduje się w poszczególnych rozdziałach i w przygotowa
 ### Pierwsza praca jako tester
 
 Wiesz jak wygląda praca testera?  
-Z czym będziesz musiał się mierzyć każdego dnia?
+Z czym będziesz musiał mierzyć się każdego dnia?
 
 Podejmując się swojej pierwszej pracy jako tester można zostać przytłoczonym brakiem obeznania w danym temacie, przez co nie wiadomo nawet o co zapytać i od czego zacząć.
 
