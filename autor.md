@@ -6,7 +6,7 @@ Starszy inżynier testów oprogramowania w Allegro.pl. Certyfikowany tester opro
 
 ### LinkedIn:
 
-[https://www.linkedin.com/in/pwicherski/](https://www.linkedin.com/in/pwicherski/)
+[https://www.linkedin.com/in/pwicherski/](http://bit.ly/pwicherski)
 
 ### Blog:
 
