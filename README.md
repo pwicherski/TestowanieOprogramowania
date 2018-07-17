@@ -14,7 +14,7 @@ Mam nadzieję, że ten dokument pomoże chociaż trochę osobom, którym nie mog
 
 Książka jest subiektywnym zbiorem moich doświadczeń.
 
-W tym dokumencie nie będę Cię, drogi Czytelniku, uczył.
+Nie będę Cię, drogi Czytelniku, uczył.
 
 Chcę wskazać przykładowe kroki i materiały, które \(jeśli tylko zechcesz\) będziesz mógł wykorzystać na drodze wiodącej ku byciu lepszym testerem.
 
