@@ -1,6 +1,6 @@
 # Od czego zacząć
 
-### Na początek
+## Na początek
 
 Przed zdecydowaniem się na rozpoczęcie swojej przygody z testowaniem, warto zadać sobie pytanie "czy na pewno chcę być testerem?". Jeśli tak, to dlaczego?
 
@@ -12,7 +12,7 @@ W internecie można trafić na artykuły traktujące o tym, że w świecie IT je
 Szkopuł tkwi w tym, że zapotrzebowanie jest przede wszystkim na specjalistów
 {% endhint %}
 
-Oczywiście można podejść do tematu zostania testerem po (teoretycznie) linii najmniejszego oporu, jak choćby w stylu "może zatrudnią mnie na klikacza i tam nauczę się czym jest testowanie".
+Oczywiście można podejść do tematu zostania testerem po \(teoretycznie\) linii najmniejszego oporu, jak choćby w stylu "może zatrudnią mnie na klikacza i tam nauczę się czym jest testowanie".
 
 Jeżeli jednak, niezależnie od tego, czy pracujesz już na stanowisku testera, czy jeszcze nie, chcesz zacząć od zera i poznać czym jest testowanie, to dobrym pomysłem może być skorzystanie z poniższych materiałów.
 
@@ -24,7 +24,7 @@ Więcej materiałów znajduje się w poszczególnych rozdziałach i w przygotowa
 
 {% page-ref page="plan-nauki/" %}
 
-### Pierwsza praca jako tester
+## Pierwsza praca jako tester
 
 Wiesz jak wygląda praca testera?  
 Z czym będziesz musiał mierzyć się każdego dnia?
@@ -35,7 +35,7 @@ Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza pr
 
 {% embed data="{\"url\":\"http://nickytests.blogspot.com/2017/05/getting-started-on-testing-project.html\",\"type\":\"link\",\"title\":\"Getting started on a testing project\",\"description\":\"A blog about a software tester\'s learning journey\",\"icon\":{\"type\":\"icon\",\"url\":\"http://nickytests.blogspot.com/favicon.ico\",\"aspectRatio\":0}}" %}
 
-### 📚 Materiały
+## 📚 Materiały
 
 * [Najczęściej zadawane pytania na początku drogu testera oprogramowania](../najczesciej-zadawane-pytania.md) 🏤🌞
 * [Aleksandra Kornecka - Praca: Tester oprogramowania](https://docs.google.com/document/d/1e9IVt5x_W8FW24R-7BaQh3xf3jShHfJGzMEjm0E1sWg/edit#)🌞
@@ -56,11 +56,11 @@ Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza pr
 * [Non-IT to Software Testing Switch – How to Get Into QA](https://www.softwaretestinghelp.com/non-it-to-software-testing-switch-how-to-get-into-qa/)
 * [30 Things Every New Software Tester Should Learn](https://dojo.ministryoftesting.com/dojo/lessons/30-things-every-new-software-tester-should-learn)
 
-### **💬 Dyskusje** 
+## **💬 Dyskusje**
 
 * [How can I transition into QA and what software tools should I learn?](https://sqa.stackexchange.com/questions/3846/how-can-i-transition-into-qa-and-what-software-tools-should-i-learn)
 
-### \*\*\*\*![](../.gitbook/assets/icons8-facebook-50%20%284%29.png) **Dyskusje** 
+## \*\*\*\*![](../.gitbook/assets/icons8-facebook-50%20%284%29.png) **Dyskusje**
 
 * ["Jak zacząć" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1767179956637908&ref=manage_page) 🏤🌞
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat tego jak zacząć swoją przygodę w testowaniu.
@@ -68,9 +68,9 @@ Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza pr
 * [Jakie polecacie książki dotyczące nauki testowania oprogramowania?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1320846177937957/?match=bWF0ZXJpYcWCeSxqYWtpZQ%3D%3D)
 * [Jakie książki i materiały do nauki polecacie by zacząć przygodę z testowaniem?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/999755940046984/?match=bWF0ZXJpYcWCeSxqYWtpZQ%3D%3D)
 
-### 👄 Historie zostania testerem
+## 👄 Historie zostania testerem
 
-* [Jak zostałem testerem, zbiór historii](https://jakzostactesterem.pl/?s=Jak+zosta%C5%82em+testerem)
+* [Jak zostałem testerem, zbiór historii](https://jakzostactesterem.pl/?s=Jak+zostałem+testerem)
 * [Historia M.](https://legacy.gitbook.com/historia_m.md)
 * [Jak zostałem Testerem](https://www.toniebug.pl/jak-zostalem-testerem/)
 * [Jak zostałem Testerem Oprogramowania z wykorzystaniem środków Powiatowego Urzędu Pracy?](https://testuj.pl/blog/jak-zostalem-testerem-oprogramowania-z-wykorzystaniem-srodkow-powiatowego-urzedu-pracy/)

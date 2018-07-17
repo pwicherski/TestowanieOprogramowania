@@ -2,6 +2,49 @@
 
 ## 📚 Materiały
 
+### Lokalne społeczności testerskie
+
+{% hint style="success" %}
+Wymienione społeczności organizują darmowe prezentacje i warsztaty.
+{% endhint %}
+
+* BiałQA \(Białystok\)
+* ŁuczniczQA \(Bydgoszcz\)
+* QualityMeetup \(Gliwice\)
+* QAtowice \(Katowice\)
+* KraQA \(Kraków\)
+* LubQA \(Lublin\)
+* ŁódQA \(Łódź\)
+* PTaQ \(Poznań\)
+* Girls Who Test \(Poznań, Warszawa\)
+* RzeQA \(Rzeszów\)
+* PapryQArz \(Szczecin\)
+* TorQA \(Toruń\)
+* TrojQA \(Trójmiasto\)
+* 3QA \(Trójmiasto\)
+* WarszawQA \(Warszawa\)
+* WrotQA \(Wrocław\)
+* DebatQA \(Brak danych\)
+
+### Lokalne konferencje testerskie
+
+{% hint style="info" %}
+🙋 - oznacza, że konferencja jest bezpłatna.
+{% endhint %}
+
+* Agile & Automation Days 
+* Akademia Jakości 
+* Forum Jakości Systemów Informatycznych 
+* ConSelenium 
+* Quality Excites 🙋
+* ReQuest 
+* SkładQA 🙋
+* Test Camp 🙋
+* Test Dive 🙋
+* TestFest 🙋
+* TestingCup 
+* TestWarez 
+
 ### Twitter
 
 * [Polscy testerzy na Twitterze](https://twitter.com/PWicherski/lists/polscy-testerzy)
