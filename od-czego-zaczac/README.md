@@ -6,21 +6,21 @@ Przed zdecydowaniem się na rozpoczęcie swojej przygody z testowaniem, warto za
 
 Warto pamiętać o tym, że od paru już lat panuje coraz większe zainteresowanie pracą na rynku IT. Przełożyło się to na ogromną popularność wszelkiego rodzaju szkoleń, kursów czy bootcampów.
 
-Niejednokrotnie można znaleźć artykuły traktujące o tym, że w świecie IT jest ogromne zapotrzebowanie na przykład na programistów. Na grupach facebookowych z ogłoszeniami o pracę można też zaobserwować, że wiele firm szuka specjalistów od testowania niejednokrotnie 2 lata i dłużej, nie potrafiąc zapełnić wakatu.
+Można znaleźć bardzo wiele artykułów traktujących o tym, że w świecie IT jest ogromne zapotrzebowanie na przykład na programistów. Również na grupach facebookowych z ogłoszeniami o pracę można zaobserwować, że wiele firm szuka specjalistów od testowania niejednokrotnie 2 lata i dłużej, nie potrafiąc zapełnić wakatu.
 
 {% hint style="info" %}
 Szkopuł tkwi w tym, że zapotrzebowanie jest przede wszystkim na specjalistów
 {% endhint %}
 
-Oczywiście można podejść do tematu zostania testerem teoretycznej po linii najmniejszego oporu w stylu "może zatrudnią mnie na klikacza i tam nauczę się czym jest testowanie".
+Oczywiście można podejść do tematu zostania testerem po (teoretycznie) linii najmniejszego oporu, jak choćby w stylu "może zatrudnią mnie na klikacza i tam nauczę się czym jest testowanie".
 
-Jeżeli jednak niezależnie od tego, czy pracujesz już na stanowisku testera, czy jeszcze nie, chcesz zacząć od zera i poznać czym jest testowanie, to dobrym pomysłem może być skorzystanie z poniższych materiałów.
+Jeżeli jednak, niezależnie od tego, czy pracujesz już na stanowisku testera, czy jeszcze nie, chcesz zacząć od zera i poznać czym jest testowanie, to dobrym pomysłem może być skorzystanie z poniższych materiałów.
 
-Są odpowiednie zarówno dla osób, które nie mają nic wspólnego z "komputerami" a wirusy nazywają po prostu jakimś "programem" jak i dla dyplomowanych inżynierów oprogramowania.
+Są odpowiednie zarówno dla osób, które nie mają nic wspólnego z "komputerami", a wirusy nazywają po prostu jakimś "programem", jak i dla dyplomowanych inżynierów oprogramowania.
 
 Przypominam, że wszystkie materiały polecane w tym dokumencie zostały wybrane na podstawie mojego doświadczenia i indywidualnych przekonań. Nie jest to lista TOP materiałów dla początkującego testera. Jest to zbiór bardziej uniwersalnych materiałów, które według mnie będą przydatne.
 
-Więcej materiałów znajduje się w poszczególnych rozdziałach i w przygotowanych planach
+Więcej materiałów znajduje się w poszczególnych rozdziałach i w przygotowanych planach.
 
 {% page-ref page="plan-nauki/" %}
 
