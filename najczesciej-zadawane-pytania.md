@@ -74,7 +74,13 @@
 
 {% page-ref page="automatyzacja/gdzie-trenowac.md" %}
 
+## Czy w mieście X jest organizowany meetup lub konferencja?
 
+{% page-ref page="gdzie-szukac-wiedzy/" %}
+
+## Chce nauczyć się języka X, jakie materiały polecacie?
+
+{% page-ref page="automatyzacja/nauka-programowania/" %}
 
 
 
