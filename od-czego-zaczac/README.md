@@ -27,11 +27,11 @@ Więcej materiałów znajduje się w poszczególnych rozdziałach i w przygotowa
 ### Pierwsza praca jako tester
 
 Wiesz jak wygląda praca testera?  
-Z czym będziesz musiał się zmierzać każdego dnia?
+Z czym będziesz musiał się mierzyć każdego dnia?
 
-Rozpoczynając swoją pierwszą pracę można zostać przytłoczonym brakiem obeznania w temacie. Nie wiadomo nawet o co zapytać i od czego rozpocząć rozeznanie w temacie.
+Podejmując się swojej pierwszej pracy jako tester można zostać przytłoczonym brakiem obeznania w danym temacie, przez co nie wiadomo nawet o co zapytać i od czego zacząć.
 
-Poniższy wpis bardzo fajnie opisuje kilka podstawowych kwestii i dostarcza przykładowe pierwsze kroki. Takie jak lista kontrolna dołączania do nowego projektu i pierwsze pytania, które warto zadać.
+Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza przykładowe pierwsze kroki, takie jak lista kontrolna dołączania do nowego projektu i pierwsze pytania, które warto zadać.
 
 {% embed data="{\"url\":\"http://nickytests.blogspot.com/2017/05/getting-started-on-testing-project.html\",\"type\":\"link\",\"title\":\"Getting started on a testing project\",\"description\":\"A blog about a software tester\'s learning journey\",\"icon\":{\"type\":\"icon\",\"url\":\"http://nickytests.blogspot.com/favicon.ico\",\"aspectRatio\":0}}" %}
 
