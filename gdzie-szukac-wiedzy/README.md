@@ -44,6 +44,7 @@ Wymienione społeczności organizują darmowe prezentacje i warsztaty.
 * TestFest 🙋
 * TestingCup 
 * TestWarez 
+*  Zapewnienia jakości w projektach IT
 
 ### Twitter
 
