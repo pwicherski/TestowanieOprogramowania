@@ -1,6 +1,6 @@
 # Dziennik zmian
 
-### 1.0.0 - 2018-07-19
+### 1.0.0 - 2018-07-23
 
 #### tl;dr Przeście na nową platformę, przepisanie dokumentu i dodanie ponad 2 tysięcy linii tekstu.
 
