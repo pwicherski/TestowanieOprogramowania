@@ -1,10 +1,10 @@
 # Plan nauki
 
-Stworzenie planu nauki, którym będziesz podążać może oszczędzić Ci sporo czasu. Wyselekcjonowanie materiałów i rozłożenie ich w czasie pozwoli określić cel i ścieżkę, którą należy podążyć aby go osiągnąć.
+Stworzenie planu nauki, którym będziesz podążać może oszczędzić Ci sporo czasu. Wyselekcjonowanie materiałów i rozłożenie ich w czasie pozwoli określić cel i ścieżkę, którą należy podążyć, aby go osiągnąć.
 
 Tworząc swój plan można skorzystać z jednego z wielu dostępnych narzędzi, które ułatwią usystematyzowanie zadań.
 
-Na przykład [Trello.com](http://trello.com)
+Dobrym przykładem takiego narzędzia jest [Trello.com](http://trello.com)
 
 ![](../../.gitbook/assets/5a95f67e41e04900018a8e57_trello_1.png)
 
@@ -12,7 +12,7 @@ Na przykład [Trello.com](http://trello.com)
 
 Pamiętaj proszę, że poniższe plany są tylko przykładami i mogą nie sprawdzić się w Twoim przypadku. Przemyśl dokładnie co chcesz osiągnąć i dostosuj do tego swoje siły!
 
-Nie ma jednego dobrego sposobu na rozpoczęcie nauki testowania, wejście w świat IT czy nauczenie się automatyzacji. Przedstawione plany są tylko przykładowymi, są ogólne i nie wyczerpują w żaden sposób tematu. Są częścią próby odpowiedzi na często pojawiające się pytanie "Chcę zostać testerem, jak zacząć?". Na przykład tak.
+Nie ma jednego dobrego sposobu na rozpoczęcie nauki testowania, wejście w świat IT, czy nauczenie się automatyzacji. Przedstawione tutaj przykładowe plany są ogólne i nie wyczerpują w żaden sposób tematu. Stanowią one, choćby częściową, próbę odpowiedzi na często pojawiające się pytanie "Chcę zostać testerem, jak zacząć?". Na przykład tak.
 
 ### Czy na pewno?
 
