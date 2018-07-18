@@ -1,5 +1,5 @@
 ---
-description: 'https://pwicherski.gitbook.io/testowanie-oprogramowania/'
+description: Jak zostać testerem i materiały dla początkujących.
 ---
 
 # Testowanie Oprogramowania
