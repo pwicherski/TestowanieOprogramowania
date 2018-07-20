@@ -6,6 +6,7 @@
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
 * [https://www.pracuj.pl/](https://www.pracuj.pl/)
 * [https://www.praca.pl/](https://www.praca.pl/)
+* [https://justjoin.it/all/testing](https://justjoin.it/all/testing)
 * [http://lmgtfy.com/?q=praca+tester](http://lmgtfy.com/?q=praca+tester)
 
 > Stworzenie własnego profilu w serwisie LinkedIn może przynieść Ci wiele dodatkowych ofert pracy.
