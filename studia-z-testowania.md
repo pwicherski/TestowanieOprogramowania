@@ -34,6 +34,10 @@ Przykładowe uczelnie, które oferują studiowanie na kierunkach powiązanych z 
 
 * [SSW - Testowanie Oprogramowania](https://www.cb.szczecin.pl/kierunek-studiow/testowanie-oprogramowania/)
 
+#### Rzeszów
+
+* [WSIZ - Tester oprogramowania](http://podyplomowe.wsiz.pl/studia-podyplomowe,Tester-oprogramowania.html)
+
 #### Gdynia
 
 * [AMW - Tester Oprogramowania](http://www.amw.gdynia.pl/tester)
