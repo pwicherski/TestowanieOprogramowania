@@ -1,5 +1,5 @@
 ---
-description: 'https://pwicherski.gitbook.io/testowanie-oprogramowania/'
+description: Testowanie oprogramowania jak zacząć. Materiały dla początkujących.
 ---
 
 # Testowanie Oprogramowania
