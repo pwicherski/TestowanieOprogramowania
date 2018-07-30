@@ -1,5 +1,7 @@
 # Python
 
+[https://gist.github.com/pwicherski/43f39516a523f18df0e15d6bbc8b0bc7](https://gist.github.com/pwicherski/43f39516a523f18df0e15d6bbc8b0bc7)
+
 ### 📚 Materiały
 
 * Ćwiczenia interaktywne

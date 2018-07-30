@@ -42,4 +42,5 @@ Dane testowe \(ISTQB\) - To dane, które istnieją \(przykładowo w bazie danych
   * [http://tymoteuszkestowicz.com/2013/11/szybkie-generowanie-danych-testowych/](http://tymoteuszkestowicz.com/2013/11/szybkie-generowanie-danych-testowych/)
 * Dane testowe w systemach informatycznych
   * [http://mechatronika.polsl.pl/owd/pdf2009/046.pdf](http://mechatronika.polsl.pl/owd/pdf2009/046.pdf)
+* [Stwórz własny generator danych testowych z wykorzystaniem Pythona](http://testerzy.pl/baza-wiedzy/kurs-pythona-dla-testerow-oprogramowania-czesc-1-wprowadzenie)
 

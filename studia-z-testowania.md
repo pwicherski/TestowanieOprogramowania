@@ -36,7 +36,7 @@ Przykładowe uczelnie, które oferują studiowanie na kierunkach powiązanych z 
 
 #### Rzeszów
 
-* [WSIZ - Tester oprogramowania](http://podyplomowe.wsiz.pl/studia-podyplomowe,Tester-oprogramowania.html)
+* [WSIiZ - Tester oprogramowania](http://podyplomowe.wsiz.pl/studia-podyplomowe,Tester-oprogramowania.html)
 
 #### Gdynia
 
@@ -51,6 +51,12 @@ Przykładowe uczelnie, które oferują studiowanie na kierunkach powiązanych z 
 #### Gdańsk
 
 * [WSB - Inżynieria testów oprogramowania](http://www.wsb.pl/gdansk/kandydaci/studia-i-stopnia/kierunki-i-specjalnosci/inzynieria-testow-oprogramowania)
+
+
+
+## **📚 Materiały**
+
+* [Postgraduate Studies on Software Testing in Poland](http://sjsi.org/postgraduate-studies-on-software-testing-in-poland/)
 
 ### ![](.gitbook/assets/icons8-facebook-50%20%282%29.png) Dyskusje
 

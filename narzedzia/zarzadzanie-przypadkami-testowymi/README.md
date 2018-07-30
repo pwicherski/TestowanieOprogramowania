@@ -1,6 +1,6 @@
 # Zarządzanie przypadkami testowymi
 
-### ![](../../.gitbook/assets/icons8-facebook-50%20%289%29.png) Dyskusje
+### ![](../../.gitbook/assets/icons8-facebook-50%20%2810%29.png) Dyskusje
 
 * [Top 15 Best Test Management Tools in 2018](https://www.softwaretestinghelp.com/15-best-test-management-tools-for-software-testers/)
 * [Best Open Source Test Management Tools](https://www.testingexcellence.com/best-open-source-test-management-tools/)

@@ -59,7 +59,7 @@ Koniecznie zapoznaj się z tym artykułem: [10 powodów, dla których adepci tes
 * [Kurs - Jak sprawić by to rekruterzy się do Ciebie odezwali](https://www.linkedin.com/learning/j-t-o-donnell-on-making-recruiters-come-to-you/welcome) 📺
 * [E-book przygotowanie do rekrutacji](https://jakzostactesterem.pl/bezplatny-ebook-pdf-mlodszy-tester-oprogramowania-przygotowanie-do-rekrutacji/)
 
-## \*\*\*\*![](../.gitbook/assets/icons8-facebook-50%20%281%29.png) **Dyskusje**
+## ![](../.gitbook/assets/icons8-facebook-50%20%281%29.png) **Dyskusje**
 
 * [Doświadczenia i przemyślenia jednego z użytkowników odnośnie przygotowywania CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1452377648118142/)
 * [Doświadczenia i przemyślenia jednej z użytkowniczek odnośnie przygotowywania CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1469995643023009/)

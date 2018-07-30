@@ -21,7 +21,7 @@ Na początku najważniejsze jest zrozumienie podstaw programowania, na przykład
 * [Jaki język programowania dla początkujących](http://www.qa-courses.com/stranica-posta/2016/10/25/Jaki-jezyk-programowania-jest-dla-poczatkujecych) 🌞
 * [What Programming Language Should a Beginner Learn in 2018](https://www.codementor.io/codementorteam/beginner-programming-language-job-salary-community-7s26wmbm6)
 
-### ![](../.gitbook/assets/icons8-facebook-50%20%287%29.png) Dyskusje
+### ![](../.gitbook/assets/icons8-facebook-50%20%288%29.png) Dyskusje
 
 * [Jaki język dla web i mobile?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1139129899442920/)
 * [Na jaki język jest największy popyt?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1411316595557581/)

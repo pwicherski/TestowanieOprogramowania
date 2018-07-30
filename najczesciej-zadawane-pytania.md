@@ -88,5 +88,7 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 {% page-ref page="automatyzacja/nauka-programowania/" %}
 
+## Jak zacząć testować stronę web?
 
+{% page-ref page="testowanie-stron-web.md" %}
 
