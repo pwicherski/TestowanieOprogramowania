@@ -1,8 +1,3 @@
----
-description: >-
-  https://www.ministryoftesting.com/dojo/lessons/top-browser-extensions-for-testing-software
----
-
 # Wtyczki do przeglądarek
 
 * [BugMagnet](https://bugmagnet.org/)
