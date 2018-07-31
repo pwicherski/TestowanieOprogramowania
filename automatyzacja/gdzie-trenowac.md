@@ -2,7 +2,7 @@
 
 Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy tworzeniu skryptów automatyzujących testy czy też do testowania API. Twórcy stron udostępnili je specjalnie w celu umożliwienia społeczności testerskiej nauki. Jednak pamiętajmy o tym, żeby korzystać z tych stron rozważnie i nie trenować na nich ataków DOS, czy też wysoko zapętlonych skryptów automatyzujących.
 
-### **Jak trenować**
+### **Jak testować**
 
 * [Web Testing Basics - A short guide on how to test a website](http://webtestingbasics.com/page/index)
 
@@ -25,9 +25,10 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 * [https://instantwp.com](https://instantwp.com) Bardzo szybka możliwość postawienia lokalnie WordPressa
 * [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com) Herokuapp. The internet.
 
-### **Aplikacje**
+### **Aplikacje i strony z zadaniami**
 
 * [http://mrbuggy.pl](http://mrbuggy.pl) Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby [TestingCup](https://pwicherski.gitbooks.io/testowanieoprogramowania/testingcup.pl)
+* [http://testingchallenges.thetestingmap.org/index.php](http://testingchallenges.thetestingmap.org/index.php) Zbiór zadań 
 
 ### **Interaktywne projekty \(darmowe\)**
 
