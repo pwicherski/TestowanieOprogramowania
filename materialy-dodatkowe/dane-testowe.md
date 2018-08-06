@@ -44,3 +44,11 @@ Dane testowe \(ISTQB\) - To dane, które istnieją \(przykładowo w bazie danych
   * [http://mechatronika.polsl.pl/owd/pdf2009/046.pdf](http://mechatronika.polsl.pl/owd/pdf2009/046.pdf)
 * [Stwórz własny generator danych testowych z wykorzystaniem Pythona](http://testerzy.pl/baza-wiedzy/kurs-pythona-dla-testerow-oprogramowania-czesc-1-wprowadzenie)
 
+
+
+### ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LH5DbF8PruqD5AZtwmh%2F-LHKkx7mAVJigxwJJBH9%2F-LHKmGcYOhjl50rjvg6r%2Ficons8-facebook-50.png?alt=media&token=2d9dce97-6f5e-49ac-91e5-19be0ac8a12f) Dyskusje
+
+* [Jak założyć wiele kont mailowych](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1043251712364073/)
+
+\*\*\*\*
+
