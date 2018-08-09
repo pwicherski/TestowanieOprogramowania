@@ -2,7 +2,7 @@
 
 ## Gdzie szukać pracy?
 
-* [Oferty pracy na grupie "Testowanie Oprogramowania"](https://www.facebook.com/groups/TestowanieOprogramowania/post_tags/?post_tag_id=1765176240171613&)
+* [Oferty pracy na grupie "Testowanie Oprogramowania"](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765176240171613)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
 * [https://www.pracuj.pl/](https://www.pracuj.pl/)
 * [https://www.praca.pl/](https://www.praca.pl/)
@@ -11,7 +11,7 @@
 
 > Stworzenie własnego profilu w serwisie LinkedIn może przynieść Ci wiele dodatkowych ofert pracy.
 >
-> [http://blog.testuj.pl/2016/08/31/jaki-jest-dobry-profil-na-linkedin-poradnik-nie-tylko-dla-testerow/](http://blog.testuj.pl/2016/08/31/jaki-jest-dobry-profil-na-linkedin-poradnik-nie-tylko-dla-testerow/)
+> [https://testuj.pl/blog/jaki-jest-dobry-profil-na-linkedin-poradnik-nie-tylko-dla-testerow/](https://testuj.pl/blog/jaki-jest-dobry-profil-na-linkedin-poradnik-nie-tylko-dla-testerow/)
 >
 > [http://lmgtfy.com/?q=how+to+create+good+linkedin+profile](http://lmgtfy.com/?q=how+to+create+good+linkedin+profile)
 

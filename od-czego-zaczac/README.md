@@ -48,7 +48,7 @@ Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza pr
 * [Co robi tester oprogramowania na co dzień?](http://jakzostactesterem.pl/co-robi-tester-oprogramowania-na-co-dzien/) 🌞
   * [Jak zacząć testować oprogramowanie](http://jakzostactesterem.pl/jak-zaczac-testowac-oprogramowanie-trzy-sposoby-na-zdobycie-doswiadczenia-w-zawodzie-testera/) 🌞 
   * [Motywacja testera oprogramowania – zarobki to nie wszystko](http://jakzostactesterem.pl/motywacja-testera-oprogramowania-zarobki-to-nie-wszystko/) 🌞
-* [Praca zdalna](https://legacy.gitbook.com/staż-lub-praca-zdalna.md) 🌞
+* [Praca zdalna](../praca-zdalna.md) 🌞
 * [Tester gier, praca marzeń. Pierwsze kroki w branży - Monika Krupińska](https://www.youtube.com/watch?v=bL3hmVmhSw0) 🌞 📺
 * [99 Things Testers Can Do To Become Better Testers](https://www.slideshare.net/rosiesherry/99-things-you-can-do-to-become-a-better-tester)
 * [99 rzeczy, które możesz zrobić, aby stać się lepszym testerem](http://edu.ittraining.pl/pobierz_material/rady_dla_dobrego_testera) 🌞
@@ -72,7 +72,7 @@ Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza pr
 ## 👄 Historie zostania testerem
 
 * [Jak zostałem testerem, zbiór historii](https://jakzostactesterem.pl/?s=Jak+zostałem+testerem)
-* [Historia M.](https://legacy.gitbook.com/historia_m.md)
+* [Historia M.](../historie/jak-stac-sie-testerem/historia-jzt-1.md)
 * [Jak zostałem Testerem](https://www.toniebug.pl/jak-zostalem-testerem/)
 * [Jak zostałem Testerem Oprogramowania z wykorzystaniem środków Powiatowego Urzędu Pracy?](https://testuj.pl/blog/jak-zostalem-testerem-oprogramowania-z-wykorzystaniem-srodkow-powiatowego-urzedu-pracy/)
   * Historia o tym jak dofinansowanie może pomóc zdobyć pracę.
