@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="qa63y5tklA8nJBigchXFAdujjs7gUB_EtdJH69UKAWE" />
-
 ---
 description: Testowanie oprogramowania jak zacząć. Materiały dla początkujących.
 ---
