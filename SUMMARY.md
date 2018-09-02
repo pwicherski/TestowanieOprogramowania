@@ -14,7 +14,7 @@
 * [Szukanie pracy](szukanie-pracy/README.md)
   * [Rozmowa rekrutacyjna](szukanie-pracy/rozmowa-rekrutacyjna.md)
   * [Pytania na rozmowie](szukanie-pracy/pytania-na-rozmowie.md)
-  * [Szukanie stażu](szukanie-pracy/szukanie-stazu.md)
+  * [Szukanie pierwszej prazy lub stażu](szukanie-pracy/szukanie-stazu.md)
 * [Praca zdalna](praca-zdalna.md)
 * [Zarobki](zarobki.md)
 * [Kursy online](kursy-online.md)

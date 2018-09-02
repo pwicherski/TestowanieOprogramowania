@@ -49,13 +49,17 @@ Jest mnóstwo materiałów, które możesz czytać, słuchać i oglądać przy o
 
 ## Szukasz pracy, nie możesz jej znaleźć pomimo tego, że podobno jest to łatwe?
 
-Koniecznie zapoznaj się z tym artykułem: [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy)
+Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się do młodszych \(junior\) programistów, niech Cię to jednak nie zniechęca, jeżeli zastosujesz u siebie te rady, mogą Ci pomóc równie dobrze jak te, które są skierowane bezpośrednio do testerów.
 
+* [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy)
+* [Dlaczego JUNIOR DEVELOPER nie dostaje pracy?](https://www.youtube.com/watch?v=Lpvxg5kXb_c) 📺
+* [Jak radziliście sobie, żeby zacząć swoją pierwszą pracę jako tester?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1921628921193010/)
+* 
 ## 📚 Materiały
 
-* [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy) 🌞
-* [Webinarium: "Przetestuj swoje CV!" \| Jakub Rosiński](https://www.youtube.com/watch?v=1lloUWO8Vzc) 📺🌞
-  * [Slajdy z prezentacji Jakuba](http://www.slideshare.net/JakubRosiski1/przetestuj-swoje-cv) 🌞
+* [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy) 
+* [Webinarium: "Przetestuj swoje CV!" \| Jakub Rosiński](https://www.youtube.com/watch?v=1lloUWO8Vzc) 📺
+  * [Slajdy z prezentacji Jakuba](http://www.slideshare.net/JakubRosiski1/przetestuj-swoje-cv) 
 * [Kurs - Jak sprawić by to rekruterzy się do Ciebie odezwali](https://www.linkedin.com/learning/j-t-o-donnell-on-making-recruiters-come-to-you/welcome) 📺
 * [E-book przygotowanie do rekrutacji](https://jakzostactesterem.pl/bezplatny-ebook-pdf-mlodszy-tester-oprogramowania-przygotowanie-do-rekrutacji/)
 
@@ -66,4 +70,6 @@ Koniecznie zapoznaj się z tym artykułem: [10 powodów, dla których adepci tes
 * [Dyskusja na temat wyglądu CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1465572033465370/)
 * [Jak się ma liczba przesłanych CV na testera do liczby uczestników szkoleń na testerów](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1452903078065599/)
 * [Przykładowe CV poddane ocenie](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1465572033465370/)
+
+
 
