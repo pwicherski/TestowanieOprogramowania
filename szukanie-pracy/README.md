@@ -47,14 +47,14 @@ W tym ma też odrobinę pomóc ten dokument. Nie wiem jak Ty, ja uwielbiam praco
 
 Jest mnóstwo materiałów, które możesz czytać, słuchać i oglądać przy okazji których zwiększ swoją wiedzę i świadomość.
 
-## Szukasz pracy, nie możesz jej znaleźć pomimo tego, że podobno jest to łatwe?
+## Szukasz pracy i nie możesz jej znaleźć pomimo tego, że podobno jest to łatwe?
 
 Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się do młodszych \(junior\) programistów, niech Cię to jednak nie zniechęca, jeżeli zastosujesz u siebie te rady, mogą Ci pomóc równie dobrze jak te, które są skierowane bezpośrednio do testerów.
 
 * [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy)
 * [Dlaczego JUNIOR DEVELOPER nie dostaje pracy?](https://www.youtube.com/watch?v=Lpvxg5kXb_c) 📺
 * [Jak radziliście sobie, żeby zacząć swoją pierwszą pracę jako tester?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1921628921193010/)
-* 
+
 ## 📚 Materiały
 
 * [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy) 
