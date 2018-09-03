@@ -1,5 +1,5 @@
 ---
-description: Jest to repozytorium książki dostępnej pod adresem https://pwicherski.gitbook.io/testowanie-oprogramowania/
+description: Książka Testowanie Oprogramowania - jak zacząć. Materiały dla początkujących.
 ---
 
 # Testowanie Oprogramowania
