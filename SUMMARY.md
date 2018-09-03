@@ -32,6 +32,7 @@
   * [Selenium](narzedzia/selenium.md)
   * [Appium](narzedzia/appium.md)
   * [JMeter](narzedzia/jmeter.md)
+  * [Jenkins](narzedzia/jenkins.md)
   * [GIT](narzedzia/git.md)
   * [Chrome Developer Tools](narzedzia/chrome-developer-tools.md)
   * [Wtyczki do przeglądarek](narzedzia/wtyczki-do-przegladarek.md)
