@@ -36,6 +36,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Wojciech Piętka
 * [https://automatingguy.com/](https://automatingguy.com/)
   * Michał Krzyżanowski
+* [https://thebrokentest.com](https://thebrokentest.com/)
+  * Maciej Wyrodek
 
 ### Dawno nieaktualizowane:
 
