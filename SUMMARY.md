@@ -36,7 +36,7 @@
   * [GIT](narzedzia/git.md)
   * [Chrome Developer Tools](narzedzia/chrome-developer-tools.md)
   * [Wtyczki do przeglądarek](narzedzia/wtyczki-do-przegladarek.md)
-  * [Zarządzanie przypadkami testowymi](narzedzia/zarzadzanie-przypadkami-testowymi/README.md)
+  * [Zarządzanie testowaniem](narzedzia/zarzadzanie-przypadkami-testowymi/README.md)
     * [TestLink](narzedzia/zarzadzanie-przypadkami-testowymi/testlink.md)
 * [Certyfikacja](certyfikacja/README.md)
   * [Lista certyfikatów testerskich](certyfikacja/lista-certyfikatow-testerskich.md)
