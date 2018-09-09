@@ -2,7 +2,7 @@
 
 Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej część wpisów zamieszczaną przez polaków.
 
-### Lista blogów
+## Lista blogów
 
 * [https://testujemy.mobi](https://testujemy.mobi)
   * Testowanie oprogramowania i aplikacji mobilnych \| Piotr Wicherski
@@ -39,12 +39,10 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 * [https://thebrokentest.com](https://thebrokentest.com/)
   * Maciej Wyrodek
 
-### Dawno nieaktualizowane:
+## Dawno nieaktualizowane:
 
 * [http://termometr.blogspot.com/](http://termometr.blogspot.com/)
   * Tomasz Zdanowicz
 * [http://web.archive.org/web/20160309122123/http://blog.alvarus.org/](http://web.archive.org/web/20160309122123/http://blog.alvarus.org/)
   * Wersja archiwalna bloga \| Łukasz Jasiński
-
-
 
