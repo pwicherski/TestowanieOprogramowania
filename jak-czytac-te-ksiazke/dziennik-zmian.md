@@ -10,7 +10,10 @@
 
 * Dodane materiały w rozdziale "Szukanie pracy" - Szukasz pracy i nie możesz jej znaleźć pomimo tego, że podobno jest to łatwe?
 * Dodany dedykowany wpis do poszukiwania pierwszej pracy lub stażu.
-* Dodany Jenkins w rozdziale narzędzia.
+* Dodany Jenkins w rozdziale [narzędzia](../narzedzia/).
+* Dodane przykładowe arkusze egzaminacyjne [ISTQB](../certyfikacja/istqb.md).
+* Dodane materiały w [Zarządzanie testowaniem](../narzedzia/zarzadzanie-przypadkami-testowymi/)
+* Poprawione linki z poprzedniej platformy gitbooks.io
 
 ### 1.0.1 - 2018-07-30
 
