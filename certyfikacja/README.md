@@ -2,8 +2,8 @@
 
 ### 📚 Materiały
 
-* [ISTQB](https://pwicherski.gitbooks.io/testowanieoprogramowania/certyfikacja/istqb.html) 🏤
-* [Certyfikaty testerskie](https://pwicherski.gitbooks.io/testowanieoprogramowania/certyfikaty-testerskie.html) 🏤
+* [ISTQB](istqb.md) 🏤
+* [Certyfikaty testerskie](lista-certyfikatow-testerskich.md) 🏤
 * [Czy warto robić certyfikat ISTQB Poziomu Podstawowego?](http://testerzy.pl/baza-wiedzy/wiecej-niz-szkolenie-istqb-poziomu-podstawowego) 📖 🌞
 * [Certyfikat testerski ISTQB Foundation Level – czym jest i czy warto go mieć?](http://jakzostactesterem.pl/certyfikat-testerski-istqb-foundation-czym-warto-go-miec/) 📖 🌞
 * [Certification Competence Correlation](https://martinfowler.com/bliki/CertificationCompetenceCorrelation.html) 📖
