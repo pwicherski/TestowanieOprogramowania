@@ -11,12 +11,15 @@
   * Darmowe kilka wstępnych tematów
 * [https://compendiumdev.zenler.com/courses/selenium-2-webdriver-basics-with-java](https://compendiumdev.zenler.com/courses/selenium-2-webdriver-basics-with-java)
   * Ogromny kurs, najlepszy jaki kiedykolwiek widziałem na rynku
+* [https://seleniumaboveandbeyond.com/](https://seleniumaboveandbeyond.com/)
+  * Pierwsza książka elektroniczna prawdziwie dla zaawansowanych
+  * [https://joecolantonio.com/testtalks/217-selenium-above-and-beyond-with-andrew-krug/](https://joecolantonio.com/testtalks/217-selenium-above-and-beyond-with-andrew-krug/)
 * [http://www.softwaretestinghelp.com/selenium-tutorial-1/](http://www.softwaretestinghelp.com/selenium-tutorial-1/)
   * Tutorial z aż 33 części, dość przystępny
 * [http://blog.testowka.pl/category/kurs-selenium/](http://blog.testowka.pl/category/kurs-selenium/)
   * Fajny tutek po polskiemu
 * [http://toolsqa.com/selenium-tutorial/](http://toolsqa.com/selenium-tutorial/)
-  * Od podstaw, przez tematy średniozaawansowane po zaawansowane
+  * Od podstaw
 * [http://elementalselenium.com/](http://elementalselenium.com/)
   * A free, once-weekly e-mail on how to use Selenium like a Pro
 * [https://www.youtube.com/user/GlassBoxT/playlists](https://www.youtube.com/user/GlassBoxT/playlists)
