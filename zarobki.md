@@ -9,7 +9,7 @@
 * Analiza zarobków testerów \[Testerzy.pl\] 🌞
   * [2018](http://www.testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2018-czesc-i) \| [2017](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2017-czesc-i) \| [2016](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2016-czesc-i) \| [2015](http://testerzy.pl/wiesci-ze-swiata-testerow/analiza-zarobkow-testerow-2015-czesc-i) \| [2014](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2014-czesc-i)
 * Analiza zarobków testerów \[Sedlak & Sedlak\] 🌞💵
-  * [2018](https://wynagrodzenia.pl/raport-placowy/raport-placowy-sedlak-amp-sedlak-dla-branzy-it-2018) \| [2017](https://wynagrodzenia.pl/raport-placowy/raport-placowy-sedlak-amp-sedlak-dla-branzy-it-2017)
+  * [2018](https://wynagrodzenia.pl/artykul/zarobki-testerow-oprogramowania-w-2018-roku) \| [2017](https://wynagrodzenia.pl/raport-placowy/raport-placowy-sedlak-amp-sedlak-dla-branzy-it-2017)
 * Ile zarabia tester oprogramowania? \[Wynagrodzenia.pl\] 🌞
   * [Aktualizowane na bieżąco wyniki](https://wynagrodzenia.pl/moja-placa/ile-zarabia-tester-oprogramowania)
 * Wyniki dla wielu stanowisk testerskich \[Pracuj.pl\]
