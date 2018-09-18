@@ -9,6 +9,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 ### **Strony do testów manualnych oraz automatyzacji**
 
 * [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com) Herokuapp. The internet.
+* [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) API sandbox
 * [https://asta.pgs-soft.com](https://asta.pgs-soft.com) Automated Software Testing Arena
 * [http://timvroom.com/selenium/playground/](http://timvroom.com/selenium/playground/) Piaskownica z wypisanymi zadaniami do zrealizowania
 * [http://automationpractice.com](http://automationpractice.com) Wirtualny sklep
@@ -24,6 +25,9 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 * [https://instantwp.com](https://instantwp.com) Bardzo szybka możliwość postawienia lokalnie WordPressa
 * [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com) Herokuapp. The internet.
+* [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) API sandbox
+
+
 
 ### **Aplikacje i strony z zadaniami**
 
