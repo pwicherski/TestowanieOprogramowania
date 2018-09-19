@@ -31,6 +31,7 @@
   * [Selenium](narzedzia/selenium.md)
   * [Appium](narzedzia/appium.md)
   * [JMeter](narzedzia/jmeter.md)
+  * [Gatling](narzedzia/gatling.md)
   * [GIT](narzedzia/git.md)
   * [Chrome Developer Tools](narzedzia/chrome-developer-tools.md)
   * [Zarządzanie przypadkami testowymi](narzedzia/zarzadzanie-przypadkami-testowymi/README.md)
