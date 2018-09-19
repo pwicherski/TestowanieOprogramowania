@@ -1,5 +1,11 @@
 # Najczęściej zadawane pytania
 
+## Zacznij śmiało od zadania swojego pytania w wyszukiwarce
+
+![](.gitbook/assets/tempsnip.png)
+
+Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i postaram się zamieścić poszukiwane przez Ciebie materiały w kolejnym [wydaniu](jak-czytac-te-ksiazke/dziennik-zmian.md) :\)
+
 ## Jak w ogóle zacząć naukę, jakie materiały polecacie na początek?
 
 {% page-ref page="od-czego-zaczac/" %}
@@ -82,5 +88,7 @@
 
 {% page-ref page="automatyzacja/nauka-programowania/" %}
 
+## Jak zacząć testować stronę web?
 
+{% page-ref page="testowanie-stron-web.md" %}
 

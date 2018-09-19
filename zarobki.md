@@ -9,7 +9,7 @@
 * Analiza zarobków testerów \[Testerzy.pl\] 🌞
   * [2018](http://www.testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2018-czesc-i) \| [2017](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2017-czesc-i) \| [2016](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2016-czesc-i) \| [2015](http://testerzy.pl/wiesci-ze-swiata-testerow/analiza-zarobkow-testerow-2015-czesc-i) \| [2014](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2014-czesc-i)
 * Analiza zarobków testerów \[Sedlak & Sedlak\] 🌞💵
-  * [2018](https://wynagrodzenia.pl/raport-placowy/raport-placowy-sedlak-amp-sedlak-dla-branzy-it-2018) \| [2017](https://wynagrodzenia.pl/raport-placowy/raport-placowy-sedlak-amp-sedlak-dla-branzy-it-2017)
+  * [2018](https://wynagrodzenia.pl/artykul/zarobki-testerow-oprogramowania-w-2018-roku) \| [2017](https://wynagrodzenia.pl/raport-placowy/raport-placowy-sedlak-amp-sedlak-dla-branzy-it-2017)
 * Ile zarabia tester oprogramowania? \[Wynagrodzenia.pl\] 🌞
   * [Aktualizowane na bieżąco wyniki](https://wynagrodzenia.pl/moja-placa/ile-zarabia-tester-oprogramowania)
 * Wyniki dla wielu stanowisk testerskich \[Pracuj.pl\]
@@ -22,7 +22,7 @@
 * Zarobki w kraju i za granicą \[glassdoor\] 
   * [Podgląd bieżących analiz](https://www.glassdoor.com/Salaries/index.htm)
 
-### **💬 Dyskusje**
+###  ****![](.gitbook/assets/icons8-facebook-50%20%286%29.png) **Dyskusje**
 
 * ["Zarobki" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765794140109823&ref=manage_page) 🏤🌞
 * [Na jakie zarobki mogę liczyć na początek w Warszawie ? A ile po 1-2 roku pracy?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1309418115747430/?match=emFyb2JraQ%3D%3D) 🌞

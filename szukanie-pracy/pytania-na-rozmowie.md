@@ -64,7 +64,7 @@
 47. Co to jest priorytet defektu?
 48. Co to jest poważność defektu?
 49. Podaj przykład defektu z wysokim priorytetem ale niską poważnością?
-50. Podaj przykład defektu z niskim prioryteten ale wysoką poważnością?
+50. Podaj przykład defektu z niskim priorytetem ale wysoką poważnością?
 51. Co zrobisz, jeżeli bardzo dobry programista nalega na szybkie przetestowanie jego kodu, aby kod szybko mógł być na produkcji?
 52. Co to są testy wydajnościowe?
 53. Co możemy sprawdzać podczas testów wydajnościowych?

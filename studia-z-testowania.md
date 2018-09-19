@@ -34,6 +34,10 @@ Przykładowe uczelnie, które oferują studiowanie na kierunkach powiązanych z 
 
 * [SSW - Testowanie Oprogramowania](https://www.cb.szczecin.pl/kierunek-studiow/testowanie-oprogramowania/)
 
+#### Rzeszów
+
+* [WSIiZ - Tester oprogramowania](http://podyplomowe.wsiz.pl/studia-podyplomowe,Tester-oprogramowania.html)
+
 #### Gdynia
 
 * [AMW - Tester Oprogramowania](http://www.amw.gdynia.pl/tester)
@@ -48,8 +52,14 @@ Przykładowe uczelnie, które oferują studiowanie na kierunkach powiązanych z 
 
 * [WSB - Inżynieria testów oprogramowania](http://www.wsb.pl/gdansk/kandydaci/studia-i-stopnia/kierunki-i-specjalnosci/inzynieria-testow-oprogramowania)
 
+
+
+## **📚 Materiały**
+
+* [Postgraduate Studies on Software Testing in Poland](http://sjsi.org/postgraduate-studies-on-software-testing-in-poland/)
+
 ### ![](.gitbook/assets/icons8-facebook-50%20%282%29.png) Dyskusje
 
-* ["Studia z testowania oprogramowania" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765191683503402&ref=story_subtitle) 🏤🌞
+* ["Studia" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1791637997525437) 🏤🌞
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat studiów z testowania oprogramowania.
 

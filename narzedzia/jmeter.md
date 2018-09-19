@@ -44,8 +44,3 @@ The Apache JMeter™ application is open source software, a 100% pure Java appli
   * Advanced JMeter \(6-8 godzin\)
   * Continous Testing \(6-8 godzin\)
 
-### Kursy płatne
-
-* [http://www.nobleprog.pl/en/jmeter-training](http://www.nobleprog.pl/en/jmeter-training)
-  * Od podstaw po elementy zaawansowane od 830zł
-
