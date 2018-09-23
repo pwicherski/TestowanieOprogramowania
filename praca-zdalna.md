@@ -40,6 +40,7 @@ Przykładowe firmy w których można otrzymać dodatkowe zlecenia to:
 * [https://usabilityhub.com/](https://usabilityhub.com/)
 * [https://globalapptesting.com/](https://globalapptesting.com/)
 * [https://www.bugfinders.com/](https://www.bugfinders.com/)
+* [https://we-are-testers.com/](https://we-are-testers.com/)
 
 Są to portale świadczące między innymi usługi testowania crowdsourcingowego.
 
