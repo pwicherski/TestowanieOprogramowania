@@ -1,4 +1,4 @@
-# Szukanie pierwszej prazy lub stażu
+# Szukanie pierwszej pracy lub stażu
 
 Na grupie [Testowanie Oprogramowania](http://bit.ly/2uvEYzj) na Facebooku powstało już sporo tematów traktujących o tym jak i gdzie szukać stażu.
 
