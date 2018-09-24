@@ -2,11 +2,10 @@
 
 Gatling to biblioteka do testów wydajnościowych, którą można również stosować do testów funkcjonalnych. Możemy korzystać z całej gamy gotowych protokołów, jak również rozszerzać bibliotekę do własnych potrzeb, używajac języka Scala.
 
-### Strona projektu
+### Materiały od autorów
 * [https://gatling.io/](https://gatling.io/)
-
-### Zestaw przygotowany przez autorów
 * [https://gatling.io/documentation/](https://gatling.io/documentation/)
+
 
 ### Materiały do nauki Gatlinga
 * [https://www.baeldung.com/introduction-to-gatling](https://www.baeldung.com/introduction-to-gatling)
