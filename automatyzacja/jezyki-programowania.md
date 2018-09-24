@@ -10,7 +10,7 @@ Pamiętaj proszę, że wybór języka, od którego rozpoczniesz swoją naukę wc
 
 Na początku najważniejsze jest zrozumienie podstaw programowania, na przykładzie wybranego języka. Następnie nauczenie się kolejnego języka będzie znacznie łatwiejsze.
 
-{% embed data="{\"url\":\"https://nofluffjobs.com/blog/jezyki-programowania-w-pracy-testera-ktorych-warto-sie-nauczyc/\",\"type\":\"link\",\"title\":\"Języki programowania w pracy testera — których warto się nauczyć?\",\"description\":\"Języki programowania w pracy testera - sprawdź, które z nich są najczęściej wymagane przez pracodawców, a tym samym - których z nich warto się nauczyć!\",\"icon\":{\"type\":\"icon\",\"url\":\"https://nofluffjobs.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//nofluffjobs.com/blog/wp-content/uploads/2017/09/a34ea-14\_mfcjztfppa-7ogy-nluq.png\",\"width\":800,\"height\":417,\"aspectRatio\":0.52125}}" %}
+{% embed data="{\"url\":\"https://nofluffjobs.com/blog/jezyki-programowania-w-pracy-testera-porownanie-wynikow-z-2017-i-2018-roku/\",\"type\":\"link\",\"title\":\"Języki programowania w pracy testera — których warto się nauczyć?\",\"description\":\"Języki programowania w pracy testera - sprawdź, które z nich są najczęściej wymagane przez pracodawców, a tym samym - których z nich warto się nauczyć!\",\"icon\":{\"type\":\"icon\",\"url\":\"https://nofluffjobs.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//nofluffjobs.com/blog/wp-content/uploads/2017/09/a34ea-14\_mfcjztfppa-7ogy-nluq.png\",\"width\":800,\"height\":417,\"aspectRatio\":0.52125}}" %}
 
 ### 📚 Materiały
 
