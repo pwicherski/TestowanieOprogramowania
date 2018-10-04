@@ -4,7 +4,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 ### **Jak testować**
 
-* [Web Testing Basics - A short guide on how to test a website](http://webtestingbasics.com/page/index)
+{% page-ref page="../testowanie-stron-web.md" %}
 
 ### **Strony do testów manualnych oraz automatyzacji**
 
