@@ -4,7 +4,7 @@ about: Zgłoś problem
 
 ---
 
-**Opisz problem**
+**Opis problemu**
 Jasny i zwięzły opis problemu.
 
 **Kroki reprodukcji*
