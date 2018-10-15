@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Zgłoś problem
+about: Zgłoś problem w grupie Testowanie Oprogramowania
 
 ---
 
