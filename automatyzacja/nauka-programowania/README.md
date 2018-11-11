@@ -12,9 +12,9 @@ Przypuszczam, że wątpię.
 
 Kilka opinii z którymi warto się zapoznać, więcej zamieściłem jak zwykle w części 📚 Materiały.
 
-{% embed data="{\"url\":\"http://www.hanselman.com/blog/StopSayingLearningToCodeIsEasy.aspx\",\"type\":\"link\",\"title\":\"Stop saying learning to code is easy.\",\"description\":\"\(The photo above was taken at the Microsoft NYC office of three amazing young developers working on their apps.\) I saw ...\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.hanselman.com/images/apple-touch-icon-114x114.png\",\"width\":114,\"height\":114,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://www.hanselman.com/blog/content/binary/Windows-Live-Writer/b838839e04b2\_F646/25900705292\_9cee82fc23\_k\_a1204b76-831b-4fe8-b401-144fca21d25b.jpg\",\"width\":999,\"height\":370,\"aspectRatio\":0.37037037037037035}}" %}
+{% embed url="http://www.hanselman.com/blog/StopSayingLearningToCodeIsEasy.aspx" %}
 
-{% embed data="{\"url\":\"https://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy/\",\"type\":\"link\",\"title\":\"Don’t Believe Anyone Who Tells You Learning To Code Is Easy\",\"description\":\"One of the most dangerous things I’ve seen happen to people who are just starting to code is being told that it’s easy.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://techcrunch.com/wp-content/uploads/2014/05/rage-programming-crop.jpg\",\"width\":698,\"height\":523,\"aspectRatio\":0.7492836676217765}}" %}
+{% embed url="https://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy/" %}
 
 ![](https://pwicherski.gitbooks.io/testowanieoprogramowania/CCpgya-UIAA8uar.jpg)
 
@@ -59,7 +59,7 @@ Nauka programowania nie jest łatwa. Czy jest to wykonalne? Oczywiście! Jednak 
 Na początku najważniejsze jest zrozumienie podstaw programowania, na przykładzie wybranego języka. Następnie nauczenie się kolejnego języka będzie znacznie łatwiejsze.
 {% endhint %}
 
-{% embed data="{\"url\":\"http://blog.teamtreehouse.com/learn-another-programming-language\",\"type\":\"link\",\"title\":\"Should I Learn Another Programming Language? - Treehouse Blog\",\"description\":\"Here’s the thing: You don’t really have a choice. The likelihood that you’ll be developing software in a single language these days is slim.\",\"icon\":{\"type\":\"icon\",\"url\":\"http://teamtreehouse.com/assets/favicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://blog.teamtreehouse.com/wp-content/uploads/2015/10/shutterstock\_157725224.jpg\",\"width\":1000,\"height\":659,\"aspectRatio\":0.659}}" %}
+{% embed url="http://blog.teamtreehouse.com/learn-another-programming-language" %}
 
 ### 📚 Materiały
 

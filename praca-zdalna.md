@@ -34,7 +34,6 @@ Przykładowe firmy w których można otrzymać dodatkowe zlecenia to:
 * [http://www.testbirds.com/](http://www.testbirds.com/)
 * [http://www.usertesting.com/](http://www.usertesting.com/)
 * [https://crowdsourcedtesting.com/](https://crowdsourcedtesting.com/)
-* [https://www.pay4bugs.com/](https://www.pay4bugs.com/)
 * [https://mycrowd.com/](https://mycrowd.com/)
 * [https://test.io/](https://test.io)
 * [https://usabilityhub.com/](https://usabilityhub.com/)

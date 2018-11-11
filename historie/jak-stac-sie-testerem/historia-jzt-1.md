@@ -1,16 +1,16 @@
 # Historia JZT 1
 
-### **Czy są tutaj chętni do pracy w testowaniu oprogramowania?** {#czy-są-tutaj-chętni-do-pracy-w-testowaniu-oprogramowania}
+### **Czy są tutaj chętni do pracy w testowaniu oprogramowania?** <a id="czy-s&#x105;-tutaj-ch&#x119;tni-do-pracy-w-testowaniu-oprogramowania"></a>
 
 Cześć, czy zastanawialiście się może ostatnio nad spróbowaniem swoich sił w zawodzie testera oprogramowania ale nie wiecie od czego zacząć? Opowiem Wam jak wyglądały moje początki rozpoczętej nieco ponad rok temu przygody z QA ale może na początek się przedstawię pisząc...
 
-### **Kilka słów o mnie** {#kilka-słów-o-mnie}
+### **Kilka słów o mnie** <a id="kilka-s&#x142;&#xF3;w-o-mnie"></a>
 
 Mieszkam w Warszawie, skończyłem studia inżynierskie na wydziale Ogrodnictwa SGGW i pracowałem w wyuczonym zawodzie przez dwa lata. Jak się zapewne domyślacie, moje studia ani praca nie miały nic wspólnego z komputerami. Skończyłem liceum w klasie o profilu biologiczno-chemicznym i szczerze powiedziawszy ani wtedy, ani na studiach nie myślałem o pracy w szeroko rozumianym IT.
 
 Z powodów takich jak: brak stabilności finansowej, sezonowość a co za tym idzie praca na czarno lub umowę zlecenie, późną jesienią 2014 roku podjąłem decyzję: **zmieniam zawód**...wtedy nie miałem jednak pojęcia co chciałbym robić! W takiej sytuacji bardzo trudno jest znaleźć pracę. Nie można szukać "czegokolwiek". Przecież nikt nie zatrudni człowieka, który chce pracować ale nie wie co go interesuje i nie ma żadnej wiedzy związanej ze stanowiskiem, o które się ubiega. Byłem krok za Wami. **Wy już wiecie czego szukacie!**
 
-### **New year's eve - nowy rok, nowe życie** {#new-years-eve---nowy-rok-nowe-życie}
+### **New year's eve - nowy rok, nowe życie** <a id="new-years-eve---nowy-rok-nowe-&#x17C;ycie"></a>
 
 Późnym grudniowym wieczorem, gdzieś między Świętami Bożego Narodzenia a początkiem Nowego Roku, spotkałem się ze znajomymi na pokera przy whisky. Jeden z nich jest bardzo utalentowanym i od jakiegoś czasu coraz bardziej rozpoznawalnym w środowisku QA testerem. Zapytał mnie czy nie chciałbym spróbować swoich sił w testowaniu. Nie myśląc zbyt wiele wszedłem w to "All In", nie miałem nic do stracenia. Dostałem świetne karty i nie mogłem przegrać tego rozdania.
 
@@ -22,7 +22,7 @@ Proces rekrutacyjny do mojej obecnej pracy zaczął się dopiero w połowie czer
 
 Wysyłanie CV i pisanie ogłoszeń jednak nic nie da, jeżeli nie mamy żadnych konkretów do napisania. Wiem, wiem. Pojawia się pytanie: "Co mamy wpisać skoro nie mamy doświadczenia zawodowego?". Miałem ten sam problem co Wy i dlatego teraz opowiem, co robiłem będąc na bezrobociu żeby wypełnić moje CV :\)
 
-### **Odsłaniam swoje karty** {#odsłaniam-swoje-karty}
+### **Odsłaniam swoje karty** <a id="ods&#x142;aniam-swoje-karty"></a>
 
 Co miałem na starcie? W dużym skrócie można to zamknąć w pięciu punktach:
 
@@ -36,11 +36,11 @@ Nie każdy zna osobiście kogoś pracującego w zawodzie ale pozostałe wymienio
 
 Przygotowanie do pierwszej pracy traktowałem jak studia albo pracę. Na naukę poświęcałem co najmniej 5 godzin dziennie. Starałem się być zdyscyplinowany i uczyć się także w weekendy. Miałem okresy zwątpienia, kiedy szukanie pracy nie szło tak gładko jakbym tego sobie życzył albo przytłaczał mnie ogrom wiedzy jaki jeszcze powinienem przyswoić. Najważniejsze jest to, żeby po takich kilku dniach zwątpienia znów brać się w garść i dążyć do celu.
 
-### **Przepis na sukces!** {#przepis-na-sukces}
+### **Przepis na sukces!** <a id="przepis-na-sukces"></a>
 
 Poniżej opisuję dokładnie czego się uczyłem oraz z jakich materiałów korzystałem, żeby dostać pracę.
 
-#### **Próba traw** {#próba-traw}
+#### **Próba traw** <a id="pr&#xF3;ba-traw"></a>
 
 Na samym początku zostałem wrzucony na głęboką wodę. Pierwsze materiały jakie dostałem to [kurs Selenium](http://www.softwaretestinghelp.com/selenium-tutorial-1/). Został on polecony z opisem:
 
@@ -54,7 +54,7 @@ Tym razem był to [ten kurs video](https://www.youtube.com/user/CoraxTheTutor/vi
 
 Cały ten etap, czyli pierwszy miesiąc nauki, w żadnym wypadku nie nauczył mnie programowania ani tworzenia testów automatycznych. Ten czas wystarczył jedynie na ogólne zrozumienie tematu i umiejętność interpretacji napisanych przez kogoś prostych testów automatycznych.
 
-#### **Niezbędne podstawy** {#niezbędne-podstawy}
+#### **Niezbędne podstawy** <a id="niezb&#x119;dne-podstawy"></a>
 
 Dopiero po opisanym wcześniej chrzcie bojowym, zostałem wprowadzony w podstawy teorii testowania. Na tym etapie zapoznałem się też z podstawowym warsztatem testera manualnego. Przeczytałem sylabus ISTQB wraz ze słownikiem pojęć testerskich ISTQB. Dostałem także listę pojęć, które są szczególnie istotne \(lista poniżej\). **Nie dostałem kawy na ławę**. Tym razem sam musiałem szukać informacji. Czytałem o tych zagadnieniach w wielu źródłach, żeby mieć możliwie jak najszersze spojrzenie na dany temat.
 
@@ -81,7 +81,7 @@ Wszystkie zagadnienia z tej tematyki to był kolejny miesiąc nauki. Te pozornie
 
 **Opisane do tej pory tematy \(poza automatyzacją\) powinny wystarczyć do tego żeby zacząć się rozglądać za pracą!!!**
 
-#### **Rozwój szyty na miarę** {#rozwój-szyty-na-miarę}
+#### **Rozwój szyty na miarę** <a id="rozw&#xF3;j-szyty-na-miar&#x119;"></a>
 
 Po około trzech miesiącach przyszedł czas na naukę kolejnych zagadnień technicznych. Tym razem sam decydowałem o tym czego chcę się nauczyć. Bardzo interesowała mnie tematyka testów automatycznych, więc kontynuowałem naukę programowania oraz przydatnych technologii do pisania automatów.
 
@@ -91,7 +91,7 @@ Pierwsze kursy, które przerobiłem to kurs HTML, CSS i XPath. Na naukę tych te
 
 Ostatnią rzeczą jakiej się nauczyłem przed rozpoczęciem pracy to SQL. Kurs z powyżej podanej strony.
 
-### **Początek pracy zawodowej. Co dalej?** {#początek-pracy-zawodowej-co-dalej}
+### **Początek pracy zawodowej. Co dalej?** <a id="pocz&#x105;tek-pracy-zawodowej-co-dalej"></a>
 
 Zacząłem pracować. Pierwsze 3 miesiące spędziłem na automatyzacji aplikacji bankowej w mojej firmie. Praca uczy pokory. Po tych kilku miesiącach samodzielnej nauki wydawało mi się, że sporo potrafię. Po zakończeniu stażu, na którym dużo się nauczyłem w zakresie automatyzacji, paradoksalnie moje nastawienie zmieniło się na: "jest jeszcze tak wiele rzeczy, których muszę się nauczyć".
 

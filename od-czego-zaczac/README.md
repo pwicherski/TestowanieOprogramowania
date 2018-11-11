@@ -33,7 +33,7 @@ Podejmując się swojej pierwszej pracy jako tester można zostać przytłoczony
 
 Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza przykładowe pierwsze kroki, takie jak lista kontrolna dołączania do nowego projektu i pierwsze pytania, które warto zadać.
 
-{% embed data="{\"url\":\"http://nickytests.blogspot.com/2017/05/getting-started-on-testing-project.html\",\"type\":\"link\",\"title\":\"Getting started on a testing project\",\"description\":\"A blog about a software tester\'s learning journey\",\"icon\":{\"type\":\"icon\",\"url\":\"http://nickytests.blogspot.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="http://nickytests.blogspot.com/2017/05/getting-started-on-testing-project.html" caption="" %}
 
 ## 📚 Materiały
 

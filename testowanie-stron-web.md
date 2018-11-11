@@ -4,7 +4,7 @@
 
 Długa i szczegółowa lista kotrolna, która może zainspirować do stworzenia własnej listy kontrolnej, którą można wykorzystać przed wydaniem.
 
-{% embed data="{\"url\":\"https://github.com/thedaviddias/Front-End-Checklist/blob/master/README.md\",\"type\":\"link\",\"title\":\"thedaviddias/Front-End-Checklist\",\"description\":\"Front-End-Checklist - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/237229?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/thedaviddias/Front-End-Checklist/blob/master/README.md" %}
 
 
 
