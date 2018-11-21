@@ -4,7 +4,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 ### **Jak testować**
 
-* [Web Testing Basics - A short guide on how to test a website](http://webtestingbasics.com/page/index)
+{% page-ref page="../testowanie-stron-web.md" %}
 
 ### **Strony do testów manualnych oraz automatyzacji**
 
@@ -27,8 +27,6 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 * [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com) Herokuapp. The internet.
 * [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) API sandbox
 
-
-
 ### **Aplikacje i strony z zadaniami**
 
 * [http://mrbuggy.pl](http://mrbuggy.pl) Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby [TestingCup](https://pwicherski.gitbooks.io/testowanieoprogramowania/testingcup.pl)
@@ -38,4 +36,8 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 * [http://www.guru99.com/live-testing-project.html](http://www.guru99.com/live-testing-project.html)
 * [http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/](http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/)
+
+### Dodatkowo:
+
+{% page-ref page="../materialy-dodatkowe/gry-i-zadania.md" %}
 

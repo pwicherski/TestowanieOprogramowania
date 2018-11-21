@@ -33,11 +33,11 @@ Podejmując się swojej pierwszej pracy jako tester można zostać przytłoczony
 
 Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza przykładowe pierwsze kroki, takie jak lista kontrolna dołączania do nowego projektu i pierwsze pytania, które warto zadać.
 
-{% embed data="{\"url\":\"http://nickytests.blogspot.com/2017/05/getting-started-on-testing-project.html\",\"type\":\"link\",\"title\":\"Getting started on a testing project\",\"description\":\"A blog about a software tester\'s learning journey\",\"icon\":{\"type\":\"icon\",\"url\":\"http://nickytests.blogspot.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="http://nickytests.blogspot.com/2017/05/getting-started-on-testing-project.html" caption="" %}
 
 ## 📚 Materiały
 
-* [Najczęściej zadawane pytania na początku drogu testera oprogramowania](../najczesciej-zadawane-pytania.md) 🏤🌞
+* [Najczęściej zadawane pytania na początku drogi testera oprogramowania](../najczesciej-zadawane-pytania.md) 🏤🌞
 * [Aleksandra Kornecka - Praca: Tester oprogramowania](https://docs.google.com/document/d/1e9IVt5x_W8FW24R-7BaQh3xf3jShHfJGzMEjm0E1sWg/edit#)🌞
 * [Radosław Smilgin - Zawód Tester](https://go.buybox.click/linkclick_3679_132?&url=https%3A%2F%2Fksiegarnia.pwn.pl%2FZawod-tester%2C750906499%2Cp.html) 🌞 💵
   * [Radosław Smilgin opowiada o swojej książce "Zawód tester"](https://www.youtube.com/watch?v=7gG4mDPNItY) 🌞 📺

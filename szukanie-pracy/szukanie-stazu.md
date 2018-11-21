@@ -1,10 +1,10 @@
-# Szukanie pierwszej prazy lub stażu
+# Szukanie pierwszej pracy lub stażu
 
 Na grupie [Testowanie Oprogramowania](http://bit.ly/2uvEYzj) na Facebooku powstało już sporo tematów traktujących o tym jak i gdzie szukać stażu.
 
 W poniższym wątku możesz zamieścić swoje ogłoszenie, jeżeli szukasz pierwszej pracy lub stażu:
 
-{% embed data="{\"url\":\"https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1854599017896001/\",\"type\":\"link\",\"title\":\"Piotr Wicherski\",\"description\":\"PIERWSZA PRACA LUB STAŻ  Ze względu na zwiększoną liczbę wpisów z poszukiwaniem pierwszej pracy czy też stażu, powstał ten zbiór ogłoszeń.  Dokładne zasady zamieszczania ogłoszeń i komentowania tego...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p200x200/13901332\_1155274061161095\_2383301835403606421\_n.jpg?\_nc\_cat=0&oh=794b42b4a946d3cd58cad790b54803e9&oe=5C2C0DB7\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1854599017896001/" %}
 
 W wątku znajduje się aktualizowana lista firm, które oferują pracę dla początkującego stażysty lub młodszego testera bez komercyjnego doświadczenia.
 

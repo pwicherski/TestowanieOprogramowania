@@ -33,3 +33,4 @@ Gatling to biblioteka do testów wydajnościowych, którą można również stos
  * Książka o Scali po polsku
 
 
+

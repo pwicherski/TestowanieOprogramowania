@@ -2,7 +2,7 @@
 
 ### Tablica planowanych zmian, które wejdą do kolejnej wersji
 
-{% embed data="{\"url\":\"https://github.com/pwicherski/TestowanieOprogramowania/projects/1\",\"type\":\"link\",\"title\":\"pwicherski/TestowanieOprogramowania\",\"description\":\"TestowanieOprogramowania - Książka dla początkujących\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars2.githubusercontent.com/u/6884051?s=400&v=4\",\"width\":215,\"height\":215,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/pwicherski/TestowanieOprogramowania/projects/1" %}
 
 ### 1.0.2 - 2018-09-XX
 

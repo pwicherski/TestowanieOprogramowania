@@ -13,7 +13,7 @@ Szkolenie zdecydowanie nie jest niezbędne. Wiele jednak zależy od sposobu w ja
 
 Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 
-{% embed data="{\"url\":\"http://sjsi.org/oplaty-egzaminacyjne/\",\"type\":\"link\",\"title\":\"Opłaty egzaminacyjne \(ISTQB\) \|\",\"icon\":{\"type\":\"icon\",\"url\":\"http://sjsi.org/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="http://sjsi.org/oplaty-egzaminacyjne/" %}
 
 ### **Szkolenia do egzaminu na certyfikat ISTQB poziom podstawowy**
 
