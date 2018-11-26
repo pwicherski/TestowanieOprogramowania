@@ -38,7 +38,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Michał Krzyżanowski
 * [https://thebrokentest.com](https://thebrokentest.com/)
   * Maciej Wyrodek
-* [https://testelka.pl](https://testelka.pl/)
+* [https://testelka.pl/blog/](https://testelka.pl/blog/)
   * Ela Sądel
 
 ## Dawno nieaktualizowane:
