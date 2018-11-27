@@ -43,8 +43,6 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 * [https://www.youtube.com/channel/UCotIzywq-1VxP1jq1ocFLBg?](https://www.youtube.com/channel/UCotIzywq-1VxP1jq1ocFLBg?)
   * Podcast QAudycja \| Konrad Bielawski
   
-  
-  https://www.youtube.com/channel/UCotIzywq-1VxP1jq1ocFLBg?
 
 ## Dawno nieaktualizowane:
 
