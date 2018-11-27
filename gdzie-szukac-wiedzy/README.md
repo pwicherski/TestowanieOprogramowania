@@ -57,13 +57,6 @@ Wymienione społeczności organizują darmowe prezentacje i warsztaty.
 
 * [Feed Ministry of Testing](https://www.ministryoftesting.com/feeds/blogs)
 
-### Podcasty
-
-* [Ping podcast](http://ping.com.pl/category/podcast/) 🌞
-* [Testing Parrot](https://anchor.fm/testing-parrot) 🌞
-* [Agregator wielu podcastów testerskich](https://testingpodcast.com/)
-* [Lista ciekawych podcastów](http://www.testingdiaries.com/software-testing-podcasts/)
-
 ### Polskich społeczności testerskie
 
 * [https://www.facebook.com/groups/TestowanieOprogramowania/](https://www.facebook.com/groups/TestowanieOprogramowania/)
