@@ -40,6 +40,11 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Maciej Wyrodek
 * [https://testelka.pl/blog/](https://testelka.pl/blog/)
   * Ela Sądel
+* [https://www.youtube.com/channel/UCotIzywq-1VxP1jq1ocFLBg?](https://www.youtube.com/channel/UCotIzywq-1VxP1jq1ocFLBg?)
+  * Podcast QAudycja \| Konrad Bielawski
+  
+  
+  https://www.youtube.com/channel/UCotIzywq-1VxP1jq1ocFLBg?
 
 ## Dawno nieaktualizowane:
 
