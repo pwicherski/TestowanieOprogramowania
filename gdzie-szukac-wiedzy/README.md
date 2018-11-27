@@ -44,7 +44,7 @@ Wymienione społeczności organizują darmowe prezentacje i warsztaty.
 * TestFest 🙋
 * TestingCup 
 * TestWarez 
-*  Zapewnienia jakości w projektach IT 
+* Zapewnienia jakości w projektach IT 
 * [Lista zagranicznych konferencji](https://testingconferences.org/)
 
 ### Twitter
@@ -86,13 +86,11 @@ Wymienione społeczności organizują darmowe prezentacje i warsztaty.
 * [https://www.utest.com/forums](https://www.utest.com/forums)
   * uTest forum
 
-### Książki o testowaniu 
+### Książki o testowaniu
 
 {% page-ref page="ksiazki-o-testowaniu.md" %}
 
 ### Polskie blogi
 
 {% page-ref page="polskie-blogi.md" %}
-
-
 
