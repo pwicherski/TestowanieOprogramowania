@@ -1,5 +1,5 @@
 # Charles Proxy
-Charles Proxy to narzędzie do przechwytywania ruchu HTTP i HTTPS. Funkcje Charles'a docenią testerzy eksploracyjni aplikacji mobilnych i webowych.
+Charles Proxy to narzędzie do przechwytywania ruchu HTTP i HTTPS. Funkcje Charles'a docenią testerzy eksploracyjni  zajmujący się aplikacjami mobilnymi i webowymi.
 
 ## Materiały od autorów
 
