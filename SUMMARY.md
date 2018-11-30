@@ -36,6 +36,7 @@
   * [Jenkins](narzedzia/jenkins.md)
   * [GIT](narzedzia/git.md)
   * [Chrome Developer Tools](narzedzia/chrome-developer-tools.md)
+  * [Charles Proxy](narzedzia/charles-proxy.md)
   * [Wtyczki do przeglądarek](narzedzia/wtyczki-do-przegladarek.md)
   * [Zarządzanie testowaniem](narzedzia/zarzadzanie-przypadkami-testowymi/README.md)
     * [TestLink](narzedzia/zarzadzanie-przypadkami-testowymi/testlink.md)
