@@ -15,8 +15,14 @@ Najprostszym sposobem znalezienia pierwszej pracy lub stażu będzie napisanie d
 Gdzie jeszcze szukać:
 
 * [Oferty stażu na grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765229770166260)
+* [Oferty pracy na grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765176240171613)
 * [https://nofluffjobs.com/juniors](https://nofluffjobs.com/juniors)
 * [http://www.juniorjobsonly.com/](http://www.juniorjobsonly.com/)
+* [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
+* [https://www.pracuj.pl/](https://www.pracuj.pl/)
+* [https://www.praca.pl/](https://www.praca.pl/)
+* [https://justjoin.it/all/testing](https://justjoin.it/all/testing)
+* [http://lmgtfy.com/?q=praca+tester](http://lmgtfy.com/?q=praca+tester)
 
 {% hint style="warning" %}
 Szukasz pracy i nie możesz jej znaleźć pomimo tego, że podobno jest to łatwe? Zerknij [tutaj](./#szukasz-pracy-i-nie-mozesz-jej-znalezc-pomimo-tego-ze-podobno-jest-to-latwe).
