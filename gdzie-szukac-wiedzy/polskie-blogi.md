@@ -24,8 +24,6 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Łukasz Rosłonek
 * [http://awesome-testing.blogspot.com/](http://awesome-testing.blogspot.com/)
   * Sławomir Radzymiński
-* [http://testspring.pl/blog/category/blog/](http://testspring.pl/blog/category/blog/)
-  * Blog Stargate Technology
 * [http://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
   * Blog pewnego Michała
 * [http://testerslife.pl](http://testerslife.pl)
@@ -45,6 +43,10 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 
 * [http://termometr.blogspot.com/](http://termometr.blogspot.com/)
   * Tomasz Zdanowicz
+* [http://testspring.pl/blog/category/blog/](http://testspring.pl/blog/category/blog/)
+  * Blog Stargate Technology
 * [http://web.archive.org/web/20160309122123/http://blog.alvarus.org/](http://web.archive.org/web/20160309122123/http://blog.alvarus.org/)
-  * Wersja archiwalna bloga \| Łukasz Jasiński
+  * Wersja archiwalna bloga \| Łukasz Jasiński 
+
+
 
