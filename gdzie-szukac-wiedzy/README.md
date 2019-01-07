@@ -5,14 +5,16 @@
 ### Lokalne społeczności testerskie
 
 {% hint style="success" %}
-Wymienione społeczności organizują darmowe prezentacje i warsztaty.
+Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusyjne i warsztaty.
 {% endhint %}
 
 * BiałQA \(Białystok\)
 * ŁuczniczQA \(Bydgoszcz\)
-* QualityMeetup \(Gliwice\)
+* Quality Meetup \(Gliwice\)
 * QAtowice \(Katowice\)
 * KraQA \(Kraków\)
+* Quality Questions \(Kraków\)
+* QA Summer Fest \(Kraków\)
 * LubQA \(Lublin\)
 * ŁódQA \(Łódź\)
 * PTaQ \(Poznań\)
@@ -24,6 +26,8 @@ Wymienione społeczności organizują darmowe prezentacje i warsztaty.
 * 3QA \(Trójmiasto\)
 * WarszawQA \(Warszawa\)
 * WrotQA \(Wrocław\)
+* Quality3D \(Wrocław, Warszawa\)
+* QA Has Power \(Wrocław, Łódź, Poznań\)
 * DebatQA \(Brak danych\)
 
 ### Lokalne konferencje testerskie
@@ -45,7 +49,7 @@ Wymienione społeczności organizują darmowe prezentacje i warsztaty.
 * TestingCup 
 * TestWarez 
 * Zapewnienia jakości w projektach IT 
-* [Lista zagranicznych konferencji](https://testingconferences.org/)
+* [Niepełna lista zagranicznych konferencji](https://testingconferences.org/)
 
 ### Twitter
 
