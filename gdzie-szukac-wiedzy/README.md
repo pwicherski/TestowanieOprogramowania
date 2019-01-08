@@ -96,5 +96,3 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 
 ### Polskie blogi
 
-{% page-ref page="polskie-blogi.md" %}
-

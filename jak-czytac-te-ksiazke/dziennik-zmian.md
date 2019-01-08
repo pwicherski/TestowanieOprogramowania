@@ -5,9 +5,9 @@
 #### Zmiany
 
 * Aktualizacja listy raportów [zarobków](../zarobki.md).
-* Aktualizacja listy polskich [blogów](../gdzie-szukac-wiedzy/polskie-blogi.md).
+* Aktualizacja listy [blogów](../gdzie-szukac-wiedzy/blogi.md).
 * Aktualizacja listy [danych testowych](../materialy-dodatkowe/dane-testowe.md).
-* Dodanie listy polskich podcastów.
+* Dodanie listy polskich [podcastów](../gdzie-szukac-wiedzy/podcasty.md).
 * Dodanie listy przydatnych raportów.
 * Dodane materiały odnośnie narzędzi:
   * [Charles Proxy](../narzedzia/charles-proxy.md).

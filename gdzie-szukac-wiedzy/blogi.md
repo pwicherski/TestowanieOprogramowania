@@ -1,4 +1,4 @@
-# Polskie blogi
+# Blogi
 
 Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej część wpisów zamieszczaną przez polaków.
 
@@ -47,6 +47,4 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Blog Stargate Technology
 * [http://web.archive.org/web/20160309122123/http://blog.alvarus.org/](http://web.archive.org/web/20160309122123/http://blog.alvarus.org/)
   * Wersja archiwalna bloga \| Łukasz Jasiński 
-
-
 

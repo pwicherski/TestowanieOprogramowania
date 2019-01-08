@@ -1,3 +1,7 @@
+---
+description: 'Zarobki, wynagrodzenie tester oprogramowania'
+---
+
 # Zarobki
 
 ### 📚 Materiały
@@ -14,11 +18,15 @@
   * [Aktualizowane na bieżąco wyniki](https://wynagrodzenia.pl/moja-placa/ile-zarabia-tester-oprogramowania)
 * Wyniki dla wielu stanowisk testerskich \[Pracuj.pl\]
   * [Aktualizowane na bieżąco wyniki](https://zarobki.pracuj.pl/stanowiska/it-rozwoj-oprogramowania)
+* Średnie wynagroszenie testera oprogramowania \[payscale\]
+  * [Podgląd biężących analiz](https://www.payscale.com/research/PL/Job=Software_Tester/Salary)
 * Raporty płacowe \[Hays\] 🌞 
   * [2018](https://www.hays.pl/raport-placowy/index.htm) \| [2017](https://www.hays.pl/raport-placowy/archiwum/2017/index.htm) \| [2016](https://www.hays.pl/raport-placowy/archiwum/2016/index.htm) \| [2015](https://www.hays.pl/raport-placowy/archiwum/2015/index.htm)
 
 #### Inne
 
+* Software Test Engineer Salaries in the United States \[indeed\]
+  * [Podgląd bieżących analiz](https://www.indeed.com/salaries/Software-Test-Engineer-Salaries)
 * Zarobki w kraju i za granicą \[glassdoor\] 
   * [Podgląd bieżących analiz](https://www.glassdoor.com/Salaries/index.htm)
 

@@ -48,6 +48,7 @@
   * [Mapy myśli](materialy-dodatkowe/mapy-mysli.md)
   * [Dane testowe](materialy-dodatkowe/dane-testowe.md)
 * [Gdzie szukać wiedzy](gdzie-szukac-wiedzy/README.md)
+  * [Raporty](gdzie-szukac-wiedzy/raporty.md)
   * [Książki o testowaniu](gdzie-szukac-wiedzy/ksiazki-o-testowaniu.md)
   * [Blogi](gdzie-szukac-wiedzy/blogi.md)
   * [Magazyny testerskie](gdzie-szukac-wiedzy/magazyny-testerskie.md)
