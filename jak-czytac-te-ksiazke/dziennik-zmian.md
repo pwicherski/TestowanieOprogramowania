@@ -1,10 +1,19 @@
 # Dziennik zmian
 
-### Tablica planowanych zmian, które wejdą do kolejnej wersji
+### 1.0.3 - 2018-01-08
 
-{% embed url="https://github.com/pwicherski/TestowanieOprogramowania/projects/1" %}
+#### Zmiany
 
-### 1.0.2 - 2018-09-XX
+* Aktualizacja listy raportów [zarobków](../zarobki.md).
+* Aktualizacja listy polskich [blogów](../gdzie-szukac-wiedzy/polskie-blogi.md).
+* Aktualizacja listy [danych testowych](../materialy-dodatkowe/dane-testowe.md).
+* Dodanie listy polskich podcastów.
+* Dodanie listy przydatnych raportów.
+* Dodane materiały odnośnie narzędzi:
+  * [Charles Proxy](../narzedzia/charles-proxy.md).
+  * [Gatling](../narzedzia/gatling.md).
+
+### 1.0.2 - 2018-09-30
 
 #### Zmiany
 
