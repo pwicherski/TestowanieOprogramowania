@@ -38,6 +38,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Maciej Wyrodek
 * [https://testelka.pl/blog/](https://testelka.pl/blog/)
   * Ela Sądel
+* [https://jakosctobedzie.pl/](https://jakosctobedzie.pl/)
+  * Magda Drechsler-Nowak
 
 ## Dawno nieaktualizowane:
 
