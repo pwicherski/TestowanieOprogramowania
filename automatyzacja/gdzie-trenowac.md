@@ -11,9 +11,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 * [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com) Herokuapp. The internet.
 * [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) API sandbox
 * [https://asta.pgs-soft.com](https://asta.pgs-soft.com) Automated Software Testing Arena
-* [http://timvroom.com/selenium/playground/](http://timvroom.com/selenium/playground/) Piaskownica z wypisanymi zadaniami do zrealizowania
 * [http://automationpractice.com](http://automationpractice.com) Wirtualny sklep
-* [http://demoqa.com](http://demoqa.com) Różne funkcje
 * [http://newtours.demoaut.com](http://newtours.demoaut.com) Strona o tematyce turystycznej
 * [http://bdonline.sqe.com](http://bdonline.sqe.com) B&D is a fictitious online brokerage firm
 * [http://adam.goucher.ca/parkcalc](http://adam.goucher.ca/parkcalc) This "application" has some serious flaws, and has been the subject of lots of exploratory testing.

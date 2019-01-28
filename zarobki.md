@@ -1,7 +1,3 @@
----
-description: 'Zarobki, wynagrodzenie tester oprogramowania'
----
-
 # Zarobki
 
 ### 📚 Materiały

@@ -1,7 +1,3 @@
----
-description: Raporty testowanie oprogramowania
----
-
 # Raporty
 
 ### 📚 Materiały <a id="materialy"></a>
