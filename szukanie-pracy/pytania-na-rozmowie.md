@@ -11,7 +11,6 @@
 7. Jakie Ty posiadasz zalety, które są przydatne w pracy na tym stanowisku?
 8. Skąd czerpiesz wiedzę o technologiach?
 9. Jak sobie wyobrażasz Twoją dalszą karierę? W którym kierunku chcesz się rozwijać?
-10. Co byś robił, gdybyś nie mógł być testerem?
 
 ### Teoria
 
