@@ -40,9 +40,10 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 
 * Agile & Automation Days 
 * Akademia Jakości 
-* Forum Jakości Systemów Informatycznych 
 * ConSelenium 
+* Forum Jakości Systemów Informatycznych 
 * Quality Excites 🙋
+* Konferencja Testerzy.pl 🙋
 * ReQuest 
 * SkładQA 🙋
 * Test Camp 🙋
@@ -97,4 +98,6 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 {% page-ref page="ksiazki-o-testowaniu.md" %}
 
 ### Polskie blogi
+
+{% page-ref page="blogi.md" %}
 
