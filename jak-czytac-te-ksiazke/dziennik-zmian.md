@@ -1,12 +1,13 @@
 # Dziennik zmian
 
-### 1.0.3 - 2018-01-08
+### 1.0.3 - 2018-02-XX
 
 #### Zmiany
 
 * Aktualizacja listy raportów [zarobków](../zarobki.md).
 * Aktualizacja listy [blogów](../gdzie-szukac-wiedzy/blogi.md).
 * Aktualizacja listy [danych testowych](../materialy-dodatkowe/dane-testowe.md).
+* Aktualizacja listy stron, na których można testować. Dział narzędzia [Selenium](../narzedzia/selenium.md#strony-na-ktorych-mozna-trenowac).
 * Dodanie listy polskich [podcastów](../gdzie-szukac-wiedzy/podcasty.md).
 * Dodanie listy przydatnych raportów.
 * Dodane materiały odnośnie narzędzi:
