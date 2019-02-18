@@ -2,7 +2,7 @@
 
 ## 📚 Materiały
 
-### Lokalne społeczności testerskie
+### Lokalne społeczności testerskie - meetupy testerskie
 
 {% hint style="success" %}
 Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusyjne i warsztaty.
@@ -30,6 +30,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * WrotQA \(Wrocław\)
 * Quality3D \(Wrocław, Warszawa\)
 * QA Has Power \(Wrocław, Łódź, Poznań\)
+* ZielonQA \(Zielona góra\)
 * DebatQA \(Brak danych\)
 
 ### Lokalne konferencje testerskie
