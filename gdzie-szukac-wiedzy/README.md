@@ -65,7 +65,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 
 * [Feed Ministry of Testing](https://www.ministryoftesting.com/feeds/blogs)
 
-### Polskich społeczności testerskie
+### Polskie internetowe społeczności testerskie \(wybrane\)
 
 * [https://www.facebook.com/groups/TestowanieOprogramowania/](https://www.facebook.com/groups/TestowanieOprogramowania/)
   * Grupa Testowanie Oprogramowania Facebook
@@ -74,7 +74,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [http://www.goldenline.pl/grupy/Komputery\_Internet/software-quality-assurance/](http://www.goldenline.pl/grupy/Komputery_Internet/software-quality-assurance/)
   * Goldenline Polska
 
-### Anglojęzyczne społeczności testerskie
+### Anglojęzyczne internetowe społeczności testerskie \(wybrane\)
 
 * [http://sqa.stackexchange.com/](http://sqa.stackexchange.com/)
   * SQA stackexchange
