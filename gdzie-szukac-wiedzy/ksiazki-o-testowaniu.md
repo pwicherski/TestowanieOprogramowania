@@ -24,12 +24,18 @@ Zebrana kwota \(02.03.2019\): 209.84 zł
 * Karolina Zmitrowicz - [**Jakość projektów informatycznych Rozwój i testowanie oprogramowania**](https://buybox.click/4917/buybox.html?oid=4973400);  
 * Karolina Zmitrowicz - [**Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania**](https://buybox.click/4917/buybox.html?oid=4662933);  
 * Linz Tilo - [**Testowanie w procesie Scrum. Przewodnik po zarządzaniu jakością oprogramowania w świecie programowania**](https://buybox.click/4917/buybox.html?oid=3089991);  
-* Rafał Pawlak - [**Testowanie oprogramowania. Podręcznik dla początkujących**](https://buybox.click/4917/buybox.html?oid=3288447);  
+* Rafał Pawlak - [**Testowanie oprogramowania. Podręcznik dla początkujących**](https://buybox.click/4917/buybox.html?oid=3288447); 
+* Rafał Stańczak, Karolina Zmitrowicz - [**Jakość w Agile. Zwinna droga do sukcesu**](https://buybox.click/4917/buybox.html?oid=37124906);  
 * Adam Roman - [**Statyczne testowanie oprogramowania**](https://buybox.click/4917/buybox.html?oid=4086135);  
 * Jez Humble, David Farley - [**Ciągłe dostarczanie oprogramowania. Automatyzacja kompilacji, testowania i wdrażania**](https://buybox.click/4917/buybox.html?oid=3516129);  
 * Bogdan Bereza-Jarociński, Bolesław Szomański - [**Inżynieria oprogramowania. Jak zapewnić jakość tworzonym aplikacjom**](https://buybox.click/4917/buybox.html?oid=3080688)**;** 
 * Wiszniewski Bogdan, Bereza-Jarociński Bogdan - [**Teoria i praktyka testowania programów**](https://buybox.click/4917/buybox.html?oid=15353453);  
-* Ron Patton - **Testowanie Oprogramowania**;
+* Ron Patton - **Testowanie Oprogramowania**; 
+* Andrzej Jacek Blikle - [**Doktryna jakości**](https://buybox.click/4917/buybox.html?oid=10016181);
+
+{% hint style="success" %}
+Zasugeruj nową pozycję: [Rozwój materiałów](../rozwoj-materialow.md).
+{% endhint %}
 
 Zastanawia mnie fakt jak wielu poznałem testerów, którzy nie przeczytali jeszcze ani jednej książki o testowaniu oprogramowania.  
 Część z nich ma dobrych kilka lat doświadczenia na karku. Nie twierdzę oczywiście, że nie czytając książek o testowaniu nie można stać się dobrym testerem \(odrębnym tematem jest równoczesny brak znajomości i widoczny brak chęci znania jakiegokolwiek bloga\). Czy też, że czytając książki nagle staniemy się lepszym testerem.
