@@ -8,13 +8,13 @@
 Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusyjne i warsztaty.
 {% endhint %}
 
-* BiałQA \(Białystok\)
-* ŁuczniczQA \(Bydgoszcz\)
-* Quality Meetup \(Gliwice\)
-* Ślonzacz-QA \(Katowice\)
-* QAtowice \(Katowice\)
-* KraQA \(Kraków\)
-* Quality Questions \(Kraków\)
+* [BiałQA](https://www.facebook.com/groups/BialQA/) \(Białystok\)
+* [ŁuczniczQA ](https://www.facebook.com/LuczniczQA/)\(Bydgoszcz\)
+* [Quality Meetup](https://www.meetup.com/Quality-Meetup/) \(Gliwice\)
+* [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) \(Katowice\)
+* [QAtowice ](https://www.meetup.com/Katowice-Quality-Assurance-Meetup/)\(Katowice\)
+* [KraQA ](https://www.meetup.com/KraQA-pl/)\(Kraków\)
+* [Quality Questions](https://www.meetup.com/High-Quality-Code-Fans/) \(Kraków\)
 * QA Summer Fest \(Kraków\)
 * LubQA \(Lublin\)
 * ŁódQA \(Łódź\)
