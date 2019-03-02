@@ -1,3 +1,7 @@
+---
+description: 'http://bit.ly/TO-ksiazki'
+---
+
 # Książki o testowaniu
 
 Zastanawia mnie fakt jak wielu poznałem testerów, którzy nie przeczytali jeszcze ani jednej książki o testowaniu oprogramowania.  
