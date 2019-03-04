@@ -45,10 +45,12 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * Forum Jakości Systemów Informatycznych 
 * Quality Excites 🙋
 * Konferencja Testerzy.pl 🙋
+* PTaQ Day One 🙋
 * ReQuest 
 * SkładQA 🙋
 * Test Camp 🙋
 * Test Dive 🙋
+* Testaton 🙋
 * TestFest 🙋
 * TestingCup 
 * TestWarez 
