@@ -1,9 +1,11 @@
 # Dziennik zmian
 
-### 1.0.3 - 2018-02-XX
+### 1.0.3 - 2018-03-04
 
 #### Zmiany
 
+* Usunięcie 🌞 przy materiałach w języku polskim.
+* Aktualizacja listy [danych testowych](../materialy-dodatkowe/dane-testowe.md).
 * Aktualizacja listy raportów [zarobków](../zarobki.md).
 * Aktualizacja listy [blogów](../gdzie-szukac-wiedzy/blogi.md).
 * Aktualizacja listy [danych testowych](../materialy-dodatkowe/dane-testowe.md).

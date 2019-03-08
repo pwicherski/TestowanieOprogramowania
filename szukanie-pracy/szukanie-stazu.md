@@ -30,6 +30,6 @@ Szukasz pracy i nie możesz jej znaleźć pomimo tego, że podobno jest to łatw
 
 ### \*\*\*\*![](../.gitbook/assets/icons8-facebook-50%20%289%29.png) **Dyskusje**
 
-* ["Szukam pracy/stażu" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765195193503051) 🏤🌞
+* ["Szukam pracy/stażu" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765195193503051) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy szukają pracy lub stażu
 

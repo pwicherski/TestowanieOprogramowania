@@ -14,8 +14,6 @@ Mogą też zawierać dodatkowe źródła informacji.
 
 ### Ikony oznaczeń materiałów
 
-🌞 - Materiał w języku polskim.
-
 📺 - Materiał w formie video.
 
 🎙️ - Materiał w formie audio.

@@ -3,7 +3,7 @@
 ### **Certyfikat ISTQB**
 
 * [Czym jest ISTQB](https://www.youtube.com/watch?v=HrK1zhqyW4k) 📺
-* [Certyfikat testerski ISTQB Foundation Level – czym jest i czy warto go mieć?](http://jakzostactesterem.pl/certyfikat-testerski-istqb-foundation-czym-warto-go-miec/) 🌞
+* [Certyfikat testerski ISTQB Foundation Level – czym jest i czy warto go mieć?](http://jakzostactesterem.pl/certyfikat-testerski-istqb-foundation-czym-warto-go-miec/) 
 
 ### **Czy szkolenie jest niezbędne żeby zdać egzamin?**
 
@@ -23,21 +23,22 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 
 ### **Przygotowanie do egzaminu**
 
-* [Jak zdać egzamin ISTQB. Wprowadzenie.](http://edu.ittraining.pl/material/jak-zdac-egzamin-ISTQB) 🌞
-* [Jak zdać egzamin ISTQB Poziom Podstawowy plus streszczenie sylabusa](http://testerzy.pl/baza-wiedzy/e-book-jak-zdac-egzamin-istqb-poziom-podstawowy-plus-streszczenie-sylabusa) 🌞 💵
+* [Jak zdać egzamin ISTQB. Wprowadzenie.](http://edu.ittraining.pl/material/jak-zdac-egzamin-ISTQB) 
+* [Jak zdać egzamin ISTQB Poziom Podstawowy plus streszczenie sylabusa](http://testerzy.pl/baza-wiedzy/e-book-jak-zdac-egzamin-istqb-poziom-podstawowy-plus-streszczenie-sylabusa) 💵
 * [ISTQB — jak zdać egzamin?](https://www.qagile.pl/blog/istqb-zdac-egzamin/)
 
 ### 📚 Materiały
 
-* [TestCompetence - próbne egzaminy](http://testcompetence.com/) 🌞 💵
-* [Baza ponad 370 pytań AmberTeam](http://www.amberteam.pl/pl/baza-pytan) 🌞
-* [Przykładowy arkusz egzaminacyjny przetłumaczony przez SJSI](http://sjsi.org/ist-qb/do-pobrania/)
+* [TestCompetence - próbne egzaminy](http://testcompetence.com/) 💵
+* [Baza ponad 370 pytań AmberTeam](http://www.amberteam.pl/pl/baza-pytan) 
+* [Przykładowy arkusz egzaminacyjny przetłumaczony przez SJSI](http://sjsi.org/ist-qb/do-pobrania/) 
 * [ISTQB Simulator Test for Foundation Level Paper](http://toolsqa.com/istqb/istqb-simulator-test-foundation-level-paper-1/)
 * [Kilka przykładowych arkuszy egzaminacyjnych ISTQB przygotowanych przez ASTQB](https://www.astqb.org/get-certified/istqb-syllabi-the-istqb-software-tester-certification-body-of-knowledge/)
+* [Quizy ISTQB](http://getistqb.com/) 
 
 ###  ![](../.gitbook/assets/icons8-facebook-50%20%285%29.png) Dyskusje
 
-* ["ISTQB" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765191683503402&ref=story_subtitle) 🏤🌞
+* ["ISTQB" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765191683503402&ref=story_subtitle) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat ISTQB.
 * [Przykładowe pytania ISTQB](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1241196819236227/)
 * [Często czytałam opinie, że na egzaminie ISTQB pytania są z kosmosu.](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1241196819236227/)

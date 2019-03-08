@@ -10,8 +10,10 @@ Dane testowe \(ISTQB\) - To dane, które istnieją \(przykładowo w bazie danych
   * [https://docs.adyen.com/developers/test-cards/test-card-numbers](https://docs.adyen.com/developers/test-cards/test-card-numbers)
   * [https://support.buckaroo.nl/index.php/EN/Test\_data](https://support.buckaroo.nl/index.php/EN/Test_data)
   * [https://stripe.com/docs/testing](https://stripe.com/docs/testing)
-* Ciągi znaków
-  * [https://github.com/minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+* [Ciągi znaków](https://github.com/minimaxir/big-list-of-naughty-strings)
+* [Różnej wielkości pliki zip](https://www.thinkbroadband.com/download)
+* [Zbiór wielu plików testowych](http://techslides.com/sample-files-for-development)
+* [Lista wielu formatów plików](https://en.wikipedia.org/wiki/List_of_file_formats)
 
 ### Generatory danych testowych
 
