@@ -2,17 +2,20 @@
 
 ## 📚 Materiały
 
-### Lokalne społeczności testerskie
+### Lokalne społeczności testerskie - meetupy testerskie
 
 {% hint style="success" %}
-Wymienione społeczności organizują darmowe prezentacje i warsztaty.
+Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusyjne i warsztaty.
 {% endhint %}
 
-* BiałQA \(Białystok\)
-* ŁuczniczQA \(Bydgoszcz\)
-* QualityMeetup \(Gliwice\)
-* QAtowice \(Katowice\)
-* KraQA \(Kraków\)
+* [BiałQA](https://www.facebook.com/groups/BialQA/) \(Białystok\)
+* [ŁuczniczQA ](https://www.facebook.com/LuczniczQA/)\(Bydgoszcz\)
+* [Quality Meetup](https://www.meetup.com/Quality-Meetup/) \(Gliwice\)
+* [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) \(Katowice\)
+* [QAtowice ](https://www.meetup.com/Katowice-Quality-Assurance-Meetup/)\(Katowice\)
+* [KraQA ](https://www.meetup.com/KraQA-pl/)\(Kraków\)
+* [Quality Questions](https://www.meetup.com/High-Quality-Code-Fans/) \(Kraków\)
+* QA Summer Fest \(Kraków\)
 * LubQA \(Lublin\)
 * ŁódQA \(Łódź\)
 * PTaQ \(Poznań\)
@@ -23,7 +26,11 @@ Wymienione społeczności organizują darmowe prezentacje i warsztaty.
 * TrojQA \(Trójmiasto\)
 * 3QA \(Trójmiasto\)
 * WarszawQA \(Warszawa\)
+* LogCat \(Wrocław\)
 * WrotQA \(Wrocław\)
+* Quality3D \(Wrocław, Warszawa\)
+* QA Has Power \(Wrocław, Łódź, Poznań\)
+* ZielonQA \(Zielona góra\)
 * DebatQA \(Brak danych\)
 
 ### Lokalne konferencje testerskie
@@ -34,18 +41,21 @@ Wymienione społeczności organizują darmowe prezentacje i warsztaty.
 
 * Agile & Automation Days 
 * Akademia Jakości 
-* Forum Jakości Systemów Informatycznych 
 * ConSelenium 
+* Forum Jakości Systemów Informatycznych 
 * Quality Excites 🙋
+* Konferencja Testerzy.pl 🙋
+* PTaQ Day One 🙋
 * ReQuest 
 * SkładQA 🙋
 * Test Camp 🙋
 * Test Dive 🙋
+* Testaton 🙋
 * TestFest 🙋
 * TestingCup 
 * TestWarez 
-*  Zapewnienia jakości w projektach IT 
-* [Lista zagranicznych konferencji](https://testingconferences.org/)
+* Zapewnienia jakości w projektach IT 
+* [Niepełna lista zagranicznych konferencji](https://testingconferences.org/)
 
 ### Twitter
 
@@ -57,14 +67,7 @@ Wymienione społeczności organizują darmowe prezentacje i warsztaty.
 
 * [Feed Ministry of Testing](https://www.ministryoftesting.com/feeds/blogs)
 
-### Podcasty
-
-* [Ping podcast](http://ping.com.pl/category/podcast/) 🌞
-* [Testing Parrot](https://anchor.fm/testing-parrot) 🌞
-* [Agregator wielu podcastów testerskich](https://testingpodcast.com/)
-* [Lista ciekawych podcastów](http://www.testingdiaries.com/software-testing-podcasts/)
-
-### Polskich społeczności testerskie
+### Polskie internetowe społeczności testerskie \(wybrane\)
 
 * [https://www.facebook.com/groups/TestowanieOprogramowania/](https://www.facebook.com/groups/TestowanieOprogramowania/)
   * Grupa Testowanie Oprogramowania Facebook
@@ -73,7 +76,7 @@ Wymienione społeczności organizują darmowe prezentacje i warsztaty.
 * [http://www.goldenline.pl/grupy/Komputery\_Internet/software-quality-assurance/](http://www.goldenline.pl/grupy/Komputery_Internet/software-quality-assurance/)
   * Goldenline Polska
 
-### Anglojęzyczne społeczności testerskie
+### Anglojęzyczne internetowe społeczności testerskie \(wybrane\)
 
 * [http://sqa.stackexchange.com/](http://sqa.stackexchange.com/)
   * SQA stackexchange
@@ -93,13 +96,11 @@ Wymienione społeczności organizują darmowe prezentacje i warsztaty.
 * [https://www.utest.com/forums](https://www.utest.com/forums)
   * uTest forum
 
-### Książki o testowaniu 
+### Książki o testowaniu
 
 {% page-ref page="ksiazki-o-testowaniu.md" %}
 
 ### Polskie blogi
 
-{% page-ref page="polskie-blogi.md" %}
-
-
+{% page-ref page="blogi.md" %}
 

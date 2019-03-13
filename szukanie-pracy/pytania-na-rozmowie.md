@@ -11,16 +11,15 @@
 7. Jakie Ty posiadasz zalety, które są przydatne w pracy na tym stanowisku?
 8. Skąd czerpiesz wiedzę o technologiach?
 9. Jak sobie wyobrażasz Twoją dalszą karierę? W którym kierunku chcesz się rozwijać?
-10. Co byś robił, gdybyś nie mógł być testerem?
 
 ### Teoria
 
 1. Dlaczego trzeba testować oprogramowanie?
 2. Kto to jest tester?
 3. Co to jest testowanie oprogramowania?
-4. Dlaczego programiści nie powinni testować swojego kodu?
-5. Dlaczego lepiej zatrudnić testera, niż dać testować innym programistom?
-6. Czy testowanie gruntowne jest możliwe?
+4. Czy programiści powinni testować swój kod?
+5. Czy lepiej zatrudnić testera czy dać testować innym programistom?
+6. Czy możliwe jest przetestowanie wszystkiego?
 7. Jakie są typy testów?
 8. Jakie są poziomy testów?
 9. Co to jest piramida testów?

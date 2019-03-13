@@ -4,9 +4,12 @@
 
 * [Oferty pracy na grupie "Testowanie Oprogramowania"](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765176240171613)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
+* [https://pl.indeed.com/praca](https://pl.indeed.com/praca)
 * [https://www.pracuj.pl/](https://www.pracuj.pl/)
 * [https://www.praca.pl/](https://www.praca.pl/)
 * [https://justjoin.it/all/testing](https://justjoin.it/all/testing)
+* [https://www.olx.pl/praca/](https://www.olx.pl/praca/)
+* [https://www.linkedin.com/jobs/](https://www.linkedin.com/jobs/)
 * [http://lmgtfy.com/?q=praca+tester](http://lmgtfy.com/?q=praca+tester)
 
 > Stworzenie własnego profilu w serwisie LinkedIn może przynieść Ci wiele dodatkowych ofert pracy.
@@ -54,6 +57,8 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 * [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy)
 * [Dlaczego JUNIOR DEVELOPER nie dostaje pracy?](https://www.youtube.com/watch?v=Lpvxg5kXb_c) 📺
 * [Jak radziliście sobie, żeby zacząć swoją pierwszą pracę jako tester?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1921628921193010/)
+* [To nie jest czas juniorów](http://testerzy.pl/baza-wiedzy/to-nie-jest-czas-juniorow)
+* [Błędne koło w IT, czyli dlaczego na rynku pracy brakuje ofert dla początkujących informatyków?](https://nofluffjobs.com/blog/bledne-kolo-w-it-czyli-dlaczego-na-rynku-pracy-brakuje-ofert-dla-poczatkujacych-informatykow/)
 
 ## 📚 Materiały
 

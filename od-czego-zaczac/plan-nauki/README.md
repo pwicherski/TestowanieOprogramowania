@@ -4,7 +4,7 @@ Stworzenie planu nauki, którym będziesz podążać może oszczędzić Ci sporo
 
 Tworząc swój plan można skorzystać z jednego z wielu dostępnych narzędzi, które ułatwią usystematyzowanie zadań.
 
-Dobrym przykładem takiego narzędzia jest [Trello.com](http://trello.com)
+Dobrym przykładem takiego narzędzia jest [Trello.com](https://trello.com/piotrwicherski/recommend)
 
 ![](../../.gitbook/assets/5a95f67e41e04900018a8e57_trello_1.png)
 

@@ -1,10 +1,23 @@
 # Dziennik zmian
 
-### Tablica planowanych zmian, które wejdą do kolejnej wersji
+### 1.0.3 - 2018-03-04
 
-{% embed url="https://github.com/pwicherski/TestowanieOprogramowania/projects/1" %}
+#### Zmiany
 
-### 1.0.2 - 2018-09-XX
+* Usunięcie 🌞 przy materiałach w języku polskim.
+* Aktualizacja listy [danych testowych](../materialy-dodatkowe/dane-testowe.md).
+* Aktualizacja listy raportów [zarobków](../zarobki.md).
+* Aktualizacja listy [blogów](../gdzie-szukac-wiedzy/blogi.md).
+* Aktualizacja listy [danych testowych](../materialy-dodatkowe/dane-testowe.md).
+* Aktualizacja listy stron z [ofertami pracy](../szukanie-pracy/#gdzie-szukac-pracy).
+* Aktualizacja listy stron, na których można testować. Dział narzędzia [Selenium](../narzedzia/selenium.md#strony-na-ktorych-mozna-trenowac).
+* Dodanie listy polskich [podcastów](../gdzie-szukac-wiedzy/podcasty.md).
+* Dodanie listy przydatnych raportów.
+* Dodane materiały odnośnie narzędzi:
+  * [Charles Proxy](../narzedzia/charles-proxy.md).
+  * [Gatling](../narzedzia/gatling.md).
+
+### 1.0.2 - 2018-09-30
 
 #### Zmiany
 

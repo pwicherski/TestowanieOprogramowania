@@ -68,6 +68,8 @@
   * Demo HR management site
 * [http://www.way2automation.com/demo.html](http://www.way2automation.com/demo.html)
   * Rózne elementy do przetestowania i zabawy
+* [http://book.theautomatedtester.co.uk/](http://book.theautomatedtester.co.uk/)
+  * Zestaw funkcji pomocnych przy zadaniach z theautomatedtester
 
 ### Książki
 

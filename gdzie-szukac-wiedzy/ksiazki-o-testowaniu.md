@@ -1,4 +1,41 @@
+---
+description: 'http://bit.ly/TO-ksiazki'
+---
+
 # Książki o testowaniu
+
+### Książki o testowaniu oprogramowania po polsku:
+
+{% hint style="warning" %}
+Są to linki referencyjne z portalu buybox.  
+Prowizja zostanie przekazana na fundację Szkoła 3.0 \(2012 Fundacja Sarigato\).  
+Zebrana kwota \(02.03.2019\): 209.84 zł
+{% endhint %}
+
+* Glenford J. Myers, Corey Sandler, Tom Badgett, Todd M. Thomas - [**Sztuka testowania oprogramowania**](https://buybox.click/4917/buybox.html?oid=3068713);  
+* James A. Whittaker, Jason Arbon, Jeff Carollo - [**Testuj oprogramowanie jak Google**](https://buybox.click/4917/buybox.html?oid=4555220);  
+* Adam Roman - [**Testowanie i jakość oprogramowania. Modele, techniki, narzędzia**](%20https://buybox.click/4917/buybox.html?oid=29569915);  
+* Red. Adam Roman, Karolina Zmitrowicz - [**Testowanie oprogramowania w praktyce. Studium przypadków**](https://buybox.click/4917/buybox.html?oid=7650129); 
+* Red. Adam Roman, Karolina Zmitrowicz - [**Testowanie oprogramowania w praktyce. Studium przypadków 2.0**](https://buybox.click/4917/buybox.html?oid=29569933) 
+* Red. Adam Roman, Karolina Zmitrowicz - [**Inżynieria wymagań. Studium przypadków**](https://buybox.click/4917/buybox.html?oid=23316085);
+
+* Radosław Smilgin - [**Dane testowe. Teoria i Praktyka**](https://buybox.click/4917/buybox.html?oid=3082736);  
+* Radosław Smilgin - [**Zawód tester**](https://buybox.click/4917/buybox.html?oid=4702771);  
+* Karolina Zmitrowicz - [**Jakość projektów informatycznych Rozwój i testowanie oprogramowania**](https://buybox.click/4917/buybox.html?oid=4973400);  
+* Karolina Zmitrowicz - [**Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania**](https://buybox.click/4917/buybox.html?oid=4662933);  
+* Linz Tilo - [**Testowanie w procesie Scrum. Przewodnik po zarządzaniu jakością oprogramowania w świecie programowania**](https://buybox.click/4917/buybox.html?oid=3089991);  
+* Rafał Pawlak - [**Testowanie oprogramowania. Podręcznik dla początkujących**](https://buybox.click/4917/buybox.html?oid=3288447); 
+* Rafał Stańczak, Karolina Zmitrowicz - [**Jakość w Agile. Zwinna droga do sukcesu**](https://buybox.click/4917/buybox.html?oid=37124906);  
+* Adam Roman - [**Statyczne testowanie oprogramowania**](https://buybox.click/4917/buybox.html?oid=4086135);  
+* Jez Humble, David Farley - [**Ciągłe dostarczanie oprogramowania. Automatyzacja kompilacji, testowania i wdrażania**](https://buybox.click/4917/buybox.html?oid=3516129);  
+* Bogdan Bereza-Jarociński, Bolesław Szomański - [**Inżynieria oprogramowania. Jak zapewnić jakość tworzonym aplikacjom**](https://buybox.click/4917/buybox.html?oid=3080688)**;** 
+* Wiszniewski Bogdan, Bereza-Jarociński Bogdan - [**Teoria i praktyka testowania programów**](https://buybox.click/4917/buybox.html?oid=15353453);  
+* Ron Patton - **Testowanie Oprogramowania**; 
+* Andrzej Jacek Blikle - [**Doktryna jakości**](https://buybox.click/4917/buybox.html?oid=10016181);
+
+{% hint style="success" %}
+Zasugeruj nową pozycję: [Rozwój materiałów](../rozwoj-materialow.md).
+{% endhint %}
 
 Zastanawia mnie fakt jak wielu poznałem testerów, którzy nie przeczytali jeszcze ani jednej książki o testowaniu oprogramowania.  
 Część z nich ma dobrych kilka lat doświadczenia na karku. Nie twierdzę oczywiście, że nie czytając książek o testowaniu nie można stać się dobrym testerem \(odrębnym tematem jest równoczesny brak znajomości i widoczny brak chęci znania jakiegokolwiek bloga\). Czy też, że czytając książki nagle staniemy się lepszym testerem.
@@ -28,43 +65,6 @@ Są promocje, ebooki lub używane egzemplarze. Nie będzie to kosztowało wiele.
 Dla osób zainteresowanych \(zapewne cząstkowa\) lista pozycji o które można wzbogacić swoje biurko lub półkę szukając kołysanki do poduszki. Kolejność książek jest przypadkowa a wymieniona lista składa się po prostu z większości pozycji w których jestem posiadaniu, więc wiem, że są możliwe do zdobycia.
 
 Dla ułatwienia pod częścią książek znajduje się link z wynikami wyszukiwania najtańszych cen z większości portali \(w tym oczywiście strony producentów, TaniaKsiazka, EbookPoint, Allegro, Ceneo itd.\).
-
-{% hint style="warning" %}
-Są to linki referencyjne z portalu buybox.
-{% endhint %}
-
-### Książki o testowaniu oprogramowania po polsku:
-
-* Glenford J. Myers, Corey Sandler, Tom Badgett, Todd M. Thomas - **Sztuka testowania oprogramowania**;
-  * [https://buybox.click/4917/buybox.html?oid=3068713](https://buybox.click/4917/buybox.html?oid=3068713)  
-* James A. Whittaker, Jason Arbon, Jeff Carollo - **Testuj oprogramowanie jak Google**;
-  * [https://buybox.click/4917/buybox.html?oid=4555220](https://buybox.click/4917/buybox.html?oid=4555220)  
-* Adam Roman - **Testowanie i jakość oprogramowania**;
-  * [ https://buybox.click/4917/buybox.html?oid=4662935](%20https://buybox.click/4917/buybox.html?oid=4662935)  
-* Red. Adam Roman, Karolina Zmitrowicz - **Testowanie oprogramowania w praktyce. Studium przypadków**;
-  * [https://buybox.click/4917/buybox.html?oid=7650129](https://buybox.click/4917/buybox.html?oid=7650129) 
-* Red. Adam Roman, Karolina Zmitrowicz - **Testowanie oprogramowania w praktyce. Studium przypadków 2.0**
-  * [https://buybox.click/4917/buybox.html?oid=29569933](https://buybox.click/4917/buybox.html?oid=29569933) 
-* Radosław Smilgin - **Dane testowe. Teoria i Praktyka**;
-  * [https://buybox.click/4917/buybox.html?oid=3082736](https://buybox.click/4917/buybox.html?oid=3082736)  
-* Radosław Smilgin - **Zawód tester**;
-  * [https://buybox.click/4917/buybox.html?oid=4702771](%20https://buybox.click/4917/buybox.html?oid=4702771)  
-* Karolina Zmitrowicz - **Jakość projektów informatycznych Rozwój i testowanie oprogramowania**;
-  * [https://buybox.click/4917/buybox.html?oid=4973400](https://buybox.click/4917/buybox.html?oid=4973400)  
-* Karolina Zmitrowicz - **Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania**;
-  * [https://buybox.click/4917/buybox.html?oid=4662933](https://buybox.click/4917/buybox.html?oid=4662933)  
-* Linz Tilo - **Testowanie w procesie Scrum. Przewodnik po zarządzaniu jakością oprogramowania w świecie programowania**;
-  * [https://buybox.click/4917/buybox.html?oid=3089991](https://buybox.click/4917/buybox.html?oid=3089991)  
-* Rafał Pawlak - **Testowanie oprogramowania. Podręcznik dla początkujących**;
-  * [ https://buybox.click/4917/buybox.html?oid=3288447](%20https://buybox.click/4917/buybox.html?oid=3288447)  
-* Adam Roman - **Statyczne testowanie oprogramowania**;
-  * [https://buybox.click/4917/buybox.html?oid=4086135](https://buybox.click/4917/buybox.html?oid=4086135)  
-* Jez Humble, David Farley - **Ciągłe dostarczanie oprogramowania. Automatyzacja kompilacji, testowania i wdrażania**;
-  * [https://buybox.click/4917/buybox.html?oid=3516129](https://buybox.click/4917/buybox.html?oid=3516129)  
-* Bogdan Bereza-Jarociński, Bolesław Szomański - Inżynieria oprogramowania. Jak zapewnić jakość tworzonym aplikacjom
-  * [ https://buybox.click/4917/buybox.html?oid=3080688](%20https://buybox.click/4917/buybox.html?oid=3080688) 
-* Wiszniewski Bogdan, Bereza-Jarociński Bogdan - **Teoria i praktyka testowania programów**;  
-* Ron Patton - **Testowanie Oprogramowania**;
 
 
 
