@@ -28,6 +28,7 @@
   * [Języki programowania](automatyzacja/jezyki-programowania.md)
   * [Gdzie trenować](automatyzacja/gdzie-trenowac.md)
 * [Testowanie stron web](testowanie-stron-web.md)
+* [Testowanie aplikacji mobilnych](testowanie-aplikacji-mobilnych.md)
 * [Narzędzia](narzedzia/README.md)
   * [Selenium](narzedzia/selenium.md)
   * [Appium](narzedzia/appium.md)

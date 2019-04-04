@@ -13,6 +13,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [Quality Meetup](https://www.meetup.com/Quality-Meetup/) \(Gliwice\)
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) \(Katowice\)
 * [QAtowice ](https://www.meetup.com/Katowice-Quality-Assurance-Meetup/)\(Katowice\)
+* EPAM QA Talks \(Kraków\)
 * [KraQA ](https://www.meetup.com/KraQA-pl/)\(Kraków\)
 * [Quality Questions](https://www.meetup.com/High-Quality-Code-Fans/) \(Kraków\)
 * QA Summer Fest \(Kraków\)
