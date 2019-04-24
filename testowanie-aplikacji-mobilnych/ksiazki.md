@@ -1,8 +1,10 @@
-# Testowanie aplikacji mobilnych
+---
+description: Książki - testowanie aplikacji mobilnych
+---
 
-## Książki
+# Książki
 
-**Najpełniejsze pozycje na ten moment to według mnie:**
+## **Najpełniejsze pozycje na ten moment to według mnie:**
 
 Hands-On Mobile App Testing \| Daniel Knott
 
@@ -12,7 +14,7 @@ Mobile Testing by Rex Black
 
 [https://www.amazon.com/Mobile-Testing-Rex-Black/dp/1780174047](https://www.amazon.com/Mobile-Testing-Rex-Black/dp/1780174047)
 
-#### Swoją początkową radość można uzupełnić o: <a id="swoj&#x105;-pocz&#x105;tkow&#x105;-rado&#x15B;&#x107;-mo&#x17C;na-uzupe&#x142;ni&#x107;-o"></a>
+## Swoją początkową radość można uzupełnić o:
 
 "Smartwatch App Testing" \| Daniel Knott
 
@@ -68,7 +70,7 @@ Dla osób dodatkowo zainteresowanych spis lektur związanych z testowaniem mobil
 
 "Application Security for the Android Platform. Processes, Permissions, and Other Safeguards" \| Jeff Six
 
-#### Częściowo: <a id="cz&#x119;&#x15B;ciowo"></a>
+## Częściowo:
 
 [https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
 

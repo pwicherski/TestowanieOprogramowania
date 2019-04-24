@@ -1,6 +1,15 @@
 # Dziennik zmian
 
-### 1.0.3 - 2018-03-04
+### 1.0.4 - 2019-04-XX
+
+**Zmiany**
+
+* Aktualizacja listy materiałów [Chrome Dev Tools](../narzedzia/chrome-developer-tools.md).
+* Dodany dział [Testowanie aplikacji mobilnych](../testowanie-aplikacji-mobilnych/)
+* Dodane materiały do książek z [Testowania aplikacji mobilnych](../testowanie-aplikacji-mobilnych/ksiazki.md)
+* Dodane materiały do narzędzia [Espresso](../narzedzia/espresso.md)
+
+### 1.0.3 - 2019-03-04
 
 #### Zmiany
 
