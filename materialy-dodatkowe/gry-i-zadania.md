@@ -39,3 +39,5 @@ Na liście są i będą zadania związane czysto z programowaniem, ponieważ ta 
 * [http://rozwal.to](http://rozwal.to)
   * Rozwal.to via Sekurak. Znajdują się tutaj zadania zarówno dla całkowicie początkujących jak i zaawansowanych.
 
+* [https://cantunsee.space/](https://cantunsee.space/)
+  * Gra w odróżnianie dobrych od złych praktyk projektowania UI
