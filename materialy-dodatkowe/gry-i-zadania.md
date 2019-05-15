@@ -33,11 +33,9 @@ Na liście są i będą zadania związane czysto z programowaniem, ponieważ ta 
 * [http://coderbyte.com/CodingArea/Challenges/](http://coderbyte.com/CodingArea/Challenges/)
   * Zadania związane z programowaniem 
 * [http://vim-adventures.com/](http://vim-adventures.com/)
-
   * Tak! Interaktywna gra ucząca świetnego programu, którym jest VIM!
-
 * [http://rozwal.to](http://rozwal.to)
   * Rozwal.to via Sekurak. Znajdują się tutaj zadania zarówno dla całkowicie początkujących jak i zaawansowanych.
-
 * [https://cantunsee.space/](https://cantunsee.space/)
   * Gra w odróżnianie dobrych od złych praktyk projektowania UI
+

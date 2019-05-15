@@ -62,5 +62,4 @@
     * [Historia JZT 1](historie/jak-stac-sie-testerem/historia-jzt-1.md)
 * [Rozwój materiałów](rozwoj-materialow.md)
 * [Autor](autor.md)
-* [html](google2f9fdf5ffb284146.html)
 
