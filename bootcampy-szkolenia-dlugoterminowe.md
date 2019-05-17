@@ -11,3 +11,13 @@ które ułatwiają zdobycie wiedzy niezbędnej do rozpoczęcia pracy w zawodzie.
 * [Coders Trust](https://coderstrust.pl/kurs-tester/)
 * [Coderslab](https://coderslab.pl/pl/kursy/testowanie/wszystkie)
 
+### ![](.gitbook/assets/icons8-facebook-50%20%282%29.png) Dyskusje
+
+Zanim zdecydujesz się poświęcić swój czas i pieniądze, poczytaj
+
+* [Dyskusja 1](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1819919381363965/)
+* [Dyskusja 2](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2007149499307618/)
+* [Dyskusja 3](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2018886294800605/)
+
+Pamiętaj, że ŻADNE szkolenie nie gwarantuje pracy, a jest ono po prostu skondensowaną dawką wiedzy.
+
