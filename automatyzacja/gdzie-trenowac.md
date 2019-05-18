@@ -36,6 +36,8 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * Testowanie captcha
 * [https://juliemr.github.io/protractor-demo/](https://juliemr.github.io/protractor-demo/)
   * Do nauki testowania protractora
+* [http://www.rpachallenge.com/](http://www.rpachallenge.com/)
+  * RPA \(Robotic process automation\) automatyzacja wprowadzenia danych wejściowych z excela
 
 ### **Aplikacje lokalne**
 
