@@ -12,27 +12,48 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 ### **Strony do testów manualnych oraz automatyzacji**
 
-* [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com) Herokuapp. The internet.
-* [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) API sandbox
-* [https://asta.pgs-soft.com](https://asta.pgs-soft.com) Automated Software Testing Arena
-* [http://automationpractice.com](http://automationpractice.com) Wirtualny sklep
-* [http://newtours.demoaut.com](http://newtours.demoaut.com) Strona o tematyce turystycznej
-* [http://bdonline.sqe.com](http://bdonline.sqe.com) B&D is a fictitious online brokerage firm
-* [http://adam.goucher.ca/parkcalc](http://adam.goucher.ca/parkcalc) This "application" has some serious flaws, and has been the subject of lots of exploratory testing.
-* [http://executeautomation.com/demosite/index.html](http://executeautomation.com/demosite/index.html) User form
-* [http://Enterprise.Demo.Orangehrmlive.Com/](http://Enterprise.Demo.Orangehrmlive.Com/) Demo HR management site
-* [http://www.way2automation.com/demo.html](http://www.way2automation.com/demo.html) Rózne elementy do przetestowania i zabawy
+* [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com)
+  * Herokuapp. The internet.
+* [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)
+  * API sandbox
+* [https://asta.pgs-soft.com](https://asta.pgs-soft.com)
+  * Automated Software Testing Arena
+* [http://automationpractice.com](http://automationpractice.com)
+  * Wirtualny sklep
+* [http://newtours.demoaut.com](http://newtours.demoaut.com)
+  * Strona o tematyce turystycznej
+* [http://bdonline.sqe.com](http://bdonline.sqe.com)
+  * B&D is a fictitious online brokerage firm
+* [http://adam.goucher.ca/parkcalc](http://adam.goucher.ca/parkcalc)
+  * This "application" has some serious flaws, and has been the subject of lots of exploratory testing.
+* [http://executeautomation.com/demosite/index.html](http://executeautomation.com/demosite/index.html)
+  * User form
+* [http://Enterprise.Demo.Orangehrmlive.Com/](http://Enterprise.Demo.Orangehrmlive.Com/)
+  * Demo HR management site
+* [http://www.way2automation.com/demo.html](http://www.way2automation.com/demo.html)
+  * Rózne elementy do przetestowania i zabawy
+* [https://antycaptcha.amberteam.pl:5443](https://antycaptcha.amberteam.pl:5443)
+  * Testowanie captcha
+* [https://juliemr.github.io/protractor-demo/](https://juliemr.github.io/protractor-demo/)
+  * Do nauki testowania protractora
 
 ### **Aplikacje lokalne**
 
-* [https://instantwp.com](https://instantwp.com) Bardzo szybka możliwość postawienia lokalnie WordPressa
-* [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com) Herokuapp. The internet.
-* [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) API sandbox
+* [https://instantwp.com](https://instantwp.com)
+  * Bardzo szybka możliwość postawienia lokalnie WordPressa
+* [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com)
+  * Herokuapp. The internet.
+* [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)
+  * API sandbox
+* [http://javagirl.pl/aplikacje/](http://javagirl.pl/aplikacje/)
+  * Sklep \(aplikacja\) i Blog \(API\)
 
 ### **Aplikacje i strony z zadaniami**
 
-* [http://mrbuggy.pl](http://mrbuggy.pl) Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby [TestingCup](https://pwicherski.gitbooks.io/testowanieoprogramowania/testingcup.pl)
-* [http://testingchallenges.thetestingmap.org/index.php](http://testingchallenges.thetestingmap.org/index.php) Zbiór zadań 
+* [http://mrbuggy.pl](http://mrbuggy.pl)
+  * Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby [TestingCup](https://pwicherski.gitbooks.io/testowanieoprogramowania/testingcup.pl)
+* [http://testingchallenges.thetestingmap.org/index.php](http://testingchallenges.thetestingmap.org/index.php)
+  * Zbiór zadań 
 
 ### **Interaktywne projekty \(darmowe\)**
 
