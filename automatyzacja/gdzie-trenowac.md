@@ -38,17 +38,22 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * Do nauki testowania protractora
 * [http://www.rpachallenge.com/](http://www.rpachallenge.com/)
   * RPA \(Robotic process automation\) automatyzacja wprowadzenia danych wejściowych z excela
+* [https://weathershopper.pythonanywhere.com/](https://weathershopper.pythonanywhere.com/)
+  * Weather shopper application
 
 ### **Aplikacje lokalne**
 
 * [https://instantwp.com](https://instantwp.com)
   * Bardzo szybka możliwość postawienia lokalnie WordPressa
-* [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com)
+* [https://github.com/tourdedave/the-internet](https://github.com/tourdedave/the-internet)
   * Herokuapp. The internet.
-* [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)
+* [https://github.com/mwinteringham/restful-booker](https://github.com/mwinteringham/restful-booker)
   * API sandbox
 * [http://javagirl.pl/aplikacje/](http://javagirl.pl/aplikacje/)
   * Sklep \(aplikacja\) i Blog \(API\)
+* [https://github.com/rajiqxf2/nightmare-automation-ui-testing](https://github.com/rajiqxf2/nightmare-automation-ui-testing)
+  * Weather shopper application
+  * Demo: [https://weathershopper.pythonanywhere.com/](https://weathershopper.pythonanywhere.com/)
 
 ### **Aplikacje i strony z zadaniami**
 
