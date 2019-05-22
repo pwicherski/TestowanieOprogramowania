@@ -47,12 +47,12 @@ Fajny opis tego czym jest testowanie crowdsourcingowe, korzyści i problemy jaki
 
 _Każde zgłoszenie błędu jest problematyczne w zespole testerów, który nie komunikuje się ze sobą._ Crowd testing nie jest oczywiście jedyną możliwością pracy zdalnej dla testera. Są też możliwości wykonywania stałych prac zleconych dla konkretnych projektów, jak też projekty indywidualne kompleksowego przetestowania produktu. Nie zapominając o zespołowych projektach tworzenia kodu na potrzeby automatyzacji. We wpisie skupiłem się najbardziej na modelu pay-per-bug. Ponieważ w ten sposób zaczyna swoją przygodę z testowaniem zdalnym większość testerów.
 
-### 📚 Materiały 
+## 📚 Materiały
 
 * Źródło: [Praca zdalna dla testera](https://testujemy.mobi/praca-zdalna-dla-testera/) 
 * [Dlaczego testowy crowdsourcing w Polsce umarł](http://testerzy.pl/baza-wiedzy/dlaczego-testowy-crowdsourcing-w-polsce-umarl) 
 
-### ![](.gitbook/assets/icons8-facebook-50%20%2811%29.png) Dyskusje
+## ![](.gitbook/assets/icons8-facebook-50%20%2811%29.png) Dyskusje
 
 * ["Praca zdalna" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1777847638904473&ref=manage_page) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat narzędzi.
