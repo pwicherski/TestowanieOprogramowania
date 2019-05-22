@@ -40,6 +40,18 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 {% page-ref page="zarobki.md" %}
 
+## Jaki kurs/warsztat w mieście X dla początkującego testera?
+
+{% page-ref page="kursy-fizyczne.md" %}
+
+## Jaki kurs/warsztat on-line dla początkującego testera?
+
+{% page-ref page="kursy-online.md" %}
+
+## Gdzie zrobić kurs przygotowujący do ISTQB?
+
+{% page-ref page="certyfikacja/istqb.md" %}
+
 ## Na jakie zarobki mogę liczyć mając X lat doświadczenia i znając X narzędzi?
 
 {% page-ref page="zarobki.md" %}
@@ -52,7 +64,7 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 {% page-ref page="certyfikacja/" %}
 
-## Czy warto się iść na szkolenie do egzaminu ISTQB?
+## Czy warto iść na szkolenie do egzaminu ISTQB?
 
 {% page-ref page="certyfikacja/istqb.md" %}
 

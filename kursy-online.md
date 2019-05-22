@@ -21,3 +21,7 @@ Dodatkowe zbiory kursów:
 
 * [uTest Courses](https://www.utest.com/courses) 🏤
 
+## Szukasz kursów ISTQB?
+
+{% page-ref page="certyfikacja/istqb.md" %}
+
