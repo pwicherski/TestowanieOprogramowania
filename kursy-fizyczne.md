@@ -1,4 +1,4 @@
-# Bootcampy
+# Kursy fizyczne / bootcampy z testowania
 
 W Polsce dostępne są szkolenia długoterminowe, 
 które ułatwiają zdobycie wiedzy niezbędnej do rozpoczęcia pracy w zawodzie.
