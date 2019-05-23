@@ -36,6 +36,10 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 {% page-ref page="szukanie-pracy/" %}
 
+## Jak i gdzie zdobyć pierwsze doświadczenie?
+
+{% page-ref page="od-czego-zaczac/pierwsze-doswiadczenie.md" %}
+
 ## Nie mogę znaleźć pracy jako tester, dlaczego?
 
 {% page-ref page="szukanie-pracy/" %}

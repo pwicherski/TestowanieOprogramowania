@@ -35,6 +35,10 @@ Poprzez stronę WhatICanDoForMozilla możemy wybrać w jaki sposób chcemy uczes
 
 Sam miałem przyjemność uczestniczyć w projektach testowania nowego oprogramowania i sprzętu przy tworzeniu Firefox OS. Zabawa jest przednia, świetni ludzie z całego świata, całe kontenery doświadczenia i ogromne pole do popisu :\)
 
+### Projekty dla początkujących testerów
+
+
+
 ### Betabound
 
 Strona projektu: [https://www.betabound.com/](https://www.betabound.com/)
