@@ -2,11 +2,13 @@
 
 ## Jak zacząć testować strony internetowe
 
-Długa i szczegółowa lista kotrolna, która może zainspirować do stworzenia własnej listy kontrolnej, którą można wykorzystać przed wydaniem.
+Długa i szczegółowa lista kontrolna, która może zainspirować do stworzenia własnej listy kontrolnej, którą można wykorzystać przed wydaniem.
 
 {% embed url="https://github.com/thedaviddias/Front-End-Checklist/blob/master/README.md" %}
 
+### Przydatne wtyczki do testowania stron
 
+{% page-ref page="narzedzia/wtyczki-do-przegladarek.md" %}
 
 ## 📚 Materiały
 
