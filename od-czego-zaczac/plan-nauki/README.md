@@ -53,7 +53,7 @@ Jeżeli chcesz rozpocząć naukę automatyzacji.
 * [Software testing for freshers](http://www.softwaretestingtricks.com/2007/05/software-testing-for-freshers-tested.html) 
 * [How to Become the MacGyver of Software Testing: Learning from Scratch](https://netguru.co/blog/quality-assurance-means) 
 
-## ![](../../.gitbook/assets/icons8-facebook-50%20%287%29.png) **Dyskusje**
+## **💬** **Dyskusje**
 
 * [Jak ułożyć sobie przyswajaną wiedzę](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1745867432102494/)
 
