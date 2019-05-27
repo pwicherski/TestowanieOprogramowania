@@ -44,6 +44,10 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 {% page-ref page="szukanie-pracy/" %}
 
+## Jak powinno wyglądać CV testera?
+
+{% page-ref page="szukanie-pracy/cv.md" %}
+
 ## Ile zarabia tester?
 
 {% page-ref page="zarobki.md" %}
