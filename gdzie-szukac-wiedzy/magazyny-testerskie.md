@@ -8,6 +8,7 @@
 ### Zagraniczne
 
 * [Professional Tester Magazine](http://www.professionaltester.com/magazine/)
+* [SQ Mag](http://www.sq-mag.com/en/)
 * [Testing Circus](https://www.testingcircus.com/)
 * [Tea-time with Testers](http://www.teatimewithtesters.com/)
 * [Test Magazine](http://www.testingmagazine.com/)

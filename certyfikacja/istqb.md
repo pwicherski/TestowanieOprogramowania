@@ -15,12 +15,12 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 
 {% embed url="http://sjsi.org/oplaty-egzaminacyjne/" %}
 
-### **Szkolenia do egzaminu na certyfikat ISTQB poziom podstawowy**
+### **Szkolenia do egzaminu na certyfikat ISTQB poziom podstawowy przeprowadzają takie firmy jak:**
 
 * [IT Trainings](http://ittraining.pl/szkolenia/zapewnic_jakosc/istqb_poziom_podstawowy)
 * [Testuj.pl](http://szkolenia.testuj.pl/istqb-foundation-level/)
 * [AmberTeam](http://www.amberteam.pl/pl/szkolenia/istqb-certyfikowany-tester---poziom-podstawowy/1)
-
+* 
 ### **Przygotowanie do egzaminu**
 
 * [Jak zdać egzamin ISTQB. Wprowadzenie.](http://edu.ittraining.pl/material/jak-zdac-egzamin-ISTQB) 
@@ -40,6 +40,8 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 
 * ["ISTQB" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765191683503402&ref=story_subtitle) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat ISTQB.
+* ["Kursy ISTQB"](https://www.facebook.com/groups/TestowanieOprogramowania/search/?query=kurs%20istqb&epa=FILTERS&filters=eyJycF9jaHJvbm9fc29ydCI6IntcIm5hbWVcIjpcImNocm9ub3NvcnRcIixcImFyZ3NcIjpcIlwifSJ9)
+  * Lista dyskusji na temat kursów ISTQB
 * [Przykładowe pytania ISTQB](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1241196819236227/)
 * [Często czytałam opinie, że na egzaminie ISTQB pytania są z kosmosu.](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1241196819236227/)
 * [Czy te certyfikaty ISTQB Advanced jakoś specjalnie przełożyły się na waszą pracę zawodową?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1108713379151239/)

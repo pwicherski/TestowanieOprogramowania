@@ -1,13 +1,17 @@
 # Dziennik zmian
 
-### 1.0.4 - 2019-04-XX
+### 1.0.4 - 2019-05-23
 
 **Zmiany**
 
-* Aktualizacja listy materiałów [Chrome Dev Tools](../narzedzia/chrome-developer-tools.md).
+* Aktualizacja listy materiałów [Chrome Dev Tools](../narzedzia/chrome-developer-tools.md)
 * Dodany dział [Testowanie aplikacji mobilnych](../testowanie-aplikacji-mobilnych/)
 * Dodane materiały do książek z [Testowania aplikacji mobilnych](../testowanie-aplikacji-mobilnych/ksiazki.md)
 * Dodane materiały do narzędzia [Espresso](../narzedzia/espresso.md)
+* Dodane [kursy fizyczne](../kursy-fizyczne.md)
+* Aktualizacja [Najczęściej zadawanych pytań](../najczesciej-zadawane-pytania.md)
+* Aktualizacja listy [kursów online](../kursy-online.md)
+* Aktualizacja [stron, na których można ćwiczyć testowanie i automatyzację](../automatyzacja/gdzie-trenowac.md)
 
 ### 1.0.3 - 2019-03-04
 

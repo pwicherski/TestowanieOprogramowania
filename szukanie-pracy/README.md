@@ -63,18 +63,10 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 ## 📚 Materiały
 
 * [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy) 
-* [Webinarium: "Przetestuj swoje CV!" \| Jakub Rosiński](https://www.youtube.com/watch?v=1lloUWO8Vzc) 📺
-  * [Slajdy z prezentacji Jakuba](http://www.slideshare.net/JakubRosiski1/przetestuj-swoje-cv) 
 * [Kurs - Jak sprawić by to rekruterzy się do Ciebie odezwali](https://www.linkedin.com/learning/j-t-o-donnell-on-making-recruiters-come-to-you/welcome) 📺
 * [E-book przygotowanie do rekrutacji](https://jakzostactesterem.pl/bezplatny-ebook-pdf-mlodszy-tester-oprogramowania-przygotowanie-do-rekrutacji/)
 
 ## ![](../.gitbook/assets/icons8-facebook-50%20%281%29.png) **Dyskusje**
-
-* [Doświadczenia i przemyślenia jednego z użytkowników odnośnie przygotowywania CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1452377648118142/)
-* [Doświadczenia i przemyślenia jednej z użytkowniczek odnośnie przygotowywania CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1469995643023009/)
-* [Dyskusja na temat wyglądu CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1465572033465370/)
-* [Jak się ma liczba przesłanych CV na testera do liczby uczestników szkoleń na testerów](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1452903078065599/)
-* [Przykładowe CV poddane ocenie](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1465572033465370/)
 
 
 

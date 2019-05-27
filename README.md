@@ -4,6 +4,8 @@ description: Książka Testowanie Oprogramowania - jak zacząć. Materiały dla 
 
 # Testowanie Oprogramowania
 
+
+
 ![](.gitbook/assets/rozwoj.png)
 
 Oczywiście nie ma jednej \(czy też najlepszej\) drogi, która byłaby równie dobra dla każdego.

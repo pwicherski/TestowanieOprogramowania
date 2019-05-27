@@ -1,7 +1,3 @@
----
-description: 'http://bit.ly/TO-ksiazki'
----
-
 # Książki o testowaniu
 
 ### Książki o testowaniu oprogramowania po polsku:
@@ -65,6 +61,10 @@ Są promocje, ebooki lub używane egzemplarze. Nie będzie to kosztowało wiele.
 Dla osób zainteresowanych \(zapewne cząstkowa\) lista pozycji o które można wzbogacić swoje biurko lub półkę szukając kołysanki do poduszki. Kolejność książek jest przypadkowa a wymieniona lista składa się po prostu z większości pozycji w których jestem posiadaniu, więc wiem, że są możliwe do zdobycia.
 
 Dla ułatwienia pod częścią książek znajduje się link z wynikami wyszukiwania najtańszych cen z większości portali \(w tym oczywiście strony producentów, TaniaKsiazka, EbookPoint, Allegro, Ceneo itd.\).
+
+{% hint style="info" %}
+[http://bit.ly/TO-ksiazki](http://bit.ly/TO-ksiazki)
+{% endhint %}
 
 
 
