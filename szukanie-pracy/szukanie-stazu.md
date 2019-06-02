@@ -22,6 +22,7 @@ Gdzie jeszcze szukać:
 * [https://www.pracuj.pl/](https://www.pracuj.pl/)
 * [https://www.praca.pl/](https://www.praca.pl/)
 * [https://justjoin.it/all/testing](https://justjoin.it/all/testing)
+* [https://www.skillshot.pl/](https://www.skillshot.pl/)
 * [http://lmgtfy.com/?q=praca+tester](http://lmgtfy.com/?q=praca+tester)
 
 {% hint style="warning" %}
