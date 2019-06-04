@@ -2,7 +2,7 @@
 
 ## Lista podcastów prowadzonych w języku Polskim
 
-* [http://ping.com.pl/category/podcast/](http://ping.com.pl/category/podcast/)
+* [http://podcasttestowanie.pl/](http://podcasttestowanie.pl/)
   * Ping
 * [https://anchor.fm/testing-parrot](https://anchor.fm/testing-parrot)
   * Testing Parrot
