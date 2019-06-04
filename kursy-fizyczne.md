@@ -1,3 +1,7 @@
+---
+description: Kursy fizyczne z podstaw testowania oprogramowania
+---
+
 # Kursy fizyczne
 
 W Polsce dostępne są szkolenia długoterminowe, które ułatwiają zdobycie wiedzy niezbędnej do rozpoczęcia pracy w zawodzie.
