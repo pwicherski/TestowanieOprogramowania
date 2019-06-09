@@ -66,5 +66,7 @@ Dla ułatwienia pod częścią książek znajduje się link z wynikami wyszukiwa
 [http://bit.ly/TO-ksiazki](http://bit.ly/TO-ksiazki)
 {% endhint %}
 
+## **📚 Materiały**
 
+* [Książki o testowaniu oprogramowania po polsku](https://testujemy.mobi/ksiazki-o-testowaniu-oprogramowania-po-polsku/).
 
