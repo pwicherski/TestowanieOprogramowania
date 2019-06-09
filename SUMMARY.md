@@ -31,7 +31,7 @@
   * [Gdzie trenować](automatyzacja/gdzie-trenowac.md)
 * [Testowanie stron web](testowanie-stron-web.md)
 * [Testowanie aplikacji mobilnych](testowanie-aplikacji-mobilnych/README.md)
-  * [Książki](testowanie-aplikacji-mobilnych/ksiazki.md)
+  * [Książki - testowanie aplikacji mobilnych](testowanie-aplikacji-mobilnych/ksiazki.md)
   * [Narzędzia](testowanie-aplikacji-mobilnych/narzedzia.md)
 * [Narzędzia](narzedzia/README.md)
   * [Selenium](narzedzia/selenium.md)
