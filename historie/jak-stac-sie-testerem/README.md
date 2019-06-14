@@ -2,7 +2,8 @@
 
 ### 📚 Materiały
 
-* [Jak zostałem testerem, zbiór historii](https://jakzostactesterem.pl/?s=Jak+zosta%C5%82em+testerem) 
+* [Jak zostałem testerem, zbiór historii](https://jakzostactesterem.pl/?s=Jak+zosta%C5%82em+testerem)
+* [Bajka o chemiku, który został testerem](http://testerzy.pl/baza-wiedzy/bajka-o-chemiku-ktory-zostal-testerem) 
 * [Jak zostałem testerem – historia prawdziwa](http://astek.pl/jak-zostalem-testerem-historia-prawdziwa/)
 * [Wstęp do testowania na własnym przykładzie](http://ping.com.pl/2018/04/17/wstep-do-testowania-na-wlasnym-przykladzie/) 🎙️
 * [Historia M.](https://legacy.gitbook.com/historia_m.md) 
