@@ -8,6 +8,8 @@ Na liście są i będą zadania związane czysto z programowaniem, ponieważ ta 
 
 * [http://testingchallenges.thetestingmap.org/](http://testingchallenges.thetestingmap.org/)
   * Identify all the test required for the scenario bellow. Based on the data you input in the First Name field the tests will be evaluated. 
+* [https://testersplayground.herokuapp.com/](https://testersplayground.herokuapp.com/)
+  * This web site contains various challenges designed to help testers learn as well as challenge their current knowledge and skills. Chrome DevTools, OWASP and Accessibility.
 * [http://www.gameofhacks.com](http://www.gameofhacks.com)
   * This game was designed to test your application hacking skills. You will be presented with vulnerable pieces of code and your mission if you choose to accept it is to find which vulnerability exists in that code as quickly as possible 
 * [http://overthewire.org/wargames/](http://overthewire.org/wargames/)
