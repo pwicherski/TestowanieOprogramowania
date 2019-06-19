@@ -26,6 +26,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [TorQA ](https://www.facebook.com/torqatorun/)\(Toruń\)
 * [TrojQA ](https://www.facebook.com/trojqa/)\(Trójmiasto\)
 * [WarszawQA ](https://www.facebook.com/WarszawQA)\(Warszawa\)
+* [AppQa](https://www.facebook.com/AppQaMeetup/) \(Warszawa\)
 * [LogCat ](https://www.facebook.com/LogCatMeetup/)\(Wrocław\)
 * [WrotQA ](https://www.facebook.com/WrotQA/)\(Wrocław\)
 * [Quality3D ](https://www.facebook.com/SjsiOrg/)\(Wrocław, Warszawa\)
