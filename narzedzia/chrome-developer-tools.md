@@ -1,10 +1,10 @@
 # Chrome Developer Tools
 
-### Materiały od autorów
+## Materiały od autorów
 
 * [Strona domowa projektu](https://developers.google.com/web/tools/chrome-devtools/)
 
-### Materiały
+## Materiały
 
 * [A list of cool Chrome DevTools Tips and Trick](https://flaviocopes.com/chrome-devtools-tips/)
 * [Lista interaktywnych zadań do wykonania](https://testersplayground.herokuapp.com/) 🕹️
@@ -16,6 +16,4 @@
 * [Kurs Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/) 📺🕹️💵
 * [Chrome DevTools 101: Debugging JavaScript](https://www.youtube.com/watch?v=H0XScE08hy8) 📺  
 * [Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools) 📺💵 
-
-
 

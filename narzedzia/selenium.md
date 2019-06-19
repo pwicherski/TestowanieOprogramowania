@@ -48,28 +48,7 @@
 
 ### Strony na których można trenować
 
-* [http://the-internet.herokuapp.com/](http://the-internet.herokuapp.com/)
-  * Herokuapp. The internet.
-* [https://asta.pgs-soft.com/](https://asta.pgs-soft.com/)
-  * Automated Software Testing Arena
-* [http://automationpractice.com](http://automationpractice.com)
-  * Wirtualny sklep
-* [http://demoqa.com/](http://demoqa.com/)
-  * Różne funkcje
-* [http://newtours.demoaut.com/](http://newtours.demoaut.com/)
-  * Strona o tematyce turystycznej
-* [http://bdonline.sqe.com/](http://bdonline.sqe.com/)
-  * B&D is a fictitious online brokerage firm
-* [http://adam.goucher.ca/parkcalc/](http://adam.goucher.ca/parkcalc/)
-  * This "application" has some serious flaws, and has been the subject of lots of exploratory testing.
-* [http://executeautomation.com/demosite/index.html](http://executeautomation.com/demosite/index.html)
-  * User form
-* [Http://Enterprise.Demo.Orangehrmlive.Com/](/)
-  * Demo HR management site
-* [http://www.way2automation.com/demo.html](http://www.way2automation.com/demo.html)
-  * Rózne elementy do przetestowania i zabawy
-* [http://book.theautomatedtester.co.uk/](http://book.theautomatedtester.co.uk/)
-  * Zestaw funkcji pomocnych przy zadaniach z theautomatedtester
+{% page-ref page="../automatyzacja/gdzie-trenowac.md" %}
 
 ### Książki
 
