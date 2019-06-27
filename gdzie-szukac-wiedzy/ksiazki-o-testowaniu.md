@@ -5,7 +5,7 @@
 {% hint style="warning" %}
 Są to linki referencyjne z portalu buybox.  
 Prowizja zostanie przekazana na fundację Szkoła 3.0 \(2012 Fundacja Sarigato\).  
-Zebrana kwota \(02.03.2019\): 209.84 zł
+Zebrana kwota \(27.06.2019\): 241.79 zł
 {% endhint %}
 
 * Glenford J. Myers, Corey Sandler, Tom Badgett, Todd M. Thomas - [**Sztuka testowania oprogramowania**](https://buybox.click/4917/buybox.html?oid=3068713);  
