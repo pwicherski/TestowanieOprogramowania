@@ -55,7 +55,7 @@
   * [Dane testowe](materialy-dodatkowe/dane-testowe.md)
 * [Gdzie szukać wiedzy](gdzie-szukac-wiedzy/README.md)
   * [Społeczności testerskie](gdzie-szukac-wiedzy/spolecznosci-testerskie.md)
-  * [Książki o testowaniu](gdzie-szukac-wiedzy/ksiazki-o-testowaniu.md)
+  * [Książki o testowaniu po polsku](gdzie-szukac-wiedzy/ksiazki-o-testowaniu.md)
   * [Blogi](gdzie-szukac-wiedzy/blogi.md)
   * [Magazyny testerskie](gdzie-szukac-wiedzy/magazyny-testerskie.md)
   * [Podcasty](gdzie-szukac-wiedzy/podcasty.md)

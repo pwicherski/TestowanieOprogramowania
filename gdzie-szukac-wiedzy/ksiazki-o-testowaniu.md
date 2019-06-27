@@ -1,6 +1,6 @@
-# Książki o testowaniu
+# Książki o testowaniu po polsku
 
-### Książki o testowaniu oprogramowania po polsku:
+### Lista książek wraz z porównywarką cenową:
 
 {% hint style="warning" %}
 Są to linki referencyjne z portalu buybox.  
