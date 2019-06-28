@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Testowanie Oprogramowania](README.md)
+* [Autor](autor.md)
 * [Jak czytać tę książkę](jak-czytac-te-ksiazke/README.md)
   * [Dziennik zmian](jak-czytac-te-ksiazke/dziennik-zmian.md)
 * [Najczęściej zadawane pytania](najczesciej-zadawane-pytania.md)
@@ -60,7 +61,6 @@
   * [Jak stać się testerem](historie/jak-stac-sie-testerem/README.md)
     * [Historia JZT 1](historie/jak-stac-sie-testerem/historia-jzt-1.md)
 * [Rozwój materiałów](rozwoj-materialow.md)
-* [Autor](autor.md)
 
 ## Teoria testowania
 
