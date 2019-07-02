@@ -93,6 +93,7 @@
 ###  \(iSQI\) International Software Quality Institute
 
 * [Certified Mobile App Professional CMAP](https://isqi.org/lv/en/software-testing/37-10168-isqi-cmap-mobile-app-testing-foundation-level.html)
+* [Certified Agile Tester CAT](http://www.isqi.us/course/2/isqi-cat-certified-agile-tester)
 
 ###  \(GAQM\) Global Association for Quality Management
 
@@ -110,4 +111,4 @@
 ###  TickItplus
 
 * [Foundation level](http://www.tickitplus.org/en/)
-
+    
