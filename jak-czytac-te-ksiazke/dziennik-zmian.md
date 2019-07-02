@@ -1,5 +1,14 @@
 # Dziennik zmian
 
+### 1.0.5 - 2019-06-28
+
+**Zmiany**
+
+* Przeorganizowanie rozdziałów i sekcji
+* Dodanie działu materiałów dodatkowych
+* Dodanie działu teorii testowania
+* Aktualizacja [listy książek](../gdzie-szukac-wiedzy/ksiazki-o-testowaniu.md)
+
 ### 1.0.4 - 2019-05-23
 
 **Zmiany**

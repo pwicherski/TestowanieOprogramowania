@@ -60,6 +60,22 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 * [To nie jest czas juniorów](http://testerzy.pl/baza-wiedzy/to-nie-jest-czas-juniorow)
 * [Błędne koło w IT, czyli dlaczego na rynku pracy brakuje ofert dla początkujących informatyków?](https://nofluffjobs.com/blog/bledne-kolo-w-it-czyli-dlaczego-na-rynku-pracy-brakuje-ofert-dla-poczatkujacych-informatykow/)
 
+## Przygotuj swoje CV
+
+{% page-ref page="cv.md" %}
+
+## Przygotuj się na rozmowę rekrutacyjną
+
+{% page-ref page="rozmowa-rekrutacyjna.md" %}
+
+{% page-ref page="pytania-na-rozmowie.md" %}
+
+## Zdobądź pierwsze doświadczenie, pracę lub staż
+
+{% page-ref page="szukanie-stazu.md" %}
+
+{% page-ref page="../od-czego-zaczac/pierwsze-doswiadczenie.md" %}
+
 ## 📚 Materiały
 
 * [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy) 

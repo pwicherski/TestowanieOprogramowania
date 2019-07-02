@@ -1,8 +1,8 @@
 ---
-description: Książki - testowanie aplikacji mobilnych
+description: Testowanie aplikacji mobilnych
 ---
 
-# Książki
+# Książki - testowanie aplikacji mobilnych
 
 ## **Najpełniejsze pozycje na ten moment to według mnie:**
 

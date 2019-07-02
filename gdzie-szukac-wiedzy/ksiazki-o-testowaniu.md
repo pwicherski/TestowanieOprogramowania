@@ -1,11 +1,11 @@
-# Książki o testowaniu
+# Książki o testowaniu po polsku
 
-### Książki o testowaniu oprogramowania po polsku:
+### Lista książek wraz z porównywarką cenową:
 
 {% hint style="warning" %}
 Są to linki referencyjne z portalu buybox.  
 Prowizja zostanie przekazana na fundację Szkoła 3.0 \(2012 Fundacja Sarigato\).  
-Zebrana kwota \(02.03.2019\): 209.84 zł
+Zebrana kwota \(27.06.2019\): 241.79 zł
 {% endhint %}
 
 * Glenford J. Myers, Corey Sandler, Tom Badgett, Todd M. Thomas - [**Sztuka testowania oprogramowania**](https://buybox.click/4917/buybox.html?oid=3068713);  
@@ -66,5 +66,7 @@ Dla ułatwienia pod częścią książek znajduje się link z wynikami wyszukiwa
 [http://bit.ly/TO-ksiazki](http://bit.ly/TO-ksiazki)
 {% endhint %}
 
+## **📚 Materiały**
 
+* [Książki o testowaniu oprogramowania po polsku](https://testujemy.mobi/ksiazki-o-testowaniu-oprogramowania-po-polsku/).
 

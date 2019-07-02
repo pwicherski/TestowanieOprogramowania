@@ -13,26 +13,26 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [Quality Meetup](https://www.meetup.com/Quality-Meetup/) \(Gliwice\)
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) \(Katowice\)
 * [QAtowice ](https://www.meetup.com/Katowice-Quality-Assurance-Meetup/)\(Katowice\)
-* EPAM QA Talks \(Kraków\)
+* [EPAM QA Talks](https://www.facebook.com/Epam.Poland/) \(Kraków\)
 * [KraQA ](https://www.meetup.com/KraQA-pl/)\(Kraków\)
 * [Quality Questions](https://www.meetup.com/High-Quality-Code-Fans/) \(Kraków\)
-* QA Summer Fest \(Kraków\)
-* LubQA \(Lublin\)
-* ŁódQA \(Łódź\)
-* PTaQ \(Poznań\)
-* Girls Who Test \(Poznań, Warszawa\)
-* RzeQA \(Rzeszów\)
-* PapryQArz \(Szczecin\)
-* TorQA \(Toruń\)
-* TrojQA \(Trójmiasto\)
-* 3QA \(Trójmiasto\)
-* WarszawQA \(Warszawa\)
-* LogCat \(Wrocław\)
-* WrotQA \(Wrocław\)
-* Quality3D \(Wrocław, Warszawa\)
-* QA Has Power \(Wrocław, Łódź, Poznań\)
-* ZielonQA \(Zielona góra\)
-* DebatQA \(Brak danych\)
+* [QA Summer Fest ](https://www.facebook.com/miquido/)\(Kraków\)
+* [LubQA ](https://www.facebook.com/LubQA/)\(Lublin\)
+* [ŁódQA ](https://www.facebook.com/LodQA/)\(Łódź\)
+* [PTaQ ](https://www.facebook.com/PTaQGroup/)\(Poznań\)
+* [Girls Who Test](https://www.facebook.com/girls.who.test/) \(Poznań, Warszawa\)
+* [RzeQA ](https://www.facebook.com/rzeqa/)\(Rzeszów\)
+* [PapryQArz ](https://www.facebook.com/papryQArz/)\(Szczecin\)
+* [TorQA ](https://www.facebook.com/torqatorun/)\(Toruń\)
+* [TrojQA ](https://www.facebook.com/trojqa/)\(Trójmiasto\)
+* [WarszawQA ](https://www.facebook.com/WarszawQA)\(Warszawa\)
+* [AppQa](https://www.facebook.com/AppQaMeetup/) \(Warszawa\)
+* [LogCat ](https://www.facebook.com/LogCatMeetup/)\(Wrocław\)
+* [WrotQA ](https://www.facebook.com/WrotQA/)\(Wrocław\)
+* [Quality3D ](https://www.facebook.com/SjsiOrg/)\(Wrocław, Warszawa\)
+* [QA Has Power](https://www.facebook.com/StxNext/) \(Wrocław, Łódź, Poznań\)
+* [ZielonQA ](https://www.facebook.com/globallogicpoland)\(Zielona góra\)
+* [DebatQA ](https://www.facebook.com/DebatQA/)\(Brak danych\)
 
 ### Lokalne konferencje testerskie
 
@@ -40,22 +40,21 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 🙋 - oznacza, że konferencja jest bezpłatna.
 {% endhint %}
 
-* Agile & Automation Days 
-* Akademia Jakości 
-* ConSelenium 
-* Forum Jakości Systemów Informatycznych 
-* Quality Excites 🙋
-* Konferencja Testerzy.pl 🙋
-* PTaQ Day One 🙋
-* ReQuest 
-* SkładQA 🙋
-* Test Camp 🙋
-* Test Dive 🙋
-* Testaton 🙋
-* TestFest 🙋
-* TestingCup 
-* TestWarez 
-* Zapewnienia jakości w projektach IT 
+* [Agile & Automation Days ](https://aadays.pl/)
+* [Akademia Jakości ](http://successpoint.pl/)
+* [ConSelenium ](http://conselenium.pl/)
+* [Forum Jakości Systemów Informatycznych ](https://www.computerworld.pl/)
+* [Quality Excites](https://www.qualityexcites.pl)
+* [Konferencja Testerzy.pl](http://konferencja.testerzy.pl/) 🙋
+* [PTaQ Day One](http://dayone.ptaq.org/) 🙋
+* [ReQuest ](https://ReQuest.pl)
+* [SkładQA ](http://kraqa.pl/)🙋
+* [Test Camp](https://testcamp.pl/) 🙋
+* [Test Dive](http://www.testdive.pl/) 🙋
+* [Testaton ](http://testaton.pl/)🙋
+* [TestFest ](https://testfest.pl/)🙋
+* [TestingCup ](http://testingcup.pl/)
+* [TestWarez ](https://testwarez.pl)
 * [Niepełna lista zagranicznych konferencji](https://testingconferences.org/)
 
 ### Twitter

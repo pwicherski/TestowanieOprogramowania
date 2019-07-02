@@ -20,12 +20,12 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 * [IT Trainings](http://ittraining.pl/szkolenia/zapewnic_jakosc/istqb_poziom_podstawowy)
 * [Testuj.pl](http://szkolenia.testuj.pl/istqb-foundation-level/)
 * [AmberTeam](http://www.amberteam.pl/pl/szkolenia/istqb-certyfikowany-tester---poziom-podstawowy/1)
-* 
-### **Przygotowanie do egzaminu**
 
-* [Jak zdać egzamin ISTQB. Wprowadzenie.](http://edu.ittraining.pl/material/jak-zdac-egzamin-ISTQB) 
-* [Jak zdać egzamin ISTQB Poziom Podstawowy plus streszczenie sylabusa](http://testerzy.pl/baza-wiedzy/e-book-jak-zdac-egzamin-istqb-poziom-podstawowy-plus-streszczenie-sylabusa) 💵
-* [ISTQB — jak zdać egzamin?](https://www.qagile.pl/blog/istqb-zdac-egzamin/)
+### **Przygotowanie do egzaminu ISTQB Poziom Podstawowy \(Foundation Level\)**
+
+* [Jak zdać egzamin ISTQB. Wprowadzenie \[ebook + wprowadzenie\]](http://testerzy.pl/baza-wiedzy/jak-zdac-egzamin-istqb-podpowiedzi) 
+* [Jak zdać egzamin ISTQB Poziom Podstawowy plus streszczenie sylabusa](http://testerzy.pl/baza-wiedzy/e-book-jak-zdac-egzamin-istqb-poziom-podstawowy-plus-streszczenie-sylabusa)
+* [Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania \[Książka\]](https://buybox.click/4917/buybox.html?oid=4662933)
 
 ### 📚 Materiały
 
@@ -35,6 +35,8 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 * [ISTQB Simulator Test for Foundation Level Paper](http://toolsqa.com/istqb/istqb-simulator-test-foundation-level-paper-1/)
 * [Kilka przykładowych arkuszy egzaminacyjnych ISTQB przygotowanych przez ASTQB](https://www.astqb.org/get-certified/istqb-syllabi-the-istqb-software-tester-certification-body-of-knowledge/)
 * [Quizy ISTQB](http://getistqb.com/) 
+* [Jak zaliczyłem egzamin certyfikacyjny ISTQB Foundation Level](http://strefakodera.pl/blog/jak-zaliczylem-egzamin-certyfikacyjny-istqb-foundation-level)
+* [Jak zdać ISTQB FL](http://testcase.pl/news/jak-zdac-egzamin-istqb/)
 
 ###  ![](../.gitbook/assets/icons8-facebook-50%20%285%29.png) Dyskusje
 

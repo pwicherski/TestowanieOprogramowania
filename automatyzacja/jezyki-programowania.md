@@ -26,4 +26,5 @@ Na początku najważniejsze jest zrozumienie podstaw programowania, na przykład
 * [Jaki język dla web i mobile?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1139129899442920/)
 * [Na jaki język jest największy popyt?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1411316595557581/)
 * [Python czy Java dla QA?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1704663669556204/)
+* [Czy Python do dobry wybór dla testera? Jaki język wybrać najlepiej?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2301291336560098/)
 
