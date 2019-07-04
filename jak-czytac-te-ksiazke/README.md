@@ -1,5 +1,9 @@
 # Jak czytać tę książkę
 
+### Dokument
+
+Nawigacja po dokumencie odbywa się poprzez menu z lewej strony. 
+
 ### Oznaczenia
 
 **📚 Materiały**
