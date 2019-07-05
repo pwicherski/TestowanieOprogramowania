@@ -114,5 +114,5 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 ## Jak zacząć testować stronę web?
 
-{% page-ref page="testowanie-stron-web.md" %}
+{% page-ref page="testowanie-stron-web/" %}
 

@@ -8,7 +8,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 ### **Jak testować**
 
-{% page-ref page="../testowanie-stron-web.md" %}
+{% page-ref page="../testowanie-stron-web/" %}
 
 ### **Strony do testów manualnych oraz automatyzacji**
 
