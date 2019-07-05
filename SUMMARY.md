@@ -35,7 +35,6 @@
 * [Testowanie aplikacji mobilnych](testowanie-aplikacji-mobilnych/README.md)
   * [Książki - testowanie aplikacji mobilnych](testowanie-aplikacji-mobilnych/ksiazki.md)
   * [Narzędzia](testowanie-aplikacji-mobilnych/narzedzia.md)
-* [SEO](seo.md)
 * [Narzędzia](narzedzia/README.md)
   * [Selenium](narzedzia/selenium.md)
   * [Appium](narzedzia/appium.md)
