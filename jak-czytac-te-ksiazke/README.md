@@ -2,7 +2,7 @@
 
 ### Dokument
 
-Nawigacja po dokumencie odbywa się poprzez menu z lewej strony. 
+Nawigacja po dokumencie odbywa się poprzez menu z lewej strony i wyszukiwarkę widoczną z prawej strony.
 
 ### Oznaczenia
 
