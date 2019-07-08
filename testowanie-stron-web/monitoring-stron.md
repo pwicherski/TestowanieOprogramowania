@@ -13,6 +13,8 @@ Narzędzia do monitorowania statusu strony, w niektórych przypadkach połączon
   * Automatyczny monitoring statusu strony na podstawie statusu HTTP i widoczności słów kluczowych. 
 * [https://www.appbeat.io/](https://www.appbeat.io/)
   * Bardzo rozbudowane narzędzie. Od przykładowo monitorowania HTTP/2 i zgodności SHA-256, przez IPv6, DNS, SMTP po powiadomienia SMS io integrację z wieloma narzędziami w tym PagerDuty. 
+* [https://www.statuscake.com/](https://www.statuscake.com/)
+  * Rozbudowane narzędzie. Posiada różne możliwości od monitorowania stron, przez regularną analizę page speed, monitoring domeny po przykładowo Virus Scanning. 
 * [https://pingbreak.com/](https://pingbreak.com/)
   * Darmowe i proste narzędzie do monitorowania stron. Integracja z m.in. Slackiem. 
 * [https://spotbot.qa/](https://spotbot.qa/)
