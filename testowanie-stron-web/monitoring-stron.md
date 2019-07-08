@@ -28,3 +28,7 @@ Narzędzia do monitorowania statusu strony, w niektórych przypadkach połączon
 * [https://www.freshworks.com/website-monitoring/](https://www.freshworks.com/website-monitoring/) 
 * [https://www.pingdom.com/](https://www.pingdom.com/)
 
+## **💬 Dyskusje**
+
+* [Chciałabym stworzyć u siebie w firmie monitoring strony, aby jakiś automat chodził po niej 24h/7](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2357675437588354/)\*\*\*\*
+
