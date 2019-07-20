@@ -42,6 +42,12 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * RPA \(Robotic process automation\) automatyzacja wprowadzenia danych wejściowych z excela
 * [https://weathershopper.pythonanywhere.com/](https://weathershopper.pythonanywhere.com/)
   * Weather shopper application
+* [http://www.globalsqa.com/angularjs-protractor-practice-site/](http://www.globalsqa.com/angularjs-protractor-practice-site/)
+  * AngularJS
+* [http://www.way2automation.com/protractor-angularjs-practice-website.html](http://www.way2automation.com/protractor-angularjs-practice-website.html)
+  * AngularJS
+* [https://codepen.io/murtazamzk/full/YwjEor](https://codepen.io/murtazamzk/full/YwjEor)
+  * AngularJS
 
 ### **Aplikacje lokalne**
 
