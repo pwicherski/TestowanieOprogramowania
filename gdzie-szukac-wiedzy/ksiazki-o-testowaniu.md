@@ -5,7 +5,7 @@
 {% hint style="warning" %}
 Są to linki referencyjne z portalu buybox.  
 Prowizja zostanie przekazana na fundację Szkoła 3.0 \(2012 Fundacja Sarigato\).  
-Zebrana kwota \(27.06.2019\): 241.79 zł
+Potwierdzona kwota \(20.07.2019\): 244.04 zł
 {% endhint %}
 
 * Glenford J. Myers, Corey Sandler, Tom Badgett, Todd M. Thomas - [**Sztuka testowania oprogramowania**](https://buybox.click/4917/buybox.html?oid=3068713);  
@@ -60,7 +60,7 @@ Są promocje, ebooki lub używane egzemplarze. Nie będzie to kosztowało wiele.
 
 Dla osób zainteresowanych \(zapewne cząstkowa\) lista pozycji o które można wzbogacić swoje biurko lub półkę szukając kołysanki do poduszki. Kolejność książek jest przypadkowa a wymieniona lista składa się po prostu z większości pozycji w których jestem posiadaniu, więc wiem, że są możliwe do zdobycia.
 
-Dla ułatwienia pod częścią książek znajduje się link z wynikami wyszukiwania najtańszych cen z większości portali \(w tym oczywiście strony producentów, TaniaKsiazka, EbookPoint, Allegro, Ceneo itd.\).
+Dla ułatwienia przy części książek znajduje się link z wynikami wyszukiwania najtańszych cen z większości portali \(w tym oczywiście strony producentów, TaniaKsiazka, EbookPoint, Allegro, Ceneo itd.\).
 
 {% hint style="info" %}
 [http://bit.ly/TO-ksiazki](http://bit.ly/TO-ksiazki)
