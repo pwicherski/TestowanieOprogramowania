@@ -18,6 +18,8 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * API sandbox
 * [https://asta.pgs-soft.com](https://asta.pgs-soft.com)
   * Automated Software Testing Arena
+* [https://www.seleniumeasy.com/test/](https://www.seleniumeasy.com/test/)
+  * Zestaw ćwiczeń
 * [http://automationpractice.com](http://automationpractice.com)
   * Wirtualny sklep
 * [http://newtours.demoaut.com](http://newtours.demoaut.com)
