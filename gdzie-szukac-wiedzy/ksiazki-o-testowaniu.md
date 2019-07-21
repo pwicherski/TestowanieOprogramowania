@@ -16,7 +16,7 @@ Potwierdzona kwota \(20.07.2019\): 244.04 zł
 * Red. Adam Roman, Karolina Zmitrowicz - [**Inżynieria wymagań. Studium przypadków**](https://buybox.click/4917/buybox.html?oid=23316085);
 
 * Radosław Smilgin - [**Dane testowe. Teoria i Praktyka**](https://buybox.click/4917/buybox.html?oid=3082736);  
-* Radosław Smilgin - [**Zawód tester**](https://buybox.click/4917/buybox.html?oid=4702771);  
+* Radosław Smilgin - [**Zawód tester**;](%20https://buybox.click/1674/buybox.html?oid=39536804)  
 * Karolina Zmitrowicz - [**Jakość projektów informatycznych Rozwój i testowanie oprogramowania**](https://buybox.click/4917/buybox.html?oid=4973400);  
 * Karolina Zmitrowicz - [**Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania**](https://buybox.click/4917/buybox.html?oid=4662933);  
 * Linz Tilo - [**Testowanie w procesie Scrum. Przewodnik po zarządzaniu jakością oprogramowania w świecie programowania**](https://buybox.click/4917/buybox.html?oid=3089991);  
