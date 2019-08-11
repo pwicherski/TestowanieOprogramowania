@@ -106,7 +106,7 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 ## Czy w mieście X jest organizowany meetup lub konferencja?
 
-{% page-ref page="gdzie-szukac-wiedzy/" %}
+{% page-ref page="gdzie-szukac-wiedzy/spolecznosci-testerskie.md" %}
 
 ## Chce nauczyć się języka X, jakie materiały polecacie?
 
