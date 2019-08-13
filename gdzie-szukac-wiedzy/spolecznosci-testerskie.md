@@ -9,6 +9,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 {% endhint %}
 
 * [BiałQA](https://www.facebook.com/groups/BialQA/) \(Białystok\)
+* [Bielko-BiałQA](https://www.facebook.com/groups/2562108134001630/) \(Bielsko-Biała\)
 * [ŁuczniczQA ](https://www.facebook.com/LuczniczQA/)\(Bydgoszcz\)
 * [Quality Meetup](https://www.meetup.com/Quality-Meetup/) \(Gliwice\)
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) \(Katowice\)
