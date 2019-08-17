@@ -92,6 +92,10 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 {% page-ref page="automatyzacja/" %}
 
+## Jakie materiały do nauki Selenium z wykorzystaniem języka X?
+
+{% page-ref page="narzedzia/selenium.md" %}
+
 ## Jakiego języka programowania nauczyć się najpierw?
 
 {% page-ref page="automatyzacja/nauka-programowania/" %}
