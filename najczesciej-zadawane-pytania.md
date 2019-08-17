@@ -84,7 +84,7 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 {% page-ref page="certyfikacja/istqb.md" %}
 
-## Chce nauczyć się automatyzacji?
+## Chce nauczyć się automatyzacji, co dalej?
 
 {% page-ref page="automatyzacja/" %}
 
