@@ -36,6 +36,10 @@
 * [http://www.software-testing-tutorials-automation.com/2015/11/test-apps-to-use-in-appium-automation.html](http://www.software-testing-tutorials-automation.com/2015/11/test-apps-to-use-in-appium-automation.html)
 * [https://github.com/appium/sample-code/tree/master/sample-code/apps](https://github.com/appium/sample-code/tree/master/sample-code/apps)
   * Pliki apk, których można z powodzeniem użyć do nauki Appium
+* [https://nishantverma.gitbooks.io/appium-for-android/](https://nishantverma.gitbooks.io/appium-for-android/)
+  * Podstawowy opis konfiguracji i uzytkowania Appium dla Androida
+* [https://www.amazon.in/Mobile-Automation-Appium-Nishant-Verma-ebook/dp/B0711Y4HTD](https://www.amazon.in/Mobile-Automation-Appium-Nishant-Verma-ebook/dp/B0711Y4HTD)
+  * Książka Mobile Test Automation with Appium: Mobile application testing made easy
 
 ### Blogi
 
