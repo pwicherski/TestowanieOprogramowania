@@ -48,6 +48,7 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
 
 * [https://offers.bitbar.com/ebook/the-beginners-guide-of-appium-for-mobile-app-testing](https://offers.bitbar.com/ebook/the-beginners-guide-of-appium-for-mobile-app-testing)
 * [https://www.pcloudy.com/start-to-end-guide-mobile-test-automation-with-appium/](https://www.pcloudy.com/start-to-end-guide-mobile-test-automation-with-appium/)
+* [https://info.kobiton.com/appium-book](https://info.kobiton.com/appium-book)
 * [https://nishantverma.gitbooks.io/appium-for-android/](https://nishantverma.gitbooks.io/appium-for-android/)
   * Podstawowy opis konfiguracji i uzytkowania Appium dla Androida
 * [https://www.amazon.in/Mobile-Automation-Appium-Nishant-Verma-ebook/dp/B0711Y4HTD](https://www.amazon.in/Mobile-Automation-Appium-Nishant-Verma-ebook/dp/B0711Y4HTD)
