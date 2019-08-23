@@ -97,7 +97,8 @@
 
 ## \(GAQM\) Global Association for Quality Management
 
-* [International Mobile Testing Qualifications Network IMTQN](http://www.gaqm.org:8080/gaqm/certifications/showsubcontent?subcategoryid=34)
+* [International Mobile Testing Qualifications Network IMTQN](https://gaqm.org/certification/mobile_testing)
+* [Certified Mobile Cloud Tester \(CMCT\)](https://gaqm.org/certifications/cloud_testing/cmct)
 
 ## \(CISA\) Certified Information Systems Auditor
 
