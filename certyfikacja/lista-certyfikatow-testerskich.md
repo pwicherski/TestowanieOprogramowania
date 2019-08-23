@@ -97,12 +97,12 @@
 
 ## \(GAQM\) Global Association for Quality Management
 
-* [International Mobile Testing Qualifications Network IMTQN](https://gaqm.org/certification/mobile_testing)
+* [International Mobile Testing Qualifications Network \(IMTQN\)](https://gaqm.org/certification/mobile_testing)
 * [Certified Mobile Cloud Tester \(CMCT\)](https://gaqm.org/certifications/cloud_testing/cmct)
 
 ## \(CISA\) Certified Information Systems Auditor
 
-* [http://www.isaca.org/Certification/CISA-Certified-Information-Systems-Auditor/Pages/default.aspx](http://www.isaca.org/Certification/CISA-Certified-Information-Systems-Auditor/Pages/default.aspx)
+* [Certified Information Systems Auditor \(CISA\)](http://www.isaca.org/Certification/CISA-Certified-Information-Systems-Auditor/Pages/default.aspx)
 
 ## [Testing4success](http://testing4success.com/)
 
