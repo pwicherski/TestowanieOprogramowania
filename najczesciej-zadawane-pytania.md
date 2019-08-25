@@ -74,7 +74,11 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 ## Czy warto zdawać certyfikat ISTQB?
 
-{% page-ref page="certyfikacja/" %}
+{% page-ref page="certyfikacja/istqb.md" %}
+
+## Jakie materiały do nauki ISTQB?
+
+{% page-ref page="certyfikacja/istqb.md" %}
 
 ## Czy warto iść na szkolenie do egzaminu ISTQB?
 
