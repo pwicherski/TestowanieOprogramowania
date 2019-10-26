@@ -3,9 +3,11 @@
 ### Lista książek wraz z porównywarką cenową:
 
 {% hint style="warning" %}
-Są to linki referencyjne z portalu buybox.  
+Są to linki referencyjne z portalu BUY.BOX.  
 Prowizja zostanie przekazana na fundację Szkoła 3.0 \(2012 Fundacja Sarigato\).  
-Potwierdzona kwota \(20.07.2019\): 244.04 zł
+Potwierdzona kwota \(26.10.2019\): 0 zł
+
+Już wypłacone: 273 zł
 {% endhint %}
 
 * Glenford J. Myers, Corey Sandler, Tom Badgett, Todd M. Thomas - [**Sztuka testowania oprogramowania**](https://buybox.click/4917/buybox.html?oid=3068713);  

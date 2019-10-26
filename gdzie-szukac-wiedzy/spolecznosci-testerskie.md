@@ -1,8 +1,6 @@
 # Społeczności testerskie
 
-
-
-### Lokalne społeczności testerskie - meetupy testerskie
+## Lokalne społeczności testerskie - meetupy testerskie
 
 {% hint style="success" %}
 Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusyjne i warsztaty.
@@ -16,7 +14,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [QAtowice ](https://www.meetup.com/Katowice-Quality-Assurance-Meetup/)\(Katowice\)
 * [KielecQA](https://www.facebook.com/kielecqa/) \(Kielce\)
 * [EPAM QA Talks](https://www.facebook.com/Epam.Poland/) \(Kraków\)
-* [Kraków.assert()](https://www.meetup.com/pl-PL/krakow-assert/) \(Kraków\)
+* [Kraków.assert\(\)](https://www.meetup.com/pl-PL/krakow-assert/) \(Kraków\)
 * [KraQA](https://www.meetup.com/KraQA-pl/) \(Kraków\)
 * [Quality Questions](https://www.meetup.com/High-Quality-Code-Fans/) \(Kraków\)
 * [QA Summer Fest](https://www.facebook.com/miquido/) \(Kraków\)
@@ -37,7 +35,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [ZielonQA](https://www.facebook.com/globallogicpoland) \(Zielona góra\)
 * [DebatQA](https://www.facebook.com/DebatQA/) \(Brak danych\)
 
-### Lokalne konferencje testerskie
+## Lokalne konferencje testerskie
 
 {% hint style="info" %}
 🙋 - oznacza, że konferencja jest bezpłatna.
@@ -60,17 +58,17 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [TestWarez](https://testwarez.pl)
 * [Niepełna lista zagranicznych konferencji](https://testingconferences.org/)
 
-### Twitter
+## Twitter
 
 * [Polscy testerzy na Twitterze](https://twitter.com/PWicherski/lists/polscy-testerzy)
 * [Testerzy do śledzenia na Twitterze](https://twitter.com/kinofrost/lists/testers-to-follow)
 * [Jeszcze jedna lista testerów na Twitterze](https://twitter.com/SheyMouse/lists/test-tweeps)
 
-### RSS
+## RSS
 
 * [Feed Ministry of Testing](https://www.ministryoftesting.com/feeds/blogs)
 
-### Polskie internetowe społeczności testerskie \(wybrane\)
+## Polskie internetowe społeczności testerskie \(wybrane\)
 
 * [https://www.facebook.com/groups/TestowanieOprogramowania/](https://www.facebook.com/groups/TestowanieOprogramowania/)
   * Grupa Testowanie Oprogramowania Facebook
@@ -79,7 +77,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [http://www.goldenline.pl/grupy/Komputery\_Internet/software-quality-assurance/](http://www.goldenline.pl/grupy/Komputery_Internet/software-quality-assurance/)
   * Goldenline Polska
 
-### Anglojęzyczne internetowe społeczności testerskie \(wybrane\)
+## Anglojęzyczne internetowe społeczności testerskie \(wybrane\)
 
 * [http://sqa.stackexchange.com/](http://sqa.stackexchange.com/)
   * SQA stackexchange
