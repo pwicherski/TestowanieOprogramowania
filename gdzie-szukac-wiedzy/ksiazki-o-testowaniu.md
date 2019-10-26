@@ -2,12 +2,14 @@
 
 ### Lista książek wraz z porównywarką cenową:
 
+Porównywarka cen jest dostępna przy pozycjach, które można zakupić w standardowej dystrybucji. Książki nie posiadające podlinkowanej porównywarki cen takie jak _Testowanie Oprogramowania_ autorstwa Rona Pattona mogą pojawiać się okazjonalnie np. na Allegro czy OLX. Oczywiście warto także sprawdzić biblioteki 📚
+
 {% hint style="warning" %}
 Są to linki referencyjne z portalu BUY.BOX.  
 Prowizja zostanie przekazana na fundację Szkoła 3.0 \(2012 Fundacja Sarigato\).  
 Potwierdzona kwota \(26.10.2019\): 0 zł
 
-Już wypłacone: 273 zł
+Już wypłacone: [273 zł](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2565604450128784/)
 {% endhint %}
 
 * Glenford J. Myers, Corey Sandler, Tom Badgett, Todd M. Thomas - [**Sztuka testowania oprogramowania**](https://buybox.click/4917/buybox.html?oid=3068713);  
