@@ -11,7 +11,7 @@
 
 * ["Narzędzia" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765238096832094&ref=manage_page) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat narzędzi.
-* [Jakich narzędzi najczęściej używacie do zarządzania przypadkami testowymi oraz do ich wykonania?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2319637914725440/)
+* [Jakie możecie polecić do tego narzędzia a żeby nie pisać tego w Excelu tylko już uczyć się konkretnego narzędzia do zarzadzania testami i zgłaszania błędów](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2319637914725440/)
 * [Narzędzie do zarządzania testami \(głównie scenariuszami testowymi\), które jest osadzone w JIRA](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/973734775982434/)
 * [Jakie najlepsze narzędzie\(integrujące się z jirą\) do zarządzania testami](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1004672692888642/)
 * [Najlepiej darmowe narzędzie do zarządzania testami?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1403612839661290/)
