@@ -10,7 +10,7 @@ Pamiętaj proszę, że wybór języka, od którego rozpoczniesz swoją naukę wc
 
 Na początku najważniejsze jest zrozumienie podstaw programowania, na przykładzie wybranego języka. Następnie nauczenie się kolejnego języka będzie znacznie łatwiejsze.
 
-{% embed url="https://nofluffjobs.com/blog/jezyki-programowania-w-pracy-testera-porownanie-wynikow-z-2017-i-2018-roku/" %}
+{% embed url="https://nofluffjobs.com/blog/jezyki-programowania-w-pracy-testera-podsumowanie-2019-roku/" %}
 
 ## 📚 Materiały
 
