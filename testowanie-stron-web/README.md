@@ -8,7 +8,7 @@ Długa i szczegółowa lista kontrolna, która może zainspirować do stworzenia
 
 ## Przydatne wtyczki do testowania stron
 
-{% page-ref page="narzedzia/wtyczki-do-przegladarek.md" %}
+{% page-ref page="../narzedzia/wtyczki-do-przegladarek.md" %}
 
 ## Front-end handbook 2019
 

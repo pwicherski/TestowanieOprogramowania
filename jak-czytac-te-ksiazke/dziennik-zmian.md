@@ -59,7 +59,7 @@ tl;dr aktualizacja i dodanie materiałów.
 * Dodane [pytanie](../najczesciej-zadawane-pytania.md#jak-zaczac-testowac-strone-web) do NZP \(Najczęściej zadawanych pytań\).
 * Dodana prośba o uzywanie wyszukiwarki.
 * Dodana lista polecanych [wtyczek](../narzedzia/wtyczki-do-przegladarek.md).
-* Dodany rozdział o [testowaniu stron web](../testowanie-stron-web.md).
+* Dodany rozdział o [testowaniu stron web](../testowanie-stron-web/).
 * Dodana nowa uczelnia w Rzeszowie - WSIiZ.
 * Dodane materiały do nauki [Pythona](../automatyzacja/nauka-programowania/python.md).
 * Dodana nowa forma [zgłaszania błędów](../rozwoj-materialow.md#zglaszanie-przez-zrzut-ekranu).

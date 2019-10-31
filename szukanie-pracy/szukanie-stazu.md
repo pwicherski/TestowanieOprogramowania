@@ -6,7 +6,9 @@ W poniższym wątku możesz zamieścić swoje ogłoszenie, jeżeli szukasz pierw
 
 {% embed url="https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1854599017896001/" %}
 
-W wątku znajduje się aktualizowana lista firm, które oferują pracę dla początkującego stażysty lub młodszego testera bez komercyjnego doświadczenia.
+### Lista 
+
+W poniższym dokumencie znajduje się aktualizowana lista firm, które oferują pracę dla początkującego stażysty lub młodszego testera bez komercyjnego doświadczenia.
 
 {% hint style="info" %}
 Najprostszym sposobem znalezienia pierwszej pracy lub stażu będzie napisanie do każdej z tych firm załączając swoje CV i na przykład list motywacyjny.

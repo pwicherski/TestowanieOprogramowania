@@ -7,21 +7,15 @@ description: Kursy fizyczne z podstaw testowania oprogramowania
 W Polsce dostępne są szkolenia długoterminowe, które ułatwiają zdobycie wiedzy niezbędnej do rozpoczęcia pracy w zawodzie.
 
 {% hint style="danger" %}
-ŻADEN Z PONIŻSZYCH KURSÓW NIE JEST KURSEM POLECANYM.
+Żaden z poniższych kursów nie jest kursem polecanym.
 
-JEST TO TYLKO SPIS DOSTĘPNYCH KURSÓW, KTÓRE SPEŁNIAJĄ WEDŁUG AUTORA DOKUMENTU MINIMALNE WYMAGANIA.
-{% endhint %}
+Kursy ułożone są bez szczególnej kolejności.
 
-{% hint style="danger" %}
-KURSY SĄ UŁOŻONE BEZ SZCZEGÓLNEJ KOLEJNOŚCI.
-{% endhint %}
-
-{% hint style="danger" %}
-PRZED PODJĘCIEM DECYZJI ZAPOZNAJ SIĘ DOKŁADNIE Z OPISEM KURSÓW I ZRÓB JAK NAJDOKŁADNIEJSZE ROZEZNANIE WE WSZYSTKICH DOSTĘPNYCH ŹRÓDŁACH.
-
+Przed podjęciem decyzji zapoznaj się dokładnie z opisem kursów i zrób jak najdokładniejsze rozeznanie we wszystkich dostępnych źródłach, takich jak na przykład:  
+  
 [Wszystkie dyskusje z grupy Testowanie Oprogramowania na temat kursów krótkoterminowych i długoterminowych kursów.](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765193666836537%20)
 
-PAMIĘTAJ ABY ZADAWAĆ JAK NAJWIĘCEJ PYTAŃ I ROZWIAĆ WSZYSTKIE SWOJE WĄTPLIWOŚCI W TRAKCIE KONTAKTU ZE WSZYSTKIMI POTENCJALNYMI FIRMAMI I TRENERAMI.
+Pamiętaj, że masz prawo zadawać jak najwięcej pytań i oczekiwać rozwiania wszystkich Twoich wątpliwości w trakcie kontaktu ze wszystkimi potencjalnymi firmami i trenerami.
 {% endhint %}
 
 {% hint style="warning" %}

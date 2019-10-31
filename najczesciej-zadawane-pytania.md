@@ -74,7 +74,11 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 ## Czy warto zdawać certyfikat ISTQB?
 
-{% page-ref page="certyfikacja/" %}
+{% page-ref page="certyfikacja/istqb.md" %}
+
+## Jakie materiały do nauki ISTQB?
+
+{% page-ref page="certyfikacja/istqb.md" %}
 
 ## Czy warto iść na szkolenie do egzaminu ISTQB?
 
@@ -84,13 +88,17 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 {% page-ref page="certyfikacja/istqb.md" %}
 
-## Chce nauczyć się automatyzacji?
+## Chce nauczyć się automatyzacji, co dalej?
 
 {% page-ref page="automatyzacja/" %}
 
 ## Jakie materiały do nauki automatyzacji polecacie?
 
 {% page-ref page="automatyzacja/" %}
+
+## Jakie materiały do nauki Selenium z wykorzystaniem języka X polecacie?
+
+{% page-ref page="narzedzia/selenium.md" %}
 
 ## Jakiego języka programowania nauczyć się najpierw?
 
@@ -106,7 +114,7 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 ## Czy w mieście X jest organizowany meetup lub konferencja?
 
-{% page-ref page="gdzie-szukac-wiedzy/" %}
+{% page-ref page="gdzie-szukac-wiedzy/spolecznosci-testerskie.md" %}
 
 ## Chce nauczyć się języka X, jakie materiały polecacie?
 
@@ -114,5 +122,5 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 ## Jak zacząć testować stronę web?
 
-{% page-ref page="testowanie-stron-web.md" %}
+{% page-ref page="testowanie-stron-web/" %}
 

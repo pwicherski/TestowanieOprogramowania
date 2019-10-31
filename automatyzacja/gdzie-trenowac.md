@@ -8,7 +8,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 ### **Jak testować**
 
-{% page-ref page="../testowanie-stron-web.md" %}
+{% page-ref page="../testowanie-stron-web/" %}
 
 ### **Strony do testów manualnych oraz automatyzacji**
 
@@ -18,6 +18,8 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * API sandbox
 * [https://asta.pgs-soft.com](https://asta.pgs-soft.com)
   * Automated Software Testing Arena
+* [https://www.seleniumeasy.com/test/](https://www.seleniumeasy.com/test/)
+  * Zestaw ćwiczeń
 * [http://automationpractice.com](http://automationpractice.com)
   * Wirtualny sklep
 * [http://newtours.demoaut.com](http://newtours.demoaut.com)
@@ -40,6 +42,12 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * RPA \(Robotic process automation\) automatyzacja wprowadzenia danych wejściowych z excela
 * [https://weathershopper.pythonanywhere.com/](https://weathershopper.pythonanywhere.com/)
   * Weather shopper application
+* [http://www.globalsqa.com/angularjs-protractor-practice-site/](http://www.globalsqa.com/angularjs-protractor-practice-site/)
+  * AngularJS
+* [http://www.way2automation.com/protractor-angularjs-practice-website.html](http://www.way2automation.com/protractor-angularjs-practice-website.html)
+  * AngularJS
+* [https://codepen.io/murtazamzk/full/YwjEor](https://codepen.io/murtazamzk/full/YwjEor)
+  * AngularJS
 
 ### **Aplikacje lokalne**
 

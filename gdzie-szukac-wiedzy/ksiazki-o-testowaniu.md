@@ -2,10 +2,14 @@
 
 ### Lista książek wraz z porównywarką cenową:
 
+Porównywarka cen jest dostępna przy pozycjach, które można zakupić w standardowej dystrybucji. Książki nie posiadające podlinkowanej porównywarki cen takie jak _Testowanie Oprogramowania_ autorstwa Rona Pattona mogą pojawiać się okazjonalnie np. na Allegro czy OLX. Oczywiście warto także sprawdzić biblioteki 📚
+
 {% hint style="warning" %}
-Są to linki referencyjne z portalu buybox.  
+Są to linki referencyjne z portalu BUY.BOX.  
 Prowizja zostanie przekazana na fundację Szkoła 3.0 \(2012 Fundacja Sarigato\).  
-Zebrana kwota \(27.06.2019\): 241.79 zł
+Potwierdzona kwota \(26.10.2019\): 0 zł
+
+Już wypłacone: [273 zł](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2565604450128784/)
 {% endhint %}
 
 * Glenford J. Myers, Corey Sandler, Tom Badgett, Todd M. Thomas - [**Sztuka testowania oprogramowania**](https://buybox.click/4917/buybox.html?oid=3068713);  
@@ -16,7 +20,7 @@ Zebrana kwota \(27.06.2019\): 241.79 zł
 * Red. Adam Roman, Karolina Zmitrowicz - [**Inżynieria wymagań. Studium przypadków**](https://buybox.click/4917/buybox.html?oid=23316085);
 
 * Radosław Smilgin - [**Dane testowe. Teoria i Praktyka**](https://buybox.click/4917/buybox.html?oid=3082736);  
-* Radosław Smilgin - [**Zawód tester**](https://buybox.click/4917/buybox.html?oid=4702771);  
+* Radosław Smilgin - [**Zawód tester**;](%20https://buybox.click/1674/buybox.html?oid=39536804)  
 * Karolina Zmitrowicz - [**Jakość projektów informatycznych Rozwój i testowanie oprogramowania**](https://buybox.click/4917/buybox.html?oid=4973400);  
 * Karolina Zmitrowicz - [**Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania**](https://buybox.click/4917/buybox.html?oid=4662933);  
 * Linz Tilo - [**Testowanie w procesie Scrum. Przewodnik po zarządzaniu jakością oprogramowania w świecie programowania**](https://buybox.click/4917/buybox.html?oid=3089991);  
@@ -60,7 +64,7 @@ Są promocje, ebooki lub używane egzemplarze. Nie będzie to kosztowało wiele.
 
 Dla osób zainteresowanych \(zapewne cząstkowa\) lista pozycji o które można wzbogacić swoje biurko lub półkę szukając kołysanki do poduszki. Kolejność książek jest przypadkowa a wymieniona lista składa się po prostu z większości pozycji w których jestem posiadaniu, więc wiem, że są możliwe do zdobycia.
 
-Dla ułatwienia pod częścią książek znajduje się link z wynikami wyszukiwania najtańszych cen z większości portali \(w tym oczywiście strony producentów, TaniaKsiazka, EbookPoint, Allegro, Ceneo itd.\).
+Dla ułatwienia przy części książek znajduje się link z wynikami wyszukiwania najtańszych cen z większości portali \(w tym oczywiście strony producentów, TaniaKsiazka, EbookPoint, Allegro, Ceneo itd.\).
 
 {% hint style="info" %}
 [http://bit.ly/TO-ksiazki](http://bit.ly/TO-ksiazki)
