@@ -10,8 +10,6 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Testerzy.pl
 * [http://test-engineer.pl](http://test-engineer.pl)
   * Marcin Sikorski
-* [http://javagirl.pl/](http://javagirl.pl/)
-  * JavaGirl
 * [http://blog.testuj.pl/](http://blog.testuj.pl/)
   * Testuj.pl Blog
 * [https://martamaracje.blogspot.com/](https://martamaracje.blogspot.com/)
@@ -40,8 +38,10 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Ela Sądel
 * [https://jakosctobedzie.pl/](https://jakosctobedzie.pl/)
   * Magda Drechsler-Nowak
+* [https://devowls.io/][https://devowls.io/]
+  * Michał Krzyżanowski | Michał Ślęzak
 
-## Dawno nieaktualizowane:
+## Dawno nieaktualizowane lub zamknięte:
 
 * [http://termometr.blogspot.com/](http://termometr.blogspot.com/)
   * Tomasz Zdanowicz
@@ -49,4 +49,5 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Blog Stargate Technology
 * [http://web.archive.org/web/20160309122123/http://blog.alvarus.org/](http://web.archive.org/web/20160309122123/http://blog.alvarus.org/)
   * Wersja archiwalna bloga \| Łukasz Jasiński 
-
+* [http://javagirl.pl/](http://javagirl.pl/)
+  * JavaGirl
