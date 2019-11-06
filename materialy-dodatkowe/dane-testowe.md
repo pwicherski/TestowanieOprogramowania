@@ -40,6 +40,8 @@ Dane testowe \(ISTQB\) - To dane, które istnieją \(przykładowo w bazie danych
   * [http://www.getcreditcardnumbers.com/](http://www.getcreditcardnumbers.com/)
 * PESEL, NIP, REGON, PWZ, nr. telefonu kom. imion, nazwisk, nazw firm, nazw ulic, miast, kodów pocztowych, szerokości i długości geograficznej, e-mail, IPv4 IPv6, nazw użytkowników i userAgent przeglądarek
   * [http://generuj.co.pl/](http://generuj.co.pl/)
+* Generator danych osobowych
+  * [https://danetestowe.pl/](https://danetestowe.pl/)
 
 ### Tutoriale/Artykuły nt. dane testowe
 
