@@ -42,6 +42,9 @@ Dane testowe \(ISTQB\) - To dane, które istnieją \(przykładowo w bazie danych
   * [http://generuj.co.pl/](http://generuj.co.pl/)
 * Generator danych osobowych
   * [https://danetestowe.pl/](https://danetestowe.pl/)
+* Generator danych osobowych online i na githubie
+  * [https://devskiller.com/datafairy/](https://devskiller.com/datafairy/)
+  * [https://devskiller.github.io/jfairy/](https://devskiller.github.io/jfairy/)
 
 ### Tutoriale/Artykuły nt. dane testowe
 
