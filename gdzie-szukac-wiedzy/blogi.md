@@ -38,16 +38,23 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Ela Sądel
 * [https://jakosctobedzie.pl/](https://jakosctobedzie.pl/)
   * Magda Drechsler-Nowak
-* [https://devowls.io/][https://devowls.io/]
-  * Michał Krzyżanowski | Michał Ślęzak
+* [https://devowls.io/](https://devowls.io/][https://devowls.io/)
+  * Michał Krzyżanowski \| Michał Ślęzak
+* [https://testerembyc.pl/](https://testerembyc.pl/)
+  * Maciej Kusz
 
 ## Dawno nieaktualizowane lub zamknięte:
 
+{% hint style="info" %}
+Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, że nie będą rozwijane.
+{% endhint %}
+
 * [http://termometr.blogspot.com/](http://termometr.blogspot.com/)
   * Tomasz Zdanowicz
-* [http://testspring.pl/blog/category/blog/](http://testspring.pl/blog/category/blog/)
+* [https://web.archive.org/web/20180831224048/http://testspring.pl/blog/category/blog/](https://web.archive.org/web/20180831224048/http://testspring.pl/blog/category/blog/)
   * Blog Stargate Technology
 * [http://web.archive.org/web/20160309122123/http://blog.alvarus.org/](http://web.archive.org/web/20160309122123/http://blog.alvarus.org/)
   * Wersja archiwalna bloga \| Łukasz Jasiński 
 * [http://javagirl.pl/](http://javagirl.pl/)
   * JavaGirl
+
