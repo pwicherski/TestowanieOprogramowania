@@ -6,11 +6,11 @@ Pamiętaj proszę, że wybór języka, od którego rozpoczniesz swoją naukę wc
 
 ![](../.gitbook/assets/which-programming-language-should-i-learn-first-infographic.png)
 
-{% embed url="http://carlcheo.com/startcoding" %}
+{% embed url="http://carlcheo.com/startcoding" caption="" %}
 
 Na początku najważniejsze jest zrozumienie podstaw programowania, na przykładzie wybranego języka. Następnie nauczenie się kolejnego języka będzie znacznie łatwiejsze.
 
-{% embed url="https://nofluffjobs.com/blog/jezyki-programowania-w-pracy-testera-podsumowanie-2019-roku/" %}
+{% embed url="https://nofluffjobs.com/blog/jezyki-programowania-w-pracy-testera-podsumowanie-2019-roku/" caption="" %}
 
 ## 📚 Materiały
 

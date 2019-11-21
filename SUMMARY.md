@@ -66,8 +66,8 @@
 ## Teoria testowania
 
 * [Zarządzanie projektem, zespołem](teoria-testowania/zarzadzanie-projektem-zespolem/README.md)
-  * [Przypadki testowe](teoria-testowania/zarzadzanie-projektem-zespolem/przypadki-testowe.md)
   * [Plan testów](teoria-testowania/zarzadzanie-projektem-zespolem/plan-testow.md)
+  * [Przypadki testowe](teoria-testowania/zarzadzanie-projektem-zespolem/przypadki-testowe.md)
 
 ## Materiały dodatkowe
 
