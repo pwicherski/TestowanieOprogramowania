@@ -62,7 +62,6 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 * [Błędne koło w IT, czyli dlaczego na rynku pracy brakuje ofert dla początkujących informatyków?](https://nofluffjobs.com/blog/bledne-kolo-w-it-czyli-dlaczego-na-rynku-pracy-brakuje-ofert-dla-poczatkujacych-informatykow/)
 * [13 powodów, dla których młodzi testerzy nie dostają pracy](https://nofluffjobs.com/juniors/posts/13-powodow-dla-ktorych-mlodzi-testerzy-nie-dostaja-pracy/)
 
-
 ## Przygotuj swoje CV
 
 {% page-ref page="cv.md" %}
@@ -86,6 +85,4 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 * [E-book przygotowanie do rekrutacji](https://jakzostactesterem.pl/bezplatny-ebook-pdf-mlodszy-tester-oprogramowania-przygotowanie-do-rekrutacji/)
 
 ## ![](../.gitbook/assets/icons8-facebook-50%20%281%29.png) **Dyskusje**
-
-
 
