@@ -60,6 +60,8 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 * [Jak radziliście sobie, żeby zacząć swoją pierwszą pracę jako tester?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1921628921193010/)
 * [To nie jest czas juniorów](http://testerzy.pl/baza-wiedzy/to-nie-jest-czas-juniorow)
 * [Błędne koło w IT, czyli dlaczego na rynku pracy brakuje ofert dla początkujących informatyków?](https://nofluffjobs.com/blog/bledne-kolo-w-it-czyli-dlaczego-na-rynku-pracy-brakuje-ofert-dla-poczatkujacych-informatykow/)
+* [13 powodów, dla których młodzi testerzy nie dostają pracy](https://nofluffjobs.com/juniors/posts/13-powodow-dla-ktorych-mlodzi-testerzy-nie-dostaja-pracy/)
+
 
 ## Przygotuj swoje CV
 
