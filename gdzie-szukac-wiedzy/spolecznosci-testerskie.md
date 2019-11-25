@@ -49,11 +49,11 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [Konferencja Testerzy.pl](http://konferencja.testerzy.pl/) 🙋
 * [PTaQ Day One](http://dayone.ptaq.org/) 🙋
 * [ReQuest](https://ReQuest.pl)
-* [SkładQA](http://kraqa.pl/)🙋
+* [SkładQA](http://kraqa.pl/) 🙋
 * [Test Camp](https://testcamp.pl/) 🙋
 * [Test Dive](http://www.testdive.pl/) 🙋
-* [Testaton](http://testaton.pl/)🙋
-* [TestFest](https://testfest.pl/)🙋
+* [Testaton](http://testaton.pl/) 🙋
+* [TestFest](https://testfest.pl/) 🙋
 * [TestingCup](http://testingcup.pl/)
 * [TestWarez](https://testwarez.pl)
 * [Niepełna lista zagranicznych konferencji](https://testingconferences.org/)
