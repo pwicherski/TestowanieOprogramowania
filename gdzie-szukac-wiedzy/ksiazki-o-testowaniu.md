@@ -34,7 +34,7 @@ Już wypłacone: [273 zł](https://www.facebook.com/groups/TestowanieOprogramowa
 * Andrzej Jacek Blikle - [**Doktryna jakości**](https://buybox.click/4917/buybox.html?oid=10016181);
 
 {% hint style="success" %}
-Zasugeruj nową pozycję: [Rozwój materiałów](../../rozwoj-materialow.md).
+Zasugeruj nową pozycję: [Rozwój materiałów](../rozwoj-materialow.md).
 {% endhint %}
 
 Zastanawia mnie fakt jak wielu poznałem testerów, którzy nie przeczytali jeszcze ani jednej książki o testowaniu oprogramowania.  
