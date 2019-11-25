@@ -7,7 +7,7 @@
 * Przeorganizowanie rozdziałów i sekcji
 * Dodanie działu materiałów dodatkowych
 * Dodanie działu teorii testowania
-* Aktualizacja [listy książek](../gdzie-szukac-wiedzy/ksiazki-o-testowaniu.md)
+* Aktualizacja [listy książek](../materialy-dodatkowe/gdzie-szukac-wiedzy/ksiazki-o-testowaniu.md)
 
 ### 1.0.4 - 2019-05-23
 
@@ -29,11 +29,11 @@
 * Usunięcie 🌞 przy materiałach w języku polskim.
 * Aktualizacja listy [danych testowych](../materialy-dodatkowe/dane-testowe.md).
 * Aktualizacja listy raportów [zarobków](../zarobki.md).
-* Aktualizacja listy [blogów](../gdzie-szukac-wiedzy/blogi.md).
+* Aktualizacja listy [blogów](../materialy-dodatkowe/gdzie-szukac-wiedzy/blogi.md).
 * Aktualizacja listy [danych testowych](../materialy-dodatkowe/dane-testowe.md).
 * Aktualizacja listy stron z [ofertami pracy](../szukanie-pracy/#gdzie-szukac-pracy).
 * Aktualizacja listy stron, na których można testować. Dział narzędzia [Selenium](../narzedzia/selenium.md#strony-na-ktorych-mozna-trenowac).
-* Dodanie listy polskich [podcastów](../gdzie-szukac-wiedzy/podcasty.md).
+* Dodanie listy polskich [podcastów](../materialy-dodatkowe/gdzie-szukac-wiedzy/podcasty.md).
 * Dodanie listy przydatnych raportów.
 * Dodane materiały odnośnie narzędzi:
   * [Charles Proxy](../narzedzia/charles-proxy.md).

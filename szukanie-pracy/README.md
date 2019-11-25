@@ -5,6 +5,7 @@
 * [Oferty pracy na grupie "Testowanie Oprogramowania"](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765176240171613)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
 * [https://www.juniorjobsonly.com/](https://www.juniorjobsonly.com/)
+* [https://jobsforgeek.com/](https://jobsforgeek.com/job-offers?country=POLAND&country=POLAND&jobCategory=TESTER)
 * [https://pl.indeed.com/praca](https://pl.indeed.com/praca)
 * [https://www.pracuj.pl/](https://www.pracuj.pl/)
 * [https://www.praca.pl/](https://www.praca.pl/)

@@ -35,6 +35,9 @@
 * [Testowanie aplikacji mobilnych](testowanie-aplikacji-mobilnych/README.md)
   * [Książki - testowanie aplikacji mobilnych](testowanie-aplikacji-mobilnych/ksiazki.md)
   * [Narzędzia](testowanie-aplikacji-mobilnych/narzedzia.md)
+* [Zarządzanie projektem, zespołem](zarzadzanie-projektem-zespolem/README.md)
+  * [Plan testów](zarzadzanie-projektem-zespolem/plan-testow.md)
+  * [Przypadki testowe](zarzadzanie-projektem-zespolem/przypadki-testowe.md)
 * [Narzędzia](narzedzia/README.md)
   * [Selenium](narzedzia/selenium.md)
   * [Appium](narzedzia/appium.md)
@@ -51,27 +54,21 @@
 * [Certyfikacja](certyfikacja/README.md)
   * [Lista certyfikatów testerskich](certyfikacja/lista-certyfikatow-testerskich.md)
   * [ISTQB](certyfikacja/istqb.md)
-* [Gdzie szukać wiedzy](gdzie-szukac-wiedzy/README.md)
-  * [Społeczności testerskie](gdzie-szukac-wiedzy/spolecznosci-testerskie.md)
-  * [Książki o testowaniu po polsku](gdzie-szukac-wiedzy/ksiazki-o-testowaniu.md)
-  * [Blogi](gdzie-szukac-wiedzy/blogi.md)
-  * [Magazyny testerskie](gdzie-szukac-wiedzy/magazyny-testerskie.md)
-  * [Podcasty](gdzie-szukac-wiedzy/podcasty.md)
 * [Raporty](raporty.md)
 * [Historie](historie/README.md)
   * [Jak stać się testerem](historie/jak-stac-sie-testerem/README.md)
     * [Historia JZT 1](historie/jak-stac-sie-testerem/historia-jzt-1.md)
 * [Rozwój materiałów](rozwoj-materialow.md)
 
-## Teoria testowania
-
-* [Zarządzanie projektem, zespołem](teoria-testowania/zarzadzanie-projektem-zespolem/README.md)
-  * [Plan testów](teoria-testowania/zarzadzanie-projektem-zespolem/plan-testow.md)
-  * [Przypadki testowe](teoria-testowania/zarzadzanie-projektem-zespolem/przypadki-testowe.md)
-
 ## Materiały dodatkowe
 
 * [Gry i zadania](materialy-dodatkowe/gry-i-zadania.md)
 * [Mapy myśli](materialy-dodatkowe/mapy-mysli.md)
 * [Dane testowe](materialy-dodatkowe/dane-testowe.md)
+* [Gdzie szukać wiedzy](materialy-dodatkowe/gdzie-szukac-wiedzy/README.md)
+  * [Społeczności testerskie](materialy-dodatkowe/gdzie-szukac-wiedzy/spolecznosci-testerskie.md)
+  * [Książki o testowaniu po polsku](materialy-dodatkowe/gdzie-szukac-wiedzy/ksiazki-o-testowaniu.md)
+  * [Blogi](materialy-dodatkowe/gdzie-szukac-wiedzy/blogi.md)
+  * [Magazyny testerskie](materialy-dodatkowe/gdzie-szukac-wiedzy/magazyny-testerskie.md)
+  * [Podcasty](materialy-dodatkowe/gdzie-szukac-wiedzy/podcasty.md)
 
