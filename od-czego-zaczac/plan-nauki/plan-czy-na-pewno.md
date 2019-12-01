@@ -4,6 +4,12 @@ Przed zdecydowaniem się na rozpoczęcie swojej przygody z testowaniem, warto za
 
 Poniższa lista zadań ma na celu pomoc w odpowiedzi na pytanie czy na pewno chcesz zostać testerem.
 
+{% hint style="info" %}
+Czas nauki:  
+Około 2 tygodnie.  
+Sugerowane: 5 godzin tygodniowo.
+{% endhint %}
+
 {% embed url="https://trello.com/b/hKZ0FX2g/czy-zosta%C4%87-testerem" %}
 
 ### 📚 Materiały <a id="materialy"></a>
@@ -11,5 +17,4 @@ Poniższa lista zadań ma na celu pomoc w odpowiedzi na pytanie czy na pewno chc
 _Lista dodatkowych materiałów, które nie znajdują się w planie "Czy zostać testerem", jednak warto je przeczytać jeżeli masz czas._
 
 * \_\_[_https://podcasttestowanie.pl/warszawqa-edukacja-testera/_](https://podcasttestowanie.pl/warszawqa-edukacja-testera/)\_\_
-* \_\_
 
