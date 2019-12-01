@@ -71,11 +71,5 @@ Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza pr
 
 ## 👄 Historie zostania testerem
 
-* [Jak zostałem testerem, zbiór historii](https://jakzostactesterem.pl/?s=Jak+zostałem+testerem)
-* [Historia M.](../historie/jak-stac-sie-testerem/historia-jzt-1.md)
-* [Jak zostałem Testerem](https://www.toniebug.pl/jak-zostalem-testerem/)
-* [Jak zostałem Testerem Oprogramowania z wykorzystaniem środków Powiatowego Urzędu Pracy?](https://testuj.pl/blog/jak-zostalem-testerem-oprogramowania-z-wykorzystaniem-srodkow-powiatowego-urzedu-pracy/)
-  * Historia o tym jak dofinansowanie może pomóc zdobyć pracę.
-* [Jak zostałam testerką oprogramowania – historia Karoliny](https://mamopracuj.pl/jak-zostalam-testerka-oprogramowania-historia-karoliny/)
-* [Historia jednego testera](http://testerzy.pl/baza-wiedzy/historia-jednego-testera)
+{% page-ref page="../historie/" %}
 

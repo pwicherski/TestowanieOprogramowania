@@ -4,10 +4,10 @@
 
 #### Raporty i analizy zawierające dane o testerach
 
-* Mediana zarobków w IT \[No Fluff Jobs\] 
+* Analiza zarobków testerów \[Testerzy.pl\]
+  * [2019](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2019-czesc-i) \| [2018](http://www.testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2018-czesc-i) \| [2017](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2017-czesc-i) \| [2016](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2016-czesc-i) \| [2015](http://testerzy.pl/wiesci-ze-swiata-testerow/analiza-zarobkow-testerow-2015-czesc-i) \| [2014](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2014-czesc-i)
+* Mediana zarobków w IT \[No Fluff Jobs\]
   * [2018](https://nofluffjobs.com/blog/praca-w-it-mediana-wynagrodzen-w-zaleznosci-od-specjalnosci/)
-* Analiza zarobków testerów \[Testerzy.pl\] 
-  * [2018](http://www.testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2018-czesc-i) \| [2017](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2017-czesc-i) \| [2016](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2016-czesc-i) \| [2015](http://testerzy.pl/wiesci-ze-swiata-testerow/analiza-zarobkow-testerow-2015-czesc-i) \| [2014](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2014-czesc-i)
 * Analiza zarobków testerów \[Sedlak & Sedlak\] 💵
   * [2018](https://wynagrodzenia.pl/artykul/zarobki-testerow-oprogramowania-w-2018-roku) \| [2017](https://wynagrodzenia.pl/raport-placowy/raport-placowy-sedlak-amp-sedlak-dla-branzy-it-2017)
 * Ile zarabia tester oprogramowania? \[Wynagrodzenia.pl\] 
@@ -17,7 +17,7 @@
 * Średnie wynagrodzenie testera oprogramowania \[payscale\]
   * [Podgląd bieżących analiz](https://www.payscale.com/research/PL/Job=Software_Tester/Salary)
 * Raporty płacowe \[Hays\] 
-  * [2018](https://www.hays.pl/raport-placowy/index.htm) \| [2017](https://www.hays.pl/raport-placowy/archiwum/2017/index.htm) \| [2016](https://www.hays.pl/raport-placowy/archiwum/2016/index.htm) \| [2015](https://www.hays.pl/raport-placowy/archiwum/2015/index.htm)
+  * [2019](https://cloud.email.hays.com/PL_raport)
 
 #### Inne
 

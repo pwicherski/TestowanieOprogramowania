@@ -10,7 +10,9 @@ Dobrym przykładem takiego narzędzia jest [Trello.com](https://trello.com/piotr
 
 ## Przykładowe plany
 
+{% hint style="warning" %}
 Pamiętaj proszę, że poniższe plany są tylko przykładami i mogą nie sprawdzić się w Twoim przypadku. Przemyśl dokładnie co chcesz osiągnąć i dostosuj do tego swoje siły!
+{% endhint %}
 
 Nie ma jednego dobrego sposobu na rozpoczęcie nauki testowania, wejście w świat IT, czy nauczenie się automatyzacji. Przedstawione tutaj przykładowe plany są ogólne i nie wyczerpują w żaden sposób tematu. Stanowią one, choćby częściową, próbę odpowiedzi na często pojawiające się pytanie "Chcę zostać testerem, jak zacząć?". Na przykład tak.
 
