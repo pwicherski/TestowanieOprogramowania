@@ -7,10 +7,14 @@ Poniższa lista zadań ma na celu pomoc w odpowiedzi na pytanie czy na pewno chc
 {% hint style="info" %}
 Czas nauki:  
 Około 2 tygodnie.  
-Sugerowane: 5 godzin tygodniowo.
+Sugerowane: 5 godzin tygodniowo  
 {% endhint %}
 
 {% embed url="https://trello.com/b/hKZ0FX2g/czy-zosta%C4%87-testerem" %}
+
+{% hint style="info" %}
+[Jak skopiować tablicę w Trello](https://youtu.be/JD5067y9Vjo)
+{% endhint %}
 
 ### 📚 Materiały <a id="materialy"></a>
 

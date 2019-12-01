@@ -10,5 +10,9 @@ Sugerowane: 8 godzin tygodniowo.
 
 {% embed url="https://trello.com/b/nMLd1gXd/wej%C5%9Bcie-w-it" %}
 
+{% hint style="info" %}
+[Jak skopiować tablicę w Trello](https://youtu.be/JD5067y9Vjo)
+{% endhint %}
+
 ### 📚 Materiały <a id="materialy"></a>
 

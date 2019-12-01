@@ -35,6 +35,8 @@ Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza pr
 
 {% embed url="http://nickytests.blogspot.com/2017/05/getting-started-on-testing-project.html" caption="" %}
 
+{% page-ref page="pierwsze-doswiadczenie.md" %}
+
 ## 📚 Materiały
 
 * [Najczęściej zadawane pytania na początku drogi testera oprogramowania](../najczesciej-zadawane-pytania.md) 🏤🌞
