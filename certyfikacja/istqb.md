@@ -18,7 +18,7 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 ### **Szkolenia do egzaminu na certyfikat ISTQB poziom podstawowy przeprowadzają takie firmy jak:**
 
 * [IT Trainings](http://ittraining.pl/szkolenia/zapewnic_jakosc/istqb_poziom_podstawowy)
-* [Testuj.pl](http://szkolenia.testuj.pl/istqb-foundation-level/)
+* [Testuj.pl](https://testuj.pl/lista-szkolen?name=istqb)
 * [AmberTeam](http://www.amberteam.pl/pl/szkolenia/istqb-certyfikowany-tester---poziom-podstawowy/1)
 
 ### **Przygotowanie do egzaminu ISTQB Poziom Podstawowy \(Foundation Level\)**

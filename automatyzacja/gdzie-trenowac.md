@@ -66,7 +66,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 ### **Aplikacje i strony z zadaniami**
 
 * [http://mrbuggy.pl](http://mrbuggy.pl)
-  * Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby [TestingCup](https://pwicherski.gitbooks.io/testowanieoprogramowania/testingcup.pl)
+  * Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby TestingCup
 * [http://testingchallenges.thetestingmap.org/index.php](http://testingchallenges.thetestingmap.org/index.php)
   * Zbiór zadań 
 

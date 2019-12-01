@@ -32,7 +32,7 @@ Na liście są i będą zadania związane czysto z programowaniem, ponieważ ta 
   * CheckiO.org helps you learn Python by giving you a series of missions. Each time you earn a series of points, you can level up and gain access to more stages! This is a great beginners tool with tons of help and documentation to get you up and running.  
 * [http://codemancergame.com/](http://codemancergame.com/)
   * The game is available for pre-order now. Please join us in making programming more approachable and more fun for kids everywhere. 
-* [http://coderbyte.com/CodingArea/Challenges/](http://coderbyte.com/CodingArea/Challenges/)
+* [https://coderbyte.com/challenges](https://coderbyte.com/challenges)
   * Zadania związane z programowaniem. 
 * [http://vim-adventures.com/](http://vim-adventures.com/)
   * Tak! Interaktywna gra ucząca świetnego programu, którym jest VIM! 

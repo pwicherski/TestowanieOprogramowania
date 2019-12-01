@@ -7,7 +7,7 @@ Dane testowe \(ISTQB\) - To dane, które istnieją \(przykładowo w bazie danych
 * Facebook Test Users for Apps
   * [https://developers.facebook.com/docs/apps/test-users?hc\_location=ufi](https://developers.facebook.com/docs/apps/test-users?hc_location=ufi)
 * Karty płatnicze
-  * [https://docs.adyen.com/developers/test-cards/test-card-numbers](https://docs.adyen.com/developers/test-cards/test-card-numbers)
+  * [https://docs.adyen.com/development-resources/test-cards/test-card-numbers](https://docs.adyen.com/development-resources/test-cards/test-card-numbers)
   * [https://support.buckaroo.nl/index.php/EN/Test\_data](https://support.buckaroo.nl/index.php/EN/Test_data)
   * [https://stripe.com/docs/testing](https://stripe.com/docs/testing)
 * Ciągi znaków

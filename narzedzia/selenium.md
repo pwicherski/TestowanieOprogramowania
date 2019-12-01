@@ -39,8 +39,6 @@
 
 ### Blogi, wpisy, poradniki
 
-* [http://james-willett.com/2015/06/essential-tools-for-writing-selenium-tests-firepath-firebug/](http://james-willett.com/2015/06/essential-tools-for-writing-selenium-tests-firepath-firebug/)
-  * Essential Tools for Writing Selenium Tests – FirePath & FireBug
 * [https://code.google.com/p/selenium/wiki/GettingStarted](https://code.google.com/p/selenium/wiki/GettingStarted)
   * Googlowskiego.Code Gettings Started
 * [https://docs.saucelabs.com/reference/platforms-configurator/\#/](https://docs.saucelabs.com/reference/platforms-configurator/#/)
@@ -60,8 +58,6 @@
   * "Java for testers", jeżeli ktoś ma zamiar pisać w javie
 * [http://www.amazon.com/Selenium-WebDriver-Practical-Guide-Avasarala/dp/1782168850](http://www.amazon.com/Selenium-WebDriver-Practical-Guide-Avasarala/dp/1782168850)
   * Selenium WebDriver Practical Guide
-* [https://manning.com/books/selenium-webdriver-in-practice](https://manning.com/books/selenium-webdriver-in-practice)
-  * Selenium WebDriver in Practice
 * [https://www.amazon.com/Mastering-Selenium-WebDriver-Mark-Collin-ebook/dp/B010V8SIIQ/](https://www.amazon.com/Mastering-Selenium-WebDriver-Mark-Collin-ebook/dp/B010V8SIIQ/)
   * Mastering Selenium WebDriver
 * [http://seleniumbook.com/](http://seleniumbook.com/)

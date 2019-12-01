@@ -6,8 +6,10 @@
   * Strona domowa projektu
 * [http://forum.testlink.org/](http://forum.testlink.org/)
   * Oficjalne forum
-* [http://testlink.sourceforge.net/.../end-users/manual.html](http://testlink.sourceforge.net/.../end-users/manual.html)
-  * User manual
+* [https://github.com/TestLinkOpenSourceTRMS/testlink-code](https://github.com/TestLinkOpenSourceTRMS/testlink-code)
+  * Testlink code
+* [https://github.com/TestLinkOpenSourceTRMS/testlink-documentation](https://github.com/TestLinkOpenSourceTRMS/testlink-documentation)
+  * Documentation
 
 ### Materiały
 

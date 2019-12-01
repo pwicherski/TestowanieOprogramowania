@@ -11,7 +11,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [ŁuczniczQA ](https://www.facebook.com/LuczniczQA/)\(Bydgoszcz\)
 * [Quality Meetup](https://www.meetup.com/Quality-Meetup/) \(Gliwice\)
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) \(Katowice\)
-* [QAtowice ](https://www.meetup.com/Katowice-Quality-Assurance-Meetup/)\(Katowice\)
+* [QAtowice ](https://crossweb.pl/en/event-series/qatowice-meetup/)\(Katowice\)
 * [KielecQA](https://www.facebook.com/kielecqa/) \(Kielce\)
 * [EPAM QA Talks](https://www.facebook.com/Epam.Poland/) \(Kraków\)
 * [Kraków.assert\(\)](https://www.meetup.com/pl-PL/krakow-assert/) \(Kraków\)

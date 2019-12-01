@@ -38,7 +38,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Ela Sądel
 * [https://jakosctobedzie.pl/](https://jakosctobedzie.pl/)
   * Magda Drechsler-Nowak
-* [https://devowls.io/](https://devowls.io/][https://devowls.io/)
+* [https://devowls.io/](https://devowls.io/)
   * Michał Krzyżanowski \| Michał Ślęzak
 * [https://testerembyc.pl/](https://testerembyc.pl/)
   * Maciej Kusz

@@ -5,7 +5,7 @@
 * [Jak zostałem testerem, zbiór historii](https://jakzostactesterem.pl/?s=Jak+zostałem+testerem)
 * [Bajka o chemiku, który został testerem](http://testerzy.pl/baza-wiedzy/bajka-o-chemiku-ktory-zostal-testerem) 
 * [Jak zostałem testerem – historia prawdziwa](http://astek.pl/jak-zostalem-testerem-historia-prawdziwa/)
-* [Wstęp do testowania na własnym przykładzie](http://ping.com.pl/2018/04/17/wstep-do-testowania-na-wlasnym-przykladzie/) 🎙️
+* [Wstęp do testowania na własnym przykładzie](https://podcasttestowanie.pl/podcast-testowanie-oprogramowania-pierwszy-w-polsce-taki-podcast/) 🎙️
 * [Historia M.](https://pwicherski.gitbook.io/testowanie-oprogramowania/historie/jak-stac-sie-testerem/historia-jzt-1) 
 * [Jak zostałem Testerem](https://www.toniebug.pl/jak-zostalem-testerem/) 
 * [Jak zostałem Testerem z wykorzystaniem środków Powiatowego Urzędu Pracy?](https://testuj.pl/blog/jak-zostalem-testerem-oprogramowania-z-wykorzystaniem-srodkow-powiatowego-urzedu-pracy/) 
