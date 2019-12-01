@@ -9,11 +9,6 @@
 * [https://plugins.jenkins.io/](https://plugins.jenkins.io/)
   * Wtyczki do Jenkinsa
 
-## Materiały - różne
-
-* [https://www.cloudbees.com/blog/](https://www.cloudbees.com/blog/)
-  * Blog CloudBees
-
 ## Materiały wideo
 
 * [https://www.youtube.com/watch?v=HZOII16W0oY&list=PL6tu16kXT9PqIe2b0BGul-cXbmwGt7Ihw](https://www.youtube.com/watch?v=HZOII16W0oY&list=PL6tu16kXT9PqIe2b0BGul-cXbmwGt7Ihw)
