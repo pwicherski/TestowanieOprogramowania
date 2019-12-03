@@ -4,6 +4,7 @@
 
 * [Oferty pracy na grupie "Testowanie Oprogramowania"](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765176240171613)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
+  * [No Fluff Jobs praca dla Junior Testerów](https://nofluffjobs.com/jobs/testing?criteria=category%3Dtesting%20seniority%3Dtrainee,junior)
 * [https://www.juniorjobsonly.com/](https://www.juniorjobsonly.com/)
 * [https://jobsforgeek.com/](https://jobsforgeek.com/job-offers?country=POLAND&country=POLAND&jobCategory=TESTER)
 * [https://pl.indeed.com/praca](https://pl.indeed.com/praca)
