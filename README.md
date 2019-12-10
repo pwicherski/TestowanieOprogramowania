@@ -30,6 +30,10 @@ Wybrane materiały nie wyczerpują tematu, należy je raczej potraktować jako w
 
 {% page-ref page="najczesciej-zadawane-pytania.md" %}
 
+**"O czego zacząć"**  zawiera materiały, porady i plany rozwoju. Jeżeli chcesz zacząć, zacznij tutaj.
+
+{% page-ref page="od-czego-zaczac/" %}
+
 **"Rozwój materiałów**" zawiera instrukcje, w jaki sposób można pomóc w rozwoju tego dokumentu.
 
 {% page-ref page="rozwoj-materialow.md" %}
