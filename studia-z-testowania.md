@@ -40,17 +40,17 @@ Przykładowe uczelnie, które oferują studiowanie na kierunkach powiązanych z 
 
 #### Gdynia
 
-* [AMW - Tester Oprogramowania](http://www.amw.gdynia.pl/tester)
+* [AMW - Tester Oprogramowania](http://www.wdiom.amw.gdynia.pl/oferta/studia-podyplomowe/tester-oprogramowania/)
 
 #### Chorzów
 
-* [WSB - Tester Oprogramowania](http://m.wsb.pl/chorzow/kandydaci/studia-podyplomowe/kierunki/tester-oprogramowania)
+* [WSB - Tester Oprogramowania](https://www.wsb.pl/chorzow/studia-i-szkolenia/studia-podyplomowe/kierunki/tester-oprogramowania)
 
 ### Studia I-stopnia
 
 #### Gdańsk
 
-* [WSB - Inżynieria testów oprogramowania](http://www.wsb.pl/gdansk/kandydaci/studia-i-stopnia/kierunki-i-specjalnosci/inzynieria-testow-oprogramowania)
+* [WSB - Inżynieria testów oprogramowania](https://www.wsb.pl/chorzow/studia-i-szkolenia/studia-i-stopnia/kierunki-i-specjalnosci/informatyka/inzynieria-testow-oprogramowania/program-studiow)
 
 
 

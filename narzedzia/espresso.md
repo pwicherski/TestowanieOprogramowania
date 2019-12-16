@@ -18,8 +18,8 @@
 
 * [https://developer.android.com/training/testing/ui-testing/espresso-testing](https://developer.android.com/training/testing/ui-testing/espresso-testing)
 * [https://codelabs.developers.google.com/codelabs/android-testing/\#0](https://codelabs.developers.google.com/codelabs/android-testing/#0)
-* [https://medium.com/mindorks/android-testing-part-1-espresso-basics-7219b86c862b](https://medium.com/mindorks/android-testing-part-1-espresso-basics-7219b86c862b)
 * [https://www.vogella.com/tutorials/AndroidTestingEspresso/article.html](https://www.vogella.com/tutorials/AndroidTestingEspresso/article.html)
+* [https://web.archive.org/web/20180628025943/https://medium.com/mindorks/android-testing-part-1-espresso-basics-7219b86c862b](https://web.archive.org/web/20180628025943/https://medium.com/mindorks/android-testing-part-1-espresso-basics-7219b86c862b)
 
 ## Różności
 

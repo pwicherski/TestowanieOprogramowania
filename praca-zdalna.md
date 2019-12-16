@@ -24,10 +24,6 @@ Przykładowe firmy w których można otrzymać dodatkowe zlecenia to:
 
 **Lista firm polskich**
 
-* [http://testuj.pl](https://testuj.pl/) \| [http://testarmy.com/](https://testarmy.com/)
-
-**Lista firm zagranicznych**
-
 * [http://www.utest.com/](http://www.utest.com/) \| [http://www.applause.com/](http://www.applause.com/)
 * [http://whatusersdo.com/](http://whatusersdo.com/)
 * [http://trymyui.com/](http://trymyui.com/)
@@ -36,10 +32,12 @@ Przykładowe firmy w których można otrzymać dodatkowe zlecenia to:
 * [https://crowdsourcedtesting.com/](https://crowdsourcedtesting.com/)
 * [https://mycrowd.com/](https://mycrowd.com/)
 * [https://test.io/](https://test.io)
+* [http://testuj.pl](https://testuj.pl/)
 * [https://usabilityhub.com/](https://usabilityhub.com/)
 * [https://globalapptesting.com/](https://globalapptesting.com/)
 * [https://www.bugfinders.com/](https://www.bugfinders.com/)
 * [https://we-are-testers.com/](https://we-are-testers.com/)
+* [https://betafamily.com/](https://betafamily.com/)
 
 Są to portale świadczące między innymi usługi testowania crowdsourcingowego.
 

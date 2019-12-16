@@ -1,10 +1,18 @@
 # Plan - Wejście w IT
 
-{% hint style="warning" %}
-Plan w przygotowaniu. Chcesz pomóc w jego przygotowaniu? [Zapraszam tutaj](../../rozwoj-materialow.md)! :\)
+Dodatkowe materiały nakierowane na rozpoczęcie przygody w IT.
+
+{% hint style="info" %}
+Czas nauki:  
+Około 6 tygodni.  
+Sugerowane: 8 godzin tygodniowo.
 {% endhint %}
 
 {% embed url="https://trello.com/b/nMLd1gXd/wej%C5%9Bcie-w-it" %}
+
+{% hint style="info" %}
+[Jak skopiować tablicę w Trello](https://youtu.be/JD5067y9Vjo)
+{% endhint %}
 
 ### 📚 Materiały <a id="materialy"></a>
 

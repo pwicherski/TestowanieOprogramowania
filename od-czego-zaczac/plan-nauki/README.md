@@ -6,13 +6,15 @@ Tworząc swój plan można skorzystać z jednego z wielu dostępnych narzędzi, 
 
 Dobrym przykładem takiego narzędzia jest [Trello.com](https://trello.com/piotrwicherski/recommend)
 
-![](../../.gitbook/assets/5a95f67e41e04900018a8e57_trello_1.png)
+{% embed url="https://youtu.be/JD5067y9Vjo" %}
 
 ## Przykładowe plany
 
+{% hint style="danger" %}
 Pamiętaj proszę, że poniższe plany są tylko przykładami i mogą nie sprawdzić się w Twoim przypadku. Przemyśl dokładnie co chcesz osiągnąć i dostosuj do tego swoje siły!
+{% endhint %}
 
-Nie ma jednego dobrego sposobu na rozpoczęcie nauki testowania, wejście w świat IT, czy nauczenie się automatyzacji. Przedstawione tutaj przykładowe plany są ogólne i nie wyczerpują w żaden sposób tematu. Stanowią one, choćby częściową, próbę odpowiedzi na często pojawiające się pytanie "Chcę zostać testerem, jak zacząć?". Na przykład tak.
+Nie ma jednego dobrego sposobu na rozpoczęcie nauki testowania, wejście w świat IT, czy nauczenie się automatyzacji. Przedstawione tutaj przykładowe plany są ogólne i nie wyczerpują w żaden sposób tematu. Stanowią one, choćby częściową, próbę odpowiedzi na często pojawiające się pytanie "Chcę zostać testerem, jak zacząć?".
 
 ## Czy na pewno?
 
@@ -28,7 +30,7 @@ Jeżeli chcesz wejść w świat IT bez żadnego wcześniejszego doświadczenia. 
 
 ## Testowanie
 
-Wiesz, że chcesz zacząć testować, że chcesz dostać w tym pracę. A może już udało Ci się dostać pierwszą pracę, jednak chcesz przerobić podstawy?
+Wiesz, że chcesz zacząć testować. A może już udało Ci się dostać pierwszą pracę, jednak chcesz przerobić podstawy?
 
 {% page-ref page="plan-testowanie.md" %}
 
@@ -43,6 +45,7 @@ Jeżeli chcesz rozpocząć naukę automatyzacji.
 * [Kanban 101: How to Use Kanban Boards to Manage Your Next Project](https://zapier.com/learn/project-management/kanban-board/) 
 * [Przykładowa tablica, która jest także wprowadzeniem do możliwości Trello](https://trello.com/b/I7TjiplA/trello-tutorial) 
 * [Bardzo dobrze przygotowane przykłady tablic w Trello](https://trello.com/inspiration) 
+* [Jak skopiować tablicę w Trello](https://www.youtube.com/watch?v=lTRi48NKdoA)
 
 ## 📚 Planowanie nauki
 

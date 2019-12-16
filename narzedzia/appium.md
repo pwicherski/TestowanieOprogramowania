@@ -4,14 +4,12 @@
 
 * [http://appium.io/](http://appium.io/)
   * Strona domowa projektu
-* [http://appium.io/introduction.html](http://appium.io/introduction.html)
+* [http://appium.io/docs/en/about-appium/intro/?lang=en\#getting-started](http://appium.io/docs/en/about-appium/intro/?lang=en#getting-started)
   * Introduction to Appium's Philosophy, Design and Concepts
 * [http://appium.io/tutorial](http://appium.io/tutorial)
   * Oficjalny tutorial
 * [https://discuss.appium.io/](https://discuss.appium.io/)
   * Appium Discuss jest świetnym miejscem dyskusji na wszelkie tematy dotyczące pracy z appium i jego rozwoju.
-* [http://appium.io/slate/en/v1.0.0/?ruby\#](http://appium.io/slate/en/v1.0.0/?ruby#)
-  * Appium Docs
 * [https://bitbucket.org/appium/appium.app/downloads/](https://bitbucket.org/appium/appium.app/downloads/)
   * Bitbucket z różnymi wersjami Appium do pobrania
 * [https://wiki.saucelabs.com/dosearchsite.action?queryString=appium](https://wiki.saucelabs.com/dosearchsite.action?queryString=appium)

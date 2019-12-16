@@ -5,7 +5,7 @@ Gatling to biblioteka do testów wydajnościowych, którą można również stos
 ## Materiały od autorów
 
 * [https://gatling.io/](https://gatling.io/)
-* [https://gatling.io/documentation/](https://gatling.io/documentation/)
+* [https://gatling.io/docs/current/](https://gatling.io/docs/current/)
 
 ## Materiały do nauki Gatlinga
 

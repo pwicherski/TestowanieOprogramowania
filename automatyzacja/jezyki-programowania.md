@@ -18,7 +18,6 @@ Na początku najważniejsze jest zrozumienie podstaw programowania, na przykład
 * [What Programming Language to learn for Test Automation](https://www.froglogic.com/blog/what-programming-language-to-learn-for-test-automation/) 
 * [Język skryptowy dla testera](http://testerzy.pl/baza-wiedzy/testerzy-testerom-19-jezyk-skryptowy-dla-testera) 
 * [Rozwój kariery testera. Czy warto przejść na stronę programistyczną?](http://testerzy.pl/baza-wiedzy/rozwoj-kariery-testera-programowanie) 
-* [Jaki język programowania dla początkujących](http://www.qa-courses.com/stranica-posta/2016/10/25/Jaki-jezyk-programowania-jest-dla-poczatkujecych) 
 * [What Programming Language Should a Beginner Learn in 2018](https://www.codementor.io/codementorteam/beginner-programming-language-job-salary-community-7s26wmbm6)
 
 ## ![](../.gitbook/assets/icons8-facebook-50%20%288%29.png) Dyskusje

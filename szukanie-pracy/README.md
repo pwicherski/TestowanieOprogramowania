@@ -4,7 +4,9 @@
 
 * [Oferty pracy na grupie "Testowanie Oprogramowania"](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765176240171613)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
+  * [No Fluff Jobs praca dla Junior Testerów](https://nofluffjobs.com/jobs/testing?criteria=category%3Dtesting%20seniority%3Dtrainee,junior)
 * [https://www.juniorjobsonly.com/](https://www.juniorjobsonly.com/)
+* [https://jobsforgeek.com/](https://jobsforgeek.com/job-offers?country=POLAND&country=POLAND&jobCategory=TESTER)
 * [https://pl.indeed.com/praca](https://pl.indeed.com/praca)
 * [https://www.pracuj.pl/](https://www.pracuj.pl/)
 * [https://www.praca.pl/](https://www.praca.pl/)
@@ -62,7 +64,6 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 * [Błędne koło w IT, czyli dlaczego na rynku pracy brakuje ofert dla początkujących informatyków?](https://nofluffjobs.com/blog/bledne-kolo-w-it-czyli-dlaczego-na-rynku-pracy-brakuje-ofert-dla-poczatkujacych-informatykow/)
 * [13 powodów, dla których młodzi testerzy nie dostają pracy](https://nofluffjobs.com/juniors/posts/13-powodow-dla-ktorych-mlodzi-testerzy-nie-dostaja-pracy/)
 
-
 ## Przygotuj swoje CV
 
 {% page-ref page="cv.md" %}
@@ -86,6 +87,4 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 * [E-book przygotowanie do rekrutacji](https://jakzostactesterem.pl/bezplatny-ebook-pdf-mlodszy-tester-oprogramowania-przygotowanie-do-rekrutacji/)
 
 ## ![](../.gitbook/assets/icons8-facebook-50%20%281%29.png) **Dyskusje**
-
-
 

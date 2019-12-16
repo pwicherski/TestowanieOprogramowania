@@ -24,10 +24,6 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * Wirtualny sklep
 * [http://newtours.demoaut.com](http://newtours.demoaut.com)
   * Strona o tematyce turystycznej
-* [http://bdonline.sqe.com](http://bdonline.sqe.com)
-  * B&D is a fictitious online brokerage firm
-* [http://adam.goucher.ca/parkcalc](http://adam.goucher.ca/parkcalc)
-  * This "application" has some serious flaws, and has been the subject of lots of exploratory testing.
 * [http://executeautomation.com/demosite/index.html](http://executeautomation.com/demosite/index.html)
   * User form
 * [http://Enterprise.Demo.Orangehrmlive.Com/](http://Enterprise.Demo.Orangehrmlive.Com/)
@@ -42,8 +38,6 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * RPA \(Robotic process automation\) automatyzacja wprowadzenia danych wejściowych z excela
 * [https://weathershopper.pythonanywhere.com/](https://weathershopper.pythonanywhere.com/)
   * Weather shopper application
-* [http://www.globalsqa.com/angularjs-protractor-practice-site/](http://www.globalsqa.com/angularjs-protractor-practice-site/)
-  * AngularJS
 * [http://www.way2automation.com/protractor-angularjs-practice-website.html](http://www.way2automation.com/protractor-angularjs-practice-website.html)
   * AngularJS
 * [https://codepen.io/murtazamzk/full/YwjEor](https://codepen.io/murtazamzk/full/YwjEor)
@@ -66,7 +60,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 ### **Aplikacje i strony z zadaniami**
 
 * [http://mrbuggy.pl](http://mrbuggy.pl)
-  * Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby [TestingCup](https://pwicherski.gitbooks.io/testowanieoprogramowania/testingcup.pl)
+  * Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby TestingCup
 * [http://testingchallenges.thetestingmap.org/index.php](http://testingchallenges.thetestingmap.org/index.php)
   * Zbiór zadań 
 
