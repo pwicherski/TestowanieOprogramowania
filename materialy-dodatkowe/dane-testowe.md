@@ -61,5 +61,3 @@ Dane testowe \(ISTQB\) - To dane, które istnieją \(przykładowo w bazie danych
 
 * [Jak założyć wiele kont mailowych](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1043251712364073/)
 
-\*\*\*\*
-
