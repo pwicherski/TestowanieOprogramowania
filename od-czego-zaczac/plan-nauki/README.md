@@ -11,7 +11,7 @@ Dobrym przykładem takiego narzędzia jest [Trello.com](https://trello.com/piotr
 ## Przykładowe plany
 
 {% hint style="danger" %}
-Pamiętaj proszę, że poniższe plany są tylko przykładami i mogą nie sprawdzić się w Twoim przypadku. Przemyśl dokładnie co chcesz osiągnąć i dostosuj do tego swoje siły!
+Pamiętaj proszę, że poniższe plany są tylko przykładami i mogą nie sprawdzić się w Twoim przypadku. Przemyśl dokładnie co chcesz osiągnąć, ułóż własny plan na podstawie poniższych przykładów i dostosuj do niego swoje siły!
 {% endhint %}
 
 Nie ma jednego dobrego sposobu na rozpoczęcie nauki testowania, wejście w świat IT, czy nauczenie się automatyzacji. Przedstawione tutaj przykładowe plany są ogólne i nie wyczerpują w żaden sposób tematu. Stanowią one, choćby częściową, próbę odpowiedzi na często pojawiające się pytanie "Chcę zostać testerem, jak zacząć?".
@@ -49,6 +49,7 @@ Jeżeli chcesz rozpocząć naukę automatyzacji.
 
 ## 📚 Planowanie nauki
 
+* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 * [How to get started in software testing](http://thesocialtester.co.uk/how-to-get-started-in-software-testing-a-few-resources/) 
 * [The secrets to getting started in your software testing career](http://searchsoftwarequality.techtarget.com/tip/The-secrets-to-getting-started-in-your-software-testing-career) 
 * [Get started in software testing](https://testlio.com/blog/post/get-started-software-testing) 
