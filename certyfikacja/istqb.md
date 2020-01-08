@@ -29,6 +29,8 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 
 ### 📚 Materiały
 
+* [Sylabys w wersji oryginalnej angielskiej od ISTQB](https://www.istqb.org/downloads/category/2-foundation-level-documents.html)
+* [Sylabus w wersji polskiej od SJSI](https://sjsi.org/ist-qb/do-pobrania/)
 * [TestCompetence - próbne egzaminy](http://testcompetence.com/) 💵
 * [Baza ponad 370 pytań AmberTeam](http://www.amberteam.pl/pl/baza-pytan) 
 * [Przykładowy arkusz egzaminacyjny przetłumaczony przez SJSI](http://sjsi.org/ist-qb/do-pobrania/) 
