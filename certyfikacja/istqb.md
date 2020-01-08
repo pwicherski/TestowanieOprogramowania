@@ -38,7 +38,7 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 * [Kilka przykładowych arkuszy egzaminacyjnych ISTQB przygotowanych przez ASTQB](https://www.astqb.org/get-certified/istqb-syllabi-the-istqb-software-tester-certification-body-of-knowledge/)
 * [Quizy ISTQB](http://getistqb.com/) 
 * [Jak zaliczyłem egzamin certyfikacyjny ISTQB Foundation Level](http://strefakodera.pl/blog/jak-zaliczylem-egzamin-certyfikacyjny-istqb-foundation-level)
-* [Jak zdać ISTQB FL](http://testcase.pl/news/jak-zdac-egzamin-istqb/)
+* [Jak zdać ISTQB ](http://testcase.pl/news/jak-zdac-egzamin-istqb/)[Foundation Level](https://www.istqb.org/downloads/syllabi/foundation-level-syllabus.html)
 
 ###  ![](../.gitbook/assets/icons8-facebook-50%20%285%29.png) Dyskusje
 
