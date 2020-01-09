@@ -29,6 +29,8 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 
 ### 📚 Materiały
 
+* [Sylabys w wersji oryginalnej angielskiej od ISTQB](https://www.istqb.org/downloads/category/2-foundation-level-documents.html)
+* [Sylabus w wersji polskiej od SJSI](https://sjsi.org/ist-qb/do-pobrania/)
 * [TestCompetence - próbne egzaminy](http://testcompetence.com/) 💵
 * [Baza ponad 370 pytań AmberTeam](http://www.amberteam.pl/pl/baza-pytan) 
 * [Przykładowy arkusz egzaminacyjny przetłumaczony przez SJSI](http://sjsi.org/ist-qb/do-pobrania/) 
@@ -36,7 +38,7 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 * [Kilka przykładowych arkuszy egzaminacyjnych ISTQB przygotowanych przez ASTQB](https://www.astqb.org/get-certified/istqb-syllabi-the-istqb-software-tester-certification-body-of-knowledge/)
 * [Quizy ISTQB](http://getistqb.com/) 
 * [Jak zaliczyłem egzamin certyfikacyjny ISTQB Foundation Level](http://strefakodera.pl/blog/jak-zaliczylem-egzamin-certyfikacyjny-istqb-foundation-level)
-* [Jak zdać ISTQB FL](http://testcase.pl/news/jak-zdac-egzamin-istqb/)
+* [Jak zdać ISTQB ](http://testcase.pl/news/jak-zdac-egzamin-istqb/)[Foundation Level](https://www.istqb.org/downloads/syllabi/foundation-level-syllabus.html)
 
 ###  ![](../.gitbook/assets/icons8-facebook-50%20%285%29.png) Dyskusje
 

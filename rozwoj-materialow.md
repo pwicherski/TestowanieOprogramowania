@@ -34,7 +34,7 @@ Wszelkie błędy i sugestie także można zgłaszać poprzez zakładkę [Issues]
 
 #### Zaznacz problem na zrzucie ekranu
 
-![](.gitbook/assets/screenshot_20180724-180142_firefox.jpg)
+![](.gitbook/assets/screenshot_20200109-180439_chrome.jpg)
 
 #### Dopisz o co chodzi, następnie wyślij do mnie:
 

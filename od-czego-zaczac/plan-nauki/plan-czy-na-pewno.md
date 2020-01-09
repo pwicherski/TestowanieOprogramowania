@@ -18,7 +18,7 @@ Sugerowane: 5 godzin tygodniowo
 
 ### 📚 Materiały <a id="materialy"></a>
 
-_Lista dodatkowych materiałów, które nie znajdują się w planie "Czy zostać testerem", jednak warto je przeczytać jeżeli masz czas._
+Lista dodatkowych materiałów, które nie znajdują się w planie "Czy zostać testerem", jednak warto je przeczytać jeżeli masz czas.
 
-* \_\_[_https://podcasttestowanie.pl/warszawqa-edukacja-testera/_](https://podcasttestowanie.pl/warszawqa-edukacja-testera/)\_\_
+* [https://podcasttestowanie.pl/warszawqa-edukacja-testera/](https://podcasttestowanie.pl/warszawqa-edukacja-testera/)
 
