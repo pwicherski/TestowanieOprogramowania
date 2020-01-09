@@ -22,7 +22,9 @@ Są trzy najprostsze sposoby zdobycia pierwszego doświadczenia:
 
 ### Mozilla Foundation
 
-Strona projektu: [https://whatcanidoformozilla.org](https://whatcanidoformozilla.org)
+Strona projektu:
+
+{% embed url="https://whatcanidoformozilla.org" %}
 
 Poprzez stronę WhatICanDoForMozilla możemy wybrać w jaki sposób chcemy uczestniczyć w projektach budowanych przez pracowników Mozilli, firmy wspomagające i społeczność. Mamy możliwość zdobycia doświadczenia w projektach \(z perspektywy QA\) poprzez między innymi:
 
@@ -34,6 +36,14 @@ Poprzez stronę WhatICanDoForMozilla możemy wybrać w jaki sposób chcemy uczes
 * Wydarzenia poszukiwaczy błędów
 
 Sam miałem przyjemność uczestniczyć w projektach testowania nowego oprogramowania i sprzętu przy tworzeniu Firefox OS. Zabawa jest przednia, świetni ludzie z całego świata, całe kontenery doświadczenia i ogromne pole do popisu :\)
+
+#### Mozilla Activate Community
+
+W ramach projektu MAC pojawiają się różne okresowe projekty, w których testowaniu można pomóc.
+
+Aktualne trwające projekty, w których można zdobyć doświadczenie:
+
+{% embed url="https://activate.mozilla.community/" %}
 
 ### Cherry-IT zostań testerem
 
