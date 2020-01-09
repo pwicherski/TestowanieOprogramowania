@@ -22,13 +22,11 @@
 * [https://gitter.im/orgs/appium/rooms](https://gitter.im/orgs/appium/rooms)
   * Pokoje appium na Gitter.im
 * [https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d\#.ptextrog2](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.ptextrog2)
-  * Rozpoznawanie obrazu w grach
+  * Rozpoznawanie obrazu w grach. Java;
 * [http://testdroid.com/tech/mobile-game-testing-part-2-ui-and-functionality-image-recognition](http://testdroid.com/tech/mobile-game-testing-part-2-ui-and-functionality-image-recognition)
   * Rozpoznawanie obrazu w grach
 * [http://testautomation.applitools.com/post/99795889592/master-appium-in-4-steps-and-11-tutorials](http://testautomation.applitools.com/post/99795889592/master-appium-in-4-steps-and-11-tutorials)
   * Opanuj Appium w 4 krokach i 11 tutorialach
-* [http://www.software-testing-tutorials-automation.com/2015/10/appium-tutorials.html](http://www.software-testing-tutorials-automation.com/2015/10/appium-tutorials.html)
-  * Spis ponad 40 krótkich tutoriali
 * [http://executeautomation.com/blog/](http://executeautomation.com/blog/)
   * Wpisy i nagrania wideo
 * [http://www.software-testing-tutorials-automation.com/2015/11/test-apps-to-use-in-appium-automation.html](http://www.software-testing-tutorials-automation.com/2015/11/test-apps-to-use-in-appium-automation.html)
@@ -51,6 +49,8 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
   * Podstawowy opis konfiguracji i uzytkowania Appium dla Androida
 * [https://www.amazon.in/Mobile-Automation-Appium-Nishant-Verma-ebook/dp/B0711Y4HTD](https://www.amazon.in/Mobile-Automation-Appium-Nishant-Verma-ebook/dp/B0711Y4HTD)
   * Książka Mobile Test Automation with Appium: Mobile application testing made easy
+* [https://assets.ctfassets.net/czwjnyf8a9ri/38S3c6Ld2dP79ibzQcHAKW/70d4755dc4ae70f193a6c94da0658cc9/Getting\_Started\_With\_Appium\_-\_Java\_Edition.pdf](https://assets.ctfassets.net/czwjnyf8a9ri/38S3c6Ld2dP79ibzQcHAKW/70d4755dc4ae70f193a6c94da0658cc9/Getting_Started_With_Appium_-_Java_Edition.pdf)
+  * Getting started with Appium. Jonathan Lipps. Java;
 
 ### Materiały wideo
 
