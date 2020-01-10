@@ -64,11 +64,10 @@
   * [ISTQB](certyfikacja/istqb.md)
 * [Raporty](raporty.md)
 * [Historie](historie/README.md)
-  * [Jak stać się testerem](historie/jak-stac-sie-testerem/README.md)
-    * [Historia JZT 1](historie/jak-stac-sie-testerem/historia-jzt-1.md)
-* [Rozwój materiałów](rozwoj-materialow.md)
+  * [Historia JZT 1](historie/historia-jzt-1.md)
 * [Dane testowe](dane-testowe.md)
 * [Mapy myśli](mapy-mysli.md)
+* [Rozwój materiałów](rozwoj-materialow.md)
 
 ## Materiały dodatkowe
 

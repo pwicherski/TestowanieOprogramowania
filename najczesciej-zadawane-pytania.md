@@ -20,8 +20,6 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 ## Jak zostać testerem? Jak wygladają historie ludzi, którzy zostali testerami?
 
-{% page-ref page="historie/jak-stac-sie-testerem/" %}
-
 ## Jakie pytania można dostać na rozmowie kwalifikacyjnej?
 
 {% page-ref page="szukanie-pracy/pytania-na-rozmowie.md" %}

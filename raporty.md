@@ -2,7 +2,7 @@
 
 ### 📚 Materiały <a id="materialy"></a>
 
-* World Quality Report \(Capgemini\)
+* [World Quality Report](https://www.capgemini.com/research/world-quality-report-2019/) \(Capgemini\)
 * [The State of Software Testing Industry Report](https://smartbear.com/resources/?Search=state%20of%20testing&Type=eBooks) \(SmartBear\)
 * [State of Testing](https://qablog.practitest.com/state-of-testing/) \(QA Intelligence\)
 
