@@ -69,5 +69,3 @@
 * [Mapy myśli](mapy-mysli.md)
 * [Rozwój materiałów](rozwoj-materialow.md)
 
-## Materiały dodatkowe
-
