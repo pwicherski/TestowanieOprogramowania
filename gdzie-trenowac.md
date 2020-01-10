@@ -6,11 +6,11 @@ description: 'http://bit.ly/TO-gdzie-trenowac'
 
 Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy tworzeniu skryptów automatyzujących testy czy też do testowania API. Twórcy stron udostępnili je specjalnie w celu umożliwienia społeczności testerskiej nauki. Jednak pamiętajmy o tym, żeby korzystać z tych stron rozważnie i nie trenować na nich ataków DOS, czy też wysoko zapętlonych skryptów automatyzujących.
 
-### **Jak testować**
+## **Jak testować**
 
 {% page-ref page="testowanie-stron-web/" %}
 
-### **Strony do testów manualnych oraz automatyzacji**
+## **Strony do testów manualnych oraz automatyzacji**
 
 * [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com)
   * Herokuapp. The internet.
@@ -43,7 +43,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 * [https://codepen.io/murtazamzk/full/YwjEor](https://codepen.io/murtazamzk/full/YwjEor)
   * AngularJS
 
-### **Aplikacje lokalne**
+## **Aplikacje lokalne**
 
 * [https://instantwp.com](https://instantwp.com)
   * Bardzo szybka możliwość postawienia lokalnie WordPressa
@@ -57,23 +57,45 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * Weather shopper application
   * Demo: [https://weathershopper.pythonanywhere.com/](https://weathershopper.pythonanywhere.com/)
 
-### **Aplikacje i strony z zadaniami**
+## **API**
 
-* [http://mrbuggy.pl" caption="Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby TestingCup" %}
+* [The Star Wars API](https://swapi.co/)
+  * An API where you can get all the data from the Star Wars canon universe.
+* [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+  * A free online REST service that you can use for tutorials, fake data and sharing code examples.
+* [Zalando Shop API](https://api.zalando.com/swagger/index.html)
+  * Practice get commands.
+* [Restful Booker](https://restful-booker.herokuapp.com/)
+  * A demo web API packed with features and bugs for you to find. You can use it to practise your API testing skills against or test an API automation framework against.
+* [TodoAPISample](https://github.com/g33klady/TodoApiSample)
+  * A web UI with a REST API, and you can test both \(together or separately\), however you want.
+* [Marvel API](https://developer.marvel.com/docs)
+  * A sample API filled with Marvel comic data.
+* [The Open Movie Database](http://www.omdbapi.com/)
+  * A RESTful web service to obtain movie information**.**
+* [Poké API](https://pokeapi.co/)
+  * All the Pokémon data you'll ever need in one place, easily accessible through a modern RESTful API.
+* [Dummy REST API](http://dummy.restapiexample.com/)
+  * A fake online REST API to practice GET, POST, PUT and DELETE methods.
 
-* [http://testingchallenges.thetestingmap.org/index.php" caption="Zbiór zadań" %}
+## **Aplikacje i strony z zadaniami**
 
-### **Strony z błędami dostępności**
+* [http://mrbuggy.pl](http://mrbuggy.pl)
+  * Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby TestingCup
+* [http://testingchallenges.thetestingmap.org/index.php](http://testingchallenges.thetestingmap.org/index.php)
+  * Zbiór zadań
 
-* [https://alphagov.github.io/accessibility-tool-audit/test-cases.html" caption="Zbiór przypadków testowych z przykładami" %}
+## **Strony z błędami dostępności**
 
-### **Interaktywne projekty \(darmowe\)**
+* [https://alphagov.github.io/accessibility-tool-audit/test-cases.html](https://alphagov.github.io/accessibility-tool-audit/test-cases.html)
+  * Zbiór przypadków testowych z przykładami
 
-* [http://www.guru99.com/live-testing-project.html" %}
+## **Interaktywne projekty \(darmowe\)**
 
-* [http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/" %}
+* [http://www.guru99.com/live-testing-project.html](http://www.guru99.com/live-testing-project.html)
+* [http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/](http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/)
 
-### Dodatkowo:
+## Dodatkowo:
 
 {% page-ref page="materialy-dodatkowe/gry-i-zadania.md" %}
 
