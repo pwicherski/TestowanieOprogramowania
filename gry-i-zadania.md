@@ -6,6 +6,8 @@ Na liście są i będą zadania związane czysto z programowaniem, ponieważ ta 
 
 ## Lista gier i zadań
 
+* [https://glitchplay.com/](https://glitchplay.com/)
+  * Video Game Testing Challenges platform. The user plays the games looking for bugs. 
 * [http://testingchallenges.thetestingmap.org/](http://testingchallenges.thetestingmap.org/)
   * Identify all the test required for the scenario bellow. Based on the data you input in the First Name field the tests will be evaluated.  
 * [https://testersplayground.herokuapp.com/](https://testersplayground.herokuapp.com/)

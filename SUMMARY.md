@@ -30,6 +30,7 @@
     * [Python](automatyzacja/nauka-programowania/python.md)
   * [Języki programowania](automatyzacja/jezyki-programowania.md)
 * [Gdzie trenować](gdzie-trenowac.md)
+* [Gry i zadania](gry-i-zadania.md)
 * [Testowanie stron web](testowanie-stron-web/README.md)
   * [Monitoring stron](testowanie-stron-web/monitoring-stron.md)
 * [Testowanie aplikacji mobilnych](testowanie-aplikacji-mobilnych/README.md)
@@ -66,10 +67,8 @@
   * [Jak stać się testerem](historie/jak-stac-sie-testerem/README.md)
     * [Historia JZT 1](historie/jak-stac-sie-testerem/historia-jzt-1.md)
 * [Rozwój materiałów](rozwoj-materialow.md)
+* [Dane testowe](dane-testowe.md)
+* [Mapy myśli](mapy-mysli.md)
 
 ## Materiały dodatkowe
-
-* [Gry i zadania](materialy-dodatkowe/gry-i-zadania.md)
-* [Mapy myśli](materialy-dodatkowe/mapy-mysli.md)
-* [Dane testowe](materialy-dodatkowe/dane-testowe.md)
 

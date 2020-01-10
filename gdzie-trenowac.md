@@ -101,5 +101,5 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 ## Dodatkowo:
 
-{% page-ref page="materialy-dodatkowe/gry-i-zadania.md" %}
+{% page-ref page="gry-i-zadania.md" %}
 
