@@ -8,7 +8,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 ### **Jak testować**
 
-{% page-ref page="../testowanie-stron-web/" %}
+{% page-ref page="testowanie-stron-web/" %}
 
 ### **Strony do testów manualnych oraz automatyzacji**
 
@@ -59,17 +59,21 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 ### **Aplikacje i strony z zadaniami**
 
-* [http://mrbuggy.pl](http://mrbuggy.pl)
-  * Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby TestingCup
-* [http://testingchallenges.thetestingmap.org/index.php](http://testingchallenges.thetestingmap.org/index.php)
-  * Zbiór zadań 
+{% embed url="http://mrbuggy.pl" caption="Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby TestingCup" %}
+
+{% embed url="http://testingchallenges.thetestingmap.org/index.php" caption="Zbiór zadań" %}
+
+### **Strony z błędami dostępności**
+
+{% embed url="https://alphagov.github.io/accessibility-tool-audit/test-cases.html" caption="Zbiór przypadków testowych z przykładami" %}
 
 ### **Interaktywne projekty \(darmowe\)**
 
-* [http://www.guru99.com/live-testing-project.html](http://www.guru99.com/live-testing-project.html)
-* [http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/](http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/)
+{% embed url="http://www.guru99.com/live-testing-project.html" %}
+
+{% embed url="http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/" %}
 
 ### Dodatkowo:
 
-{% page-ref page="../materialy-dodatkowe/gry-i-zadania.md" %}
+{% page-ref page="materialy-dodatkowe/gry-i-zadania.md" %}
 

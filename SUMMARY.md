@@ -29,7 +29,7 @@
     * [Java](automatyzacja/nauka-programowania/java.md)
     * [Python](automatyzacja/nauka-programowania/python.md)
   * [Języki programowania](automatyzacja/jezyki-programowania.md)
-  * [Gdzie trenować](automatyzacja/gdzie-trenowac.md)
+* [Gdzie trenować](gdzie-trenowac.md)
 * [Testowanie stron web](testowanie-stron-web/README.md)
   * [Monitoring stron](testowanie-stron-web/monitoring-stron.md)
 * [Testowanie aplikacji mobilnych](testowanie-aplikacji-mobilnych/README.md)

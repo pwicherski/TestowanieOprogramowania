@@ -110,7 +110,7 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 ## Na jakich stronach mogę potrenować testowanie lub automatyzację?
 
-{% page-ref page="automatyzacja/gdzie-trenowac.md" %}
+{% page-ref page="gdzie-trenowac.md" %}
 
 ## Czy w mieście X jest organizowany meetup lub konferencja?
 

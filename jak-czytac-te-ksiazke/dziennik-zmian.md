@@ -20,7 +20,7 @@
 * Dodane [kursy fizyczne](../kursy-fizyczne.md)
 * Aktualizacja [Najczęściej zadawanych pytań](../najczesciej-zadawane-pytania.md)
 * Aktualizacja listy [kursów online](../kursy-online.md)
-* Aktualizacja [stron, na których można ćwiczyć testowanie i automatyzację](../automatyzacja/gdzie-trenowac.md)
+* Aktualizacja [stron, na których można ćwiczyć testowanie i automatyzację](../gdzie-trenowac.md)
 
 ### 1.0.3 - 2019-03-04
 

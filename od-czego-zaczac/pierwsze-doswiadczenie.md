@@ -12,7 +12,7 @@ Są trzy najprostsze sposoby zdobycia pierwszego doświadczenia:
 
 #### Teoretyczne
 
-{% page-ref page="../automatyzacja/gdzie-trenowac.md" %}
+{% page-ref page="../gdzie-trenowac.md" %}
 
 #### Praktyczne zdalne przedstawione poniżej w formie pracy lub wolontariatu połączonego z nauką przedstawione poniżej. 
 

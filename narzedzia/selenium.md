@@ -46,7 +46,7 @@
 
 ### Strony na których można trenować
 
-{% page-ref page="../automatyzacja/gdzie-trenowac.md" %}
+{% page-ref page="../gdzie-trenowac.md" %}
 
 ### Książki
 
