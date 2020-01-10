@@ -2,8 +2,7 @@
 
 * [Testowanie Oprogramowania](README.md)
 * [Autor](autor.md)
-* [Jak czytać tę książkę](jak-czytac-te-ksiazke/README.md)
-  * [Dziennik zmian](jak-czytac-te-ksiazke/dziennik-zmian.md)
+* [Jak czytać tę książkę](jak-czytac-te-ksiazke.md)
 * [Najczęściej zadawane pytania](najczesciej-zadawane-pytania.md)
 * [Od czego zacząć](od-czego-zaczac/README.md)
   * [Plan nauki](od-czego-zaczac/plan-nauki/README.md)

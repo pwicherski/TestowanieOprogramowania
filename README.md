@@ -24,7 +24,7 @@ Wybrane materiały nie wyczerpują tematu, należy je raczej potraktować jako w
 
 **"Jak czytać tę książkę"** pokazuje, w jaki sposób wygodniej korzystać z książki.
 
-{% page-ref page="jak-czytac-te-ksiazke/" %}
+{% page-ref page="jak-czytac-te-ksiazke.md" %}
 
 **"Najczęściej zadawane pytania"** zawiera przykładowe pytania, na które odpowiedzi znalazły się w tym dokumencie. Każde pytanie odnosi bezpośrednio do materiałów, w których znajduje się odpowiedź lub rozwinięcie tematu.
 
