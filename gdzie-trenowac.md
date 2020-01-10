@@ -15,38 +15,40 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 * [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com)
   * Herokuapp. The internet.
 * [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)
-  * API sandbox
+  * API sandbox.
 * [https://asta.pgs-soft.com](https://asta.pgs-soft.com)
-  * Automated Software Testing Arena
+  * Automated Software Testing Arena.
 * [https://www.seleniumeasy.com/test/](https://www.seleniumeasy.com/test/)
-  * Zestaw ćwiczeń
+  * Zestaw ćwiczeń.
 * [http://automationpractice.com](http://automationpractice.com)
-  * Wirtualny sklep
+  * Wirtualny sklep.
 * [http://newtours.demoaut.com](http://newtours.demoaut.com)
-  * Strona o tematyce turystycznej
+  * Strona o tematyce turystycznej.
 * [http://executeautomation.com/demosite/index.html](http://executeautomation.com/demosite/index.html)
-  * User form
+  * User form.
 * [http://Enterprise.Demo.Orangehrmlive.Com/](http://Enterprise.Demo.Orangehrmlive.Com/)
-  * Demo HR management site
+  * Demo HR management site.
 * [http://www.way2automation.com/demo.html](http://www.way2automation.com/demo.html)
-  * Rózne elementy do przetestowania i zabawy
+  * Rózne elementy do przetestowania i zabawy.
 * [https://antycaptcha.amberteam.pl:5443](https://antycaptcha.amberteam.pl:5443)
-  * Testowanie captcha
+  * Testowanie captcha.
 * [https://juliemr.github.io/protractor-demo/](https://juliemr.github.io/protractor-demo/)
-  * Do nauki testowania protractora
+  * Do nauki testowania protractora.
 * [http://www.rpachallenge.com/](http://www.rpachallenge.com/)
-  * RPA \(Robotic process automation\) automatyzacja wprowadzenia danych wejściowych z excela
+  * RPA \(Robotic process automation\) automatyzacja wprowadzenia danych wejściowych z excela.
 * [https://weathershopper.pythonanywhere.com/](https://weathershopper.pythonanywhere.com/)
-  * Weather shopper application
+  * Weather shopper application.
 * [http://www.way2automation.com/protractor-angularjs-practice-website.html](http://www.way2automation.com/protractor-angularjs-practice-website.html)
-  * AngularJS
+  * AngularJS.
 * [https://codepen.io/murtazamzk/full/YwjEor](https://codepen.io/murtazamzk/full/YwjEor)
-  * AngularJS
+  * AngularJS.
 
 ## **Aplikacje lokalne**
 
 * [https://instantwp.com](https://instantwp.com)
   * Bardzo szybka możliwość postawienia lokalnie WordPressa
+* [https://github.com/amogh-w/Simple-Pokedex](https://github.com/amogh-w/Simple-Pokedex)
+  * A Pokedex made with React in TypeScript.
 * [https://github.com/tourdedave/the-internet](https://github.com/tourdedave/the-internet)
   * Herokuapp. The internet.
 * [https://github.com/mwinteringham/restful-booker](https://github.com/mwinteringham/restful-booker)
@@ -85,14 +87,14 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 ## **Aplikacje i strony z zadaniami**
 
 * [http://mrbuggy.pl](http://mrbuggy.pl)
-  * Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby TestingCup
+  * Zbiór aplikacji, które zostały stworzone specjalnie na potrzeby TestingCup.
 * [http://testingchallenges.thetestingmap.org/index.php](http://testingchallenges.thetestingmap.org/index.php)
-  * Zbiór zadań
+  * Zbiór zadań.
 
 ## **Strony z błędami dostępności**
 
 * [https://alphagov.github.io/accessibility-tool-audit/test-cases.html](https://alphagov.github.io/accessibility-tool-audit/test-cases.html)
-  * Zbiór przypadków testowych z przykładami
+  * Zbiór przypadków testowych z przykładami.
 
 ## **Interaktywne projekty \(darmowe\)**
 
