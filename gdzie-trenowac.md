@@ -78,6 +78,10 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 * [Dummy REST API](http://dummy.restapiexample.com/)
   * A fake online REST API to practice GET, POST, PUT and DELETE methods.
 
+## Bezpieczeństwo
+
+* [https://google-gruyere.appspot.com/](https://google-gruyere.appspot.com/)
+
 ## **Aplikacje i strony z zadaniami**
 
 * [http://mrbuggy.pl](http://mrbuggy.pl)
