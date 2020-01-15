@@ -4,7 +4,7 @@ description: 'http://bit.ly/TO-gdzie-trenowac'
 
 # Gdzie trenować
 
-Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy tworzeniu skryptów automatyzujących testy czy też do testowania API. Twórcy stron udostępnili je specjalnie w celu umożliwienia społeczności testerskiej nauki. Jednak pamiętajmy o tym, żeby korzystać z tych stron rozważnie i nie trenować na nich ataków DOS, czy też wysoko zapętlonych skryptów automatyzujących.
+Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy tworzeniu skryptów automatyzujących testy czy też do testowania API. Twórcy stron udostępnili je specjalnie w celu umożliwienia społeczności testerskiej nauki. Jednak pamiętajmy o tym, żeby korzystać z tych stron rozważnie i nie trenować na nich ataków DOS, czy też wysoko zapętlonych skryptów automatyzujących interakcje z przeglądarką. Do tego została stworzona lista aplikacji, które możemy uruchomić manualnie.
 
 ## **Jak testować**
 
