@@ -28,6 +28,7 @@
     * [Java](automatyzacja/nauka-programowania/java.md)
     * [Python](automatyzacja/nauka-programowania/python.md)
   * [Języki programowania](automatyzacja/jezyki-programowania.md)
+* [Dostępność \(Accessibility\)](dostepnosc-accessibility.md)
 * [Gdzie trenować](gdzie-trenowac.md)
 * [Gry i zadania](gry-i-zadania.md)
 * [Testowanie stron web](testowanie-stron-web/README.md)
