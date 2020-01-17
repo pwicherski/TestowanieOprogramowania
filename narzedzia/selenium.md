@@ -36,6 +36,8 @@
   * Oprócz książki, można też zakupić kursy wideo.
 * [http://mailcourse.seleniumbook.com/](http://mailcourse.seleniumbook.com/)
   * 7 tygodniowy kurs Selenium WebDriver w środowisku .NET.
+* [https://jaktestowac.pl/course/pt1-mk1-podstawy-testow-automatycznych-w-selenium-i-python/](https://jaktestowac.pl/course/pt1-mk1-podstawy-testow-automatycznych-w-selenium-i-python/)
+  * Kurs selenium + python.
 
 ### Blogi, wpisy, poradniki
 
