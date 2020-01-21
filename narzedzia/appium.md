@@ -63,6 +63,7 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
 
 ### Kursy wideo
 
+* [https://www.linkedin.com/learning/mobile-testing-with-appium](https://www.linkedin.com/learning/mobile-testing-with-appium)
 * [https://www.linkedin.com/learning/advanced-appium/take-appium-to-the-next-level](https://www.linkedin.com/learning/advanced-appium/take-appium-to-the-next-level)
 * [https://www.udemy.com/mobile-automation-using-appiumselenium-3/learn/\#/](https://www.udemy.com/mobile-automation-using-appiumselenium-3/learn/#/)
 * [https://www.udemy.com/appium-selenium-for-mobile-automation-testing/learn/\#/](https://www.udemy.com/appium-selenium-for-mobile-automation-testing/learn/#/)
