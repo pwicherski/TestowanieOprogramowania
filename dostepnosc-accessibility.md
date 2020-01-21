@@ -4,8 +4,7 @@
 
 ## 📚 Materiały
 
-* [https://www.adrianbolonio.com/blog/](https://www.adrianbolonio.com/blog/)
-* [https://www.linkedin.com/pulse/creating-triads-accessibility-empathy-lab-venugopal-botla/](https://www.linkedin.com/pulse/creating-triads-accessibility-empathy-lab-venugopal-botla/)
+* [https://www.ministryoftesting.com/dojo/lessons/my-approach-to-mobile-accessibility-testing](https://www.ministryoftesting.com/dojo/lessons/my-approach-to-mobile-accessibility-testing)
 
 ### Książki
 
