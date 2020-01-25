@@ -32,6 +32,9 @@ Dane testowe \(ISTQB\) - To dane, które istnieją \(przykładowo w bazie danych
 * Narzędzie z otwartym kodem źródłowym, świetne do generowanie bardzo dużej liczby danych.
   * [http://www.generatedata.com/](http://www.generatedata.com/)
   * [https://github.com/benkeen/generatedata](https://github.com/benkeen/generatedata)
+* Narzędzie z otwartym kodem źródłowym. CSV, SQL.
+  * [https://extendsclass.com/csv-generator.html](https://extendsclass.com/csv-generator.html)
+  * [https://github.com/cyrilbois/Web-CSV-Generator](https://github.com/cyrilbois/Web-CSV-Generator)  
 * PESEL, NIP, REGON i IBAN
   * [http://generatory.it/](http://generatory.it/)
 * Generowanie danych dla baz danych
