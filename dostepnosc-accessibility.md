@@ -4,8 +4,7 @@
 
 ## 📚 Materiały
 
-* [https://www.adrianbolonio.com/blog/](https://www.adrianbolonio.com/blog/)
-* [https://www.linkedin.com/pulse/creating-triads-accessibility-empathy-lab-venugopal-botla/](https://www.linkedin.com/pulse/creating-triads-accessibility-empathy-lab-venugopal-botla/)
+* [https://www.ministryoftesting.com/dojo/lessons/my-approach-to-mobile-accessibility-testing](https://www.ministryoftesting.com/dojo/lessons/my-approach-to-mobile-accessibility-testing)
 
 ### Książki
 
@@ -17,9 +16,6 @@
 * [https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 * [http://uxszkolenia.pl/training/dostepnosc.html](http://uxszkolenia.pl/training/dostepnosc.html%20)
 * [https://www.youtube.com/watch?v=B3PfVK\_fXiY](https://www.youtube.com/watch?v=B3PfVK_fXiY)
-
-### Narzędzia
-
 * [https://whocanuse.com/](https://whocanuse.com/)
 * [https://github.com/wmww/destylize](https://github.com/wmww/destylize)
 * [https://github.com/ten1seven/what-input](https://github.com/ten1seven/what-input)

@@ -1,9 +1,14 @@
 # Wtyczki do przeglądarek
 
 * [BugMagnet](https://bugmagnet.org/)
+
   * [Chrome](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi)
-  * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bug-magnet/) 
-* [Postman](https://www.getpostman.com/)
+  * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bug-magnet/)
+
+* [Generator polskich danych testowych](https://testerzy.pl/wiesci-ze-swiata-testerow/generator-danych-testowych-nowa-wersja)
+  * [Chrome](https://chrome.google.com/webstore/detail/generator-danych-testowyc/emdnjmkfcjemifplhmbkjmelnckonggd)
+  * [Firefox](https://addons.mozilla.org/pl/firefox/addon/generator-danych-testowych/) 
+* [Postman Interceptor](https://www.getpostman.com/)
   * [Chrome](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo) 
 * [Advanced REST Client](https://install.advancedrestclient.com/#/features)
   * [Chrome](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo) 
