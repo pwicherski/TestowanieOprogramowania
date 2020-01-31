@@ -39,6 +39,11 @@
   * [Chrome](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) 
 * Font Finder
   * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/font-inspect/) 
-
+* Katalon Recorder
+  * [Chrome](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid)
+  * [Firefox](https://addons.mozilla.org/pl/firefox/addon/katalon-automation-record/)
+* Selenium IDE
+  * [Chrome](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)
+  * [Firefox](https://addons.mozilla.org/pl/firefox/addon/selenium-ide/)
 
 
