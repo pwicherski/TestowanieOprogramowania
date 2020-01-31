@@ -16,4 +16,5 @@
 * [Kurs Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/) 📺🕹️💵
 * [Chrome DevTools 101: Debugging JavaScript](https://www.youtube.com/watch?v=H0XScE08hy8) 📺  
 * [Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools) 📺💵 
+* [Evaluate and validate XPath/CSS selectors in Chrome Developer Tools](https://yizeng.me/2014/03/23/evaluate-and-validate-xpath-css-selectors-in-chrome-developer-tools/)
 
