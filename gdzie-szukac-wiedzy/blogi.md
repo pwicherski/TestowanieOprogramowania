@@ -20,7 +20,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Dorota Poręba-Połomska
 * [http://testdetective.com/](http://testdetective.com/)
   * Łukasz Rosłonek
-* [http://awesome-testing.blogspot.com/](http://awesome-testing.blogspot.com/)
+* [http://awesome-testing.com/](http://awesome-testing.com/)
   * Sławomir Radzymiński
 * [http://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
   * Blog pewnego Michała
