@@ -4,7 +4,7 @@ Dodatkowe materiały nakierowane na rozpoczęcie przygody w IT.
 
 {% hint style="info" %}
 Czas nauki:  
-Około 6 tygodni.  
+Około 8 tygodni.  
 Sugerowane: 8 godzin tygodniowo.
 {% endhint %}
 
