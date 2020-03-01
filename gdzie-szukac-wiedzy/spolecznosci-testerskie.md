@@ -13,7 +13,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) \(Katowice\)
 * [QAtowice ](https://crossweb.pl/en/event-series/qatowice-meetup/)\(Katowice\)
 * [KielecQA](https://www.facebook.com/kielecqa/) \(Kielce\)
-* [KoszalinQA ](https://www.meetup.com/en-AU/KoszalinQA) \(KoszalinQA\)
+* [KoszalinQA ](https://www.meetup.com/en-AU/KoszalinQA) \(Koszalin\)
 * [EPAM QA Talks](https://www.facebook.com/Epam.Poland/) \(Kraków\)
 * [Kraków.assert\(\)](https://www.meetup.com/pl-PL/krakow-assert/) \(Kraków\)
 * [KraQA](https://www.meetup.com/KraQA-pl/) \(Kraków\)
