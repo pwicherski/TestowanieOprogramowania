@@ -35,3 +35,7 @@ Lista gier i interaktywnych zadań dzięki którym rozwiniecie umiejętności, k
 * [https://userinyerface.com/](https://userinyerface.com/)
   * Gra, w której przechodzimy przez istne piekło UI/UX
 
+{% page-ref page="automatyzacja/nauka-programowania/platformy-do-nauki-programowania.md" %}
+
+
+

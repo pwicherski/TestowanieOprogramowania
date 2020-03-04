@@ -18,10 +18,6 @@
   * [Podgląd bieżących analiz](https://www.payscale.com/research/PL/Job=Software_Tester/Salary)
 * Raporty płacowe \[Hays\] 
   * [2019](https://cloud.email.hays.com/PL_raport)
-* Analiza zarobków testerów \[Bulldogjob\]
-  * [2020](https://bulldogjob.pl/it_report/2020/tester)
-* Przegląd wynagrodzeń w IT \[Devire\]
-  * [2020](https://www.devire.pl/wp-content/uploads/2020/03/Przegl%C4%85d-wynagrodze%C5%84_2020_IT.pdf)
 
 #### Inne
 
