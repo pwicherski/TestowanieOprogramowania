@@ -15,7 +15,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 * [https://martamaracje.blogspot.com/](https://martamaracje.blogspot.com/)
   * Marta Zajac
 * [https://medium.com/@SimonKaz/](https://medium.com/@SimonKaz/)
-  * Szymon Kazmierczak \| Automation Engineer
+  * Szymon Kazmierczak
 * [http://testerka.pl/](http://testerka.pl/)
   * Dorota Poręba-Połomska
 * [http://testdetective.com/](http://testdetective.com/)
@@ -41,7 +41,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 * [https://jakosctobedzie.pl/](https://jakosctobedzie.pl/)
   * Magda Drechsler-Nowak
 * [https://devowls.io/](https://devowls.io/)
-  * Michał Krzyżanowski \| Michał Ślęzak
+  * Michał Krzyżanowski, Michał Ślęzak
 * [https://testerembyc.pl/](https://testerembyc.pl/)
   * Maciej Kusz
 * [https://marcinstanek.pl/blog/](https://marcinstanek.pl/blog/)
@@ -50,6 +50,14 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Daniel Dec
 * [https://gregkaqa.pl/](https://gregkaqa.pl/)
   * Grzegorz Kasprzak
+* [http://malgosqa.pl/](http://malgosqa.pl/)
+  * Małgorzata Leszczuk
+* [https://www.leanqa.pl/blog/](https://www.leanqa.pl/blog/)
+  * Daniel Dec, Kamila Gawrońska, Wojciech Gawroński, Tomasz Wierzchowski
+* [https://www.wyszkolewas.com.pl/blog/](https://www.wyszkolewas.com.pl/blog/)
+  * Waldemar Szafraniec
+* [https://jaktestowac.pl/](https://jaktestowac.pl/category/wpisy/)
+  * Przemek Barański, Krzysiek Kijas
 
 ## Dawno nieaktualizowane lub zamknięte:
 
