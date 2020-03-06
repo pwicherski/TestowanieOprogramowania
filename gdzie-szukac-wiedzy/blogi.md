@@ -60,6 +60,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Przemek Barański, Krzysiek Kijas
 * [https://blog.qalabs.pl/](https://blog.qalabs.pl/)
   * Maciej Chmielarz, Rafał Borowiec
+* [https://softie.pl/blog/](https://softie.pl/blog/)
+  * Dominik Stolarski, Paweł Kandybowicz, Maciek Florys
 
 ## Dawno nieaktualizowane lub zamknięte:
 
