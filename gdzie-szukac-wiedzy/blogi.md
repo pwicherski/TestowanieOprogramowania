@@ -58,6 +58,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Waldemar Szafraniec
 * [https://jaktestowac.pl/](https://jaktestowac.pl/category/wpisy/)
   * Przemek Barański, Krzysiek Kijas
+* [https://blog.qalabs.pl/](https://blog.qalabs.pl/)
+  * Maciej Chmielarz, Rafał Borowiec
 
 ## Dawno nieaktualizowane lub zamknięte:
 
