@@ -5,7 +5,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 ## Lista blogów
 
 * [https://testujemy.mobi](https://testujemy.mobi)
-  * Testowanie oprogramowania i aplikacji mobilnych \| Piotr Wicherski
+  * Piotr Wicherski
 * [http://testerzy.pl/](http://testerzy.pl/)
   * Testerzy.pl
 * [http://test-engineer.pl](http://test-engineer.pl)
@@ -34,6 +34,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Michał Krzyżanowski
 * [https://thebrokentest.com](https://thebrokentest.com/)
   * Maciej Wyrodek
+* [https://bugfreeblog.com/](https://bugfreeblog.com/)
+  * Krzysztof jadczyk
 * [https://testelka.pl/blog/](https://testelka.pl/blog/)
   * Ela Sądel
 * [https://jakosctobedzie.pl/](https://jakosctobedzie.pl/)
@@ -42,6 +44,12 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Michał Krzyżanowski \| Michał Ślęzak
 * [https://testerembyc.pl/](https://testerembyc.pl/)
   * Maciej Kusz
+* [https://marcinstanek.pl/blog/](https://marcinstanek.pl/blog/)
+  * Marcin Stanek
+* [http://decunadaje.pl/](http://decunadaje.pl/)
+  * Daniel Dec
+* [https://gregkaqa.pl/](https://gregkaqa.pl/)
+  * Grzegorz Kasprzak
 
 ## Dawno nieaktualizowane lub zamknięte:
 
