@@ -54,7 +54,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Małgorzata Leszczuk
 * [https://www.leanqa.pl/blog/](https://www.leanqa.pl/blog/)
   * Daniel Dec, Kamila Gawrońska, Wojciech Gawroński, Tomasz Wierzchowski
-* [https://www.wyszkolewas.com.pl/blog/](https://www.wyszkolewas.com.pl/blog/)
+* [https://wyszkolewas.com.pl/blog/](https://www.wyszkolewas.com.pl/blog/)
   * Waldemar Szafraniec
 * [https://jaktestowac.pl/](https://jaktestowac.pl/category/wpisy/)
   * Przemek Barański, Krzysiek Kijas
