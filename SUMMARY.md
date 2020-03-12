@@ -69,3 +69,7 @@
 * [Mapy myśli](mapy-mysli.md)
 * [Rozwój materiałów](rozwoj-materialow.md)
 
+## Linki zewnętrzne
+
+* [Autor LinkedIn](https://www.linkedin.com/in/pwicherski/)
+
