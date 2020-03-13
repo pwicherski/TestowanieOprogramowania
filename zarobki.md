@@ -5,7 +5,7 @@
 #### Raporty i analizy zawierające dane o testerach
 
 * Analiza zarobków testerów \[Testerzy.pl\]
-  * [2019](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2019-czesc-i) \| [2018](http://www.testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2018-czesc-i) \| [2017](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2017-czesc-i) \| [2016](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2016-czesc-i) \| [2015](http://testerzy.pl/wiesci-ze-swiata-testerow/analiza-zarobkow-testerow-2015-czesc-i) \| [2014](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2014-czesc-i)
+  * [2019](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2019-czesc-i) \| [2018](http://www.testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2018-czesc-i) \| [2017](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2017-czesc-i) \| [2016](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2016-czesc-i) \| [2015](http://testerzy.pl/wiesci-ze-swiata-testerow/analiza-zarobkow-testerow-2015-czesc-i) \| [2014](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2014-czesc-i)| [2013](https://testerzy.pl/wiesci-ze-swiata-testerow/analiza-zarobkow-testerow-czesc-1)
 * Mediana zarobków w IT \[No Fluff Jobs\]
   * [2018](https://nofluffjobs.com/blog/praca-w-it-mediana-wynagrodzen-w-zaleznosci-od-specjalnosci/)
 * Analiza zarobków testerów \[Sedlak & Sedlak\] 💵
