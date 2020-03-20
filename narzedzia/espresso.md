@@ -8,7 +8,7 @@
 
 ## Cheat Sheet
 
-{% embed url="https://android.github.io/android-test/downloads/espresso-cheat-sheet-2.1.0.pdf" %}
+* [https://android.github.io/android-test/downloads/espresso-cheat-sheet-2.1.0.pdf](https://android.github.io/android-test/downloads/espresso-cheat-sheet-2.1.0.pdf)
 
 ## Książki
 
