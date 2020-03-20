@@ -4,7 +4,7 @@
 
 ![](.gitbook/assets/adnotacja-2020-01-09-151253.png)
 
-Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i postaram się zamieścić poszukiwane przez Ciebie materiały w kolejnym wydaniu :\)
+Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i postaram się zamieścić poszukiwane przez Ciebie materiały w kolejnej aktualizacji dokumentu :\)
 
 ## Jak w ogóle zacząć naukę, jakie materiały polecacie na początek?
 
