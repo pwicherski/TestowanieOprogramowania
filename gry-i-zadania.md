@@ -1,11 +1,11 @@
 # Gry i zadania
 
-Dzięki nim rozwiniecie swoje umiejętności przydatne zarówno programistom jak i testerom :\)
-
-Na liście są i będą zadania związane czysto z programowaniem, ponieważ ta umiejętność jest też bardzo ważna dla części testerów. A dla tych, którzy nie są nim zainteresowani może być przyjemnym zastępstwem dla rundy szachów :\)
+Lista gier i interaktywnych zadań dzięki którym rozwiniecie umiejętności, które mogą okazać się przydatne w pracy.
 
 ## Lista gier i zadań
 
+* [https://glitchplay.com/](https://glitchplay.com/)
+  * Video Game Testing Challenges platform. The user plays the games looking for bugs. 
 * [http://testingchallenges.thetestingmap.org/](http://testingchallenges.thetestingmap.org/)
   * Identify all the test required for the scenario bellow. Based on the data you input in the First Name field the tests will be evaluated.  
 * [https://testersplayground.herokuapp.com/](https://testersplayground.herokuapp.com/)
@@ -34,4 +34,8 @@ Na liście są i będą zadania związane czysto z programowaniem, ponieważ ta 
   * Gra w odróżnianie dobrych od złych praktyk projektowania UI. 
 * [https://userinyerface.com/](https://userinyerface.com/)
   * Gra, w której przechodzimy przez istne piekło UI/UX
+
+{% page-ref page="automatyzacja/nauka-programowania/platformy-do-nauki-programowania.md" %}
+
+
 

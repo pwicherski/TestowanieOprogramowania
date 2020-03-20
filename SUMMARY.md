@@ -2,8 +2,7 @@
 
 * [Testowanie Oprogramowania](README.md)
 * [Autor](autor.md)
-* [Jak czytać tę książkę](jak-czytac-te-ksiazke/README.md)
-  * [Dziennik zmian](jak-czytac-te-ksiazke/dziennik-zmian.md)
+* [Jak czytać tę książkę](jak-czytac-te-ksiazke.md)
 * [Najczęściej zadawane pytania](najczesciej-zadawane-pytania.md)
 * [Od czego zacząć](od-czego-zaczac/README.md)
   * [Plan nauki](od-czego-zaczac/plan-nauki/README.md)
@@ -17,7 +16,8 @@
   * [Rozmowa rekrutacyjna](szukanie-pracy/rozmowa-rekrutacyjna.md)
   * [Pytania na rozmowie](szukanie-pracy/pytania-na-rozmowie.md)
   * [Szukanie pierwszej pracy lub stażu](szukanie-pracy/szukanie-stazu.md)
-* [Praca zdalna](praca-zdalna.md)
+* [Praca zdalna dla testera](praca-zdalna.md)
+* [Praca z domu](praca-z-domu.md)
 * [Zarobki](zarobki.md)
 * [Kursy online](kursy-online.md)
 * [Kursy fizyczne](kursy-fizyczne.md)
@@ -29,7 +29,9 @@
     * [Java](automatyzacja/nauka-programowania/java.md)
     * [Python](automatyzacja/nauka-programowania/python.md)
   * [Języki programowania](automatyzacja/jezyki-programowania.md)
-  * [Gdzie trenować](automatyzacja/gdzie-trenowac.md)
+* [Dostępność \(Accessibility\)](dostepnosc-accessibility.md)
+* [Gdzie trenować](gdzie-trenowac.md)
+* [Gry i zadania](gry-i-zadania.md)
 * [Testowanie stron web](testowanie-stron-web/README.md)
   * [Monitoring stron](testowanie-stron-web/monitoring-stron.md)
 * [Testowanie aplikacji mobilnych](testowanie-aplikacji-mobilnych/README.md)
@@ -63,13 +65,12 @@
   * [ISTQB](certyfikacja/istqb.md)
 * [Raporty](raporty.md)
 * [Historie](historie/README.md)
-  * [Jak stać się testerem](historie/jak-stac-sie-testerem/README.md)
-    * [Historia JZT 1](historie/jak-stac-sie-testerem/historia-jzt-1.md)
+  * [Historia JZT 1](historie/historia-jzt-1.md)
+* [Dane testowe](dane-testowe.md)
+* [Mapy myśli](mapy-mysli.md)
 * [Rozwój materiałów](rozwoj-materialow.md)
 
-## Materiały dodatkowe
+## Linki zewnętrzne
 
-* [Gry i zadania](materialy-dodatkowe/gry-i-zadania.md)
-* [Mapy myśli](materialy-dodatkowe/mapy-mysli.md)
-* [Dane testowe](materialy-dodatkowe/dane-testowe.md)
+* [Autor LinkedIn](https://www.linkedin.com/in/pwicherski/)
 

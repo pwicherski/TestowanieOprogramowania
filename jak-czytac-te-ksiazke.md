@@ -33,5 +33,5 @@ Tutaj mogą nie mieć zastosowania pozostałe oznaczenia, ponieważ zbiór może
 
 Zawsze chętnie przyjmę pomoc i przedyskutuję każdą propozycję.
 
-{% page-ref page="../rozwoj-materialow.md" %}
+{% page-ref page="rozwoj-materialow.md" %}
 

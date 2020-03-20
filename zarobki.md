@@ -1,11 +1,11 @@
 # Zarobki
 
-### 📚 Materiały
+## 📚 Materiały
 
-#### Raporty i analizy zawierające dane o testerach
+### Raporty i analizy zawierające dane o testerach
 
 * Analiza zarobków testerów \[Testerzy.pl\]
-  * [2019](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2019-czesc-i) \| [2018](http://www.testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2018-czesc-i) \| [2017](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2017-czesc-i) \| [2016](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2016-czesc-i) \| [2015](http://testerzy.pl/wiesci-ze-swiata-testerow/analiza-zarobkow-testerow-2015-czesc-i) \| [2014](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2014-czesc-i)
+  * [2019](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2019-czesc-i) \| [2018](http://www.testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2018-czesc-i) \| [2017](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2017-czesc-i) \| [2016](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2016-czesc-i) \| [2015](http://testerzy.pl/wiesci-ze-swiata-testerow/analiza-zarobkow-testerow-2015-czesc-i) \| [2014](http://testerzy.pl/baza-wiedzy/analiza-zarobkow-testerow-2014-czesc-i) \| [2013](https://testerzy.pl/wiesci-ze-swiata-testerow/analiza-zarobkow-testerow-czesc-1)
 * Mediana zarobków w IT \[No Fluff Jobs\]
   * [2018](https://nofluffjobs.com/blog/praca-w-it-mediana-wynagrodzen-w-zaleznosci-od-specjalnosci/)
 * Analiza zarobków testerów \[Sedlak & Sedlak\] 💵
@@ -18,15 +18,19 @@
   * [Podgląd bieżących analiz](https://www.payscale.com/research/PL/Job=Software_Tester/Salary)
 * Raporty płacowe \[Hays\] 
   * [2019](https://cloud.email.hays.com/PL_raport)
+* Ankieta pracy testera \[Bulldogjob\]
+  * [2020](https://bulldogjob.pl/it_report/2020/tester)
+* State of testing \[PractiTest\]
+  * [2013 - 2020](https://qablog.practitest.com/state-of-testing/)
 
-#### Inne
+### Inne
 
 * Software Test Engineer Salaries in the United States \[indeed\]
   * [Podgląd bieżących analiz](https://www.indeed.com/salaries/Software-Test-Engineer-Salaries)
 * Zarobki w kraju i za granicą \[glassdoor\] 
   * [Podgląd bieżących analiz](https://www.glassdoor.com/Salaries/index.htm)
 
-###  ****![](.gitbook/assets/icons8-facebook-50%20%286%29.png) **Dyskusje**
+## ![](.gitbook/assets/icons8-facebook-50%20%286%29.png) ****Dyskusje
 
 * ["Zarobki" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765794140109823&ref=manage_page) 🏤
 * [Na jakie zarobki mogę liczyć na początek w Warszawie ? A ile po 1-2 roku pracy?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1309418115747430/?match=emFyb2JraQ%3D%3D) 

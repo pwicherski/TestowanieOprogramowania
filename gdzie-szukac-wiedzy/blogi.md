@@ -5,7 +5,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 ## Lista blogów
 
 * [https://testujemy.mobi](https://testujemy.mobi)
-  * Testowanie oprogramowania i aplikacji mobilnych \| Piotr Wicherski
+  * Piotr Wicherski
 * [http://testerzy.pl/](http://testerzy.pl/)
   * Testerzy.pl
 * [http://test-engineer.pl](http://test-engineer.pl)
@@ -15,12 +15,12 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 * [https://martamaracje.blogspot.com/](https://martamaracje.blogspot.com/)
   * Marta Zajac
 * [https://medium.com/@SimonKaz/](https://medium.com/@SimonKaz/)
-  * Szymon Kazmierczak \| Automation Engineer
+  * Szymon Kazmierczak
 * [http://testerka.pl/](http://testerka.pl/)
   * Dorota Poręba-Połomska
 * [http://testdetective.com/](http://testdetective.com/)
   * Łukasz Rosłonek
-* [http://awesome-testing.blogspot.com/](http://awesome-testing.blogspot.com/)
+* [http://awesome-testing.com/](http://awesome-testing.com/)
   * Sławomir Radzymiński
 * [http://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
   * Blog pewnego Michała
@@ -34,14 +34,34 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Michał Krzyżanowski
 * [https://thebrokentest.com](https://thebrokentest.com/)
   * Maciej Wyrodek
+* [https://bugfreeblog.com/](https://bugfreeblog.com/)
+  * Krzysztof jadczyk
 * [https://testelka.pl/blog/](https://testelka.pl/blog/)
   * Ela Sądel
 * [https://jakosctobedzie.pl/](https://jakosctobedzie.pl/)
   * Magda Drechsler-Nowak
 * [https://devowls.io/](https://devowls.io/)
-  * Michał Krzyżanowski \| Michał Ślęzak
+  * Michał Krzyżanowski, Michał Ślęzak
 * [https://testerembyc.pl/](https://testerembyc.pl/)
   * Maciej Kusz
+* [https://marcinstanek.pl/blog/](https://marcinstanek.pl/blog/)
+  * Marcin Stanek
+* [http://decunadaje.pl/](http://decunadaje.pl/)
+  * Daniel Dec
+* [https://gregkaqa.pl/](https://gregkaqa.pl/)
+  * Grzegorz Kasprzak
+* [http://malgosqa.pl/](http://malgosqa.pl/)
+  * Małgorzata Leszczuk
+* [https://www.leanqa.pl/blog/](https://www.leanqa.pl/blog/)
+  * Daniel Dec, Kamila Gawrońska, Wojciech Gawroński, Tomasz Wierzchowski
+* [https://wyszkolewas.com.pl/blog/](https://www.wyszkolewas.com.pl/blog/)
+  * Waldemar Szafraniec
+* [https://jaktestowac.pl/](https://jaktestowac.pl/category/wpisy/)
+  * Przemek Barański, Krzysiek Kijas
+* [https://blog.qalabs.pl/](https://blog.qalabs.pl/)
+  * Maciej Chmielarz, Rafał Borowiec
+* [https://softie.pl/blog/](https://softie.pl/blog/)
+  * Dominik Stolarski, Paweł Kandybowicz, Maciek Florys
 
 ## Dawno nieaktualizowane lub zamknięte:
 

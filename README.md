@@ -24,7 +24,7 @@ Wybrane materiały nie wyczerpują tematu, należy je raczej potraktować jako w
 
 **"Jak czytać tę książkę"** pokazuje, w jaki sposób wygodniej korzystać z książki.
 
-{% page-ref page="jak-czytac-te-ksiazke/" %}
+{% page-ref page="jak-czytac-te-ksiazke.md" %}
 
 **"Najczęściej zadawane pytania"** zawiera przykładowe pytania, na które odpowiedzi znalazły się w tym dokumencie. Każde pytanie odnosi bezpośrednio do materiałów, w których znajduje się odpowiedź lub rozwinięcie tematu.
 
@@ -45,7 +45,7 @@ Chciałbym żebyś drogi Czytelniku tego dokumentu pamiętał o kilku bardzo wa�
 * Do grupy docelowej należy każdy, kto chce się rozwijać w kierunku testowaniu oprogramowania.
 * Wszystkie materiały zostały wybrane przeze mnie na bazie mojego doświadczenia, które oczywiście miało wpływ na wybór tych, a nie innych.
 * Na pewno pominąłem wiele możliwie ciekawych materiałów, mniej lub bardziej świadomie.
-* Często będę pisał bolesne oczywistości. Jednak z jakiegoś powodu uznałem, że chcę się tym podzielić. Zazwyczaj powodem jest to, iż mimo tego, że jest to banał, to nadal spotkałem przynajmniej jedną osobę, która o to pytała.
+* Często będę pisał bolesne oczywistości. Jednak z jakiegoś powodu uznałem, że chcę się tym podzielić. Zazwyczaj powodem jest to, iż mimo tego, że jest to teoretycznie banał, to nadal spotykam ludzi, którzy o to pytają.
 * Wszystkie przedstawione sytuacje i odniesienia są prawdziwe z mojego punktu widzenia. To jest według mnie racja. Według Ciebie może być to kompletną bzdurą. Pamiętaj, że to tylko moje zdanie. Ten dokument powinien być traktowany jako drogowskaz. To, czy zasugerujesz się którąś z podanych propozycji i zdecydujesz się na nią, nie zwalnia Cię z odpowiedzialności samodzielnego i przemyślanego przebycia tej drogi.
 
 Autor: [Piotr Wicherski](http://bit.ly/pwicherski)

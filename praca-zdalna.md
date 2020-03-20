@@ -1,4 +1,4 @@
-# Praca zdalna
+# Praca zdalna dla testera
 
 Testerzy podobnie jak programiści mogą aktualnie cieszyć się coraz częściej spotykaną możliwością pracy zdalnej. Czy to w formie pełnego wymiaru godzin dla jednego pracodawcy, czy wieloma zleceniami dla różnych zleceniodawców. Można też potraktować dodatkowe zlecenia jako dodatkową pracę i jeśli oczywiście nie kłóci się to z umową, którą mamy zawartą z naszym aktualnym pracodawcą, to można dorobić sobie do wypłaty poprzez pracę z domu czy też z kawiarni lub parku. Wykonując przypadki testowe, tworząc je czy też tworząc kod wykorzystywany do automatyzacji.
 

@@ -8,7 +8,6 @@ Dane testowe \(ISTQB\) - To dane, które istnieją \(przykładowo w bazie danych
   * [https://developers.facebook.com/docs/apps/test-users?hc\_location=ufi](https://developers.facebook.com/docs/apps/test-users?hc_location=ufi)
 * Karty płatnicze
   * [https://docs.adyen.com/development-resources/test-cards/test-card-numbers](https://docs.adyen.com/development-resources/test-cards/test-card-numbers)
-  * [https://support.buckaroo.nl/index.php/EN/Test\_data](https://support.buckaroo.nl/index.php/EN/Test_data)
   * [https://stripe.com/docs/testing](https://stripe.com/docs/testing)
 * Ciągi znaków
   * [https://github.com/minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
@@ -32,6 +31,9 @@ Dane testowe \(ISTQB\) - To dane, które istnieją \(przykładowo w bazie danych
 * Narzędzie z otwartym kodem źródłowym, świetne do generowanie bardzo dużej liczby danych.
   * [http://www.generatedata.com/](http://www.generatedata.com/)
   * [https://github.com/benkeen/generatedata](https://github.com/benkeen/generatedata)
+* Narzędzie z otwartym kodem źródłowym. CSV, SQL.
+  * [https://extendsclass.com/csv-generator.html](https://extendsclass.com/csv-generator.html)
+  * [https://github.com/cyrilbois/Web-CSV-Generator](https://github.com/cyrilbois/Web-CSV-Generator)  
 * PESEL, NIP, REGON i IBAN
   * [http://generatory.it/](http://generatory.it/)
 * Generowanie danych dla baz danych

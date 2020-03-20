@@ -6,7 +6,7 @@
 
 {% page-ref page="jezyki-programowania.md" %}
 
-{% page-ref page="gdzie-trenowac.md" %}
+{% page-ref page="../gdzie-trenowac.md" %}
 
 
 

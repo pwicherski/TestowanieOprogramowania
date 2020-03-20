@@ -2,9 +2,9 @@
 
 ## Zacznij śmiało od zadania swojego pytania w wyszukiwarce
 
-![](.gitbook/assets/tempsnip.png)
+![](.gitbook/assets/adnotacja-2020-01-09-151253.png)
 
-Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i postaram się zamieścić poszukiwane przez Ciebie materiały w kolejnym [wydaniu](jak-czytac-te-ksiazke/dziennik-zmian.md) :\)
+Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i postaram się zamieścić poszukiwane przez Ciebie materiały w kolejnej aktualizacji dokumentu :\)
 
 ## Jak w ogóle zacząć naukę, jakie materiały polecacie na początek?
 
@@ -19,8 +19,6 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 {% page-ref page="od-czego-zaczac/" %}
 
 ## Jak zostać testerem? Jak wygladają historie ludzi, którzy zostali testerami?
-
-{% page-ref page="historie/jak-stac-sie-testerem/" %}
 
 ## Jakie pytania można dostać na rozmowie kwalifikacyjnej?
 
@@ -110,7 +108,7 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 ## Na jakich stronach mogę potrenować testowanie lub automatyzację?
 
-{% page-ref page="automatyzacja/gdzie-trenowac.md" %}
+{% page-ref page="gdzie-trenowac.md" %}
 
 ## Czy w mieście X jest organizowany meetup lub konferencja?
 

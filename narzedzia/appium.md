@@ -47,8 +47,6 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
 * [https://info.kobiton.com/appium-book](https://info.kobiton.com/appium-book)
 * [https://nishantverma.gitbooks.io/appium-for-android/](https://nishantverma.gitbooks.io/appium-for-android/)
   * Podstawowy opis konfiguracji i uzytkowania Appium dla Androida
-* [https://www.amazon.in/Mobile-Automation-Appium-Nishant-Verma-ebook/dp/B0711Y4HTD](https://www.amazon.in/Mobile-Automation-Appium-Nishant-Verma-ebook/dp/B0711Y4HTD)
-  * Książka Mobile Test Automation with Appium: Mobile application testing made easy
 * [https://assets.ctfassets.net/czwjnyf8a9ri/38S3c6Ld2dP79ibzQcHAKW/70d4755dc4ae70f193a6c94da0658cc9/Getting\_Started\_With\_Appium\_-\_Java\_Edition.pdf](https://assets.ctfassets.net/czwjnyf8a9ri/38S3c6Ld2dP79ibzQcHAKW/70d4755dc4ae70f193a6c94da0658cc9/Getting_Started_With_Appium_-_Java_Edition.pdf)
   * Getting started with Appium. Jonathan Lipps. Java;
 
@@ -65,6 +63,8 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
 
 ### Kursy wideo
 
+* [https://www.linkedin.com/learning/mobile-testing-with-appium](https://www.linkedin.com/learning/mobile-testing-with-appium)
+* [https://www.linkedin.com/learning/advanced-appium/take-appium-to-the-next-level](https://www.linkedin.com/learning/advanced-appium/take-appium-to-the-next-level)
 * [https://www.udemy.com/mobile-automation-using-appiumselenium-3/learn/\#/](https://www.udemy.com/mobile-automation-using-appiumselenium-3/learn/#/)
 * [https://www.udemy.com/appium-selenium-for-mobile-automation-testing/learn/\#/](https://www.udemy.com/appium-selenium-for-mobile-automation-testing/learn/#/)
 
