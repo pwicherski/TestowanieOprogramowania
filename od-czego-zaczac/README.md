@@ -22,7 +22,7 @@ Przypominam, że wszystkie materiały polecane w tym dokumencie zostały wybrane
 
 Więcej materiałów znajduje się w poszczególnych rozdziałach i w przygotowanych planach.
 
-{% page-ref page="plan-nauki/" %}
+{% page-ref page="../plan-nauki/" %}
 
 ## Pierwsza praca jako tester
 
