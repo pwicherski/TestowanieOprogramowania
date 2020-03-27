@@ -7,7 +7,7 @@ Porównywarka cen jest dostępna przy pozycjach, które można zakupić w standa
 {% hint style="warning" %}
 Są to linki referencyjne z portalu BUY.BOX.  
 Prowizja zostanie przekazana na fundację Szkoła 3.0 \(2012 Fundacja Sarigato\).  
-Potwierdzona kwota \(02.03.2020\): 16 zł
+Potwierdzona kwota \(27.03.2020\): 35 zł
 
 Już wypłacone: [273 zł](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2565604450128784/)
 {% endhint %}
