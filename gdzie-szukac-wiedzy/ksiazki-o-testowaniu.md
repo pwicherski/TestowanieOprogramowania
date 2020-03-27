@@ -31,7 +31,8 @@ Już wypłacone: [273 zł](https://www.facebook.com/groups/TestowanieOprogramowa
 * Bogdan Bereza-Jarociński, Bolesław Szomański - [**Inżynieria oprogramowania. Jak zapewnić jakość tworzonym aplikacjom**](https://buybox.click/4917/buybox.html?oid=3080688)**;** 
 * Wiszniewski Bogdan, Bereza-Jarociński Bogdan - [**Teoria i praktyka testowania programów**](https://buybox.click/4917/buybox.html?oid=15353453);  
 * Ron Patton - **Testowanie Oprogramowania**; 
-* Andrzej Jacek Blikle - [**Doktryna jakości**](https://buybox.click/4917/buybox.html?oid=10016181);
+* Andrzej Jacek Blikle - [**Doktryna jakości**](https://buybox.click/4917/buybox.html?oid=10016181); 
+* Arnon Axelrod - [**Automatyzacja testów. Kompletny przewodnik dla testerów oprogramowania**](https://buybox.click/4917/buybox.html?oid=95598251)**;** 
 
 {% hint style="success" %}
 Zasugeruj nową pozycję: [Rozwój materiałów](../rozwoj-materialow.md).
