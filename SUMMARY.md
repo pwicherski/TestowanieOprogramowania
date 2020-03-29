@@ -42,6 +42,7 @@
   * [Książki o testowaniu po polsku](gdzie-szukac-wiedzy/ksiazki-o-testowaniu.md)
   * [Blogi](gdzie-szukac-wiedzy/blogi.md)
   * [Magazyny testerskie](gdzie-szukac-wiedzy/magazyny-testerskie.md)
+  * [Newsletter/Biuletyn testerski](gdzie-szukac-wiedzy/newsletter-biuletyn-testerski.md)
   * [Podcasty](gdzie-szukac-wiedzy/podcasty.md)
 * [Zarządzanie projektem, zespołem](zarzadzanie-projektem-zespolem/README.md)
   * [Plan testów](zarzadzanie-projektem-zespolem/plan-testow.md)
