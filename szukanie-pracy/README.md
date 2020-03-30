@@ -13,6 +13,7 @@
 * [https://justjoin.it/all/testing](https://justjoin.it/all/testing)
 * [https://www.olx.pl/praca/](https://www.olx.pl/praca/)
 * [https://www.linkedin.com/jobs/](https://www.linkedin.com/jobs/)
+* [https://bulldogjob.pl/companies/jobs/s/role,tester](https://bulldogjob.pl/companies/jobs/s/role,tester)
 * [http://lmgtfy.com/?q=praca+tester](http://lmgtfy.com/?q=praca+tester)
 
 > Stworzenie własnego profilu w serwisie LinkedIn może przynieść Ci wiele dodatkowych ofert pracy.
