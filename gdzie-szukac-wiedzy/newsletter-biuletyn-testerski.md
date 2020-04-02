@@ -6,6 +6,8 @@
   * [https://www.ministryoftesting.com/newsletter](https://www.ministryoftesting.com/newsletter)
 * Software Testing Weekly
   * [https://softwaretestingweekly.com/](https://softwaretestingweekly.com/)
+* PrasówQA 🇵🇱
+  * [https://twitter.com/PrasowQA](https://twitter.com/PrasowQA)
 * Java Testing Weekly
   * [https://www.petrikainulainen.net/category/weekly/](https://www.petrikainulainen.net/category/weekly/)
 * AST Newsletter
