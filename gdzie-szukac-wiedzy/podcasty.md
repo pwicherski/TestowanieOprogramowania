@@ -12,7 +12,7 @@
   * QAudycja
 * [https://www.spreaker.com/show/leanqa-podcast](https://www.spreaker.com/show/leanqa-podcast)
   * LeanQA
-* [https://www.spreaker.com/show/4194770/episodes/feed](https://www.spreaker.com/show/4194770/episodes/feed)
+* [https://www.spreaker.com/show/podcast-oli-kunysz](https://www.spreaker.com/show/podcast-oli-kunysz)
   * Rozmowy o Jakości (wideo https://www.youtube.com/playlist?list=PLt_dpy15FsJJqeqcBkJIxGYEQMpkfq_zZ)
 
 ## Listy podcastów prowadzonych w języku Angielskim
