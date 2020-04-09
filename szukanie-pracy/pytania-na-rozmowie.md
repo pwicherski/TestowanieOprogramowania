@@ -109,7 +109,7 @@
 30. Jak w systemie unixowym wyświetlić na ekranie zawartość pliku?
 
 {% hint style="info" %}
-Źródło części pytań: [https://arturzwolinski.gitbooks.io/software-tester-interview/content/](https://arturzwolinski.gitbooks.io/software-tester-interview/content/)
+Źródło części pytań: [https://arturzwolinski.gitbook.io/software-tester-interview/](https://arturzwolinski.gitbook.io/software-tester-interview/)
 {% endhint %}
 
 
