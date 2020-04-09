@@ -26,7 +26,7 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 ## Jak zaplanować swoją naukę?
 
-{% page-ref page="od-czego-zaczac/plan-nauki/" %}
+{% page-ref page="plan-nauki/" %}
 
 ## Jak znaleźć pierwszą pracę lub staż?
 

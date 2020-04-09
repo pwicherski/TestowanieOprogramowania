@@ -7,7 +7,7 @@ Porównywarka cen jest dostępna przy pozycjach, które można zakupić w standa
 {% hint style="warning" %}
 Są to linki referencyjne z portalu BUY.BOX.  
 Prowizja zostanie przekazana na fundację Szkoła 3.0 \(2012 Fundacja Sarigato\).  
-Potwierdzona kwota \(02.03.2020\): 16 zł
+Potwierdzona kwota \(27.03.2020\): 35 zł
 
 Już wypłacone: [273 zł](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2565604450128784/)
 {% endhint %}
@@ -31,7 +31,8 @@ Już wypłacone: [273 zł](https://www.facebook.com/groups/TestowanieOprogramowa
 * Bogdan Bereza-Jarociński, Bolesław Szomański - [**Inżynieria oprogramowania. Jak zapewnić jakość tworzonym aplikacjom**](https://buybox.click/4917/buybox.html?oid=3080688)**;** 
 * Wiszniewski Bogdan, Bereza-Jarociński Bogdan - [**Teoria i praktyka testowania programów**](https://buybox.click/4917/buybox.html?oid=15353453);  
 * Ron Patton - **Testowanie Oprogramowania**; 
-* Andrzej Jacek Blikle - [**Doktryna jakości**](https://buybox.click/4917/buybox.html?oid=10016181);
+* Andrzej Jacek Blikle - [**Doktryna jakości**](https://buybox.click/4917/buybox.html?oid=10016181); 
+* Arnon Axelrod - [**Automatyzacja testów. Kompletny przewodnik dla testerów oprogramowania**](https://buybox.click/4917/buybox.html?oid=95598251)**;** 
 
 {% hint style="success" %}
 Zasugeruj nową pozycję: [Rozwój materiałów](../rozwoj-materialow.md).

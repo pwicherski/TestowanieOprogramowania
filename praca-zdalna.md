@@ -18,7 +18,7 @@ Niewątpliwą zaletą takich zadań jest brak konieczności zobowiązywania się
 
 Z pracy zdalnej mogą skorzystać też osoby, które szukają swojego pierwszego doświadczenia z testowaniem. Często wystarczy do tego komputer, który jest w stanie uciągnąć popularną przeglądarkę internetową typu Firefox, Chrome, Safari czy IE. Więc wymagania nie są wygórowane a pracę można rozpocząć często natychmiast 🙂
 
-A dzięki stronom typu [uTest Courses](https://www.utest.com/courses) można zdobyć wiedzę niezbędną do przejścia pierwszej rozmowy o pracę. Możliwość pochwalenia się zastosowaniem zdobytej wiedzy teoretycznej w praktycznym projekcie może okazać się kartą przetargową w procesie rekrutacji.
+A dzięki stronom typu [uTest Academy](https://www.utest.com/academy) można zdobyć wiedzę niezbędną do przejścia pierwszej rozmowy o pracę. Możliwość pochwalenia się zastosowaniem zdobytej wiedzy teoretycznej w praktycznym projekcie może okazać się kartą przetargową w procesie rekrutacji.
 
 Przykładowe firmy w których można otrzymać dodatkowe zlecenia to:
 
