@@ -1,6 +1,6 @@
 # Pytania na rozmowie
 
-### Pytania ogólne
+## Pytania ogólne
 
 1. Dlaczego chcesz pracować w IT?
 2. Skąd chęć do zmiany branży?
@@ -12,7 +12,7 @@
 8. Skąd czerpiesz wiedzę o technologiach?
 9. Jak sobie wyobrażasz Twoją dalszą karierę? W którym kierunku chcesz się rozwijać?
 
-### Teoria
+## Teoria
 
 1. Dlaczego trzeba testować oprogramowanie?
 2. Kto to jest tester?
@@ -75,7 +75,7 @@
 59. Co to są dane testowe?
 60. Skąd brać dane testowe?
 
-### Pytania techniczne
+## Pytania techniczne
 
 1. Co to jest TCP/IP?
 2. Co to jest WebService?
@@ -111,6 +111,4 @@
 {% hint style="info" %}
 Źródło części pytań: [https://arturzwolinski.gitbook.io/software-tester-interview/](https://arturzwolinski.gitbook.io/software-tester-interview/)
 {% endhint %}
-
-
 

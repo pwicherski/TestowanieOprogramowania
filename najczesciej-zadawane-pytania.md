@@ -16,6 +16,8 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 ## Jak wygląda praca testera?
 
+{% page-ref page="historie/" %}
+
 {% page-ref page="od-czego-zaczac/" %}
 
 ## Jak zostać testerem? Jak wygladają historie ludzi, którzy zostali testerami?

@@ -24,6 +24,12 @@ Więcej materiałów znajduje się w poszczególnych rozdziałach i w przygotowa
 
 {% page-ref page="../plan-nauki/" %}
 
+## Jak wygląda praca testera
+
+Na tablicy Trello w planie "Testowanie" znajduje się zadanie zbierające materiały pokazujące jak wygląda praca testera.
+
+{% embed url="https://trello.com/c/A284WErC/5-jak-wygl%C4%85da-praca-testera" %}
+
 ## Pierwsza praca jako tester
 
 Wiesz jak wygląda praca testera?  
