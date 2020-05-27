@@ -11,6 +11,8 @@
 * [State of Testing Report](https://qablog.practitest.com/state-of-testing-report-2019/) \(PractiTest\)
 * [Testing Trends](https://saucelabs.com/resources/white-papers/testing-trends-for-2018) \(Sauce Labs\)
 * [Ankieta pracy testera](https://bulldogjob.pl/it_report/2020/tester) \(Bulldogjob\)
+* State of Open Source Testing \(Tricentis\)
+  * [2020](https://www.tricentis.com/state-of-open-source-2020/)
 
 ###  ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LH5DbF8PruqD5AZtwmh%2F-LIClGvQkKBYdeSEtDhc%2F-LIClJO47j2s5w4uhanp%2Ficons8-facebook-50.png?alt=media&token=572b2d58-2450-4e88-984c-b630918f94b3) **Dyskusje** <a id="dyskusje"></a>
 
