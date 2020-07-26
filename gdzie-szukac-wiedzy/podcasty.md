@@ -1,6 +1,6 @@
 # Podcasty
 
-## Lista podcastów prowadzonych w języku Polskim
+## Lista podcastów prowadzonych w języku polskim
 
 * [http://podcasttestowanie.pl/](http://podcasttestowanie.pl/)
   * Ping
