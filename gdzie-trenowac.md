@@ -18,6 +18,8 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * API sandbox.
 * [https://www.saucedemo.com/](https://www.saucedemo.com/)
   * Oneline shop.
+* [https://www.telerik.com/support/demos](https://www.telerik.com/support/demos)
+  * Set of various websites and mobile apps.
 * [https://asta.pgs-soft.com](https://asta.pgs-soft.com)
   * Automated Software Testing Arena.
 * [https://www.seleniumeasy.com/test/](https://www.seleniumeasy.com/test/)
