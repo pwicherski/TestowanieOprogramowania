@@ -16,6 +16,8 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * Herokuapp. The internet.
 * [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)
   * API sandbox.
+* [https://www.saucedemo.com/](https://www.saucedemo.com/)
+  * Oneline shop.
 * [https://asta.pgs-soft.com](https://asta.pgs-soft.com)
   * Automated Software Testing Arena.
 * [https://www.seleniumeasy.com/test/](https://www.seleniumeasy.com/test/)
