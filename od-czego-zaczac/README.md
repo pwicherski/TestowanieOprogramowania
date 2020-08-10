@@ -58,7 +58,7 @@ Więcej informacji na temat programu:
 ## 📚 Materiały
 
 * [Najczęściej zadawane pytania na początku drogi testera oprogramowania](../najczesciej-zadawane-pytania.md) 🏤🌞
-* [Aleksandra Kornecka - Praca: Tester oprogramowania](https://docs.google.com/document/d/1e9IVt5x_W8FW24R-7BaQh3xf3jShHfJGzMEjm0E1sWg/edit#)🌞
+* [Aleksandra Kornecka - Praca: Tester oprogramowania](https://bit.ly/3kFVFke)🌞
 * [Radosław Smilgin - Zawód Tester](https://go.buybox.click/linkclick_3679_132?&url=https%3A%2F%2Fksiegarnia.pwn.pl%2FZawod-tester%2C750906499%2Cp.html) 🌞 💵
   * [Radosław Smilgin opowiada o swojej książce "Zawód tester"](https://www.youtube.com/watch?v=7gG4mDPNItY) 🌞 📺
 * [Jak zostać testerem? \[Testerzy.pl\]](http://testerzy.pl/baza-wiedzy/jak-zostac-testerem) 🌞
