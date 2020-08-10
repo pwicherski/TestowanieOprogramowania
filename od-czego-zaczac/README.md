@@ -45,7 +45,7 @@ Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza pr
 
 ## Mentoring
 
-Na grupie Testowanie Oprogramowania istenieje program mentoringowy, dzięki któremu możesz znaleźć mentora lub mentorkę, którzy pomogą Ci w twoim rozwoju.
+Na grupie Testowanie Oprogramowania istenieje program mentoringowy, dzięki któremu możesz znaleźć mentora lub mentorkę, którzy pomogą Ci w Twoim rozwoju.
 
 ### Jak działa program
 
