@@ -49,6 +49,10 @@ Na grupie Testowanie Oprogramowania istenieje program mentoringowy, dzięki któ
 
 ### Jak działa program
 
+{% hint style="info" %}
+Program jest darmowy. Mentorzy nie pobierają żadnych opłat za pomoc.
+{% endhint %}
+
 Po zarejestrowaniu się, i wybraniu partnera \(mentor/mentee\), co tydzień będziesz otrzymywać pomocne tematy na rozpoczęcie konwersacji, co pomoże lepiej się poznać. Od Ciebie zależy, ile czasu chcesz spędzać wspólnie i nad jakimi celami chcesz pracować.
 
 Więcej informacji na temat programu:
