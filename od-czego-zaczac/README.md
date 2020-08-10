@@ -43,6 +43,18 @@ Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza pr
 
 {% page-ref page="pierwsze-doswiadczenie.md" %}
 
+## Mentoring
+
+Na grupie Testowanie Oprogramowania istenieje program mentoringowy, dzięki któremu możesz znaleźć mentora lub mentorkę, którzy pomogą Ci w twoim rozwoju.
+
+### Jak działa program
+
+Po zarejestrowaniu się, i wybraniu partnera \(mentor/mentee\), co tydzień będziesz otrzymywać pomocne tematy na rozpoczęcie konwersacji, co pomoże lepiej się poznać. Od Ciebie zależy, ile czasu chcesz spędzać wspólnie i nad jakimi celami chcesz pracować.
+
+Więcej informacji na temat programu:
+
+{% embed url="https://www.facebook.com/groups/TestowanieOprogramowania/permalink/3058410494181508/" %}
+
 ## 📚 Materiały
 
 * [Najczęściej zadawane pytania na początku drogi testera oprogramowania](../najczesciej-zadawane-pytania.md) 🏤🌞
