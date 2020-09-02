@@ -28,6 +28,7 @@
     * [Platformy do nauki programowania](automatyzacja/nauka-programowania/platformy-do-nauki-programowania.md)
     * [Java](automatyzacja/nauka-programowania/java.md)
     * [Python](automatyzacja/nauka-programowania/python.md)
+    * [C#](automatyzacja/nauka-programowania/csharp.md)
   * [Języki programowania](automatyzacja/jezyki-programowania.md)
 * [Dostępność \(Accessibility\)](dostepnosc-accessibility.md)
 * [Gdzie trenować](gdzie-trenowac.md)
