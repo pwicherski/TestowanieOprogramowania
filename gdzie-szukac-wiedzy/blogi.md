@@ -8,18 +8,12 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Piotr Wicherski
 * [http://testerzy.pl/](http://testerzy.pl/)
   * Testerzy.pl
-* [http://test-engineer.pl](http://test-engineer.pl)
-  * Marcin Sikorski
 * [http://blog.testuj.pl/](http://blog.testuj.pl/)
   * Testuj.pl Blog
-* [https://martamaracje.blogspot.com/](https://martamaracje.blogspot.com/)
-  * Marta Zajac
 * [https://medium.com/@SimonKaz/](https://medium.com/@SimonKaz/)
   * Szymon Kazmierczak
 * [http://testerka.pl/](http://testerka.pl/)
   * Dorota Poręba-Połomska
-* [http://testdetective.com/](http://testdetective.com/)
-  * Łukasz Rosłonek
 * [http://awesome-testing.com/](http://awesome-testing.com/)
   * Sławomir Radzymiński
 * [http://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
@@ -28,8 +22,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Rafał Kubik
 * [http://testingplus.me](http://testingplus.me)
   * Michał Ślęzak
-* [http://browserspot.com](http://browserspot.com)
-  * Wojciech Piętka
+* [https://browserspot.com/blog/](https://browserspot.com/blog/)
+  * Browser Spot
 * [https://automatingguy.com/](https://automatingguy.com/)
   * Michał Krzyżanowski
 * [https://thebrokentest.com](https://thebrokentest.com/)
@@ -40,7 +34,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Ela Sądel
 * [https://jakosctobedzie.pl/](https://jakosctobedzie.pl/)
   * Magda Drechsler-Nowak
-* [https://devowls.io/](https://devowls.io/)
+* [https://devowls.io/blog/](https://devowls.io/blog/)
   * Michał Krzyżanowski, Michał Ślęzak
 * [https://testerembyc.pl/](https://testerembyc.pl/)
   * Maciej Kusz
@@ -56,7 +50,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Daniel Dec, Kamila Gawrońska, Wojciech Gawroński, Tomasz Wierzchowski
 * [https://wyszkolewas.com.pl/blog/](https://www.wyszkolewas.com.pl/blog/)
   * Waldemar Szafraniec
-* [https://jaktestowac.pl/](https://jaktestowac.pl/category/wpisy/)
+* [https://jaktestowac.pl/blog/](https://jaktestowac.pl/blog/)
   * Przemek Barański, Krzysiek Kijas
 * [https://blog.qalabs.pl/](https://blog.qalabs.pl/)
   * Maciej Chmielarz, Rafał Borowiec
@@ -77,4 +71,8 @@ Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, �
   * Wersja archiwalna bloga \| Łukasz Jasiński 
 * [http://javagirl.pl/](http://javagirl.pl/)
   * JavaGirl
+* [https://martamaracje.blogspot.com/](https://martamaracje.blogspot.com/)
+  * Marta Zajac
+* [https://test-detective.blogspot.com/](https://test-detective.blogspot.com/)
+  * Łukasz Rosłonek
 
