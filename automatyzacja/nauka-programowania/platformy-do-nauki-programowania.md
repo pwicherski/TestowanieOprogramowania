@@ -7,7 +7,6 @@
 * [https://www.udacity.com/courses/all](https://www.udacity.com/courses/all)
 * [https://www.khanacademy.org/library](https://www.khanacademy.org/library)
 * [http://sqlzoo.net/wiki/Main\_Page](http://sqlzoo.net/wiki/Main_Page)
-* [http://www.codewars.com/](http://www.codewars.com/)
 * [https://www.codeavengers.com/](https://www.codeavengers.com/)
 * [http://www.crunchzilla.com](http://www.crunchzilla.com)
 * [http://codecombat.com/](http://codecombat.com/)
@@ -15,6 +14,7 @@
 
 ## 🕹️ Platformy z zadaniami
 
+* [Codewars](http://www.codewars.com/)
 * [HackerRank](http://hackerrank.com/)
 * [CodeChef](http://codechef.com/)
 * [HackerEarth](http://hackerearth.com/)
@@ -27,7 +27,6 @@
 * [SPOJ](http://www.spoj.com/)
 * [Project Euler](https://projecteuler.net/)
 * [CodingBat](http://codingbat.com/)
-* [Codewars](http://www.codewars.com/)
 * [Codility](https://codility.com/)
 * [Codingame](https://www.codingame.com/)
 * [CoderByte](https://coderbyte.com/)

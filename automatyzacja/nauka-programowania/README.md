@@ -6,7 +6,7 @@
 >
 > Nauka programowania jest prosta!
 
-![](https://pwicherski.gitbooks.io/testowanieoprogramowania/assets/nope_logo1.gif)
+![](../../.gitbook/assets/pobrane.png)
 
 Przypuszczam, że wątpię.
 
@@ -16,7 +16,7 @@ Kilka opinii z którymi warto się zapoznać, więcej zamieściłem jak zwykle w
 
 {% embed url="https://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy/" %}
 
-![](https://pwicherski.gitbooks.io/testowanieoprogramowania/CCpgya-UIAA8uar.jpg)
+![](../../.gitbook/assets/ccpgya-uiaa8uar.jpg)
 
 > Większość kursów i książek dla początkujących tak właśnie wygląda w trakcie pierwszego zapoznania.
 
