@@ -19,7 +19,7 @@ Nie są to jedyne kursy testowania oprogramowania, które dostępne są w intern
 
 Dodatkowe zbiory kursów:
 
-* [uTest Courses](https://www.utest.com/courses) 🏤
+* [uTest Academy](https://www.utest.com/academy) 🏤
 
 ## Szukasz kursów ISTQB?
 
