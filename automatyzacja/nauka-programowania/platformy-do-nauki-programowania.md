@@ -48,4 +48,6 @@
 * [TunedIT](http://tunedit.org/)
 * [MLComp](http://mlcomp.org/)
 * [HPC University](http://hpcuniversity.org/students/weeklyChallenge/)
+* [LearnCS](https://www.learncs.org/)
+  * And other languages
 
