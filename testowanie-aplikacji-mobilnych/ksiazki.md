@@ -6,6 +6,7 @@ description: Testowanie aplikacji mobilnych
 
 ## **Najpełniejsze pozycje na ten moment to według mnie:**
 
+* ISTQB Foundation Level Mobile Application Testing [https://www.istqb.org/certification-path-root/mobile-application-testing.html](https://www.istqb.org/certification-path-root/mobile-application-testing.html) 
 * Hands-On Mobile App Testing \| Daniel Knott
 
   [http://handsonmobileapptesting.com](http://handsonmobileapptesting.com)
