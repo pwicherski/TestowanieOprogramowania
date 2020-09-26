@@ -19,6 +19,8 @@ Narzędzia do monitorowania statusu strony, w niektórych przypadkach połączon
   * Darmowe i proste narzędzie do monitorowania stron. Integracja z m.in. Slackiem. 
 * [https://spotbot.qa/](https://spotbot.qa/)
   * Bot połączony ze Slackiem, który monitoruje zmiany w strukturze strony. 
+* [https://ping.pl/](https://ping.pl/)
+  * Polskie narzędzie do monitoringu dostępności stron. Testowanie wg scenariuszy, szybkości ładowania się strony, monitoring domeny i certyfikatu SSL.
 * [https://www.webgazer.io](https://www.webgazer.io) 
 * [https://www.statuscake.com/](https://www.statuscake.com/) 
 * [https://www.uptrends.com](https://www.uptrends.com) 
