@@ -28,7 +28,7 @@ Poprzez stronę WhatICanDoForMozilla możemy wybrać w jaki sposób chcemy uczes
 
 * Testowanie Firefoxa
 * Testowanie Thunderbirda
-* Tesotwanie Firefox Nightly
+* Testowanie Firefox Nightly
 * Testowanie nowych produktów Mozilli
 * Współtworzenie skryptów automatyzacji do Firefoxa
 * Wydarzenia poszukiwaczy błędów
