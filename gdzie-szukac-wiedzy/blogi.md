@@ -56,6 +56,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Maciej Chmielarz, Rafał Borowiec
 * [https://softie.pl/blog/](https://softie.pl/blog/)
   * Dominik Stolarski, Paweł Kandybowicz, Maciek Florys
+* [https://www.dlatesterow.pl/](https://www.dlatesterow.pl/)
+  * Rafał Krząpa
 
 ## Dawno nieaktualizowane lub zamknięte:
 
