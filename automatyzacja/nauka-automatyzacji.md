@@ -22,8 +22,6 @@ Nie ma jednego prostego sposobu na osiągnięcie upragnionej umiejętności auto
 >
 > Petent: automatyzacja polegała u nas na nagrywaniu wyklikiwanych czynności. Taka prosta automatyzacja. Selenium IDE, Robotium Recorder, czy narzędzia wewnętrzne.
 
-![](https://pwicherski.gitbooks.io/testowanieoprogramowania/assets/nope_logo1.gif)
-
 Taka umiejętność automatyzacji nie przyniesie Ci \(najprawdopodobniej\) worków złota z kont bankowych potencjalnego pracodawcy.
 
 Jeżeli chcesz zacząć naukę automatyzacji, polecam Plan Nauki - Automatyzacja:
@@ -36,6 +34,8 @@ Jeżeli chcesz zacząć naukę automatyzacji, polecam Plan Nauki - Automatyzacja
 
 * [Słowo na A \| Alan Page](https://leanpub.com/TheAWord) 
 * [The Way of the Web Tester. A Beginner's Guide to Automating Tests](https://pragprog.com/book/jrtest/the-way-of-the-web-tester)
+* [Experiences of Test Automation: Case Studies of Software Test Automation](https://www.amazon.com/Experiences-Test-Automation-Studies-Software/dp/0321754069)
+* [Automatyzacja testów](https://ksiegarnia.pwn.pl/Automatyzacja-testow,804413689,p.html)
 
 ### ![](../.gitbook/assets/icons8-facebook-50%20%2812%29.png) Dyskusje
 
