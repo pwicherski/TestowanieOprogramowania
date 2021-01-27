@@ -2,7 +2,7 @@
 
 ## Gdzie szukać pracy?
 
-* [Oferty pracy na grupie "Testowanie Oprogramowania"](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765176240171613)
+* [Oferty pracy na grupie "Testowanie Oprogramowania"](https://www.facebook.com/hashtag/ofertypracy?__gid__=141683635854223)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
   * [No Fluff Jobs praca dla Junior Testerów](https://nofluffjobs.com/jobs/testing?criteria=category%3Dtesting%20seniority%3Dtrainee,junior)
 * [https://www.juniorjobsonly.com/](https://www.juniorjobsonly.com/)
