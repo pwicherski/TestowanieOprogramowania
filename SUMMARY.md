@@ -54,6 +54,7 @@
   * [Jenkins](narzedzia/jenkins.md)
   * [GIT](narzedzia/git.md)
   * [Chrome Developer Tools](narzedzia/chrome-developer-tools.md)
+  * [TestCafe](narzedzia/testcafe.md)
   * [Charles Proxy](narzedzia/charles-proxy.md)
   * [Wtyczki do przeglądarek](narzedzia/wtyczki-do-przegladarek.md)
   * [Różne narzędzia](narzedzia/rozne-narzedzia.md)
