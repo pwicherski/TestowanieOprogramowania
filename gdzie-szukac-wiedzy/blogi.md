@@ -26,7 +26,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Browser Spot
 * [https://automatingguy.com/](https://automatingguy.com/)
   * Michał Krzyżanowski
-* [https://thebrokentest.com](https://thebrokentest.com/)
+* [https://wyrodek.pl](https://wyrodek.pl/)
   * Maciej Wyrodek
 * [https://bugfreeblog.com/](https://bugfreeblog.com/)
   * Krzysztof jadczyk
