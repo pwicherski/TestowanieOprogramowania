@@ -14,4 +14,5 @@
   * [https://www.associationforsoftwaretesting.org/about/newsletter/](https://www.associationforsoftwaretesting.org/about/newsletter/)
 * ASTQB newsletter
   * [https://astqb.org/resources/astqb-software-testing-newsletter/](https://astqb.org/resources/astqb-software-testing-newsletter/)
-
+* ITeaMorning 
+  * [https://www.youtube.com/c/ITeaMorning/](https://www.youtube.com/c/ITeaMorning/)
