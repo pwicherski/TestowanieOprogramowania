@@ -29,7 +29,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 * [https://wyrodek.pl](https://wyrodek.pl/)
   * Maciej Wyrodek
 * [https://bugfreeblog.com/](https://bugfreeblog.com/)
-  * Krzysztof jadczyk
+  * Krzysztof Jadczyk
 * [https://testelka.pl/blog/](https://testelka.pl/blog/)
   * Ela Sądel
 * [https://jakosctobedzie.pl/](https://jakosctobedzie.pl/)
