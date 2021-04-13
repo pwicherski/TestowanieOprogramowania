@@ -60,20 +60,31 @@
 44. Opowiedz o największym błędzie w aplikacji, z jakim się spotkałeś?
 45. Co to jest automatyzacja testów?
 46. Czy wszystkie testy należy automatyzować?
-47. Co to jest priorytet defektu?
-48. Co to jest poważność defektu?
-49. Podaj przykład defektu z wysokim priorytetem ale niską poważnością?
-50. Podaj przykład defektu z niskim priorytetem ale wysoką poważnością?
-51. Co zrobisz, jeżeli bardzo dobry programista nalega na szybkie przetestowanie jego kodu, aby kod szybko mógł być na produkcji?
-52. Co to są testy wydajnościowe?
-53. Co możemy sprawdzać podczas testów wydajnościowych?
-54. Co to są testy bezpieczeństwa?
-55. Co to są testy użyteczności?
-56. Co to jest negatywny i pozytywny przypadek testowy?
-57. Co to jest testowanie integracyjne?
-58. Co to jest jakość?
-59. Co to są dane testowe?
-60. Skąd brać dane testowe?
+47. Kiedy powinniśmy automatyzować testy?
+48. Co to jest priorytet defektu?
+49. Co to jest poważność defektu?
+50. Podaj przykład defektu z wysokim priorytetem ale niską poważnością?
+51. Podaj przykład defektu z niskim priorytetem ale wysoką poważnością?
+52. Co zrobisz, jeżeli bardzo dobry programista nalega na szybkie przetestowanie jego kodu, aby kod szybko mógł być na produkcji?
+53. Co to są testy wydajnościowe?
+54. Co możemy sprawdzać podczas testów wydajnościowych?
+55. Co to są testy bezpieczeństwa?
+56. Co to są testy użyteczności?
+57. Co to jest negatywny i pozytywny przypadek testowy?
+58. Co to jest testowanie integracyjne?
+59. Co to są smoke testy i kiedy warto je używać? (podaj przykład)
+60. Kiedy i po co powinniśmy stworzyć Strategię Testów?
+61. Co powinna zawierać Strategia Testów?
+62. Kiedy i po co powinniśmy stworzyć Plan Testów?
+63. Co powinien zawierać Plan testów?
+64. Kiedy i po co powinniśmy tworzyć Raport z testów?
+65. Co powinien zawierać raport z testów?
+66. Co to jest jakość?
+67. Jak twoim zdaniem zapewniać jakość w projekcie informatycznym?
+68. Co to są dane testowe?
+69. Skąd brać dane testowe?
+70. Czym jest GDPR i jak może wpłynąć na twoją pracę jako tester oprogramowania?
+71. Jak wyjaśnisz klientowi, który mało do wie o testowaniu oprogramowania co to jest testowanie oprogramowania i jaką wartość wniesie do projektu?
 
 ## Pytania techniczne
 
