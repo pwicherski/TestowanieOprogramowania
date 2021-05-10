@@ -2,7 +2,8 @@
 
 ## Gdzie szukać pracy?
 
-* [Oferty pracy na grupie "Testowanie Oprogramowania"](https://www.facebook.com/hashtag/ofertypracy?__gid__=141683635854223)
+* [https://itradar.io/?c=qa&hs=1&o=sd&ri=qa](https://itradar.io/?c=qa&hs=1&o=sd&ri=qa)
+  * Zbiorcza wyszukiwarka ofert z różnych portali
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
   * [No Fluff Jobs praca dla Junior Testerów](https://nofluffjobs.com/jobs/testing?criteria=category%3Dtesting%20seniority%3Dtrainee,junior)
 * [https://www.juniorjobsonly.com/](https://www.juniorjobsonly.com/)
@@ -87,5 +88,5 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 * [Kurs - Jak sprawić by to rekruterzy się do Ciebie odezwali](https://www.linkedin.com/learning/j-t-o-donnell-on-making-recruiters-come-to-you/welcome) 📺
 * [E-book przygotowanie do rekrutacji](https://jakzostactesterem.pl/bezplatny-ebook-pdf-mlodszy-tester-oprogramowania-przygotowanie-do-rekrutacji/)
 
-## ![](../.gitbook/assets/icons8-facebook-50%20%281%29.png) **Dyskusje**
+## ![](../.gitbook/assets/icons8-facebook-50%20%2810%29%20%281%29.png) **Dyskusje**
 

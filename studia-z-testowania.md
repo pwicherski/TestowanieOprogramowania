@@ -58,7 +58,7 @@ Przykładowe uczelnie, które oferują studiowanie na kierunkach powiązanych z 
 
 * [Postgraduate Studies on Software Testing in Poland](http://sjsi.org/postgraduate-studies-on-software-testing-in-poland/)
 
-### ![](.gitbook/assets/icons8-facebook-50%20%282%29.png) Dyskusje
+### ![](.gitbook/assets/icons8-facebook-50%20%2810%29%20%282%29.png) Dyskusje
 
 * ["Studia" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1791637997525437) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat studiów z testowania oprogramowania.

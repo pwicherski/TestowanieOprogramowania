@@ -20,7 +20,7 @@ Na początku najważniejsze jest zrozumienie podstaw programowania, na przykład
 * [Rozwój kariery testera. Czy warto przejść na stronę programistyczną?](http://testerzy.pl/baza-wiedzy/rozwoj-kariery-testera-programowanie) 
 * [What Programming Language Should a Beginner Learn in 2018](https://www.codementor.io/codementorteam/beginner-programming-language-job-salary-community-7s26wmbm6)
 
-## ![](../.gitbook/assets/icons8-facebook-50%20%288%29.png) Dyskusje
+## ![](../.gitbook/assets/icons8-facebook-50%20%2810%29%20%288%29.png) Dyskusje
 
 * [Jaki język dla web i mobile?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1139129899442920/)
 * [Na jaki język jest największy popyt?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1411316595557581/)

@@ -37,7 +37,7 @@ Jeżeli chcesz zacząć naukę automatyzacji, polecam Plan Nauki - Automatyzacja
 * [Experiences of Test Automation: Case Studies of Software Test Automation](https://www.amazon.com/Experiences-Test-Automation-Studies-Software/dp/0321754069)
 * [Automatyzacja testów](https://ksiegarnia.pwn.pl/Automatyzacja-testow,804413689,p.html)
 
-### ![](../.gitbook/assets/icons8-facebook-50%20%2812%29.png) Dyskusje
+### ![](../.gitbook/assets/icons8-facebook-50%20%2810%29%20%2812%29.png) Dyskusje
 
 * ["Automatyzacja" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1766081590081078&ref=manage_page) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat automatyzacji.

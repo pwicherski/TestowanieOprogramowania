@@ -16,3 +16,4 @@
   * [https://astqb.org/resources/astqb-software-testing-newsletter/](https://astqb.org/resources/astqb-software-testing-newsletter/)
 * ITeaMorning 
   * [https://www.youtube.com/c/ITeaMorning/](https://www.youtube.com/c/ITeaMorning/)
+

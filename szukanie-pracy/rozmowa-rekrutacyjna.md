@@ -7,7 +7,7 @@
 * [How I interview testers](https://www.linkedin.com/pulse/how-i-interview-testers-dan-ashby) 
 * [Kilka porad rekrutacyjnych](https://arturzwolinski.gitbooks.io/software-tester-interview/content/)
 
-### \*\*\*\*![](../.gitbook/assets/icons8-facebook-50%20%289%29.png) **Dyskusje**
+### \*\*\*\*![](../.gitbook/assets/icons8-facebook-50%20%2810%29%20%289%29.png) **Dyskusje**
 
 * ["Rozmowa rekrutacyjna" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1769805609708676) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat rozmów rekrutacyjnych.

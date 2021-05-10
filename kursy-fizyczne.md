@@ -40,7 +40,7 @@ Minimalne wymagania, które musi spełniać kurs aby pojawić się na tej liści
 
 {% page-ref page="certyfikacja/istqb.md" %}
 
-## ![](.gitbook/assets/icons8-facebook-50%20%282%29.png) Dyskusje
+## ![](.gitbook/assets/icons8-facebook-50%20%2810%29%20%282%29.png) Dyskusje
 
 * [Wszystkie dyskusje z grupy Testowanie Oprogramowania na temat kursów krótkoterminowych i długoterminowych kursów](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765193666836537%20)
 

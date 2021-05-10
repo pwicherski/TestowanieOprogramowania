@@ -40,7 +40,7 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 * [Jak zaliczyłem egzamin certyfikacyjny ISTQB Foundation Level](http://strefakodera.pl/blog/jak-zaliczylem-egzamin-certyfikacyjny-istqb-foundation-level)
 * [Jak zdać ISTQB ](http://testcase.pl/news/jak-zdac-egzamin-istqb/)[Foundation Level](https://www.istqb.org/downloads/syllabi/foundation-level-syllabus.html)
 
-###  ![](../.gitbook/assets/icons8-facebook-50%20%285%29.png) Dyskusje
+###  ![](../.gitbook/assets/icons8-facebook-50%20%2810%29%20%285%29.png) Dyskusje
 
 * ["ISTQB" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765191683503402&ref=story_subtitle) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat ISTQB.
