@@ -2,8 +2,10 @@
 
 ## Gdzie szukać pracy?
 
-* [https://itradar.io/?c=qa&hs=1&o=sd&ri=qa](https://itradar.io/?c=qa&hs=1&o=sd&ri=qa)
-  * Zbiorcza wyszukiwarka ofert z różnych portali
+* Lista ofert pracy z grupy Testowanie Oprogramowania
+  * [http://bit.ly/TO-OfertyPracy](http://bit.ly/TO-OfertyPracy)
+* Zbiorcza wyszukiwarka ofert z różnych portali
+  * [https://itradar.io/?c=qa&hs=1&o=sd&ri=qa](https://itradar.io/?c=qa&hs=1&o=sd&ri=qa)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
   * [No Fluff Jobs praca dla Junior Testerów](https://nofluffjobs.com/jobs/testing?criteria=category%3Dtesting%20seniority%3Dtrainee,junior)
 * [https://www.juniorjobsonly.com/](https://www.juniorjobsonly.com/)
@@ -19,7 +21,8 @@
 
 > Stworzenie własnego profilu w serwisie LinkedIn może przynieść Ci wiele dodatkowych ofert pracy.
 >
-> [https://testuj.pl/blog/jaki-jest-dobry-profil-na-linkedin-poradnik-nie-tylko-dla-testerow/](https://testuj.pl/blog/jaki-jest-dobry-profil-na-linkedin-poradnik-nie-tylko-dla-testerow/)
+> Przykład dobrze stworzonego profilu:  
+> [https://www.linkedin.com/in/wonsulting-wilson/](https://www.linkedin.com/in/wonsulting-wilson/)
 >
 > [http://lmgtfy.com/?q=how+to+create+good+linkedin+profile](http://lmgtfy.com/?q=how+to+create+good+linkedin+profile)
 
@@ -87,6 +90,7 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 * [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy) 
 * [Kurs - Jak sprawić by to rekruterzy się do Ciebie odezwali](https://www.linkedin.com/learning/j-t-o-donnell-on-making-recruiters-come-to-you/welcome) 📺
 * [E-book przygotowanie do rekrutacji](https://jakzostactesterem.pl/bezplatny-ebook-pdf-mlodszy-tester-oprogramowania-przygotowanie-do-rekrutacji/)
+* [Jaki jest dobry profil na LinkedIn? Poradnik \(nie\) tylko dla testerów](https://testuj.pl/blog/jaki-jest-dobry-profil-na-linkedin-poradnik-nie-tylko-dla-testerow/)
 
 ## ![](../.gitbook/assets/icons8-facebook-50%20%2810%29%20%281%29.png) **Dyskusje**
 
