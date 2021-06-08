@@ -8,6 +8,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Piotr Wicherski
 * [http://testerzy.pl/](http://testerzy.pl/)
   * Testerzy.pl
+* [https://projectquality.it/blog/](https://projectquality.it/blog/)
+  * Krzysztof Raczyński
 * [http://blog.testuj.pl/](http://blog.testuj.pl/)
   * Testuj.pl Blog
 * [https://medium.com/@SimonKaz/](https://medium.com/@SimonKaz/)
