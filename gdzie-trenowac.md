@@ -104,6 +104,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 * [http://www.guru99.com/live-testing-project.html](http://www.guru99.com/live-testing-project.html)
 * [http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/](http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/)
+* [https://www.interviewbit.com/software-testing-interview-questions/](https://www.interviewbit.com/software-testing-interview-questions/)
 
 ## Dodatkowo:
 
