@@ -19,11 +19,7 @@
 * [https://bulldogjob.pl/companies/jobs/s/role,tester](https://bulldogjob.pl/companies/jobs/s/role,tester)
 * [http://lmgtfy.com/?q=praca+tester](http://lmgtfy.com/?q=praca+tester)
 
-> Stworzenie własnego profilu w serwisie LinkedIn może przynieść Ci wiele dodatkowych ofert pracy.
->
-> Przykład dobrze stworzonego profilu:  
-> [https://www.linkedin.com/in/wonsulting-wilson/](https://www.linkedin.com/in/wonsulting-wilson/)
->
+> Stworzenie własnego profilu w serwisie LinkedIn może przynieść Ci wiele dodatkowych ofert pracy.  
 > [http://lmgtfy.com/?q=how+to+create+good+linkedin+profile](http://lmgtfy.com/?q=how+to+create+good+linkedin+profile)
 
 ## Jeżeli nie masz doświadczenia, zdobądź wiedzę.
