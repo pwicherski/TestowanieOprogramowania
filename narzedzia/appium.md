@@ -63,6 +63,7 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
 
 ### Kursy wideo
 
+* [https://testautomationu.applitools.com/appium-java-tutorial/](https://testautomationu.applitools.com/appium-java-tutorial/)
 * [https://www.linkedin.com/learning/mobile-testing-with-appium](https://www.linkedin.com/learning/mobile-testing-with-appium)
 * [https://www.linkedin.com/learning/advanced-appium/take-appium-to-the-next-level](https://www.linkedin.com/learning/advanced-appium/take-appium-to-the-next-level)
 * [https://www.udemy.com/mobile-automation-using-appiumselenium-3/learn/\#/](https://www.udemy.com/mobile-automation-using-appiumselenium-3/learn/#/)
