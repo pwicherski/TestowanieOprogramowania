@@ -6,6 +6,7 @@
   * [http://bit.ly/TO-OfertyPracy](http://bit.ly/TO-OfertyPracy)
 * Zbiorcza wyszukiwarka ofert z różnych portali
   * [https://itradar.io/?c=qa&hs=1&o=sd&ri=qa](https://itradar.io/?c=qa&hs=1&o=sd&ri=qa)
+* [https://justjoin.it/all/testing](https://justjoin.it/all/testing)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
   * [No Fluff Jobs praca dla Junior Testerów](https://nofluffjobs.com/jobs/testing?criteria=category%3Dtesting%20seniority%3Dtrainee,junior)
 * [https://www.juniorjobsonly.com/](https://www.juniorjobsonly.com/)
@@ -13,7 +14,6 @@
 * [https://pl.indeed.com/praca](https://pl.indeed.com/praca)
 * [https://www.pracuj.pl/](https://www.pracuj.pl/)
 * [https://www.praca.pl/](https://www.praca.pl/)
-* [https://justjoin.it/all/testing](https://justjoin.it/all/testing)
 * [https://www.olx.pl/praca/](https://www.olx.pl/praca/)
 * [https://www.linkedin.com/jobs/](https://www.linkedin.com/jobs/)
 * [https://bulldogjob.pl/companies/jobs/s/role,tester](https://bulldogjob.pl/companies/jobs/s/role,tester)
