@@ -1,6 +1,6 @@
 # Lista certyfikatów testerskich
 
-## [\(ISTQB\) International Software Testing Qualifications Board](https://www.istqb.org/certification-path-root.html)
+## [\(ISTQB\) International Software Testing Qualifications Board](https://www.istqb.org/about-us/istqb-levels-and-modules.html)
 
 * [Foundation Level](https://www.istqb.org/certification-path-root/foundation-level/foundation-level-in-a-nutshell.html)
 * [Mobile Application Testing](https://www.istqb.org/certification-path-root/mobile-application-testing.html)
