@@ -6,11 +6,11 @@ Pamiętaj proszę, że wybór języka, od którego rozpoczniesz swoją naukę wc
 
 ![](../.gitbook/assets/which-programming-language-should-i-learn-first-infographic.png)
 
-{% embed url="http://carlcheo.com/startcoding" caption="" %}
+{% embed url="http://carlcheo.com/startcoding" %}
 
 Na początku najważniejsze jest zrozumienie podstaw programowania, na przykładzie wybranego języka. Następnie nauczenie się kolejnego języka będzie znacznie łatwiejsze.
 
-{% embed url="https://nofluffjobs.com/blog/jezyki-programowania-w-pracy-testera-podsumowanie-2019-roku/" caption="" %}
+{% embed url="https://nofluffjobs.com/blog/jezyki-programowania-w-pracy-testera-podsumowanie-2019-roku/" %}
 
 ## 📚 Materiały
 
@@ -20,10 +20,9 @@ Na początku najważniejsze jest zrozumienie podstaw programowania, na przykład
 * [Rozwój kariery testera. Czy warto przejść na stronę programistyczną?](http://testerzy.pl/baza-wiedzy/rozwoj-kariery-testera-programowanie) 
 * [What Programming Language Should a Beginner Learn in 2018](https://www.codementor.io/codementorteam/beginner-programming-language-job-salary-community-7s26wmbm6)
 
-## ![](../.gitbook/assets/icons8-facebook-50%20%2810%29%20%288%29.png) Dyskusje
+## ![](<../.gitbook/assets/icons8-facebook-50 (10) (1) (8).png>) Dyskusje
 
 * [Jaki język dla web i mobile?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1139129899442920/)
 * [Na jaki język jest największy popyt?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1411316595557581/)
 * [Python czy Java dla QA?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1704663669556204/)
 * [Czy Python do dobry wybór dla testera? Jaki język wybrać najlepiej?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2301291336560098/)
-

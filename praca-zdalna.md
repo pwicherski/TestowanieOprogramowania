@@ -10,7 +10,7 @@ _Crowd testing_ - w 2006 roku Jee Howe wprowadził nazwę [_crowdsourcing_](http
 2. Usługodawca wybiera grupę osób ze swojej bazy na podstawie wymagań przedstawionych przez klienta
 3. Grupa testuje produkt.
 4. Grupa raportuje informacje, których oczekiwał klient. W zależności od tego jakie były oczekiwania mogą to być zarówno błędy, informacje odnośnie użyteczności jak i zwykłe odczucia testera jako potencjalnego klienta danego produktu.
-5. Usługodawca upewnia się, że raporty są odpowiedniej jakości. Sprawdza czy nie powtarzają się zgłaszane błędy lub czy jakość zgłoszeń jest na odpowiednim poziomie. Jeżeli powstaną jakiekolwiek wątpliwości wraca do danego testera \(lub lidera danej grupy testowej\) z prośbą o dodatkowe informacje.
+5. Usługodawca upewnia się, że raporty są odpowiedniej jakości. Sprawdza czy nie powtarzają się zgłaszane błędy lub czy jakość zgłoszeń jest na odpowiednim poziomie. Jeżeli powstaną jakiekolwiek wątpliwości wraca do danego testera (lub lidera danej grupy testowej) z prośbą o dodatkowe informacje.
 6. Na końcu usługodawca sporządza ostateczny raport z testów dla klienta.
 7. Raport zostanie zaprezentowany i omówiony z klientem.
 
@@ -22,22 +22,22 @@ A dzięki stronom typu [uTest Academy](https://www.utest.com/academy) można zdo
 
 Przykładowe firmy w których można otrzymać dodatkowe zlecenia to:
 
-**Lista firm polskich**
+**Lista firm**
 
-* [http://www.utest.com/](http://www.utest.com/) \| [http://www.applause.com/](http://www.applause.com/)
-* [http://whatusersdo.com/](http://whatusersdo.com/)
-* [http://trymyui.com/](http://trymyui.com/)
-* [http://www.testbirds.com/](http://www.testbirds.com/)
-* [http://www.usertesting.com/](http://www.usertesting.com/)
-* [https://crowdsourcedtesting.com/](https://crowdsourcedtesting.com/)
-* [https://mycrowd.com/](https://mycrowd.com/)
+* [http://www.utest.com/](http://www.utest.com) | [http://www.applause.com/](http://www.applause.com)
+* [http://whatusersdo.com/](http://whatusersdo.com)
+* [http://trymyui.com/](http://trymyui.com)
+* [http://www.testbirds.com/](http://www.testbirds.com)
+* [http://www.usertesting.com/](http://www.usertesting.com)
+* [https://crowdsourcedtesting.com/](https://crowdsourcedtesting.com)
+* [https://mycrowd.com/](https://mycrowd.com)
 * [https://test.io/](https://test.io)
-* [http://testuj.pl](https://testuj.pl/)
-* [https://usabilityhub.com/](https://usabilityhub.com/)
-* [https://globalapptesting.com/](https://globalapptesting.com/)
-* [https://www.bugfinders.com/](https://www.bugfinders.com/)
-* [https://we-are-testers.com/](https://we-are-testers.com/)
-* [https://betafamily.com/](https://betafamily.com/)
+* [http://testuj.pl](https://testuj.pl)
+* [https://usabilityhub.com/](https://usabilityhub.com)
+* [https://globalapptesting.com/](https://globalapptesting.com)
+* [https://www.bugfinders.com/](https://www.bugfinders.com)
+* [https://we-are-testers.com/](https://we-are-testers.com)
+* [https://betafamily.com/](https://betafamily.com)
 
 Są to portale świadczące między innymi usługi testowania crowdsourcingowego.
 
@@ -50,8 +50,7 @@ _Każde zgłoszenie błędu jest problematyczne w zespole testerów, który nie 
 * Źródło: [Praca zdalna dla testera](https://testujemy.mobi/praca-zdalna-dla-testera/) 
 * [Dlaczego testowy crowdsourcing w Polsce umarł](http://testerzy.pl/baza-wiedzy/dlaczego-testowy-crowdsourcing-w-polsce-umarl) 
 
-## ![](.gitbook/assets/icons8-facebook-50%20%2810%29%20%2811%29.png) Dyskusje
+## ![](<.gitbook/assets/icons8-facebook-50 (10) (1) (10).png>) Dyskusje
 
-* ["Praca zdalna" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1777847638904473&ref=manage_page) 🏤
+* ["Praca zdalna" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1777847638904473\&ref=manage_page) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat narzędzi.
-

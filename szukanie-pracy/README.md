@@ -5,21 +5,21 @@
 * Lista ofert pracy z grupy Testowanie Oprogramowania
   * [http://bit.ly/TO-OfertyPracy](http://bit.ly/TO-OfertyPracy)
 * Zbiorcza wyszukiwarka ofert z różnych portali
-  * [https://itradar.io/?c=qa&hs=1&o=sd&ri=qa](https://itradar.io/?c=qa&hs=1&o=sd&ri=qa)
+  * [https://itradar.io/?c=qa\&hs=1\&o=sd\&ri=qa](https://itradar.io/?c=qa\&hs=1\&o=sd\&ri=qa)
 * [https://justjoin.it/all/testing](https://justjoin.it/all/testing)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
   * [No Fluff Jobs praca dla Junior Testerów](https://nofluffjobs.com/jobs/testing?criteria=category%3Dtesting%20seniority%3Dtrainee,junior)
-* [https://www.juniorjobsonly.com/](https://www.juniorjobsonly.com/)
-* [https://jobsforgeek.com/](https://jobsforgeek.com/job-offers?country=POLAND&country=POLAND&jobCategory=TESTER)
+* [https://www.juniorjobsonly.com/](https://www.juniorjobsonly.com)
+* [https://jobsforgeek.com/](https://jobsforgeek.com/job-offers?country=POLAND\&country=POLAND\&jobCategory=TESTER)
 * [https://pl.indeed.com/praca](https://pl.indeed.com/praca)
-* [https://www.pracuj.pl/](https://www.pracuj.pl/)
-* [https://www.praca.pl/](https://www.praca.pl/)
+* [https://www.pracuj.pl/](https://www.pracuj.pl)
+* [https://www.praca.pl/](https://www.praca.pl)
 * [https://www.olx.pl/praca/](https://www.olx.pl/praca/)
 * [https://www.linkedin.com/jobs/](https://www.linkedin.com/jobs/)
 * [https://bulldogjob.pl/companies/jobs/s/role,tester](https://bulldogjob.pl/companies/jobs/s/role,tester)
 * [http://lmgtfy.com/?q=praca+tester](http://lmgtfy.com/?q=praca+tester)
 
-> Stworzenie własnego profilu w serwisie LinkedIn może przynieść Ci wiele dodatkowych ofert pracy.  
+> Stworzenie własnego profilu w serwisie LinkedIn może przynieść Ci wiele dodatkowych ofert pracy.\
 > [http://lmgtfy.com/?q=how+to+create+good+linkedin+profile](http://lmgtfy.com/?q=how+to+create+good+linkedin+profile)
 
 ## Jeżeli nie masz doświadczenia, zdobądź wiedzę.
@@ -44,7 +44,7 @@ Zwłaszcza jeżeli tak na prawdę nie masz z nimi do czynienia. Nie wspominając
 * Czy chcesz dalej rozwijać się jako tester?
 * Czy masz na siebie pomysł? Plan, którym kierujesz się w trakcie rozwoju.
 
-## Nie podejmuj decyzji \(na dowolny temat\) dopiero w trakcie przeprowadzania rozmowy.
+## Nie podejmuj decyzji (na dowolny temat) dopiero w trakcie przeprowadzania rozmowy.
 
 Uważasz, że certyfikacja ISTQB jest bez sensu, jednak znajomość podstaw sylabusa zdecydowanie pomaga w komunikacji w zespole? Bądź w takim przypadku gotów wypowiedzieć się na chociażby najprostsze tematy poruszane w sylabusie. Spalisz rozmowę, jeżeli w takiej sytuacji nie będziesz miał pojęcia o zawartości sylabusa czy nawet samych definicji pojęć. Pokażesz, że podjąłeś już decyzję odnośnie własnego zdania na temat dokumentu... którego nigdy nie czytałeś.
 
@@ -56,7 +56,7 @@ Jest mnóstwo materiałów, które możesz czytać, słuchać i oglądać przy o
 
 ## Szukasz pracy i nie możesz jej znaleźć pomimo tego, że podobno jest to łatwe?
 
-Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się do młodszych \(junior\) programistów, niech Cię to jednak nie zniechęca, jeżeli zastosujesz u siebie te rady, mogą Ci pomóc równie dobrze jak te, które są skierowane bezpośrednio do testerów.
+Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się do młodszych (junior) programistów, niech Cię to jednak nie zniechęca, jeżeli zastosujesz u siebie te rady, mogą Ci pomóc równie dobrze jak te, które są skierowane bezpośrednio do testerów.
 
 * [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy)
 * [Dlaczego JUNIOR DEVELOPER nie dostaje pracy?](https://www.youtube.com/watch?v=Lpvxg5kXb_c) 📺
@@ -67,26 +67,35 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 
 ## Przygotuj swoje CV
 
-{% page-ref page="cv.md" %}
+{% content-ref url="cv.md" %}
+[cv.md](cv.md)
+{% endcontent-ref %}
 
 ## Przygotuj się na rozmowę rekrutacyjną
 
-{% page-ref page="rozmowa-rekrutacyjna.md" %}
+{% content-ref url="rozmowa-rekrutacyjna.md" %}
+[rozmowa-rekrutacyjna.md](rozmowa-rekrutacyjna.md)
+{% endcontent-ref %}
 
-{% page-ref page="pytania-na-rozmowie.md" %}
+{% content-ref url="pytania-na-rozmowie.md" %}
+[pytania-na-rozmowie.md](pytania-na-rozmowie.md)
+{% endcontent-ref %}
 
 ## Zdobądź pierwsze doświadczenie, pracę lub staż
 
-{% page-ref page="szukanie-stazu.md" %}
+{% content-ref url="szukanie-stazu.md" %}
+[szukanie-stazu.md](szukanie-stazu.md)
+{% endcontent-ref %}
 
-{% page-ref page="../od-czego-zaczac/pierwsze-doswiadczenie.md" %}
+{% content-ref url="../od-czego-zaczac/pierwsze-doswiadczenie.md" %}
+[pierwsze-doswiadczenie.md](../od-czego-zaczac/pierwsze-doswiadczenie.md)
+{% endcontent-ref %}
 
 ## 📚 Materiały
 
 * [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy) 
 * [Kurs - Jak sprawić by to rekruterzy się do Ciebie odezwali](https://www.linkedin.com/learning/j-t-o-donnell-on-making-recruiters-come-to-you/welcome) 📺
 * [E-book przygotowanie do rekrutacji](https://jakzostactesterem.pl/bezplatny-ebook-pdf-mlodszy-tester-oprogramowania-przygotowanie-do-rekrutacji/)
-* [Jaki jest dobry profil na LinkedIn? Poradnik \(nie\) tylko dla testerów](https://testuj.pl/blog/jaki-jest-dobry-profil-na-linkedin-poradnik-nie-tylko-dla-testerow/)
+* [Jaki jest dobry profil na LinkedIn? Poradnik (nie) tylko dla testerów](https://testuj.pl/blog/jaki-jest-dobry-profil-na-linkedin-poradnik-nie-tylko-dla-testerow/)
 
-## ![](../.gitbook/assets/icons8-facebook-50%20%2810%29%20%281%29.png) **Dyskusje**
-
+## ![](<../.gitbook/assets/icons8-facebook-50 (10) (1) (6).png>) **Dyskusje**

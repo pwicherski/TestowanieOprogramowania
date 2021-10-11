@@ -11,9 +11,9 @@ W Polsce dostępne są szkolenia długoterminowe, które ułatwiają zdobycie wi
 
 Kursy ułożone są bez szczególnej kolejności.
 
-Przed podjęciem decyzji zapoznaj się dokładnie z opisem kursów i zrób jak najdokładniejsze rozeznanie we wszystkich dostępnych źródłach, takich jak na przykład:  
-  
-[Wszystkie dyskusje z grupy Testowanie Oprogramowania na temat kursów krótkoterminowych i długoterminowych kursów.](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765193666836537%20)
+Przed podjęciem decyzji zapoznaj się dokładnie z opisem kursów i zrób jak najdokładniejsze rozeznanie we wszystkich dostępnych źródłach, takich jak na przykład:\
+\
+[Wszystkie dyskusje z grupy Testowanie Oprogramowania na temat kursów krótkoterminowych i długoterminowych kursów.](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765193666836537)
 
 Pamiętaj, że masz prawo zadawać jak najwięcej pytań i oczekiwać rozwiania wszystkich Twoich wątpliwości w trakcie kontaktu ze wszystkimi potencjalnymi firmami i trenerami.
 {% endhint %}
@@ -38,11 +38,13 @@ Minimalne wymagania, które musi spełniać kurs aby pojawić się na tej liści
 
 ## Szukasz kursów ISTQB?
 
-{% page-ref page="certyfikacja/istqb.md" %}
+{% content-ref url="certyfikacja/istqb.md" %}
+[istqb.md](certyfikacja/istqb.md)
+{% endcontent-ref %}
 
-## ![](.gitbook/assets/icons8-facebook-50%20%2810%29%20%282%29.png) Dyskusje
+## ![](<.gitbook/assets/icons8-facebook-50 (10) (1) (4).png>) Dyskusje
 
-* [Wszystkie dyskusje z grupy Testowanie Oprogramowania na temat kursów krótkoterminowych i długoterminowych kursów](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765193666836537%20)
+* [Wszystkie dyskusje z grupy Testowanie Oprogramowania na temat kursów krótkoterminowych i długoterminowych kursów](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765193666836537)
 
 Przykładowe szczegółowe dyskusje:
 
@@ -51,4 +53,3 @@ Przykładowe szczegółowe dyskusje:
 * [Problemy z testerami, którzy szkolili się w bootcampach](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2018886294800605/)
 * [Warsztaty dla początkujących Warszawa/Białystok jako uzupełnienie studiów podyplomowych z testowania oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2278666938822538/)
 * [Kursy dla testera manualnego Kraków](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/2259495144073051/)
-

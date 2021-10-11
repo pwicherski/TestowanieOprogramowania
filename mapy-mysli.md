@@ -1,8 +1,8 @@
 # Mapy myśli
 
-###  **Mapy myśli**
+### ** Mapy myśli**
 
-* [http://thetestingmap.org/](http://thetestingmap.org/)
+* [http://thetestingmap.org/](http://thetestingmap.org)
 * [http://apps.testinsane.com/mindmaps/](http://apps.testinsane.com/mindmaps/)
   * Zestaw ponad stu testerskich map myśli
 * [https://www.ministryoftesting.com/dojo/lessons/mind-maps-made-easy](https://www.ministryoftesting.com/dojo/lessons/mind-maps-made-easy)
@@ -14,4 +14,3 @@
 ### **📚 Materiały**
 
 * [https://testhuddle.com/mindmapping-killer-way-increase-test-coverage/](https://testhuddle.com/mindmapping-killer-way-increase-test-coverage/)
-

@@ -8,7 +8,7 @@ Jest to co prawda piękny buzzword używany wszędzie. Za którym bardzo często
 
 Nie ma jednego prostego sposobu na osiągnięcie upragnionej umiejętności automatyzacji.
 
-> \[CV - Umiejętność: Automatyzacja testów\]
+> \[CV - Umiejętność: Automatyzacja testów]
 >
 > Firma: ooo z wykorzystaniem jakich narzędzi i języków. Java, JUnit i Selenium WebDriver może?
 >
@@ -22,23 +22,24 @@ Nie ma jednego prostego sposobu na osiągnięcie upragnionej umiejętności auto
 >
 > Petent: automatyzacja polegała u nas na nagrywaniu wyklikiwanych czynności. Taka prosta automatyzacja. Selenium IDE, Robotium Recorder, czy narzędzia wewnętrzne.
 
-Taka umiejętność automatyzacji nie przyniesie Ci \(najprawdopodobniej\) worków złota z kont bankowych potencjalnego pracodawcy.
+Taka umiejętność automatyzacji nie przyniesie Ci (najprawdopodobniej) worków złota z kont bankowych potencjalnego pracodawcy.
 
 Jeżeli chcesz zacząć naukę automatyzacji, polecam Plan Nauki - Automatyzacja:
 
-{% page-ref page="../plan-nauki/plan-automatyzacja.md" %}
+{% content-ref url="../plan-nauki/plan-automatyzacja.md" %}
+[plan-automatyzacja.md](../plan-nauki/plan-automatyzacja.md)
+{% endcontent-ref %}
 
 
 
 ### 📚 Materiały
 
-* [Słowo na A \| Alan Page](https://leanpub.com/TheAWord) 
+* [Słowo na A | Alan Page](https://leanpub.com/TheAWord) 
 * [The Way of the Web Tester. A Beginner's Guide to Automating Tests](https://pragprog.com/book/jrtest/the-way-of-the-web-tester)
 * [Experiences of Test Automation: Case Studies of Software Test Automation](https://www.amazon.com/Experiences-Test-Automation-Studies-Software/dp/0321754069)
 * [Automatyzacja testów](https://ksiegarnia.pwn.pl/Automatyzacja-testow,804413689,p.html)
 
-### ![](../.gitbook/assets/icons8-facebook-50%20%2810%29%20%2812%29.png) Dyskusje
+### ![](<../.gitbook/assets/icons8-facebook-50 (10) (1) (7).png>) Dyskusje
 
-* ["Automatyzacja" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1766081590081078&ref=manage_page) 🏤
+* ["Automatyzacja" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1766081590081078\&ref=manage_page) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat automatyzacji.
-

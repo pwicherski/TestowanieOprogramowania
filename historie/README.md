@@ -2,7 +2,7 @@
 
 ## Jak zostać testerem
 
-* [Jak zostałem testerem, zbiór historii](https://jakzostactesterem.pl/?s=Jak+zostałem+testerem)
+* [Jak zostałem testerem, zbiór historii](https://jakzostactesterem.pl/?s=Jak+zosta%C5%82em+testerem)
 * [Bajka o chemiku, który został testerem](http://testerzy.pl/baza-wiedzy/bajka-o-chemiku-ktory-zostal-testerem) 
 * [Jak zostałem testerem – historia prawdziwa](https://web.archive.org/web/20200707043508/https://astek.pl/jak-zostalem-testerem-historia-prawdziwa/)
 * [Wstęp do testowania na własnym przykładzie](https://podcasttestowanie.pl/podcast-testowanie-oprogramowania-pierwszy-w-polsce-taki-podcast/) 🎙️
@@ -15,5 +15,7 @@
 * [How I became a game tester](https://youtu.be/JIYTR_zZv_w) 📺
 * [Jak zostałem testerem](https://testerski.blog/jak-zostalem-testerem)
 
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 

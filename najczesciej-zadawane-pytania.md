@@ -4,123 +4,186 @@
 
 ![](.gitbook/assets/adnotacja-2020-01-09-151253.png)
 
-Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i postaram się zamieścić poszukiwane przez Ciebie materiały w kolejnej aktualizacji dokumentu :\)
+Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i postaram się zamieścić poszukiwane przez Ciebie materiały w kolejnej aktualizacji dokumentu :)
 
 ## Jak w ogóle zacząć naukę, jakie materiały polecacie na początek?
 
-{% page-ref page="od-czego-zaczac/" %}
+{% content-ref url="od-czego-zaczac/" %}
+[od-czego-zaczac](od-czego-zaczac/)
+{% endcontent-ref %}
 
 ## Czy nadaję się na testera?
 
-{% page-ref page="od-czego-zaczac/" %}
+{% content-ref url="od-czego-zaczac/" %}
+[od-czego-zaczac](od-czego-zaczac/)
+{% endcontent-ref %}
 
 ## Jak wygląda praca testera?
 
-{% page-ref page="historie/" %}
+{% content-ref url="historie/" %}
+[historie](historie/)
+{% endcontent-ref %}
 
-{% page-ref page="od-czego-zaczac/" %}
+{% content-ref url="od-czego-zaczac/" %}
+[od-czego-zaczac](od-czego-zaczac/)
+{% endcontent-ref %}
 
 ## Jak zostać testerem? Jak wygladają historie ludzi, którzy zostali testerami?
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 ## Jakie pytania można dostać na rozmowie kwalifikacyjnej?
 
-{% page-ref page="szukanie-pracy/pytania-na-rozmowie.md" %}
+{% content-ref url="szukanie-pracy/pytania-na-rozmowie.md" %}
+[pytania-na-rozmowie.md](szukanie-pracy/pytania-na-rozmowie.md)
+{% endcontent-ref %}
 
 ## Jak zaplanować swoją naukę?
 
-{% page-ref page="plan-nauki/" %}
+{% content-ref url="plan-nauki/" %}
+[plan-nauki](plan-nauki/)
+{% endcontent-ref %}
 
 ## Jak znaleźć pierwszą pracę lub staż?
 
-{% page-ref page="od-czego-zaczac/pierwsze-doswiadczenie.md" %}
+{% content-ref url="od-czego-zaczac/pierwsze-doswiadczenie.md" %}
+[pierwsze-doswiadczenie.md](od-czego-zaczac/pierwsze-doswiadczenie.md)
+{% endcontent-ref %}
 
-{% page-ref page="szukanie-pracy/" %}
+{% content-ref url="szukanie-pracy/" %}
+[szukanie-pracy](szukanie-pracy/)
+{% endcontent-ref %}
 
 ## Jak i gdzie zdobyć pierwsze doświadczenie?
 
-{% page-ref page="od-czego-zaczac/pierwsze-doswiadczenie.md" %}
+{% content-ref url="od-czego-zaczac/pierwsze-doswiadczenie.md" %}
+[pierwsze-doswiadczenie.md](od-czego-zaczac/pierwsze-doswiadczenie.md)
+{% endcontent-ref %}
 
 ## Nie mogę znaleźć pracy jako tester, dlaczego?
 
-{% page-ref page="szukanie-pracy/" %}
+{% content-ref url="szukanie-pracy/" %}
+[szukanie-pracy](szukanie-pracy/)
+{% endcontent-ref %}
 
 ## Jak powinno wyglądać CV testera?
 
-{% page-ref page="szukanie-pracy/cv.md" %}
+{% content-ref url="szukanie-pracy/cv.md" %}
+[cv.md](szukanie-pracy/cv.md)
+{% endcontent-ref %}
 
 ## Ile zarabia tester?
 
-{% page-ref page="zarobki.md" %}
+{% content-ref url="zarobki.md" %}
+[zarobki.md](zarobki.md)
+{% endcontent-ref %}
 
 ## Jaki kurs/warsztat w mieście X dla początkującego testera?
 
-{% page-ref page="kursy-fizyczne.md" %}
+{% content-ref url="kursy-fizyczne.md" %}
+[kursy-fizyczne.md](kursy-fizyczne.md)
+{% endcontent-ref %}
 
 ## Jaki kurs/warsztat on-line dla początkującego testera?
 
-{% page-ref page="kursy-online.md" %}
+{% content-ref url="kursy-online.md" %}
+[kursy-online.md](kursy-online.md)
+{% endcontent-ref %}
 
 ## Gdzie zrobić kurs przygotowujący do ISTQB?
 
-{% page-ref page="certyfikacja/istqb.md" %}
+{% content-ref url="certyfikacja/istqb.md" %}
+[istqb.md](certyfikacja/istqb.md)
+{% endcontent-ref %}
 
 ## Na jakie zarobki mogę liczyć mając X lat doświadczenia i znając X narzędzi?
 
-{% page-ref page="zarobki.md" %}
+{% content-ref url="zarobki.md" %}
+[zarobki.md](zarobki.md)
+{% endcontent-ref %}
 
 ## Praca zdalna. Czy jako tester mogę pracować zdalnie?
 
-{% page-ref page="praca-zdalna.md" %}
+{% content-ref url="praca-zdalna.md" %}
+[praca-zdalna.md](praca-zdalna.md)
+{% endcontent-ref %}
 
 ## Czy warto zdawać certyfikat ISTQB?
 
-{% page-ref page="certyfikacja/istqb.md" %}
+{% content-ref url="certyfikacja/istqb.md" %}
+[istqb.md](certyfikacja/istqb.md)
+{% endcontent-ref %}
 
 ## Jakie materiały do nauki ISTQB?
 
-{% page-ref page="certyfikacja/istqb.md" %}
+{% content-ref url="certyfikacja/istqb.md" %}
+[istqb.md](certyfikacja/istqb.md)
+{% endcontent-ref %}
 
 ## Czy warto iść na szkolenie do egzaminu ISTQB?
 
-{% page-ref page="certyfikacja/istqb.md" %}
+{% content-ref url="certyfikacja/istqb.md" %}
+[istqb.md](certyfikacja/istqb.md)
+{% endcontent-ref %}
 
 ## Gdzie najtaniej zdać egzamin ISTQB?
 
-{% page-ref page="certyfikacja/istqb.md" %}
+{% content-ref url="certyfikacja/istqb.md" %}
+[istqb.md](certyfikacja/istqb.md)
+{% endcontent-ref %}
 
 ## Chce nauczyć się automatyzacji, co dalej?
 
-{% page-ref page="automatyzacja/" %}
+{% content-ref url="automatyzacja/" %}
+[automatyzacja](automatyzacja/)
+{% endcontent-ref %}
 
 ## Jakie materiały do nauki automatyzacji polecacie?
 
-{% page-ref page="automatyzacja/" %}
+{% content-ref url="automatyzacja/" %}
+[automatyzacja](automatyzacja/)
+{% endcontent-ref %}
 
 ## Jakie materiały do nauki Selenium z wykorzystaniem języka X polecacie?
 
-{% page-ref page="narzedzia/selenium.md" %}
+{% content-ref url="narzedzia/selenium.md" %}
+[selenium.md](narzedzia/selenium.md)
+{% endcontent-ref %}
 
 ## Jakiego języka programowania nauczyć się najpierw?
 
-{% page-ref page="automatyzacja/nauka-programowania/" %}
+{% content-ref url="automatyzacja/nauka-programowania/" %}
+[nauka-programowania](automatyzacja/nauka-programowania/)
+{% endcontent-ref %}
 
 ## Studia podyplomowe z testowania oprogramowania, czy to się opłaca?
 
-{% page-ref page="studia-z-testowania.md" %}
+{% content-ref url="studia-z-testowania.md" %}
+[studia-z-testowania.md](studia-z-testowania.md)
+{% endcontent-ref %}
 
 ## Na jakich stronach mogę potrenować testowanie lub automatyzację?
 
-{% page-ref page="gdzie-trenowac.md" %}
+{% content-ref url="gdzie-trenowac.md" %}
+[gdzie-trenowac.md](gdzie-trenowac.md)
+{% endcontent-ref %}
 
 ## Czy w mieście X jest organizowany meetup lub konferencja?
 
-{% page-ref page="gdzie-szukac-wiedzy/spolecznosci-testerskie.md" %}
+{% content-ref url="gdzie-szukac-wiedzy/spolecznosci-testerskie.md" %}
+[spolecznosci-testerskie.md](gdzie-szukac-wiedzy/spolecznosci-testerskie.md)
+{% endcontent-ref %}
 
 ## Chce nauczyć się języka X, jakie materiały polecacie?
 
-{% page-ref page="automatyzacja/nauka-programowania/" %}
+{% content-ref url="automatyzacja/nauka-programowania/" %}
+[nauka-programowania](automatyzacja/nauka-programowania/)
+{% endcontent-ref %}
 
 ## Jak zacząć testować stronę web?
 
-{% page-ref page="testowanie-stron-web/" %}
-
+{% content-ref url="testowanie-stron-web/" %}
+[testowanie-stron-web](testowanie-stron-web/)
+{% endcontent-ref %}
