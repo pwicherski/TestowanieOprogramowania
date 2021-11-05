@@ -11,6 +11,7 @@
   * [No Fluff Jobs praca dla Junior Testerów](https://nofluffjobs.com/jobs/testing?criteria=category%3Dtesting%20seniority%3Dtrainee,junior)
 * [https://www.juniorjobsonly.com/](https://www.juniorjobsonly.com)
 * [https://jobsforgeek.com/](https://jobsforgeek.com/job-offers?country=POLAND\&country=POLAND\&jobCategory=TESTER)
+* [https://theprotocol.it/](https://theprotocol.it)
 * [https://pl.indeed.com/praca](https://pl.indeed.com/praca)
 * [https://www.pracuj.pl/](https://www.pracuj.pl)
 * [https://www.praca.pl/](https://www.praca.pl)
@@ -59,7 +60,7 @@ Jest mnóstwo materiałów, które możesz czytać, słuchać i oglądać przy o
 Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się do młodszych (junior) programistów, niech Cię to jednak nie zniechęca, jeżeli zastosujesz u siebie te rady, mogą Ci pomóc równie dobrze jak te, które są skierowane bezpośrednio do testerów.
 
 * [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy)
-* [Dlaczego JUNIOR DEVELOPER nie dostaje pracy?](https://www.youtube.com/watch?v=Lpvxg5kXb_c) 📺
+* [Dlaczego JUNIOR DEVELOPER nie dostaje pracy?](https://www.youtube.com/watch?v=Lpvxg5kXb\_c) 📺
 * [Jak radziliście sobie, żeby zacząć swoją pierwszą pracę jako tester?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1921628921193010/)
 * [To nie jest czas juniorów](http://testerzy.pl/baza-wiedzy/to-nie-jest-czas-juniorow)
 * [Błędne koło w IT, czyli dlaczego na rynku pracy brakuje ofert dla początkujących informatyków?](https://nofluffjobs.com/blog/bledne-kolo-w-it-czyli-dlaczego-na-rynku-pracy-brakuje-ofert-dla-poczatkujacych-informatykow/)
@@ -93,7 +94,7 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 
 ## 📚 Materiały
 
-* [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy) 
+* [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy)&#x20;
 * [Kurs - Jak sprawić by to rekruterzy się do Ciebie odezwali](https://www.linkedin.com/learning/j-t-o-donnell-on-making-recruiters-come-to-you/welcome) 📺
 * [E-book przygotowanie do rekrutacji](https://jakzostactesterem.pl/bezplatny-ebook-pdf-mlodszy-tester-oprogramowania-przygotowanie-do-rekrutacji/)
 * [Jaki jest dobry profil na LinkedIn? Poradnik (nie) tylko dla testerów](https://testuj.pl/blog/jaki-jest-dobry-profil-na-linkedin-poradnik-nie-tylko-dla-testerow/)
