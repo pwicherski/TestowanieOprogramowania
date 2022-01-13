@@ -46,6 +46,10 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * AngularJS.
 * [https://codepen.io/murtazamzk/full/YwjEor](https://codepen.io/murtazamzk/full/YwjEor)
   * AngularJS.
+* [https://www.automationtestinginsider.com/2019/08/textarea-textarea-element-defines-multi.html](https://www.automationtestinginsider.com/2019/08/textarea-textarea-element-defines-multi.html)
+  * Different Elements on a Web Page.
+* [http://www.seleniumframework.com/Practiceform/](http://www.seleniumframework.com/Practiceform/)
+  * Practice Form Controls.
 
 ## **Aplikacje lokalne**
 
