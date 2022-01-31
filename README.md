@@ -64,7 +64,3 @@ Autor: [Piotr Wicherski](http://bit.ly/pwicherski)
 
 [https://www.linkedin.com/in/pwicherski](http://bit.ly/pwicherski)\
 Prawa autorskie: [CC BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-{% hint style="info" %}
-Najwygodniejszy sposób na przeglądanie dokumentu pod adresem: https://pwicherski.gitbook.io/testowanie-oprogramowania/
-{% endhint %}
