@@ -1,8 +1,14 @@
+---
+description: https://pwicherski.gitbook.io/testowanie-oprogramowania/
+---
+
 # Testowanie Oprogramowania
 
 
 
 ![](.gitbook/assets/rozwoj.png)
+
+
 
 Oczywiście nie ma jednej (czy też najlepszej) drogi, która byłaby równie dobra dla każdego.
 
