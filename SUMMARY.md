@@ -27,7 +27,7 @@
   * [Nauka programowania](automatyzacja/nauka-programowania/README.md)
     * [Platformy do nauki programowania](automatyzacja/nauka-programowania/platformy-do-nauki-programowania.md)
   * [Języki programowania](automatyzacja/jezyki-programowania.md)
-* [Dostępność \(Accessibility\)](dostepnosc-accessibility.md)
+* [Dostępność (Accessibility)](dostepnosc-accessibility.md)
 * [Gdzie trenować](gdzie-trenowac.md)
 * [Gry i zadania](gry-i-zadania.md)
 * [Testowanie stron web](testowanie-stron-web/README.md)
@@ -56,6 +56,7 @@
   * [Chrome Developer Tools](narzedzia/chrome-developer-tools.md)
   * [TestCafe](narzedzia/testcafe.md)
   * [Charles Proxy](narzedzia/charles-proxy.md)
+  * [Pairwise testing](narzedzia/pairwise-testing.md)
   * [Wtyczki do przeglądarek](narzedzia/wtyczki-do-przegladarek.md)
   * [Różne narzędzia](narzedzia/rozne-narzedzia.md)
   * [Zarządzanie testowaniem](narzedzia/zarzadzanie-przypadkami-testowymi/README.md)
@@ -73,4 +74,3 @@
 ## Linki zewnętrzne
 
 * [Autor LinkedIn](http://bit.ly/pwicherski)
-
