@@ -187,3 +187,8 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 {% content-ref url="testowanie-stron-web/" %}
 [testowanie-stron-web](testowanie-stron-web/)
 {% endcontent-ref %}
+
+## TODO
+
+* Co muszę umieć z ISTQB, żeby zacząć pracę?
+*
