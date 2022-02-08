@@ -16,3 +16,4 @@
 * [Kurs Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com) 📺🕹️💵
 * [Chrome DevTools 101: Debugging JavaScript](https://www.youtube.com/watch?v=H0XScE08hy8) 📺 &#x20;
 * [Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools) 📺💵&#x20;
+* [https://www.linkedin.com/learning/learning-chrome-web-developer-tools-2/](https://www.linkedin.com/learning/learning-chrome-web-developer-tools-2/)
