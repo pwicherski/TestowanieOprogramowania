@@ -16,10 +16,6 @@ Wszelkie błędy i sugestie także można zgłaszać poprzez zakładkę [Issues]
 
 {% embed url="https://goo.gl/forms/DwkDkOFwg9KchbQ42" %}
 
-## Tablica planowanych zmian, które wejdą do kolejnej wersji
-
-{% embed url="https://github.com/pwicherski/TestowanieOprogramowania/projects/1" %}
-
 ## Zgłaszanie przez zrzut ekranu
 
 ### Android
