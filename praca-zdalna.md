@@ -32,7 +32,6 @@ Przykładowe firmy w których można otrzymać dodatkowe zlecenia to:
 * [https://crowdsourcedtesting.com/](https://crowdsourcedtesting.com)
 * [https://mycrowd.com/](https://mycrowd.com)
 * [https://test.io/](https://test.io)
-* [http://testuj.pl](https://testuj.pl)
 * [https://usabilityhub.com/](https://usabilityhub.com)
 * [https://globalapptesting.com/](https://globalapptesting.com)
 * [https://www.bugfinders.com/](https://www.bugfinders.com)

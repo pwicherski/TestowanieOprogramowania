@@ -14,13 +14,13 @@ Na początku najważniejsze jest zrozumienie podstaw programowania, na przykład
 
 ## 📚 Materiały
 
-* [What Selenium Programming Language You Should Learn](https://www.joecolantonio.com/2015/05/31/selenium-what-programming-language-you-should-learn-to-get-into-test-automation/)&#x20;
-* [What Programming Language to learn for Test Automation](https://www.froglogic.com/blog/what-programming-language-to-learn-for-test-automation/)&#x20;
-* [Język skryptowy dla testera](http://testerzy.pl/baza-wiedzy/testerzy-testerom-19-jezyk-skryptowy-dla-testera)&#x20;
-* [Rozwój kariery testera. Czy warto przejść na stronę programistyczną?](http://testerzy.pl/baza-wiedzy/rozwoj-kariery-testera-programowanie)&#x20;
+* [What Selenium Programming Language You Should Learn](https://www.joecolantonio.com/2015/05/31/selenium-what-programming-language-you-should-learn-to-get-into-test-automation/) 
+* [What Programming Language to learn for Test Automation](https://www.froglogic.com/blog/what-programming-language-to-learn-for-test-automation/) 
+* [Język skryptowy dla testera](http://testerzy.pl/baza-wiedzy/testerzy-testerom-19-jezyk-skryptowy-dla-testera) 
+* [Rozwój kariery testera. Czy warto przejść na stronę programistyczną?](http://testerzy.pl/baza-wiedzy/rozwoj-kariery-testera-programowanie) 
 * [What Programming Language Should a Beginner Learn in 2018](https://www.codementor.io/codementorteam/beginner-programming-language-job-salary-community-7s26wmbm6)
 
-## ![](<../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (7).png>) Dyskusje
+## ![](<../.gitbook/assets/icons8-facebook-50 (10) (1) (8).png>) Dyskusje
 
 * [Jaki język dla web i mobile?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1139129899442920/)
 * [Na jaki język jest największy popyt?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1411316595557581/)
