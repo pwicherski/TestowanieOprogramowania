@@ -34,12 +34,12 @@ Jeżeli chcesz zacząć naukę automatyzacji, polecam Plan Nauki - Automatyzacja
 
 ### 📚 Materiały
 
-* [Słowo na A | Alan Page](https://leanpub.com/TheAWord) 
+* [Słowo na A | Alan Page](https://leanpub.com/TheAWord)&#x20;
 * [The Way of the Web Tester. A Beginner's Guide to Automating Tests](https://pragprog.com/book/jrtest/the-way-of-the-web-tester)
 * [Experiences of Test Automation: Case Studies of Software Test Automation](https://www.amazon.com/Experiences-Test-Automation-Studies-Software/dp/0321754069)
 * [Automatyzacja testów](https://ksiegarnia.pwn.pl/Automatyzacja-testow,804413689,p.html)
 
-### ![](<../.gitbook/assets/icons8-facebook-50 (10) (1) (7).png>) Dyskusje
+### ![](<../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (6).png>) Dyskusje
 
-* ["Automatyzacja" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1766081590081078\&ref=manage_page) 🏤
+* ["Automatyzacja" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1766081590081078\&ref=manage\_page) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat automatyzacji.

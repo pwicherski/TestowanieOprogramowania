@@ -30,7 +30,7 @@ Lista gier i interaktywnych zadań dzięki którym rozwiniecie umiejętności, k
 
 * [http://www.checkio.org/](http://www.checkio.org)
   * CheckiO.org helps you learn Python by giving you a series of missions. Each time you earn a series of points, you can level up and gain access to more stages! This is a great beginners tool with tons of help and documentation to get you up and running.\
-     
+    &#x20;
 * [http://codemancergame.com/](http://codemancergame.com)
   * The game is available for pre-order now. Please join us in making programming more approachable and more fun for kids everywhere.\
 

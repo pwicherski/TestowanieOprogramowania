@@ -99,6 +99,6 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 * [E-book przygotowanie do rekrutacji](https://jakzostactesterem.pl/bezplatny-ebook-pdf-mlodszy-tester-oprogramowania-przygotowanie-do-rekrutacji/)
 * [Jaki jest dobry profil na LinkedIn? Poradnik (nie) tylko dla testerów](https://testuj.pl/blog/jaki-jest-dobry-profil-na-linkedin-poradnik-nie-tylko-dla-testerow/)
 
-## ![](<../.gitbook/assets/icons8-facebook-50 (10) (1) (6).png>) **Dyskusje**
+## ![](<../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (5).png>) **Dyskusje**
 
 * [Problemy z zatrudnianiem ludzi bez doświadczenia ](https://www.facebook.com/groups/TestowanieOprogramowania/posts/4795134627175744/)
