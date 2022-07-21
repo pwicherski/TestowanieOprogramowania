@@ -14,7 +14,3 @@
 * [Wstęp do testowania na własnym przykładzie](https://podcasttestowanie.pl/podcast-testowanie-oprogramowania-pierwszy-w-polsce-taki-podcast/) 🎙️
 * [Jak zostałem testerem](https://web.archive.org/web/20210616065454/https://testerski.blog/jak-zostalem-testerem/) 🗄️
 * [Jak zostałem testerem – historia prawdziwa](https://web.archive.org/web/20200707043508/https://astek.pl/jak-zostalem-testerem-historia-prawdziwa/) 🗄️
-
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
-{% endcontent-ref %}
