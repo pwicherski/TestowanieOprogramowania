@@ -13,7 +13,7 @@ Kursy ułożone są bez szczególnej kolejności.
 
 Przed podjęciem decyzji zapoznaj się dokładnie z opisem kursów i zrób jak najdokładniejsze rozeznanie we wszystkich dostępnych źródłach, takich jak na przykład:\
 \
-[Wszystkie dyskusje z grupy Testowanie Oprogramowania na temat kursów krótkoterminowych i długoterminowych kursów.](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765193666836537)
+[Wszystkie dyskusje z grupy Testowanie Oprogramowania na temat kursów krótkoterminowych i długoterminowych kursów.](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1765193666836537)
 
 Pamiętaj, że masz prawo zadawać jak najwięcej pytań i oczekiwać rozwiania wszystkich Twoich wątpliwości w trakcie kontaktu ze wszystkimi potencjalnymi firmami i trenerami.
 {% endhint %}
@@ -42,9 +42,9 @@ Minimalne wymagania, które musi spełniać kurs aby pojawić się na tej liści
 [istqb.md](certyfikacja/istqb.md)
 {% endcontent-ref %}
 
-## ![](<.gitbook/assets/icons8-facebook-50 (10) (1) (4).png>) Dyskusje
+## <img src=".gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (3).png" alt="" data-size="line"> Dyskusje
 
-* [Wszystkie dyskusje z grupy Testowanie Oprogramowania na temat kursów krótkoterminowych i długoterminowych kursów](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765193666836537)
+* [Wszystkie dyskusje z grupy Testowanie Oprogramowania na temat kursów krótkoterminowych i długoterminowych kursów](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1765193666836537)
 
 Przykładowe szczegółowe dyskusje:
 

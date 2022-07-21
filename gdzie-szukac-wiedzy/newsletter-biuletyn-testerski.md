@@ -5,7 +5,7 @@
 * Ministry of Testing newsletter
   * [https://www.ministryoftesting.com/newsletter](https://www.ministryoftesting.com/newsletter)
 * Software Testing Weekly
-  * [https://softwaretestingweekly.com/](https://softwaretestingweekly.com)
+  * [https://softwaretestingweekly.com/](https://softwaretestingweekly.com/)
 * PrasówQA
   * [https://twitter.com/PrasowQA](https://twitter.com/PrasowQA)
 * Java Testing Weekly
@@ -17,7 +17,7 @@
 * ITeaMorning&#x20;
   * [https://www.youtube.com/c/ITeaMorning/](https://www.youtube.com/c/ITeaMorning/)
 * Software Testing News
-  * [https://softwaretestingnotes.substack.com/](https://softwaretestingnotes.substack.com)
+  * [https://softwaretestingnotes.substack.com/](https://softwaretestingnotes.substack.com/)
 * CodingJar
   * [https://www.lambdatest.com/newsletter/](https://www.lambdatest.com/newsletter/)
 * TestGuild newsletter

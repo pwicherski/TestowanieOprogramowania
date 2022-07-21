@@ -1,6 +1,6 @@
 # Wtyczki do przeglądarek
 
-*   [BugMagnet](https://bugmagnet.org)
+*   [BugMagnet](https://bugmagnet.org/)
 
     * [Chrome](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi)
     * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bug-magnet/)
@@ -10,7 +10,7 @@
   * [Chrome](https://chrome.google.com/webstore/detail/generator-danych-testowyc/emdnjmkfcjemifplhmbkjmelnckonggd)
   * [Firefox](https://addons.mozilla.org/pl/firefox/addon/generator-danych-testowych/)\
 
-* [Postman Interceptor](https://www.getpostman.com)
+* [Postman Interceptor](https://www.getpostman.com/)
   * [Chrome](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo)\
 
 * [Advanced REST Client](https://install.advancedrestclient.com/#/features)
@@ -29,7 +29,7 @@
     * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
 
 
-* [Web Developer Checklist](http://webdevchecklist.com)
+* [Web Developer Checklist](http://webdevchecklist.com/)
   * [Chrome](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp)
   * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/webdeveloperchecklist/)\
 
@@ -51,7 +51,7 @@
 * Cookie Editor
   * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/edit-cookie/)\
 
-* [WAVE Accessibility Evaluation Tool](https://wave.webaim.org)
+* [WAVE Accessibility Evaluation Tool](https://wave.webaim.org/)
   * [Chrome](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
   * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/)\
 

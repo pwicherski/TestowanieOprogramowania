@@ -3,7 +3,7 @@
 ### **Certyfikat ISTQB**
 
 * [Czym jest ISTQB](https://www.youtube.com/watch?v=HrK1zhqyW4k) 📺
-* [Certyfikat testerski ISTQB Foundation Level – czym jest i czy warto go mieć?](http://jakzostactesterem.pl/certyfikat-testerski-istqb-foundation-czym-warto-go-miec/) 
+* [Certyfikat testerski ISTQB Foundation Level – czym jest i czy warto go mieć?](http://jakzostactesterem.pl/certyfikat-testerski-istqb-foundation-czym-warto-go-miec/)&#x20;
 
 ### **Czy szkolenie jest niezbędne żeby zdać egzamin?**
 
@@ -17,13 +17,13 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 
 ### **Szkolenia do egzaminu na certyfikat ISTQB poziom podstawowy przeprowadzają takie firmy jak:**
 
-* [IT Trainings](http://ittraining.pl/szkolenia/zapewnic_jakosc/istqb_poziom_podstawowy)
+* [IT Trainings](http://ittraining.pl/szkolenia/zapewnic\_jakosc/istqb\_poziom\_podstawowy)
 * [Testuj.pl](https://testuj.pl/lista-szkolen?name=istqb)
 * [AmberTeam](http://www.amberteam.pl/pl/szkolenia/istqb-certyfikowany-tester---poziom-podstawowy/1)
 
 ### **Przygotowanie do egzaminu ISTQB Poziom Podstawowy (Foundation Level)**
 
-* [Jak zdać egzamin ISTQB. Wprowadzenie \[ebook + wprowadzenie\]](http://testerzy.pl/baza-wiedzy/jak-zdac-egzamin-istqb-podpowiedzi) 
+* [Jak zdać egzamin ISTQB. Wprowadzenie \[ebook + wprowadzenie\]](http://testerzy.pl/baza-wiedzy/jak-zdac-egzamin-istqb-podpowiedzi)&#x20;
 * [Jak zdać egzamin ISTQB Poziom Podstawowy plus streszczenie sylabusa](http://testerzy.pl/baza-wiedzy/e-book-jak-zdac-egzamin-istqb-poziom-podstawowy-plus-streszczenie-sylabusa)
 * [Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania \[Książka\]](https://buybox.click/4917/buybox.html?oid=4662933)
 
@@ -31,18 +31,18 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 
 * [Sylabys w wersji oryginalnej angielskiej od ISTQB](https://www.istqb.org/downloads/category/2-foundation-level-documents.html)
 * [Sylabus w wersji polskiej od SJSI](https://sjsi.org/ist-qb/do-pobrania/)
-* [TestCompetence - próbne egzaminy](http://testcompetence.com) 💵
+* [TestCompetence - próbne egzaminy](http://testcompetence.com/) 💵
 * [Przykładowy arkusz egzaminacyjny przetłumaczony przez SJSI](http://sjsi.org/ist-qb/do-pobrania/)
   * [Pytania z arkusza egzaminacyjnego w formie interaktywnego testu](https://laborqa.pl/istqb-test-online/)
 * [ISTQB Simulator Test for Foundation Level Paper](http://toolsqa.com/istqb/istqb-simulator-test-foundation-level-paper-1/)
 * [Kilka przykładowych arkuszy egzaminacyjnych ISTQB przygotowanych przez ASTQB](https://www.astqb.org/get-certified/istqb-syllabi-the-istqb-software-tester-certification-body-of-knowledge/)
-* [Quizy ISTQB](http://getistqb.com) 
+* [Quizy ISTQB](http://getistqb.com/)&#x20;
 * [Jak zaliczyłem egzamin certyfikacyjny ISTQB Foundation Level](http://strefakodera.pl/blog/jak-zaliczylem-egzamin-certyfikacyjny-istqb-foundation-level)
 * [Jak zdać ISTQB ](http://testcase.pl/news/jak-zdac-egzamin-istqb/)[Foundation Level](https://www.istqb.org/downloads/syllabi/foundation-level-syllabus.html)
 
-###  ![](<../.gitbook/assets/icons8-facebook-50 (10) (1) (3).png>) Dyskusje
+### &#x20;<img src="../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (2).png" alt="" data-size="line"> Dyskusje
 
-* ["ISTQB" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1765191683503402\&ref=story_subtitle) 🏤
+* ["ISTQB" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1765191683503402\&ref=story\_subtitle) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat ISTQB.
 * ["Kursy ISTQB"](https://www.facebook.com/groups/TestowanieOprogramowania/search/?query=kurs%20istqb\&epa=FILTERS\&filters=eyJycF9jaHJvbm9fc29ydCI6IntcIm5hbWVcIjpcImNocm9ub3NvcnRcIixcImFyZ3NcIjpcIlwifSJ9)
   * Lista dyskusji na temat kursów ISTQB

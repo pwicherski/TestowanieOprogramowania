@@ -1,8 +1,8 @@
 # Mapy myśli
 
-### ** Mapy myśli**
+### &#x20;**Mapy myśli**
 
-* [http://thetestingmap.org/](http://thetestingmap.org)
+* [http://thetestingmap.org/](http://thetestingmap.org/)
 * [http://apps.testinsane.com/mindmaps/](http://apps.testinsane.com/mindmaps/)
   * Zestaw ponad stu testerskich map myśli
 * [https://www.ministryoftesting.com/dojo/lessons/mind-maps-made-easy](https://www.ministryoftesting.com/dojo/lessons/mind-maps-made-easy)

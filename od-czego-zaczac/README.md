@@ -74,13 +74,13 @@ Więcej informacji na temat programu:
   * [Testerzy odpowiadają testerom 33 - Jak zostać testerem?](http://testerzy.pl/baza-wiedzy/testerzy-odpowiadaja-testerom-33-jak-zostac-testerem) 🌞
   * [Jak zostać testerem \[Testerzy.pl\]](https://www.youtube.com/watch?v=04oaMKkgVsE)🌞 📺
 * [Co robi tester oprogramowania na co dzień?](http://jakzostactesterem.pl/co-robi-tester-oprogramowania-na-co-dzien/) 🌞
-  * [Jak zacząć testować oprogramowanie](http://jakzostactesterem.pl/jak-zaczac-testowac-oprogramowanie-trzy-sposoby-na-zdobycie-doswiadczenia-w-zawodzie-testera/) 🌞 
+  * [Jak zacząć testować oprogramowanie](http://jakzostactesterem.pl/jak-zaczac-testowac-oprogramowanie-trzy-sposoby-na-zdobycie-doswiadczenia-w-zawodzie-testera/) 🌞&#x20;
   * [Motywacja testera oprogramowania – zarobki to nie wszystko](http://jakzostactesterem.pl/motywacja-testera-oprogramowania-zarobki-to-nie-wszystko/) 🌞
 * [Praca zdalna](../praca-zdalna.md) 🌞
 * [Tester gier, praca marzeń. Pierwsze kroki w branży - Monika Krupińska](https://www.youtube.com/watch?v=bL3hmVmhSw0) 🌞 📺
 * [99 Things Testers Can Do To Become Better Testers](https://www.slideshare.net/rosiesherry/99-things-you-can-do-to-become-a-better-tester)
-* [99 rzeczy, które możesz zrobić, aby stać się lepszym testerem](http://edu.ittraining.pl/pobierz_material/rady_dla_dobrego_testera) 🌞
-* [Quality Assured: What It’s Really Like To Test Games For A Living](http://kotaku.com/quality-assured-what-it-s-really-like-to-play-games-fo-1720053842) 
+* [99 rzeczy, które możesz zrobić, aby stać się lepszym testerem](http://edu.ittraining.pl/pobierz\_material/rady\_dla\_dobrego\_testera) 🌞
+* [Quality Assured: What It’s Really Like To Test Games For A Living](http://kotaku.com/quality-assured-what-it-s-really-like-to-play-games-fo-1720053842)&#x20;
 * [How to get started in software testing](http://thesocialtester.co.uk/how-to-get-started-in-software-testing-a-few-resources/)
 * [Non-IT to Software Testing Switch – How to Get Into QA](https://www.softwaretestinghelp.com/non-it-to-software-testing-switch-how-to-get-into-qa/)
 * [30 Things Every New Software Tester Should Learn](https://dojo.ministryoftesting.com/dojo/lessons/30-things-every-new-software-tester-should-learn)
@@ -89,9 +89,9 @@ Więcej informacji na temat programu:
 
 * [How can I transition into QA and what software tools should I learn?](https://sqa.stackexchange.com/questions/3846/how-can-i-transition-into-qa-and-what-software-tools-should-i-learn)
 
-## ![](<../.gitbook/assets/icons8-facebook-50 (10) (1) (1).png>) **Dyskusje**
+## <img src="../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1).png" alt="" data-size="line"> **Dyskusje**
 
-* ["Jak zacząć" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post_tags/?post_tag_id=1767179956637908\&ref=manage_page) 🏤🌞
+* ["Jak zacząć" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1767179956637908\&ref=manage\_page) 🏤🌞
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat tego jak zacząć swoją przygodę w testowaniu.
 * [Planuję totalne przebranżowienie. Z pracownika biurowego na testera. Proszę o wskazówki od czego zacząć](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1338921446130430/?match=bWF0ZXJpYcWCeSxqYWtpZQ%3D%3D)
 * [Jakie polecacie książki dotyczące nauki testowania oprogramowania?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1320846177937957/?match=bWF0ZXJpYcWCeSxqYWtpZQ%3D%3D)

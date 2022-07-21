@@ -3,13 +3,13 @@
 ## 📚 Materiały
 
 * [Webinarium: "Przetestuj swoje CV!" | Jakub Rosiński](https://www.youtube.com/watch?v=1lloUWO8Vzc) 📺
-  * [Slajdy z prezentacji Jakuba](http://www.slideshare.net/JakubRosiski1/przetestuj-swoje-cv) 
+  * [Slajdy z prezentacji Jakuba](http://www.slideshare.net/JakubRosiski1/przetestuj-swoje-cv)&#x20;
 
 {% embed url="https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/" %}
 
 
 
-## ![](<../.gitbook/assets/icons8-facebook-50 (10) (1) (6).png>)**Dyskusje**
+## <img src="../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (5).png" alt="" data-size="line">**Dyskusje**
 
 * [Doświadczenia i przemyślenia jednego z użytkowników odnośnie przygotowywania CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1452377648118142/)
 * [Doświadczenia i przemyślenia jednej z użytkowniczek odnośnie przygotowywania CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1469995643023009/)
