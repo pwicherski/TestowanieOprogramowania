@@ -62,6 +62,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Rafał Krząpa
 * [http://www.cyfrowytrener.pl/](http://www.cyfrowytrener.pl/)
   * Kris Pacholski
+* [https://testowanie-oprogramowania.pl/blog/](https://testowanie-oprogramowania.pl/blog/)
+  * Rafał Podraza
 
 ## Dawno nieaktualizowane lub zamknięte:
 
