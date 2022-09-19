@@ -31,7 +31,7 @@ Gdzie jeszcze szukać:
 Szukasz pracy i nie możesz jej znaleźć pomimo tego, że podobno jest to łatwe? Zerknij [tutaj](./#szukasz-pracy-i-nie-mozesz-jej-znalezc-pomimo-tego-ze-podobno-jest-to-latwe).
 {% endhint %}
 
-### ****<img src="../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (4).png" alt="" data-size="line"> **Dyskusje**
+### ****<img src="../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (10).png" alt="" data-size="line"> **Dyskusje**
 
 * ["Szukam pracy/stażu" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1765195193503051) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy szukają pracy lub stażu

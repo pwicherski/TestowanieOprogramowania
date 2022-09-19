@@ -89,7 +89,7 @@ Więcej informacji na temat programu:
 
 * [How can I transition into QA and what software tools should I learn?](https://sqa.stackexchange.com/questions/3846/how-can-i-transition-into-qa-and-what-software-tools-should-i-learn)
 
-## <img src="../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1).png" alt="" data-size="line"> **Dyskusje**
+## <img src="../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (10).png" alt="" data-size="line"> **Dyskusje**
 
 * ["Jak zacząć" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1767179956637908\&ref=manage\_page) 🏤🌞
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat tego jak zacząć swoją przygodę w testowaniu.

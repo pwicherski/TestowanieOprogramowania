@@ -4,7 +4,7 @@
 
 * [http://appium.io/](http://appium.io/)
   * Strona domowa projektu
-* [http://appium.io/docs/en/about-appium/intro/?lang=en\#getting-started](http://appium.io/docs/en/about-appium/intro/?lang=en#getting-started)
+* [http://appium.io/docs/en/about-appium/intro/?lang=en#getting-started](http://appium.io/docs/en/about-appium/intro/?lang=en#getting-started)
   * Introduction to Appium's Philosophy, Design and Concepts
 * [http://appium.io/tutorial](http://appium.io/tutorial)
   * Oficjalny tutorial
@@ -18,10 +18,10 @@
 ### Materiały - różne
 
 * [http://testdroid.com/news/37-things-you-should-know-about-appium](http://testdroid.com/news/37-things-you-should-know-about-appium)
-  * Zbiór poradników dotyczących Appium od TestDroid \(Bitbar\)
+  * Zbiór poradników dotyczących Appium od TestDroid (Bitbar)
 * [https://gitter.im/orgs/appium/rooms](https://gitter.im/orgs/appium/rooms)
   * Pokoje appium na Gitter.im
-* [https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d\#.ptextrog2](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.ptextrog2)
+* [https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.ptextrog2](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.ptextrog2)
   * Rozpoznawanie obrazu w grach. Java;
 * [http://testdroid.com/tech/mobile-game-testing-part-2-ui-and-functionality-image-recognition](http://testdroid.com/tech/mobile-game-testing-part-2-ui-and-functionality-image-recognition)
   * Rozpoznawanie obrazu w grach
@@ -47,7 +47,7 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
 * [https://info.kobiton.com/appium-book](https://info.kobiton.com/appium-book)
 * [https://nishantverma.gitbooks.io/appium-for-android/](https://nishantverma.gitbooks.io/appium-for-android/)
   * Podstawowy opis konfiguracji i uzytkowania Appium dla Androida
-* [https://assets.ctfassets.net/czwjnyf8a9ri/38S3c6Ld2dP79ibzQcHAKW/70d4755dc4ae70f193a6c94da0658cc9/Getting\_Started\_With\_Appium\_-\_Java\_Edition.pdf](https://assets.ctfassets.net/czwjnyf8a9ri/38S3c6Ld2dP79ibzQcHAKW/70d4755dc4ae70f193a6c94da0658cc9/Getting_Started_With_Appium_-_Java_Edition.pdf)
+* [https://assets.ctfassets.net/czwjnyf8a9ri/38S3c6Ld2dP79ibzQcHAKW/70d4755dc4ae70f193a6c94da0658cc9/Getting\_Started\_With\_Appium\_-\_Java\_Edition.pdf](https://assets.ctfassets.net/czwjnyf8a9ri/38S3c6Ld2dP79ibzQcHAKW/70d4755dc4ae70f193a6c94da0658cc9/Getting\_Started\_With\_Appium\_-\_Java\_Edition.pdf)
   * Getting started with Appium. Jonathan Lipps. Java;
 
 ### Materiały wideo
@@ -66,6 +66,6 @@ Na wymienionych blogach przynajmniej raz na jakiś czas pojawiają się informac
 * [https://testautomationu.applitools.com/appium-java-tutorial/](https://testautomationu.applitools.com/appium-java-tutorial/)
 * [https://www.linkedin.com/learning/mobile-testing-with-appium](https://www.linkedin.com/learning/mobile-testing-with-appium)
 * [https://www.linkedin.com/learning/advanced-appium/take-appium-to-the-next-level](https://www.linkedin.com/learning/advanced-appium/take-appium-to-the-next-level)
-* [https://www.udemy.com/mobile-automation-using-appiumselenium-3/learn/\#/](https://www.udemy.com/mobile-automation-using-appiumselenium-3/learn/#/)
-* [https://www.udemy.com/appium-selenium-for-mobile-automation-testing/learn/\#/](https://www.udemy.com/appium-selenium-for-mobile-automation-testing/learn/#/)
-
+* [https://www.udemy.com/mobile-automation-using-appiumselenium-3/learn/#/](https://www.udemy.com/mobile-automation-using-appiumselenium-3/learn/#/)
+* [https://www.udemy.com/appium-selenium-for-mobile-automation-testing/learn/#/](https://www.udemy.com/appium-selenium-for-mobile-automation-testing/learn/#/)
+* [https://www.headspin.io/courses/appium-pro-intro-workshop](https://www.headspin.io/courses/appium-pro-intro-workshop)
