@@ -32,6 +32,7 @@
 * [http://www.software-testing-tutorials-automation.com/2015/11/test-apps-to-use-in-appium-automation.html](http://www.software-testing-tutorials-automation.com/2015/11/test-apps-to-use-in-appium-automation.html)
 * [https://github.com/appium/sample-code/tree/master/sample-code/apps](https://github.com/appium/sample-code/tree/master/sample-code/apps)
   * Pliki apk, których można z powodzeniem użyć do nauki Appium
+* [https://confengine.com/conferences/appium-conf-2021/proposal/15501/hello-appium-setting-up-your-first-appium-tests-efficiently](https://confengine.com/conferences/appium-conf-2021/proposal/15501/hello-appium-setting-up-your-first-appium-tests-efficiently)
 
 ### Blogi
 

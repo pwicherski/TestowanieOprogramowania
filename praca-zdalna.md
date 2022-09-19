@@ -57,7 +57,7 @@ _Każde zgłoszenie błędu jest problematyczne w zespole testerów, który nie 
 * Źródło: [Praca zdalna dla testera](https://testujemy.mobi/praca-zdalna-dla-testera/)&#x20;
 * [Dlaczego testowy crowdsourcing w Polsce umarł](http://testerzy.pl/baza-wiedzy/dlaczego-testowy-crowdsourcing-w-polsce-umarl)&#x20;
 
-## ![](<.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1).png>) Dyskusje
+## ![](<.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (9).png>) Dyskusje
 
 * ["Praca zdalna" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1777847638904473\&ref=manage\_page) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat narzędzi.
