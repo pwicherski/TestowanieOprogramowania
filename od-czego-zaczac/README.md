@@ -84,6 +84,7 @@ Więcej informacji na temat programu:
 * [How to get started in software testing](http://thesocialtester.co.uk/how-to-get-started-in-software-testing-a-few-resources/)
 * [Non-IT to Software Testing Switch – How to Get Into QA](https://www.softwaretestinghelp.com/non-it-to-software-testing-switch-how-to-get-into-qa/)
 * [30 Things Every New Software Tester Should Learn](https://dojo.ministryoftesting.com/dojo/lessons/30-things-every-new-software-tester-should-learn)
+* [How I became a software tester in 1 year?](https://brightinventions.pl/blog/how-i-became-a-software-tester-in-1-year/)
 
 ## **💬 Dyskusje**
 
