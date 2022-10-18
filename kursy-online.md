@@ -16,6 +16,7 @@ Nie są to jedyne kursy testowania oprogramowania, które dostępne są w intern
 * [QA Tutor](http://www.qatutor.com/) 💵
 * [Coursera - Testing with Agile](https://www.coursera.org/learn/uva-darden-agile-testing) 📺
 * [Coursera - Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design) 📺
+* [4_Testers - Kohortowy kurs dla Testerów Oprogramowania](https://4testers.pl/)
 
 Dodatkowe zbiory kursów:
 
