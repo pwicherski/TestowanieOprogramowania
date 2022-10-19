@@ -6,6 +6,7 @@
 
 * [https://www.adrianbolonio.com/blog/](https://www.adrianbolonio.com/blog/)
 * [https://www.linkedin.com/pulse/creating-triads-accessibility-empathy-lab-venugopal-botla/](https://www.linkedin.com/pulse/creating-triads-accessibility-empathy-lab-venugopal-botla/)
+* [https://accens.pl/blog/pl/](https://accens.pl/blog/pl/)
 
 ### Książki
 
