@@ -65,8 +65,6 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * Herokuapp. The internet.
 * [https://github.com/mwinteringham/restful-booker](https://github.com/mwinteringham/restful-booker)
   * API sandbox
-* [http://javagirl.pl/aplikacje/](http://javagirl.pl/aplikacje/)
-  * Sklep (aplikacja) i Blog (API)
 * [https://github.com/rajiqxf2/nightmare-automation-ui-testing](https://github.com/rajiqxf2/nightmare-automation-ui-testing)
   * Weather shopper application
   * Demo: [https://weathershopper.pythonanywhere.com/](https://weathershopper.pythonanywhere.com/)
