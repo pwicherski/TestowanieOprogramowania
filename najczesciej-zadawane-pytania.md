@@ -30,8 +30,8 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 
 ## Jak zostać testerem? Jak wygladają historie ludzi, którzy zostali testerami?
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="historie/" %}
+[historie](historie/)
 {% endcontent-ref %}
 
 ## Jakie pytania można dostać na rozmowie kwalifikacyjnej?
