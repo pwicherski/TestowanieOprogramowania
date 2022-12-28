@@ -29,7 +29,6 @@ Przykładowe firmy w których można otrzymać dodatkowe zlecenia to:
 * [http://trymyui.com/](http://trymyui.com/)
 * [http://www.testbirds.com/](http://www.testbirds.com/)
 * [http://www.usertesting.com/](http://www.usertesting.com/)
-* [https://crowdsourcedtesting.com/](https://crowdsourcedtesting.com/)
 * [https://mycrowd.com/](https://mycrowd.com/)
 * [https://test.io/](https://test.io)
 * [https://usabilityhub.com/](https://usabilityhub.com/)
