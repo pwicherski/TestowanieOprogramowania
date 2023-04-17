@@ -24,4 +24,5 @@ Długa i szczegółowa lista kontrolna, która może zainspirować do stworzenia
 * [Front-end handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [Kilka planów testów stron - strona e-commerce, wyszukiwarka na stronie, formularze na stronie](https://www.testing-web-sites.co.uk/testing-plans-checklists/)
 * [Testowanie strony e-commerce, sklepu - zbiór materiałów](https://gist.github.com/pwicherski/9884c5e44f815acafd217f42c94c0cfb)
+* [Checklist for Testing Web Page Functionality](https://www.ministryoftesting.com/articles/5631d7b0?s_id=14717887)
 
