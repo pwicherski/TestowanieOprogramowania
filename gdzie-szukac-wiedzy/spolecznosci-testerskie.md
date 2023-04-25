@@ -31,6 +31,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [WarszawQA](https://www.facebook.com/WarszawQA) \(Warszawa\)
 * [AppQa](https://www.facebook.com/AppQaMeetup/) \(Warszawa\)
 * [B2B Test Team](https://www.meetup.com/B2B-Test-Team/) \(Warszawa\)
+* [test:fest meetup](https://www.meetup.com/test-fest/) \(Wrocław\)
 * [LogCat](https://www.facebook.com/LogCatMeetup/) \(Wrocław\)
 * [TestIT](https://www.meetup.com/TestIT-testing-meetup/) \(Wrocław\)
 * [TestinQA ](https://www.facebook.com/testinqa/)\(Wrocław\)
