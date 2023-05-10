@@ -43,8 +43,6 @@ Przykładowe firmy w których można otrzymać dodatkowe zlecenia to:
 * [https://sharewell.eu/](https://sharewell.eu/)
 * [https://testerwork.com/](https://testerwork.com/)
 
-
-
 Są to portale świadczące między innymi usługi testowania crowdsourcingowego.
 
 Fajny opis tego czym jest testowanie crowdsourcingowe, korzyści i problemy jakie są z nim związane, jak też jego aktualny stan w perspektywie naszego kraju opisali Testerzy.pl w swoim wpisie p.t. [Dlaczego testowy crowdsourcing w Polsce umarł?](http://testerzy.pl/baza-wiedzy/dlaczego-testowy-crowdsourcing-w-polsce-umarl). Dorywcza praca taka jak znajdowanie błędów na zlecenie ma zarówno swoje plusy jak też i minusy. Jednym z głównych minusów, które widzę z mojej perspektywy jest to, że w wielu projektach obowiązuje zasada "kto pierwszy ten lepszy". Mam na myśli przykładowo taką sytuację. Otrzymujemy maila, że następnego dnia o godzinie 20 startuje nowy projekt. Pech chciał, że z różnych względów mamy czas dopiero od godziny 21. Co możemy zastać? Przede wszystkim mnóstwo zgłoszonych błędów przez osoby, które uczestniczyły w projekcie od pierwszej minuty. Takie projekty miewają po kilkadziesiąt osób. Nie dość, że spora część z najłatwiejszych błędów została już zgłoszona, to czeka nas niezła lektura przed rozpoczęciem pracy. Naszym obowiązkiem jest sprawdzić wszystkie błędy przed zgłoszeniem naszego aby upewnić się, że nikt wcześniej już takiego nie zgłosił. Oczywiście można zgłosić błąd "na ślepo" a w razie wykrycia duplikatu tłumaczyć się tym, że po prostu nie zauważyliśmy zgłoszenia. Jednak zdarza się, że w historii naszego profilu widnieje liczba błędów, które zgłosiliśmy z uwzględnieniem duplikatów w oddzielnej kolumnie. Może zdarzyć się, że lider kolejnego projektu przefiltruje danego testera niżej w klasyfikacji potencjalnego wyboru. Wypłatę za zgłoszenie błędu otrzymuje tylko osoba, której zgłoszenie znalazło się jako pierwsze w historii.
@@ -53,10 +51,10 @@ _Każde zgłoszenie błędu jest problematyczne w zespole testerów, który nie 
 
 ## 📚 Materiały
 
-* Źródło: [Praca zdalna dla testera](https://testujemy.mobi/praca-zdalna-dla-testera/)&#x20;
-* [Dlaczego testowy crowdsourcing w Polsce umarł](http://testerzy.pl/baza-wiedzy/dlaczego-testowy-crowdsourcing-w-polsce-umarl)&#x20;
+* Źródło: [Praca zdalna dla testera](https://testujemy.mobi/praca-zdalna-dla-testera/)
+* [Dlaczego testowy crowdsourcing w Polsce umarł](http://testerzy.pl/baza-wiedzy/dlaczego-testowy-crowdsourcing-w-polsce-umarl)
 
-## ![](<.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (9).png>) Dyskusje
+## ![](<.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (1) (1).png>) Dyskusje
 
 * ["Praca zdalna" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1777847638904473\&ref=manage\_page) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat narzędzi.
