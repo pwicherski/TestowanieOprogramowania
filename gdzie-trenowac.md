@@ -26,19 +26,11 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * Online shop.
 * [https://www.telerik.com/support/demos](https://www.telerik.com/support/demos)
   * Set of various websites and mobile apps
-* [https://asta.pgs-soft.com](https://asta.pgs-soft.com)
-  * Automated Software Testing Arena
-* [http://automationpractice.com](http://automationpractice.com)
-  * Wirtualny sklep
-* [http://newtours.demoaut.com](http://newtours.demoaut.com)
-  * Strona o tematyce turystycznej
 * [http://executeautomation.com/demosite/index.html](http://executeautomation.com/demosite/index.html)
   * User form
-* [http://Enterprise.Demo.Orangehrmlive.Com/](http://enterprise.demo.orangehrmlive.com/)
-  * Demo HR management site
 * [http://www.way2automation.com/demo.html](http://www.way2automation.com/demo.html)
   * Rózne elementy do przetestowania i zabawy
-* [https://antycaptcha.amberteam.pl:5443](https://antycaptcha.amberteam.pl:5443)
+* [https://antycaptcha.amberteam.pl](https://antycaptcha.amberteam.pl)
   * Testowanie captcha
 * [https://juliemr.github.io/protractor-demo/](https://juliemr.github.io/protractor-demo/)
   * Do nauki testowania protractora
@@ -54,6 +46,10 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * Different Elements on a Web Page
 * [http://www.seleniumframework.com/Practiceform/](http://www.seleniumframework.com/Practiceform/)
   * Practice Form Controls
+* [https://www.globalsqa.com/demo-site/](https://www.globalsqa.com/demo-site/)
+  * Various demo elements
+* [https://automationintesting.online/](https://automationintesting.online/)
+  * System rezerwacji
 
 ## **Aplikacje lokalne**
 
