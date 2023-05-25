@@ -26,8 +26,6 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * Online shop.
 * [https://www.telerik.com/support/demos](https://www.telerik.com/support/demos)
   * Set of various websites and mobile apps
-* [http://executeautomation.com/demosite/index.html](http://executeautomation.com/demosite/index.html)
-  * User form
 * [http://www.way2automation.com/demo.html](http://www.way2automation.com/demo.html)
   * Rózne elementy do przetestowania i zabawy
 * [https://antycaptcha.amberteam.pl](https://antycaptcha.amberteam.pl)
