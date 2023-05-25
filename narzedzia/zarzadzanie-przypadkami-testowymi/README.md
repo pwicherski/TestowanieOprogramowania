@@ -7,7 +7,7 @@
 * [Top 15 Best Test Management Tools in 2018](https://www.softwaretestinghelp.com/15-best-test-management-tools-for-software-testers/)
 * [Best Open Source Test Management Tools](https://www.testingexcellence.com/best-open-source-test-management-tools/)
 
-## <img src="../../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (10) (1).png" alt="" data-size="line"> Dyskusje
+## <img src="../../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> Dyskusje
 
 * ["Narzędzia" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1765238096832094\&ref=manage\_page) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat narzędzi.

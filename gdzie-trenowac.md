@@ -48,6 +48,11 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * Various demo elements
 * [https://automationintesting.online/](https://automationintesting.online/)
   * System rezerwacji
+* [https://bonigarcia.dev/selenium-webdriver-java/](https://bonigarcia.dev/selenium-webdriver-java/)
+  * [https://www.oreilly.com/library/view/hands-on-selenium-webdriver/9781098109998/](https://www.oreilly.com/library/view/hands-on-selenium-webdriver/9781098109998/)
+  * [https://github.com/bonigarcia/selenium-webdriver-java](https://github.com/bonigarcia/selenium-webdriver-java)
+* [https://practicesoftwaretesting.com/#/](https://practicesoftwaretesting.com/#/)
+  * [https://github.com/testsmith-io/practice-software-testing](https://github.com/testsmith-io/practice-software-testing)
 
 ## **Aplikacje lokalne**
 
@@ -78,7 +83,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 * [Marvel API](https://developer.marvel.com/docs)
   * A sample API filled with Marvel comic data.
 * [The Open Movie Database](http://www.omdbapi.com/)
-  * A RESTful web service to obtain movie information**.**
+  * A RESTful web service to obtain movie information\*\*.\*\*
 * [Poké API](https://pokeapi.co/)
   * All the Pokémon data you'll ever need in one place, easily accessible through a modern RESTful API.
 * [Dummy REST API](http://dummy.restapiexample.com/)

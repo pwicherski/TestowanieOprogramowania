@@ -9,7 +9,7 @@
 
 
 
-## <img src="../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (10) (9).png" alt="" data-size="line">**Dyskusje**
+## <img src="../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (1) (10).png" alt="" data-size="line">**Dyskusje**
 
 * [Doświadczenia i przemyślenia jednego z użytkowników odnośnie przygotowywania CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1452377648118142/)
 * [Doświadczenia i przemyślenia jednej z użytkowniczek odnośnie przygotowywania CV](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1469995643023009/)
