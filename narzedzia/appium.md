@@ -12,8 +12,6 @@
   * Appium Discuss jest świetnym miejscem dyskusji na wszelkie tematy dotyczące pracy z appium i jego rozwoju.
 * [https://bitbucket.org/appium/appium.app/downloads/](https://bitbucket.org/appium/appium.app/downloads/)
   * Bitbucket z różnymi wersjami Appium do pobrania
-* [https://wiki.saucelabs.com/dosearchsite.action?queryString=appium](https://wiki.saucelabs.com/dosearchsite.action?queryString=appium)
-  * Wiki space należąca do Souce Labs. Posiadają w niej wiele ciekawych materiałów o Appium
 
 ### Materiały - różne
 
