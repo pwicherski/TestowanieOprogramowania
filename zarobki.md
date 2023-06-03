@@ -30,7 +30,7 @@
 * Zarobki w kraju i za granicą \[glassdoor]&#x20;
   * [Podgląd bieżących analiz](https://www.glassdoor.com/Salaries/index.htm)
 
-## <img src=".gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (1) (7).png" alt="" data-size="line"> Dyskusje
+## <img src=".gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (1) (1) (1) (7).png" alt="" data-size="line"> Dyskusje
 
 * ["Zarobki" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1765794140109823\&ref=manage\_page) 🏤
 * [Na jakie zarobki mogę liczyć na początek w Warszawie ? A ile po 1-2 roku pracy?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1309418115747430/?match=emFyb2JraQ%3D%3D)&#x20;

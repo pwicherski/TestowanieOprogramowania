@@ -20,7 +20,7 @@ Ponad 50 prelekcji i warsztatów przeprowadzonych wokół [tematu Mobile QA](htt
 
 ### LinkedIn:
 
-[https://www.linkedin.com/in/pwicherski/](http://bit.ly/pwicherski)
+[Obserwuj Piotr Wicherski na LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE\_FOLLOWS\&followMember=pwicherski)
 
 {% embed url="https://www.linkedin.com/in/pwicherski/" %}
 
