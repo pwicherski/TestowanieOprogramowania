@@ -48,4 +48,8 @@
   * [https://www.linkedin.com/newsletters/preventing-bugs-and-tech-debt-7054775678323277824/](https://www.linkedin.com/newsletters/preventing-bugs-and-tech-debt-7054775678323277824/)
 * KiwiQA Newsletter
   * [https://www.linkedin.com/newsletters/next-draft-6981448414936928256/](https://www.linkedin.com/newsletters/next-draft-6981448414936928256/)
+* Test Automation 101
+  * [https://www.linkedin.com/newsletters/test-automation-101%25F0%259F%25A4%2596-7022163806692749312/](https://www.linkedin.com/newsletters/test-automation-101%F0%9F%A4%96-7022163806692749312/)
+* Software Testing Sapiens
+  * [https://www.linkedin.com/newsletters/software-testing-sapiens-6919895697437704193/](https://www.linkedin.com/newsletters/software-testing-sapiens-6919895697437704193/)
 
