@@ -6,8 +6,6 @@
   * [https://softwaretestingweekly.com/](https://softwaretestingweekly.com/)
 * PrasówQA
   * [https://www.subscribepage.com/prasowqa](https://www.subscribepage.com/prasowqa)
-* Java Testing Weekly
-  * [https://www.petrikainulainen.net/category/weekly/](https://www.petrikainulainen.net/category/weekly/)
 * AST Newsletter
   * [https://www.associationforsoftwaretesting.org/about/newsletter/](https://www.associationforsoftwaretesting.org/about/newsletter/)
 * ASTQB newsletter
