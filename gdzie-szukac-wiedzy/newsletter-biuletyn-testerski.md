@@ -30,4 +30,22 @@
   * [https://www.qmetry.com/resources/newsletters](https://www.qmetry.com/resources/newsletters)
 * QA Weekly
   * [https://szkoleniedlaqa.pl/newsletter/](https://szkoleniedlaqa.pl/newsletter/)
+* QualityArk
+  * [https://qualityark.com/newsletter](https://qualityark.com/newsletter)
+* TestDevLab
+  * [https://www.linkedin.com/newsletters/testdevlab-newsletter-7037385298879614976/](https://www.linkedin.com/newsletters/testdevlab-newsletter-7037385298879614976/)
+* Automate The Planet Weekly
+  * [https://www.linkedin.com/newsletters/automate-the-planet-weekly-7054059427556929536/](https://www.linkedin.com/newsletters/automate-the-planet-weekly-7054059427556929536/)
+* QATestLab
+  * [https://www.linkedin.com/newsletters/qatestlab-team-6960491125790900226/](https://www.linkedin.com/newsletters/qatestlab-team-6960491125790900226/)
+* Testing Bulletin
+  * [https://www.linkedin.com/newsletters/testing-bulletin-6950003569320177664/](https://www.linkedin.com/newsletters/testing-bulletin-6950003569320177664/)
+* QA Digest
+  * [https://www.linkedin.com/newsletters/qa-digest-7062318110464229376/](https://www.linkedin.com/newsletters/qa-digest-7062318110464229376/)
+* Software Testing Knowledge
+  * [https://www.linkedin.com/newsletters/software-testing-knowledge-6975402254732288001/](https://www.linkedin.com/newsletters/software-testing-knowledge-6975402254732288001/)
+* Preventing Bugs and tech Debt
+  * [https://www.linkedin.com/newsletters/preventing-bugs-and-tech-debt-7054775678323277824/](https://www.linkedin.com/newsletters/preventing-bugs-and-tech-debt-7054775678323277824/)
+* KiwiQA Newsletter
+  * [https://www.linkedin.com/newsletters/next-draft-6981448414936928256/](https://www.linkedin.com/newsletters/next-draft-6981448414936928256/)
 
