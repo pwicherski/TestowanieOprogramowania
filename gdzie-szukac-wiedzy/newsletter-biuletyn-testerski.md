@@ -11,7 +11,7 @@
 * ASTQB newsletter
   * [https://astqb.org/resources/astqb-software-testing-newsletter/](https://astqb.org/resources/astqb-software-testing-newsletter/)
 * ITeaMorning&#x20;
-  * [https://www.youtube.com/c/ITeaMorning/](https://www.youtube.com/c/ITeaMorning/)
+  * [https://www.youtube.com/@ITeaMorning](https://www.youtube.com/@ITeaMorning)
 * Software Testing News
   * [https://softwaretestingnotes.substack.com/](https://softwaretestingnotes.substack.com/)
 * CodingJar
