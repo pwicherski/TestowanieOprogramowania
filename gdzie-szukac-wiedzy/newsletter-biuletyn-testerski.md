@@ -52,4 +52,6 @@
   * [https://www.linkedin.com/newsletters/test-automation-101%25F0%259F%25A4%2596-7022163806692749312/](https://www.linkedin.com/newsletters/test-automation-101%F0%9F%A4%96-7022163806692749312/)
 * Software Testing Sapiens
   * [https://www.linkedin.com/newsletters/software-testing-sapiens-6919895697437704193/](https://www.linkedin.com/newsletters/software-testing-sapiens-6919895697437704193/)
+* The Evil Tester Show
+  * [https://pod.co/the-evil-tester-show](https://pod.co/the-evil-tester-show)
 
