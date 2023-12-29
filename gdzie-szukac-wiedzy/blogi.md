@@ -22,9 +22,6 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Maciej Kusz
 * [https://marcinstanek.pl/blog/](https://marcinstanek.pl/blog/)
   * Marcin Stanek
-
-* [https://gregkaqa.pl/](https://gregkaqa.pl/)
-  * Grzegorz Kasprzak
 * [http://malgosqa.pl/](http://malgosqa.pl/)
   * Małgorzata Leszczuk
 * [https://www.leanqa.pl/blog/](https://www.leanqa.pl/blog/)
