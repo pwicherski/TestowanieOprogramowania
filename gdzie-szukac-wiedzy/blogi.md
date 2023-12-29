@@ -22,8 +22,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Maciej Kusz
 * [https://marcinstanek.pl/blog/](https://marcinstanek.pl/blog/)
   * Marcin Stanek
-* [http://decunadaje.pl/](http://decunadaje.pl/)
-  * Daniel Dec
+
 * [https://gregkaqa.pl/](https://gregkaqa.pl/)
   * Grzegorz Kasprzak
 * [http://malgosqa.pl/](http://malgosqa.pl/)
@@ -77,4 +76,6 @@ Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, �
   * Michał Krzyżanowski
 * [https://bugfreeblog.com/](https://bugfreeblog.com/)
   * Krzysztof Jadczyk
+* [http://decunadaje.pl/](http://decunadaje.pl/)
+  * Daniel Dec
 
