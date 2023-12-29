@@ -14,16 +14,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Sławomir Radzymiński
 * [http://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
   * Blog pewnego Michała
-* [http://testingplus.me](http://testingplus.me)
-  * Michał Ślęzak
-* [https://browserspot.com/blog/](https://browserspot.com/blog/)
-  * Browser Spot
-* [https://automatingguy.com/](https://automatingguy.com/)
-  * Michał Krzyżanowski
 * [https://wyrodek.pl](https://wyrodek.pl/)
   * Maciej Wyrodek
-* [https://bugfreeblog.com/](https://bugfreeblog.com/)
-  * Krzysztof Jadczyk
 * [https://testelka.pl/blog/](https://testelka.pl/blog/)
   * Ela Sądel
 * [https://jakosctobedzie.pl/](https://jakosctobedzie.pl/)
@@ -81,4 +73,12 @@ Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, �
   * Szymon Kazmierczak
 * [http://testerka.pl/](http://testerka.pl/)
   * Dorota Poręba-Połomska
+* [http://testingplus.me](http://testingplus.me)
+  * Michał Ślęzak
+* [https://browserspot.com/blog/](https://browserspot.com/blog/)
+  * Browser Spot
+* [https://automatingguy.com/](https://automatingguy.com/)
+  * Michał Krzyżanowski
+* [https://bugfreeblog.com/](https://bugfreeblog.com/)
+  * Krzysztof Jadczyk
 
