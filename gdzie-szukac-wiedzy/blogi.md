@@ -78,4 +78,6 @@ Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, �
 * [https://web.archive.org/web/20200814101238/https://devowls.io/blog/](https://web.archive.org/web/20200814101238/https://devowls.io/blog/)
   * Wersja archiwalna bloga \| Michał Krzyżanowski, Michał Ślęzak
 * [https://web.archive.org/web/20201128051039/https://jakosctobedzie.pl/](https://web.archive.org/web/20201128051039/https://jakosctobedzie.pl/)
-  *  Wersja archiwalna bloga \Magda Drechsler-Nowak
+  *  Wersja archiwalna bloga \| Magda Drechsler-Nowak
+* [https://web.archive.org/web/20211223034041/http://testerslife.pl/](https://web.archive.org/web/20211223034041/http://testerslife.pl/)
+  * Wersja archiwalna bloga \| Rafał Kubik
