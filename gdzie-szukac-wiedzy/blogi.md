@@ -14,8 +14,6 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Sławomir Radzymiński
 * [http://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
   * Blog pewnego Michała
-* [http://testerslife.pl](http://testerslife.pl)
-  * Rafał Kubik
 * [http://testingplus.me](http://testingplus.me)
   * Michał Ślęzak
 * [https://browserspot.com/blog/](https://browserspot.com/blog/)
