@@ -8,8 +8,6 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Piotr Wicherski
 * [http://testerzy.pl/](http://testerzy.pl/)
   * Testerzy.pl
-* [https://projectquality.it/blog/](https://projectquality.it/blog/)
-  * Krzysztof Raczyński
 * [http://blog.testuj.pl/](http://blog.testuj.pl/)
   * Testuj.pl Blog
 * [https://medium.com/@SimonKaz/](https://medium.com/@SimonKaz/)
@@ -83,4 +81,6 @@ Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, �
   * Marta Zajac
 * [https://test-detective.blogspot.com/](https://test-detective.blogspot.com/)
   * Łukasz Rosłonek
+* [https://projectquality.it/blog/](https://projectquality.it/blog/)
+  * Krzysztof Raczyński
 
