@@ -22,10 +22,6 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Maciej Kusz
 * [https://marcinstanek.pl/blog/](https://marcinstanek.pl/blog/)
   * Marcin Stanek
-* [http://malgosqa.pl/](http://malgosqa.pl/)
-  * Małgorzata Leszczuk
-* [https://www.leanqa.pl/blog/](https://www.leanqa.pl/blog/)
-  * Daniel Dec, Kamila Gawrońska, Wojciech Gawroński, Tomasz Wierzchowski
 * [https://wyszkolewas.com.pl/blog/](https://www.wyszkolewas.com.pl/blog/)
   * Waldemar Szafraniec
 * [https://jaktestowac.pl/blog/](https://jaktestowac.pl/blog/)
@@ -75,4 +71,5 @@ Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, �
   * Krzysztof Jadczyk
 * [http://decunadaje.pl/](http://decunadaje.pl/)
   * Daniel Dec
-
+* [https://www.leanqa.pl/blog/](https://www.leanqa.pl/blog/)
+  * Daniel Dec, Kamila Gawrońska, Wojciech Gawroński, Tomasz Wierzchowski
