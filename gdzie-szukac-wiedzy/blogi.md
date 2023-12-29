@@ -83,4 +83,6 @@ Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, �
   * Łukasz Rosłonek
 * [https://projectquality.it/blog/](https://projectquality.it/blog/)
   * Krzysztof Raczyński
+* [https://medium.com/@SimonKaz/](https://medium.com/@SimonKaz/)
+  * Szymon Kazmierczak
 
