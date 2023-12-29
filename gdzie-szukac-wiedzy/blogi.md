@@ -75,3 +75,7 @@ Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, �
   * Daniel Dec, Kamila Gawrońska, Wojciech Gawroński, Tomasz Wierzchowski
 * [https://web.archive.org/web/20230124064617/https://gregkaqa.pl/](https://web.archive.org/web/20230124064617/https://gregkaqa.pl/)
   * Wersja archiwalna bloga \| Grzegorz Kasprzak
+* [https://web.archive.org/web/20200814101238/https://devowls.io/blog/](https://web.archive.org/web/20200814101238/https://devowls.io/blog/)
+  * Wersja archiwalna bloga \| Michał Krzyżanowski, Michał Ślęzak
+* [https://web.archive.org/web/20201128051039/https://jakosctobedzie.pl/](https://web.archive.org/web/20201128051039/https://jakosctobedzie.pl/)
+  *  Wersja archiwalna bloga \Magda Drechsler-Nowak
