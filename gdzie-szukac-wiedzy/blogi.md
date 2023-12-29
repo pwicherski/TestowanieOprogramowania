@@ -73,3 +73,5 @@ Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, �
   * Daniel Dec
 * [https://www.leanqa.pl/blog/](https://www.leanqa.pl/blog/)
   * Daniel Dec, Kamila Gawrońska, Wojciech Gawroński, Tomasz Wierzchowski
+* [https://web.archive.org/web/20230124064617/https://gregkaqa.pl/](https://web.archive.org/web/20230124064617/https://gregkaqa.pl/)
+  * Wersja archiwalna bloga \| Grzegorz Kasprzak
