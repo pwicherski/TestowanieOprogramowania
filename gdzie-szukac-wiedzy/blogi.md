@@ -10,10 +10,6 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Testerzy.pl
 * [http://blog.testuj.pl/](http://blog.testuj.pl/)
   * Testuj.pl Blog
-* [https://medium.com/@SimonKaz/](https://medium.com/@SimonKaz/)
-  * Szymon Kazmierczak
-* [http://testerka.pl/](http://testerka.pl/)
-  * Dorota Poręba-Połomska
 * [http://awesome-testing.com/](http://awesome-testing.com/)
   * Sławomir Radzymiński
 * [http://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
@@ -85,4 +81,6 @@ Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, �
   * Krzysztof Raczyński
 * [https://medium.com/@SimonKaz/](https://medium.com/@SimonKaz/)
   * Szymon Kazmierczak
+* [http://testerka.pl/](http://testerka.pl/)
+  * Dorota Poręba-Połomska
 
