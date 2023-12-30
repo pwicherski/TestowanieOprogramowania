@@ -4,24 +4,18 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 
 ## Lista blogów
 
-* [https://testujemy.mobi](https://testujemy.mobi)
-  * Piotr Wicherski
 * [http://testerzy.pl/](http://testerzy.pl/)
   * Testerzy.pl
-* [http://blog.testuj.pl/](http://blog.testuj.pl/)
-  * Testuj.pl Blog
-* [http://awesome-testing.com/](http://awesome-testing.com/)
+* [http://awesome-testing.com/blog](http://awesome-testing.com/blog)
   * Sławomir Radzymiński
 * [http://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
   * Blog pewnego Michała
-* [https://wyrodek.pl](https://wyrodek.pl/)
+* [https://wyrodek.pl/blog](https://wyrodek.pl/blog/)
   * Maciej Wyrodek
 * [https://testelka.pl/blog/](https://testelka.pl/blog/)
   * Ela Sądel
 * [https://testerembyc.pl/](https://testerembyc.pl/)
   * Maciej Kusz
-* [https://marcinstanek.pl/blog/](https://marcinstanek.pl/blog/)
-  * Marcin Stanek
 * [https://wyszkolewas.com.pl/blog/](https://www.wyszkolewas.com.pl/blog/)
   * Waldemar Szafraniec
 * [https://jaktestowac.pl/blog/](https://jaktestowac.pl/blog/)
@@ -32,7 +26,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Dominik Stolarski, Paweł Kandybowicz, Maciek Florys
 * [https://www.dlatesterow.pl/](https://www.dlatesterow.pl/)
   * Rafał Krząpa
-* [http://www.cyfrowytrener.pl/](http://www.cyfrowytrener.pl/)
+* [http://www.cyfrowytrener.pl/blog](http://www.cyfrowytrener.pl/blog)
   * Kris Pacholski
 * [https://testowanie-oprogramowania.pl/blog/](https://testowanie-oprogramowania.pl/blog/)
   * Rafał Podraza
@@ -40,15 +34,13 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 ## Dawno nieaktualizowane lub zamknięte:
 
 {% hint style="info" %}
-Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, że nie będą rozwijane.
+Blogi, które nie były aktualizowane ponad 2 lata i/lub zostało potwierdzone, że nie będą rozwijane.
 {% endhint %}
 
+* [https://testujemy.mobi](https://testujemy.mobi)
+  * Piotr Wicherski
 * [http://termometr.blogspot.com/](http://termometr.blogspot.com/)
   * Tomasz Zdanowicz
-* [https://web.archive.org/web/20180831224048/http://testspring.pl/blog/category/blog/](https://web.archive.org/web/20180831224048/http://testspring.pl/blog/category/blog/)
-  * Blog Stargate Technology
-* [http://web.archive.org/web/20160309122123/http://blog.alvarus.org/](http://web.archive.org/web/20160309122123/http://blog.alvarus.org/)
-  * Wersja archiwalna bloga \| Łukasz Jasiński 
 * [http://javagirl.pl/](http://javagirl.pl/)
   * JavaGirl
 * [https://martamaracje.blogspot.com/](https://martamaracje.blogspot.com/)
@@ -59,10 +51,12 @@ Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, �
   * Krzysztof Raczyński
 * [https://medium.com/@SimonKaz/](https://medium.com/@SimonKaz/)
   * Szymon Kazmierczak
-* [http://testerka.pl/](http://testerka.pl/)
+* [https://testerka.pl/category/blog/](https://testerka.pl/category/blog/)
   * Dorota Poręba-Połomska
 * [http://testingplus.me](http://testingplus.me)
   * Michał Ślęzak
+* [https://marcinstanek.pl/blog/](https://marcinstanek.pl/blog/)
+  * Marcin Stanek
 * [https://browserspot.com/blog/](https://browserspot.com/blog/)
   * Browser Spot
 * [https://automatingguy.com/](https://automatingguy.com/)
@@ -71,8 +65,14 @@ Blogi, które nie był aktualizowane ponad 2 lata i/lub zostało potwierdzone, �
   * Krzysztof Jadczyk
 * [http://decunadaje.pl/](http://decunadaje.pl/)
   * Daniel Dec
+* [http://blog.testuj.pl/](http://blog.testuj.pl/)
+  * Testuj.pl
 * [https://www.leanqa.pl/blog/](https://www.leanqa.pl/blog/)
   * Daniel Dec, Kamila Gawrońska, Wojciech Gawroński, Tomasz Wierzchowski
+* [https://web.archive.org/web/20180831224048/http://testspring.pl/blog/category/blog/](https://web.archive.org/web/20180831224048/http://testspring.pl/blog/category/blog/)
+  * Wersja archiwalna bloga \| Stargate Technology
+* [http://web.archive.org/web/20160309122123/http://blog.alvarus.org/](http://web.archive.org/web/20160309122123/http://blog.alvarus.org/)
+  * Wersja archiwalna bloga \| Łukasz Jasiński 
 * [https://web.archive.org/web/20230124064617/https://gregkaqa.pl/](https://web.archive.org/web/20230124064617/https://gregkaqa.pl/)
   * Wersja archiwalna bloga \| Grzegorz Kasprzak
 * [https://web.archive.org/web/20200814101238/https://devowls.io/blog/](https://web.archive.org/web/20200814101238/https://devowls.io/blog/)
