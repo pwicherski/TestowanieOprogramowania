@@ -2,8 +2,8 @@
 
 ### **Certyfikat ISTQB**
 
-* [Czym jest ISTQB](https://www.youtube.com/watch?v=HrK1zhqyW4k) 📺
-* [Certyfikat testerski ISTQB Foundation Level – czym jest i czy warto go mieć?](http://jakzostactesterem.pl/certyfikat-testerski-istqb-foundation-czym-warto-go-miec/)&#x20;
+* [Czym jest ISTQB](https://www.youtube.com/watch?v=HrK1zhqyW4k) (https://www.youtube.com/watch?v=3LpaZXAg1l0)📺
+* [Certyfikat testerski ISTQB Foundation Level – czym jest i czy warto go mieć?] (https://www.youtube.com/watch?v=3HNy2AHkuGw) (http://jakzostactesterem.pl/certyfikat-testerski-istqb-foundation-czym-warto-go-miec/)&#x20;
 
 ### **Czy szkolenie jest niezbędne żeby zdać egzamin?**
 
@@ -16,6 +16,8 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 {% embed url="http://sjsi.org/oplaty-egzaminacyjne/" %}
 
 ### **Szkolenia do egzaminu na certyfikat ISTQB poziom podstawowy przeprowadzają takie firmy jak:**
+
+W kontekście ISTQB, firma która szkoli tj. przygotowuje kandydatów do egzaminu to akredytowany dostawca szkoleń. Podmiotem akredytującym w Polsce jest SJSI, które publikuje listę takich dostawców na [stronie](https://sjsi.org/akredytacje/akredytowani-dostawcy-szkolen/). 
 
 * [IT Trainings](http://ittraining.pl/szkolenia/zapewnic\_jakosc/istqb\_poziom\_podstawowy)
 * [Testuj.pl](https://testuj.pl/lista-szkolen?name=istqb)
