@@ -23,7 +23,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 * [https://blog.qalabs.pl/](https://blog.qalabs.pl/)
   * Maciej Chmielarz, Rafał Borowiec
 * [https://softie.pl/blog/](https://softie.pl/blog/)
-  * Dominik Stolarski, Paweł Kandybowicz, Maciek Florys
+  * Softie.pl
 * [https://www.dlatesterow.pl/](https://www.dlatesterow.pl/)
   * Rafał Krząpa
 * [http://www.cyfrowytrener.pl/blog](http://www.cyfrowytrener.pl/blog)
@@ -70,14 +70,14 @@ Blogi, które nie były aktualizowane ponad 2 lata i/lub zostało potwierdzone, 
 * [https://www.leanqa.pl/blog/](https://www.leanqa.pl/blog/)
   * Daniel Dec, Kamila Gawrońska, Wojciech Gawroński, Tomasz Wierzchowski
 * [https://web.archive.org/web/20180831224048/http://testspring.pl/blog/category/blog/](https://web.archive.org/web/20180831224048/http://testspring.pl/blog/category/blog/)
-  * Wersja archiwalna bloga \| Stargate Technology
+  * Wersja archiwalna bloga | Stargate Technology
 * [http://web.archive.org/web/20160309122123/http://blog.alvarus.org/](http://web.archive.org/web/20160309122123/http://blog.alvarus.org/)
-  * Wersja archiwalna bloga \| Łukasz Jasiński 
+  * Wersja archiwalna bloga | Łukasz Jasiński
 * [https://web.archive.org/web/20230124064617/https://gregkaqa.pl/](https://web.archive.org/web/20230124064617/https://gregkaqa.pl/)
-  * Wersja archiwalna bloga \| Grzegorz Kasprzak
+  * Wersja archiwalna bloga | Grzegorz Kasprzak
 * [https://web.archive.org/web/20200814101238/https://devowls.io/blog/](https://web.archive.org/web/20200814101238/https://devowls.io/blog/)
-  * Wersja archiwalna bloga \| Michał Krzyżanowski, Michał Ślęzak
+  * Wersja archiwalna bloga | Michał Krzyżanowski, Michał Ślęzak
 * [https://web.archive.org/web/20201128051039/https://jakosctobedzie.pl/](https://web.archive.org/web/20201128051039/https://jakosctobedzie.pl/)
-  *  Wersja archiwalna bloga \| Magda Drechsler-Nowak
+  * Wersja archiwalna bloga | Magda Drechsler-Nowak
 * [https://web.archive.org/web/20211223034041/http://testerslife.pl/](https://web.archive.org/web/20211223034041/http://testerslife.pl/)
-  * Wersja archiwalna bloga \| Rafał Kubik
+  * Wersja archiwalna bloga | Rafał Kubik
