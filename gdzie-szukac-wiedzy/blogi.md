@@ -10,8 +10,6 @@ Lista blogów prowadzonych przez polaków i zawierających większość wpisów 
   * Sławomir Radzymiński
 * [http://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
   * Blog pewnego Michała
-* [https://wyrodek.pl/blog](https://wyrodek.pl/blog/)
-  * Maciej Wyrodek
 * [https://testelka.pl/blog/](https://testelka.pl/blog/)
   * Ela Sądel
 * [https://testerembyc.pl/](https://testerembyc.pl/)
@@ -30,6 +28,10 @@ Lista blogów prowadzonych przez polaków i zawierających większość wpisów 
   * Kris Pacholski
 * [https://testowanie-oprogramowania.pl/blog/](https://testowanie-oprogramowania.pl/blog/)
   * Rafał Podraza
+* [https://automatyzacja.it/blog/](https://automatyzacja.it/blog/)
+  * Tomasz Klepacki
+* [https://wyrodek.pl/blog](https://wyrodek.pl/blog/)
+  * Maciej Wyrodek
 
 ## Dawno nieaktualizowane lub zamknięte:
 
@@ -63,21 +65,65 @@ Blogi, które nie były aktualizowane ponad 2 lata i/lub zostało potwierdzone, 
   * Michał Krzyżanowski
 * [https://bugfreeblog.com/](https://bugfreeblog.com/)
   * Krzysztof Jadczyk
+* [https://sdet-tomaszbuga.medium.com/](https://sdet-tomaszbuga.medium.com/)
+  * Tomasz Buga
 * [http://decunadaje.pl/](http://decunadaje.pl/)
   * Daniel Dec
 * [http://blog.testuj.pl/](http://blog.testuj.pl/)
   * Testuj.pl
+* [https://szkolatestera.pl/blog/](https://szkolatestera.pl/blog/)
+  * Norbert Jankowski
 * [https://www.leanqa.pl/blog/](https://www.leanqa.pl/blog/)
   * Daniel Dec, Kamila Gawrońska, Wojciech Gawroński, Tomasz Wierzchowski
+
+## Blogi archiwalne:
+
+{% hint style="info" %}
+Blogi, które przestały istnieć. Lista służy przede wszystkim zapisaniu historii.
+
+Wersje archiwalne moga być niepełne i nieczytelne.
+{% endhint %}
+
+* [https://web.archive.org/web/20170701000000\*/http://odzeradotestera.blog.pl/](https://web.archive.org/web/20170701000000\*/http://odzeradotestera.blog.pl/)
+  * Katarzyna Nowicka
+* [https://web.archive.org/web/20180715000000\*/http://blog.testowka.pl/](https://web.archive.org/web/20180715000000\*/http://blog.testowka.pl/)
+  * Wiktor Żołnowski
+* [https://web.archive.org/web/20170701000000\*/https://chmielqa.pl/](https://web.archive.org/web/20170701000000\*/https://chmielqa.pl/)
+  * Piotr Chmiel
+* [https://web.archive.org/web/20200501000000\*/http://www.malgosqa.pl/](https://web.archive.org/web/20200501000000\*/http://www.malgosqa.pl/)
+  * Małgorzata Leszczuk
+* [https://web.archive.org/web/20180715000000\*/http://www.testdetective.com](https://web.archive.org/web/20180715000000\*/http://www.testdetective.com)
+  * Łukasz Rosłonek
+* [https://web.archive.org/web/20170701000000\*/qa-24.pl](https://web.archive.org/web/20170701000000\*/qa-24.pl)
+  * Jacek Norbert
+* [https://web.archive.org/web/20230000000000\*/https://thebrokentest.com/](https://web.archive.org/web/20230000000000\*/https://thebrokentest.com/)
+  * Maciej Wyrodek
+* [https://web.archive.org/web/20230000000000\*/https://czastestow.pl/blog/](https://web.archive.org/web/20230000000000\*/https://czastestow.pl/blog/)
+  * Cezary Machowski
+* [https://web.archive.org/web/20140701000000\*/http://kaczor.info](https://web.archive.org/web/20140701000000\*/http://kaczor.info)
+  * Krystian Kaczor
+* [https://web.archive.org/web/20230000000000\*/https://dragonqa.blog/](https://web.archive.org/web/20230000000000\*/https://dragonqa.blog/)
+  * Kamila Mrozek
+* [https://web.archive.org/web/20230000000000\*/https://michaljanaszek.com/](https://web.archive.org/web/20230000000000\*/https://michaljanaszek.com/)
+  * Michał Janaszek
+* [https://web.archive.org/web/20160515000000\*/http://slawekradzyminski.com/](https://web.archive.org/web/20160515000000\*/http://slawekradzyminski.com/)
+  * Sławomir Radzymiński
 * [https://web.archive.org/web/20180831224048/http://testspring.pl/blog/category/blog/](https://web.archive.org/web/20180831224048/http://testspring.pl/blog/category/blog/)
-  * Wersja archiwalna bloga | Stargate Technology
+  * Stargate Technology
 * [http://web.archive.org/web/20160309122123/http://blog.alvarus.org/](http://web.archive.org/web/20160309122123/http://blog.alvarus.org/)
-  * Wersja archiwalna bloga | Łukasz Jasiński
+  * Łukasz Jasiński
 * [https://web.archive.org/web/20230124064617/https://gregkaqa.pl/](https://web.archive.org/web/20230124064617/https://gregkaqa.pl/)
-  * Wersja archiwalna bloga | Grzegorz Kasprzak
+  * Grzegorz Kasprzak
 * [https://web.archive.org/web/20200814101238/https://devowls.io/blog/](https://web.archive.org/web/20200814101238/https://devowls.io/blog/)
   * Wersja archiwalna bloga | Michał Krzyżanowski, Michał Ślęzak
 * [https://web.archive.org/web/20201128051039/https://jakosctobedzie.pl/](https://web.archive.org/web/20201128051039/https://jakosctobedzie.pl/)
-  * Wersja archiwalna bloga | Magda Drechsler-Nowak
+  * Magda Drechsler-Nowak
 * [https://web.archive.org/web/20211223034041/http://testerslife.pl/](https://web.archive.org/web/20211223034041/http://testerslife.pl/)
-  * Wersja archiwalna bloga | Rafał Kubik
+  * Rafał Kubik
+* [https://web.archive.org/web/20230000000000\*/http://www.testowanie.net/](https://web.archive.org/web/20230000000000\*/http://www.testowanie.net/)
+  * Tomasz Mielnik
+* [https://web.archive.org/web/20230000000000\*/http://potestujmy.pl/](https://web.archive.org/web/20230000000000\*/http://potestujmy.pl/)
+  *
+* [https://web.archive.org/web/20230000000000\*/https://testowanie.com.pl/](https://web.archive.org/web/20230000000000\*/https://testowanie.com.pl/)
+* [https://web.archive.org/web/20230000000000\*/http://webtesting.pl/](https://web.archive.org/web/20230000000000\*/http://webtesting.pl/)
+* [https://web.archive.org/web/20230000000000\*/http://testybezpieczenstwa.pl/](https://web.archive.org/web/20230000000000\*/http://testybezpieczenstwa.pl/)
