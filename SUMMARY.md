@@ -37,7 +37,7 @@
   * [Narzędzia](testowanie-aplikacji-mobilnych/narzedzia.md)
 * [Gdzie szukać wiedzy](gdzie-szukac-wiedzy/README.md)
   * [Społeczności testerskie](gdzie-szukac-wiedzy/spolecznosci-testerskie.md)
-  * [Blogi](gdzie-szukac-wiedzy/blogi.md)
+  * [Blogi o testowaniu](gdzie-szukac-wiedzy/blogi.md)
   * [Książki o testowaniu po polsku](gdzie-szukac-wiedzy/ksiazki-o-testowaniu.md)
   * [Magazyny testerskie](gdzie-szukac-wiedzy/magazyny-testerskie.md)
   * [Newsletter/Biuletyn testerski](gdzie-szukac-wiedzy/newsletter-biuletyn-testerski.md)

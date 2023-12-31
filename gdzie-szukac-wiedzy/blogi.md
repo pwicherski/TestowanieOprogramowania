@@ -1,6 +1,8 @@
-# Blogi
+# Blogi o testowaniu
 
+{% hint style="info" %}
 Lista blogów prowadzonych przez polaków i zawierających większość wpisów poświęconych testowaniu oprogramowania
+{% endhint %}
 
 ## Lista blogów
 
