@@ -1,3 +1,7 @@
+---
+description: Lista blogów o testowaniu oprogramowania
+---
+
 # Blogi o testowaniu
 
 {% hint style="info" %}
