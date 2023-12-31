@@ -1,6 +1,6 @@
 # Blogi
 
-Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej część wpisów zamieszczaną przez polaków.
+Lista blogów prowadzonych przez polaków i zawierających większość wpisów poświęconych testowaniu oprogramowania
 
 ## Lista blogów
 
@@ -34,7 +34,7 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
 ## Dawno nieaktualizowane lub zamknięte:
 
 {% hint style="info" %}
-Blogi, które nie były aktualizowane ponad 2 lata i/lub zostało potwierdzone, że nie będą rozwijane.
+Blogi, które nie były aktualizowane ponad 2 lata i/lub zostało potwierdzone, że nie będą rozwijane w temacie testowania oprogramowania.
 {% endhint %}
 
 * [https://testujemy.mobi](https://testujemy.mobi)
