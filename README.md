@@ -1,7 +1,7 @@
 ---
 description: >-
   Najwygodniejszy sposób na przeglądanie dokumentu pod adresem:
-  https://ksiazka.testowanieoprogramowania.pl/
+  https://ksiazka.testowanieoprogramowania.pl
 ---
 
 # Testowanie Oprogramowania
