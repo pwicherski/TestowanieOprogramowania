@@ -34,7 +34,6 @@ Lista blogów prowadzonych przez polaków i zawierających większość wpisów 
   * Maciej Wyrodek
 * [https://www.toniebug.pl/blog/](https://www.toniebug.pl/blog/)
   * \-
-*
 
 ## Dawno nieaktualizowane lub zamknięte:
 
