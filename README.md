@@ -1,7 +1,7 @@
 ---
 description: >-
   Najwygodniejszy sposób na przeglądanie dokumentu pod adresem:
-  https://pwicherski.gitbook.io/testowanie-oprogramowania/
+  https://ksiazka.testowanieoprogramowania.pl/
 ---
 
 # Testowanie Oprogramowania
