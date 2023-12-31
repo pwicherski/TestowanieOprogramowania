@@ -32,6 +32,9 @@ Lista blogów prowadzonych przez polaków i zawierających większość wpisów 
   * Tomasz Klepacki
 * [https://wyrodek.pl/blog](https://wyrodek.pl/blog/)
   * Maciej Wyrodek
+* [https://www.toniebug.pl/blog/](https://www.toniebug.pl/blog/)
+  * \-
+*
 
 ## Dawno nieaktualizowane lub zamknięte:
 
@@ -75,6 +78,18 @@ Blogi, które nie były aktualizowane ponad 2 lata i/lub zostało potwierdzone, 
   * Norbert Jankowski
 * [https://www.leanqa.pl/blog/](https://www.leanqa.pl/blog/)
   * Daniel Dec, Kamila Gawrońska, Wojciech Gawroński, Tomasz Wierzchowski
+* [https://testility.pl/blog/](https://testility.pl/blog/)
+  * Lilianna Poradzińska, Karol Suchocki
+* [https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
+  * Remigiusz Bednarczyk
+* [https://testerprof.wordpress.com/](https://testerprof.wordpress.com/)
+  * \-
+* [http://testyoprogramowania.blogspot.com](http://testyoprogramowania.blogspot.com)
+  * \-
+* [https://www.qatester.pl/blog](https://www.qatester.pl/blog)
+  * \-
+* [http://www.nauczycielwit.pl/](http://www.nauczycielwit.pl/)
+  * \-
 
 ## Blogi archiwalne:
 
@@ -122,8 +137,14 @@ Wersje archiwalne moga być niepełne i nieczytelne.
   * Rafał Kubik
 * [https://web.archive.org/web/20230000000000\*/http://www.testowanie.net/](https://web.archive.org/web/20230000000000\*/http://www.testowanie.net/)
   * Tomasz Mielnik
+* [https://web.archive.org/web/20230000000000\*/http://howtotest.it/](https://web.archive.org/web/20230000000000\*/http://howtotest.it/)
+  * Michał Grabowski
 * [https://web.archive.org/web/20230000000000\*/http://potestujmy.pl/](https://web.archive.org/web/20230000000000\*/http://potestujmy.pl/)
-  *
+  * \-
 * [https://web.archive.org/web/20230000000000\*/https://testowanie.com.pl/](https://web.archive.org/web/20230000000000\*/https://testowanie.com.pl/)
+  * \-
 * [https://web.archive.org/web/20230000000000\*/http://webtesting.pl/](https://web.archive.org/web/20230000000000\*/http://webtesting.pl/)
+  * \-
 * [https://web.archive.org/web/20230000000000\*/http://testybezpieczenstwa.pl/](https://web.archive.org/web/20230000000000\*/http://testybezpieczenstwa.pl/)
+  * \-
+* [https://web.archive.org/web/20230000000000\*/http://realtester.blox.pl/](https://web.archive.org/web/20230000000000\*/http://realtester.blox.pl/)
