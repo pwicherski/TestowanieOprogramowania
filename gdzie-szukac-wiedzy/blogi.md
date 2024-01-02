@@ -10,11 +10,11 @@ Lista blogów prowadzonych przez polaków i zawierających większość wpisów 
 
 ## Lista blogów
 
-* [http://testerzy.pl/](http://testerzy.pl/)
+* [https://testerzy.pl/](http://testerzy.pl/)
   * Testerzy.pl
-* [http://awesome-testing.com/blog](http://awesome-testing.com/blog)
+* [https://awesome-testing.com/blog](http://awesome-testing.com/blog)
   * Sławomir Radzymiński
-* [http://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
+* [https://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
   * Blog pewnego Michała
 * [https://testelka.pl/blog/](https://testelka.pl/blog/)
   * Ela Sądel
@@ -30,7 +30,7 @@ Lista blogów prowadzonych przez polaków i zawierających większość wpisów 
   * Softie.pl
 * [https://www.dlatesterow.pl/](https://www.dlatesterow.pl/)
   * Rafał Krząpa
-* [http://www.cyfrowytrener.pl/blog](http://www.cyfrowytrener.pl/blog)
+* [https://www.cyfrowytrener.pl/blog](http://www.cyfrowytrener.pl/blog)
   * Kris Pacholski
 * [https://testowanie-oprogramowania.pl/blog/](https://testowanie-oprogramowania.pl/blog/)
   * Rafał Podraza
@@ -39,7 +39,7 @@ Lista blogów prowadzonych przez polaków i zawierających większość wpisów 
 * [https://wyrodek.pl/blog](https://wyrodek.pl/blog/)
   * Maciej Wyrodek
 * [https://www.toniebug.pl/blog/](https://www.toniebug.pl/blog/)
-  * \-
+  * Hubert Arciszewski
 
 ## Dawno nieaktualizowane lub zamknięte:
 
