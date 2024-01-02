@@ -1,6 +1,12 @@
+---
+description: Kanały YouTube o testowaniu oprogramowania
+---
+
 # YouTube
 
+{% hint style="info" %}
 Lista kanałów youtube prowadzonych przez polaków i zawierających większość treści skupiających się na testowaniu oprogramowania.
+{% endhint %}
 
 ### Kanały Aktywne:
 
