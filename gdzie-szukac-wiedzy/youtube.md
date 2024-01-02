@@ -48,7 +48,7 @@ Lista kanałów youtube prowadzonych przez polaków i zawierających większoś�
 ### Kanały Nieaktywne:
 
 {% hint style="info" %}
-Youtube, Kanały które nie były aktualizowane dłużej niż 2 lata
+Kanały które nie były aktualizowane dłużej niż 2 lata
 {% endhint %}
 
 * [https://www.youtube.com/@rzeqa8661](https://www.youtube.com/@rzeqa8661)
