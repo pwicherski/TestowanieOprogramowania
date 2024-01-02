@@ -2,7 +2,7 @@
 
 ## Poprzez GitHub
 
-![](.gitbook/assets/editodgithub.PNG)
+<figure><img src=".gitbook/assets/Screenshot 2024-01-02 010849.png" alt=""><figcaption></figcaption></figure>
 
 Zapraszam do wysyłania **pull requestów** ze zmianami do repozytorium, które po przeglądzie i zaakceptowaniu zostaną następnie zsynchronizowane z obecną wersją książki.
 
@@ -30,7 +30,7 @@ Wszelkie błędy i sugestie także można zgłaszać poprzez zakładkę [Issues]
 
 #### Zaznacz problem na zrzucie ekranu
 
-![](.gitbook/assets/screenshot_20200109-180439_chrome.jpg)
+![](.gitbook/assets/screenshot\_20200109-180439\_chrome.jpg)
 
 #### Dopisz o co chodzi, następnie wyślij do mnie:
 
@@ -38,4 +38,3 @@ Wszelkie błędy i sugestie także można zgłaszać poprzez zakładkę [Issues]
 * [https://www.facebook.com/pwicherski](https://www.facebook.com/pwicherski)
 * [https://www.linkedin.com/in/pwicherski/](https://www.linkedin.com/in/pwicherski/)
 * [https://twitter.com/PWicherski](https://twitter.com/PWicherski)
-
