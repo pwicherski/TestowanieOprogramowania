@@ -1,6 +1,6 @@
 ---
 description: >-
-  Najwygodniejszy sposób na przeglądanie dokumentu pod adresem:
+  Najwygodniejszy sposób na czytanie książki to wejście pod adres:
   https://ksiazka.testowanieoprogramowania.pl
 ---
 
