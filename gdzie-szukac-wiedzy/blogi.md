@@ -15,7 +15,7 @@ Lista blogów prowadzonych przez polaków i zawierających większość wpisów 
 * [https://awesome-testing.com/blog](http://awesome-testing.com/blog)
   * Sławomir Radzymiński
 * [https://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
-  * Blog pewnego Michała
+  * Michał Putowski
 * [https://testelka.pl/blog/](https://testelka.pl/blog/)
   * Ela Sądel
 * [https://testerembyc.pl/](https://testerembyc.pl/)
@@ -23,7 +23,9 @@ Lista blogów prowadzonych przez polaków i zawierających większość wpisów 
 * [https://wyszkolewas.com.pl/blog/](https://www.wyszkolewas.com.pl/blog/)
   * Waldemar Szafraniec
 * [https://jaktestowac.pl/blog/](https://jaktestowac.pl/blog/)
-  * Przemek Barański, Krzysiek Kijas
+  * Przemysław Barański, Krzysztof Kijas
+* [https://playwright.info/](https://playwright.info/)
+  * Przemysław Barański, Krzysztof Kijas
 * [https://blog.qalabs.pl/](https://blog.qalabs.pl/)
   * Maciej Chmielarz, Rafał Borowiec
 * [https://softie.pl/blog/](https://softie.pl/blog/)
