@@ -25,7 +25,7 @@ Lista blogów prowadzonych przez polaków i zawierających większość wpisów 
 * [https://jaktestowac.pl/blog/](https://jaktestowac.pl/blog/)
   * Przemysław Barański, Krzysztof Kijas
 * [https://playwright.info/](https://playwright.info/)
-  * Przemysław Barański, Krzysztof Kijas
+  * Przemysław Barański, Krzysztof Kijas 
 * [https://blog.qalabs.pl/](https://blog.qalabs.pl/)
   * Maciej Chmielarz, Rafał Borowiec
 * [https://softie.pl/blog/](https://softie.pl/blog/)
