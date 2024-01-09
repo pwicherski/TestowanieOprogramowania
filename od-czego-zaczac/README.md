@@ -49,19 +49,15 @@ Poniższy wpis bardzo fajnie nakreśla kilka podstawowych kwestii i dostarcza pr
 
 ## Mentoring
 
-Na grupie Testowanie Oprogramowania istenieje program mentoringowy, dzięki któremu możesz znaleźć mentora lub mentorkę, którzy pomogą Ci w Twoim rozwoju.
+Odnalezienie mentora może okazać się aktualnie najefektywniejszym sposobem na osiągnięcie satysfakconujących i mierzalnych efektów.
 
-### Jak działa program
+Aktualnie nie ma indywidualnego programu mentoringowego, który mógłbym polecić dla osób chcących zostać testerami oprogramowania.
 
-{% hint style="info" %}
-Program jest darmowy. Mentorzy nie pobierają żadnych opłat za pomoc.
-{% endhint %}
+Program, który prowadziłem na grupie Testowanie Oprogramowania został zawieszony przez to, że Facebook usunął całkowicie funkcję mentoringu.
 
-Po zarejestrowaniu się, i wybraniu partnera (mentor/mentee), co tydzień będziesz otrzymywać pomocne tematy na rozpoczęcie konwersacji, co pomoże lepiej się poznać. Od Ciebie zależy, ile czasu chcesz spędzać wspólnie i nad jakimi celami chcesz pracować.
+Pracuję nad przygotowaniem nowego programu.
 
-Więcej informacji na temat programu:
 
-{% embed url="https://www.facebook.com/groups/TestowanieOprogramowania/permalink/3058410494181508/" %}
 
 ## 📚 Materiały
 
@@ -74,13 +70,13 @@ Więcej informacji na temat programu:
   * [Testerzy odpowiadają testerom 33 - Jak zostać testerem?](http://testerzy.pl/baza-wiedzy/testerzy-odpowiadaja-testerom-33-jak-zostac-testerem) 🌞
   * [Jak zostać testerem \[Testerzy.pl\]](https://www.youtube.com/watch?v=04oaMKkgVsE)🌞 📺
 * [Co robi tester oprogramowania na co dzień?](http://jakzostactesterem.pl/co-robi-tester-oprogramowania-na-co-dzien/) 🌞
-  * [Jak zacząć testować oprogramowanie](http://jakzostactesterem.pl/jak-zaczac-testowac-oprogramowanie-trzy-sposoby-na-zdobycie-doswiadczenia-w-zawodzie-testera/) 🌞&#x20;
+  * [Jak zacząć testować oprogramowanie](http://jakzostactesterem.pl/jak-zaczac-testowac-oprogramowanie-trzy-sposoby-na-zdobycie-doswiadczenia-w-zawodzie-testera/) 🌞
   * [Motywacja testera oprogramowania – zarobki to nie wszystko](http://jakzostactesterem.pl/motywacja-testera-oprogramowania-zarobki-to-nie-wszystko/) 🌞
 * [Praca zdalna](../praca-zdalna.md) 🌞
 * [Tester gier, praca marzeń. Pierwsze kroki w branży - Monika Krupińska](https://www.youtube.com/watch?v=bL3hmVmhSw0) 🌞 📺
 * [99 Things Testers Can Do To Become Better Testers](https://www.slideshare.net/rosiesherry/99-things-you-can-do-to-become-a-better-tester)
 * [99 rzeczy, które możesz zrobić, aby stać się lepszym testerem](http://edu.ittraining.pl/pobierz\_material/rady\_dla\_dobrego\_testera) 🌞
-* [Quality Assured: What It’s Really Like To Test Games For A Living](http://kotaku.com/quality-assured-what-it-s-really-like-to-play-games-fo-1720053842)&#x20;
+* [Quality Assured: What It’s Really Like To Test Games For A Living](http://kotaku.com/quality-assured-what-it-s-really-like-to-play-games-fo-1720053842)
 * [How to get started in software testing](http://thesocialtester.co.uk/how-to-get-started-in-software-testing-a-few-resources/)
 * [Non-IT to Software Testing Switch – How to Get Into QA](https://www.softwaretestinghelp.com/non-it-to-software-testing-switch-how-to-get-into-qa/)
 * [30 Things Every New Software Tester Should Learn](https://dojo.ministryoftesting.com/dojo/lessons/30-things-every-new-software-tester-should-learn)
