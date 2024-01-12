@@ -26,12 +26,10 @@
   * Zestaw tutoriali selenium, webdriver, java etc.
 * [https://www.seleniumeasy.com](https://www.seleniumeasy.com)
   * Complete Automation Testing Tutorials
-* [http://www.guru99.com/selenium-tutorial.html](http://www.guru99.com/selenium-tutorial.html)
-  * Fajny, przyjemny i aktualny kurs Selenium opatrzony duża ilością nagrań opowiadających o tym co i jak
-* [https://www.youtube.com/watch?v=cIevkkD\_LB4](https://www.youtube.com/watch?v=cIevkkD_LB4)
-  * Selenium Test Automation: Practical Tips & Tricks - with Dave Haeffner \(Part 1\)
+* [https://www.youtube.com/watch?v=cIevkkD\_LB4](https://www.youtube.com/watch?v=cIevkkD\_LB4)
+  * Selenium Test Automation: Practical Tips & Tricks - with Dave Haeffner (Part 1)
 * [https://www.youtube.com/watch?v=w0pYTX2t0pg](https://www.youtube.com/watch?v=w0pYTX2t0pg)
-  * Selenium Test Automation: Practical Tips & Tricks - with Dave Haeffner \(Part 2\)
+  * Selenium Test Automation: Practical Tips & Tricks - with Dave Haeffner (Part 2)
 * [https://seleniumguidebook.com/](https://seleniumguidebook.com/)
   * Oprócz książki, można też zakupić kursy wideo.
 * [http://mailcourse.seleniumbook.com/](http://mailcourse.seleniumbook.com/)
@@ -43,17 +41,19 @@
 
 * [https://code.google.com/p/selenium/wiki/GettingStarted](https://code.google.com/p/selenium/wiki/GettingStarted)
   * Googlowskiego.Code Gettings Started
-* [https://docs.saucelabs.com/reference/platforms-configurator/\#/](https://docs.saucelabs.com/reference/platforms-configurator/#/)
-  * \(Sauce Labs\) Automated Test Configurator
+* [https://docs.saucelabs.com/reference/platforms-configurator/#/](https://docs.saucelabs.com/reference/platforms-configurator/#/)
+  * (Sauce Labs) Automated Test Configurator
 
 ### Strony na których można trenować
 
-{% page-ref page="../gdzie-trenowac.md" %}
+{% content-ref url="../gdzie-trenowac.md" %}
+[gdzie-trenowac.md](../gdzie-trenowac.md)
+{% endcontent-ref %}
 
 ### Książki
 
 * [https://seleniumguidebook.com/](https://seleniumguidebook.com/)
-  * The Selenium Guidebook \(Java, Ruby, C\#, Python, JavaScript\)
+  * The Selenium Guidebook (Java, Ruby, C#, Python, JavaScript)
 * [http://seleniumsimplified.com](http://seleniumsimplified.com)
   * Bardzo przystępna książka Alana Richardsona
 * [http://javafortesters.com/](http://javafortesters.com/)
@@ -64,4 +64,3 @@
   * Mastering Selenium WebDriver
 * [http://seleniumbook.com/](http://seleniumbook.com/)
   * End-to-end testing
-
