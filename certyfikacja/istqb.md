@@ -2,8 +2,8 @@
 
 ### **Certyfikat ISTQB**
 
-* [Czym jest ISTQB](https://www.youtube.com/watch?v=HrK1zhqyW4k) (https://www.youtube.com/watch?v=3LpaZXAg1l0)📺
-* [Certyfikat testerski ISTQB Foundation Level – czym jest i czy warto go mieć?] (https://www.youtube.com/watch?v=3HNy2AHkuGw) (http://jakzostactesterem.pl/certyfikat-testerski-istqb-foundation-czym-warto-go-miec/)&#x20;
+* [Czym jest ISTQB](https://www.youtube.com/watch?v=3LpaZXAg1l0) - webinar opowiadający o ISTQB 4.0 📺
+* [Certyfikat testerski ISTQB Foundation Level – czym jest i czy warto go mieć?](http://jakzostactesterem.pl/certyfikat-testerski-istqb-foundation-czym-warto-go-miec/)
 
 ### **Czy szkolenie jest niezbędne żeby zdać egzamin?**
 
@@ -17,7 +17,7 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 
 ### **Szkolenia do egzaminu na certyfikat ISTQB poziom podstawowy przeprowadzają takie firmy jak:**
 
-W kontekście ISTQB, firma która szkoli tj. przygotowuje kandydatów do egzaminu to akredytowany dostawca szkoleń. Podmiotem akredytującym w Polsce jest SJSI, które publikuje listę takich dostawców na [stronie](https://sjsi.org/akredytacje/akredytowani-dostawcy-szkolen/). 
+W kontekście ISTQB, firma która szkoli tj. przygotowuje kandydatów do egzaminu to akredytowany dostawca szkoleń. Podmiotem akredytującym w Polsce jest SJSI, które publikuje listę takich dostawców na [stronie](https://sjsi.org/akredytacje/akredytowani-dostawcy-szkolen/).
 
 * [IT Trainings](http://ittraining.pl/szkolenia/zapewnic\_jakosc/istqb\_poziom\_podstawowy)
 * [Testuj.pl](https://testuj.pl/lista-szkolen?name=istqb)
@@ -25,7 +25,7 @@ W kontekście ISTQB, firma która szkoli tj. przygotowuje kandydatów do egzamin
 
 ### **Przygotowanie do egzaminu ISTQB Poziom Podstawowy (Foundation Level)**
 
-* [Jak zdać egzamin ISTQB. Wprowadzenie \[ebook + wprowadzenie\]](http://testerzy.pl/baza-wiedzy/jak-zdac-egzamin-istqb-podpowiedzi)&#x20;
+* [Jak zdać egzamin ISTQB. Wprowadzenie \[ebook + wprowadzenie\]](http://testerzy.pl/baza-wiedzy/jak-zdac-egzamin-istqb-podpowiedzi)
 * [Jak zdać egzamin ISTQB Poziom Podstawowy plus streszczenie sylabusa](http://testerzy.pl/baza-wiedzy/e-book-jak-zdac-egzamin-istqb-poziom-podstawowy-plus-streszczenie-sylabusa)
 * [Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania \[Książka\]](https://buybox.click/4917/buybox.html?oid=4662933)
 
@@ -38,11 +38,11 @@ W kontekście ISTQB, firma która szkoli tj. przygotowuje kandydatów do egzamin
   * [Pytania z arkusza egzaminacyjnego w formie interaktywnego testu](https://laborqa.pl/istqb-test-online/)
 * [ISTQB Simulator Test for Foundation Level Paper](http://toolsqa.com/istqb/istqb-simulator-test-foundation-level-paper-1/)
 * [Kilka przykładowych arkuszy egzaminacyjnych ISTQB przygotowanych przez ASTQB](https://www.astqb.org/get-certified/istqb-syllabi-the-istqb-software-tester-certification-body-of-knowledge/)
-* [Quizy ISTQB](http://getistqb.com/)&#x20;
+* [Quizy ISTQB](http://getistqb.com/)
 * [Jak zaliczyłem egzamin certyfikacyjny ISTQB Foundation Level](http://strefakodera.pl/blog/jak-zaliczylem-egzamin-certyfikacyjny-istqb-foundation-level)
 * [Jak zdać ISTQB ](http://testcase.pl/news/jak-zdac-egzamin-istqb/)[Foundation Level](https://www.istqb.org/downloads/syllabi/foundation-level-syllabus.html)
 
-### &#x20;<img src="../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (1) (1) (1) (6).png" alt="" data-size="line"> Dyskusje
+### <img src="../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (1) (1) (1) (6).png" alt="" data-size="line"> Dyskusje
 
 * ["ISTQB" - lista dyskusji w grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1765191683503402\&ref=story\_subtitle) 🏤
   * Tutaj znajdziesz listę dyskusji, w których członkowie grupy zadają pytania na temat ISTQB.
@@ -51,4 +51,3 @@ W kontekście ISTQB, firma która szkoli tj. przygotowuje kandydatów do egzamin
 * [Przykładowe pytania ISTQB](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1241196819236227/)
 * [Często czytałam opinie, że na egzaminie ISTQB pytania są z kosmosu.](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1241196819236227/)
 * [Czy te certyfikaty ISTQB Advanced jakoś specjalnie przełożyły się na waszą pracę zawodową?](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1108713379151239/)
-
