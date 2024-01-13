@@ -19,7 +19,7 @@
 * [Praca zdalna dla testera](praca-zdalna.md)
 * [Praca z domu](praca-z-domu.md)
 * [Zarobki](zarobki.md)
-* [Kursy online](kursy-online.md)
+* [Kursy testowanie oprogramowania online](kursy-online.md)
 * [Kursy fizyczne](kursy-fizyczne.md)
 * [Studia z testowania](studia-z-testowania.md)
 * [Automatyzacja](automatyzacja/README.md)
