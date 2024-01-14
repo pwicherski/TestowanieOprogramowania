@@ -6,21 +6,13 @@ description: >-
 
 # Testowanie Oprogramowania
 
-
-
 ![](.gitbook/assets/rozwoj.png)
 
-
+Materiał jest przeznaczony zarówno dla początkujących testerów jak i dla osób już pracujących na stanowiskach powiązanych z testowaniem oprogramowania.
 
 Oczywiście nie ma jednej (czy też najlepszej) drogi, która byłaby równie dobra dla każdego.
 
-Dlaczego więc w ogóle zdecydowałem się na stworzenie takiego dokumentu? Ponieważ działając na rzecz społeczności testerskiej, otrzymałem wiele próśb o pomoc. Dotyczyły one pytań od czego rozpocząć naukę testowania, w tym automatyzacji, jak przygotować się do pierwszej rozmowy o pracę i do samej pracy, a także w którym kierunku warto się rozwijać jako tester oprogramowania i dlaczego.
 
-Mam nadzieję, że ten dokument pomoże chociaż trochę osobom, którym nie mogłem poświęcić więcej uwagi. Nadal oczywiście nie przestanę pomagać na tyle, ile potrafię w trakcie rozmów indywidualnych.
-
-Książka jest subiektywnym zbiorem moich materiałów i doświadczeń.
-
-Nie będę Cię, drogi Czytelniku, uczył.
 
 Chcę wskazać przykładowe kroki i materiały, które (jeśli tylko zechcesz) będziesz mógł wykorzystać na drodze wiodącej ku byciu lepszym testerem.
 
@@ -38,7 +30,7 @@ Wybrane materiały nie wyczerpują tematu, należy je raczej potraktować jako w
 [najczesciej-zadawane-pytania.md](najczesciej-zadawane-pytania.md)
 {% endcontent-ref %}
 
-**"O czego zacząć"**  zawiera materiały, porady i plany rozwoju. Jeżeli chcesz zacząć, zacznij tutaj.
+**"O czego zacząć"** zawiera materiały, porady i plany rozwoju. Jeżeli chcesz zacząć, zacznij tutaj.
 
 {% content-ref url="od-czego-zaczac/" %}
 [od-czego-zaczac](od-czego-zaczac/)
