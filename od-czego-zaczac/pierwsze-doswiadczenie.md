@@ -4,36 +4,37 @@
 
 #### Praktyczne w swojej pierwszej pracy lub stażu
 
-{% page-ref page="../szukanie-pracy/" %}
+{% content-ref url="../szukanie-pracy/" %}
+[szukanie-pracy](../szukanie-pracy/)
+{% endcontent-ref %}
 
-{% page-ref page="../szukanie-pracy/szukanie-stazu.md" %}
+{% content-ref url="../szukanie-pracy/szukanie-stazu.md" %}
+[szukanie-stazu.md](../szukanie-pracy/szukanie-stazu.md)
+{% endcontent-ref %}
 
 #### Teoretyczne
 
-{% page-ref page="../gdzie-trenowac.md" %}
+{% content-ref url="../gdzie-trenowac.md" %}
+[gdzie-trenowac.md](../gdzie-trenowac.md)
+{% endcontent-ref %}
 
-#### Praktyczne zdalne przedstawione poniżej w formie pracy lub wolontariatu połączonego z nauką przedstawione poniżej. 
+#### Praktyczne zdalne przedstawione poniżej w formie pracy lub wolontariatu połączonego z nauką przedstawione poniżej.
 
 ### Crowdsourced testing
 
-{% page-ref page="../praca-zdalna.md" %}
+{% content-ref url="../praca-zdalna.md" %}
+[praca-zdalna.md](../praca-zdalna.md)
+{% endcontent-ref %}
 
-### Mozilla Foundation
+### Mozilla Contribute
 
 Strona projektu:
 
-{% embed url="https://whatcanidoformozilla.org" %}
+{% embed url="https://community.mozilla.org/en/activities/" %}
 
-Poprzez stronę WhatICanDoForMozilla możemy wybrać w jaki sposób chcemy uczestniczyć w projektach budowanych przez pracowników Mozilli, firmy wspomagające i społeczność. Mamy możliwość zdobycia doświadczenia w projektach \(z perspektywy QA\) poprzez między innymi:
+{% embed url="https://www.mozilla.org/en-US/contribute/" %}
 
-* Testowanie Firefoxa
-* Testowanie Thunderbirda
-* Testowanie Firefox Nightly
-* Testowanie nowych produktów Mozilli
-* Współtworzenie skryptów automatyzacji do Firefoxa
-* Wydarzenia poszukiwaczy błędów
-
-Sam miałem przyjemność uczestniczyć w projektach testowania nowego oprogramowania i sprzętu przy tworzeniu Firefox OS. Zabawa jest przednia, świetni ludzie z całego świata, całe kontenery doświadczenia i ogromne pole do popisu :\)
+Poprzez strony kontrybucji Mozilla możemy wybrać w jaki sposób chcemy uczestniczyć w projektach budowanych przez pracowników Mozilli, firmy wspomagające i społeczność
 
 #### Mozilla Activate Community
 
@@ -78,13 +79,8 @@ FreeCodeCamp nie jest projektem dla każdego. Jest nakierowany zdecydowanie na o
 
 Wiele firm umożliwia granie w swoje produkcje za darmo w trakcie otwartych i zamkniętych testów.
 
-Przykładowa \(aktualizowana\) lista przyszłych i aktualnych testów: [http://games.gamepressure.com/beta-tests.asp](http://games.gamepressure.com/beta-tests.asp)
+Przykładowa (aktualizowana) lista przyszłych i aktualnych testów: [http://games.gamepressure.com/beta-tests.asp](http://games.gamepressure.com/beta-tests.asp)
 
 ### 📚 Materiały
 
 * [How to become a beta tester](http://www.wikihow.com/Become-a-Beta-Tester)
-
-
-
-
-
