@@ -6,6 +6,7 @@
 * [Najczęściej zadawane pytania](najczesciej-zadawane-pytania.md)
 * [Od czego zacząć](od-czego-zaczac/README.md)
   * [Pierwsze doświadczenie](od-czego-zaczac/pierwsze-doswiadczenie.md)
+* [Co powinien umieć junior tester](co-powinien-umiec-junior-tester.md)
 * [Plan nauki](plan-nauki/README.md)
   * [Plan - Czy na pewno?](plan-nauki/plan-czy-na-pewno.md)
   * [Plan - Wejście w IT](plan-nauki/plan-wejscie-w-it.md)
