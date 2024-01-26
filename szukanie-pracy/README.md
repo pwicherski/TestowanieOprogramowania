@@ -12,6 +12,7 @@
 * [https://www.juniorjobsonly.com/](https://www.juniorjobsonly.com/)
 * [https://jobsforgeek.com/](https://jobsforgeek.com/job-offers?country=POLAND\&country=POLAND\&jobCategory=TESTER)
 * [https://theprotocol.it/](https://theprotocol.it/)
+* [https://solid.jobs/offers/it;categories=Tester](https://solid.jobs/offers/it;categories=Tester)
 * [https://pl.indeed.com/praca](https://pl.indeed.com/praca)
 * [https://www.pracuj.pl/](https://www.pracuj.pl/)
 * [https://www.praca.pl/](https://www.praca.pl/)
@@ -94,11 +95,11 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 
 ## 📚 Materiały
 
-* [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy)&#x20;
+* [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy)
 * [Kurs - Jak sprawić by to rekruterzy się do Ciebie odezwali](https://www.linkedin.com/learning/j-t-o-donnell-on-making-recruiters-come-to-you/welcome) 📺
 * [E-book przygotowanie do rekrutacji](https://jakzostactesterem.pl/bezplatny-ebook-pdf-mlodszy-tester-oprogramowania-przygotowanie-do-rekrutacji/)
 * [Jaki jest dobry profil na LinkedIn? Poradnik (nie) tylko dla testerów](https://testuj.pl/blog/jaki-jest-dobry-profil-na-linkedin-poradnik-nie-tylko-dla-testerow/)
 
 ## <img src="../.gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (1) (1) (1) (10).png" alt="" data-size="line"> **Dyskusje**
 
-* [Problemy z zatrudnianiem ludzi bez doświadczenia ](https://www.facebook.com/groups/TestowanieOprogramowania/posts/4795134627175744/)
+* [Problemy z zatrudnianiem ludzi bez doświadczenia](https://www.facebook.com/groups/TestowanieOprogramowania/posts/4795134627175744/)
