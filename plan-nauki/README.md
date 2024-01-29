@@ -20,44 +20,57 @@ Nie ma jednego dobrego sposobu na rozpoczęcie nauki testowania, wejście w świ
 
 Czy na pewno chcesz zostać testerem? Odpowiedz sobie na to pytanie ponownie, po zapoznaniu się ze wszystkimi materiałami i wykonaniu zadań z tablicy.
 
-{% page-ref page="plan-czy-na-pewno.md" %}
+{% content-ref url="plan-czy-na-pewno.md" %}
+[plan-czy-na-pewno.md](plan-czy-na-pewno.md)
+{% endcontent-ref %}
 
 ## Wejście w IT
 
 Jeżeli chcesz wejść w świat IT bez żadnego wcześniejszego doświadczenia. Spróbuj tej ścieżki.
 
-{% page-ref page="plan-wejscie-w-it.md" %}
+{% content-ref url="plan-wejscie-w-it.md" %}
+[plan-wejscie-w-it.md](plan-wejscie-w-it.md)
+{% endcontent-ref %}
 
 ## Testowanie
 
 Wiesz, że chcesz zacząć testować. A może już udało Ci się dostać pierwszą pracę, jednak chcesz przerobić podstawy?
 
-{% page-ref page="plan-testowanie.md" %}
+{% content-ref url="plan-testowanie.md" %}
+[plan-testowanie.md](plan-testowanie.md)
+{% endcontent-ref %}
 
 ## Automatyzacja
 
 Jeżeli chcesz rozpocząć naukę automatyzacji.
 
-{% page-ref page="plan-automatyzacja.md" %}
+{% content-ref url="plan-automatyzacja.md" %}
+[plan-automatyzacja.md](plan-automatyzacja.md)
+{% endcontent-ref %}
+
+## 📚 Dodatkowe materiały
+
+{% content-ref url="co-powinien-umiec-junior-tester.md" %}
+[co-powinien-umiec-junior-tester.md](co-powinien-umiec-junior-tester.md)
+{% endcontent-ref %}
 
 ## 📚 Materiały do trello
 
-* [Kanban 101: How to Use Kanban Boards to Manage Your Next Project](https://zapier.com/learn/project-management/kanban-board/) 
-* [Przykładowa tablica, która jest także wprowadzeniem do możliwości Trello](https://trello.com/b/I7TjiplA/trello-tutorial) 
-* [Bardzo dobrze przygotowane przykłady tablic w Trello](https://trello.com/inspiration) 
+* [Kanban 101: How to Use Kanban Boards to Manage Your Next Project](https://zapier.com/learn/project-management/kanban-board/)
+* [Przykładowa tablica, która jest także wprowadzeniem do możliwości Trello](https://trello.com/b/I7TjiplA/trello-tutorial)
+* [Bardzo dobrze przygotowane przykłady tablic w Trello](https://trello.com/inspiration)
 * [Jak skopiować tablicę w Trello](https://www.youtube.com/watch?v=lTRi48NKdoA)
 
 ## 📚 Planowanie nauki
 
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-* [How to get started in software testing](http://thesocialtester.co.uk/how-to-get-started-in-software-testing-a-few-resources/) 
-* [The secrets to getting started in your software testing career](http://searchsoftwarequality.techtarget.com/tip/The-secrets-to-getting-started-in-your-software-testing-career) 
-* [Get started in software testing](https://testlio.com/blog/post/get-started-software-testing) 
-* [Non-IT to software testing switch - How to get into QA](http://www.softwaretestinghelp.com/non-it-to-software-testing-switch-how-to-get-into-qa/) 
-* [Software testing for freshers](http://www.softwaretestingtricks.com/2007/05/software-testing-for-freshers-tested.html) 
-* [How to Become the MacGyver of Software Testing: Learning from Scratch](https://netguru.co/blog/quality-assurance-means) 
+* [How to get started in software testing](http://thesocialtester.co.uk/how-to-get-started-in-software-testing-a-few-resources/)
+* [The secrets to getting started in your software testing career](http://searchsoftwarequality.techtarget.com/tip/The-secrets-to-getting-started-in-your-software-testing-career)
+* [Get started in software testing](https://testlio.com/blog/post/get-started-software-testing)
+* [Non-IT to software testing switch - How to get into QA](http://www.softwaretestinghelp.com/non-it-to-software-testing-switch-how-to-get-into-qa/)
+* [Software testing for freshers](http://www.softwaretestingtricks.com/2007/05/software-testing-for-freshers-tested.html)
+* [How to Become the MacGyver of Software Testing: Learning from Scratch](https://netguru.co/blog/quality-assurance-means)
 
 ## **💬** **Dyskusje**
 
 * [Jak ułożyć sobie przyswajaną wiedzę](https://www.facebook.com/groups/TestowanieOprogramowania/permalink/1745867432102494/)
-
