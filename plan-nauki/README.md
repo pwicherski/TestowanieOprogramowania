@@ -50,6 +50,10 @@ Jeżeli chcesz rozpocząć naukę automatyzacji.
 
 ## 📚 Dodatkowe materiały
 
+{% embed url="https://roadmap.sh/qa" %}
+QA Roadmap
+{% endembed %}
+
 {% content-ref url="co-powinien-umiec-junior-tester.md" %}
 [co-powinien-umiec-junior-tester.md](co-powinien-umiec-junior-tester.md)
 {% endcontent-ref %}
