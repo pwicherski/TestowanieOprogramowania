@@ -1,3 +1,7 @@
+---
+description: Jak zacząć naukę testera oprogramowania w testowaniu oprogramowania
+---
+
 # Od czego zacząć
 
 ## Na początek
