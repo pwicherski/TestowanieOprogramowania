@@ -4,7 +4,7 @@
 * [Autor](autor.md)
 * [Jak czytać tę książkę](jak-czytac-te-ksiazke.md)
 * [Najczęściej zadawane pytania](najczesciej-zadawane-pytania.md)
-* [Od czego zacząć](od-czego-zaczac/README.md)
+* [Od czego zacząć w testowaniu](od-czego-zaczac/README.md)
   * [Pierwsze doświadczenie](od-czego-zaczac/pierwsze-doswiadczenie.md)
 * [Plan nauki](plan-nauki/README.md)
   * [Plan - Czy na pewno?](plan-nauki/plan-czy-na-pewno.md)

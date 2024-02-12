@@ -1,10 +1,10 @@
 ---
-description: Jak zacząć naukę testera oprogramowania w testowaniu oprogramowania
+description: Jak zacząć naukę na testera
 ---
 
-# Od czego zacząć
+# Od czego zacząć w testowaniu
 
-## Na początek
+## Testowanie oprogramowanai na początek
 
 Przed zdecydowaniem się na rozpoczęcie swojej przygody z testowaniem, warto zadać sobie pytanie "czy na pewno chcę być testerem?". Jeśli tak, to dlaczego?
 
