@@ -1,7 +1,16 @@
 ---
-description: >-
-  Najwygodniejszy sposób na czytanie książki to wejście pod adres:
-  https://ksiazka.testowanieoprogramowania.pl
+description: Testowanie Oprogramowania - Książka
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Testowanie Oprogramowania
