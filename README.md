@@ -1,16 +1,5 @@
 ---
 description: Testowanie Oprogramowania - Książka
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Testowanie Oprogramowania
