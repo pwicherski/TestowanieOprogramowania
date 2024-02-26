@@ -8,6 +8,17 @@ Pamiętaj, żeby dokładnie przemyśleć wybór kursu czy studiów podyplomowych
 Każdy kurs czy studia wymagają wyraźnej inwestycji czasu własnego poza wytyczonymi przez sylabus.
 {% endhint %}
 
+## Polecane kursy i studia
+
+> Chcę nauczyć się testowania, rozpocząć pracę jako tester. Czy polecacie kurs X?
+
+**Nie.** Rozwinięcie poniżej.\
+_(Odpowiedź dotyczy tylko ogólnego pytania bez nakierowania na narzędzie, język czy technologie)_
+
+> Chcę nauczyć się testowania, rozpocząć pracę jako tester. Czy polecacie studia Y?
+
+**Nie.** Rozwinięcie poniżej.
+
 ## Jaki kurs wybrać na początek?
 
 Nie wiadomo. Nie ma jednej poprawnej odpowiedzi na tak ogólne pytanie.

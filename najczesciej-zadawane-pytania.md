@@ -80,7 +80,23 @@ Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i pos
 [zarobki.md](zarobki.md)
 {% endcontent-ref %}
 
+## Chcę nauczyć się testowania, rozpocząć pracę jako tester. Czy polecacie kurs X?
+
+{% content-ref url="kursy-online.md" %}
+[kursy-online.md](kursy-online.md)
+{% endcontent-ref %}
+
+## Chcę nauczyć się testowania, rozpocząć pracę jako tester. Czy polecacie studia X?
+
+{% content-ref url="kursy-online.md" %}
+[kursy-online.md](kursy-online.md)
+{% endcontent-ref %}
+
 ## Jaki kurs/warsztat w mieście X dla początkującego testera?
+
+{% content-ref url="kursy-online.md" %}
+[kursy-online.md](kursy-online.md)
+{% endcontent-ref %}
 
 {% content-ref url="kursy-fizyczne.md" %}
 [kursy-fizyczne.md](kursy-fizyczne.md)
