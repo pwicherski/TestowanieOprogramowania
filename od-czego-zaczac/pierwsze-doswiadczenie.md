@@ -83,4 +83,4 @@ Przykładowa (aktualizowana) lista przyszłych i aktualnych testów: [http://gam
 
 ### 📚 Materiały
 
-* [How to become a beta tester](http://www.wikihow.com/Become-a-Beta-Tester)
+*
