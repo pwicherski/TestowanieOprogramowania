@@ -44,6 +44,7 @@
   * [Newsletter/Biuletyn testerski](gdzie-szukac-wiedzy/newsletter-biuletyn-testerski.md)
   * [Podcasty](gdzie-szukac-wiedzy/podcasty.md)
   * [YouTube](gdzie-szukac-wiedzy/youtube.md)
+  * [Porady prawne](gdzie-szukac-wiedzy/porady-prawne.md)
 * [Zarządzanie projektem, zespołem](zarzadzanie-projektem-zespolem/README.md)
   * [Plan testów](zarzadzanie-projektem-zespolem/plan-testow.md)
   * [Przypadki testowe](zarzadzanie-projektem-zespolem/przypadki-testowe.md)
