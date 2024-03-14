@@ -2,9 +2,9 @@
 
 ## Zacznij śmiało od zadania swojego pytania w wyszukiwarce
 
-![](.gitbook/assets/adnotacja-2020-01-09-151253.png)
+![](<.gitbook/assets/Screenshot 2024-03-14 140809.png>)
 
-Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i postaram się zamieścić poszukiwane przez Ciebie materiały w kolejnej aktualizacji dokumentu :)
+Jeżeli Twoje zapytanie nie zwróci wyników, zostanę o tym poinformowany i postaram się zamieścić poszukiwane przez Ciebie materiały w kolejnej aktualizacji książki.
 
 ## Jak w ogóle zacząć naukę, jakie materiały polecacie na początek?
 
