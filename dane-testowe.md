@@ -28,6 +28,8 @@ Dane testowe \(ISTQB\) - To dane, które istnieją \(przykładowo w bazie danych
   * [http://testerzy.pl/narzedzia/generator-danych-testowych](http://testerzy.pl/narzedzia/generator-danych-testowych)
 * CSV, JSON, SQL, i Excel.
   * [https://www.mockaroo.com/](https://www.mockaroo.com/)
+* CSV, JSON, SQL, i XML.
+  * [https://softwium.com/mockium/](https://softwium.com/mockium/)
 * Narzędzie z otwartym kodem źródłowym, świetne do generowanie bardzo dużej liczby danych.
   * [http://www.generatedata.com/](http://www.generatedata.com/)
   * [https://github.com/benkeen/generatedata](https://github.com/benkeen/generatedata)
