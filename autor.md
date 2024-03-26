@@ -6,7 +6,9 @@ description: Piotr Wicherski
 
 ## Piotr Wicherski
 
-Certyfikowany tester oprogramowania oraz pasjonat urządzeń mobilnych, jeden z autorów (vice-chair) sylabusa [ISTQB Mobile Application Testing](https://www.istqb.org/certifications/mobile-tester). W branży mobilnej działa od 2008 roku. Testował mobilne – moduły, urządzenia, aplikacje i systemy operacyjne. Zdobywał doświadczenie pracując z firmami takimi jak UEFA, T-Mobile, Samsung R\&D, Allegro, Applause czy Netguru.
+Certyfikowany tester oprogramowania oraz pasjonat urządzeń mobilnych, ponad 15 lat doświadczenia.
+
+Jeden z autorów (vice-chair) sylabusa [ISTQB Mobile Application Testing](https://www.istqb.org/certifications/mobile-tester). W branży mobilnej działa od 2008 roku. Testował mobilne – moduły, urządzenia, aplikacje i systemy operacyjne. Zdobywał doświadczenie pracując z firmami takimi jak UEFA, T-Mobile, Samsung R\&D, Allegro, Applause czy Netguru.
 
 Administruje największą społecznością testerską online - grupą [Testowanie Oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/).
 
