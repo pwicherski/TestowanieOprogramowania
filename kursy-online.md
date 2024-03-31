@@ -38,25 +38,16 @@ Przykładowa dyskusja w tym temacie: [https://www.facebook.com/groups/Testowanie
 
 ## <img src=".gitbook/assets/icons8-facebook-50 (10) (1) (1) (1) (1) (1) (1) (1) (4).png" alt="" data-size="line"> Dyskusje na grupie Testowanie Oprogramowania
 
-Dyskusje na temat firm szkoleniowych oferujących kursy na testera oprogramowania:
+Dyskusje na temat firm szkoleniowych oferujących kursy na testera oprogramowania:\
+[https://gist.github.com/pwicherski/a6aa6f4d8bd2ada28cef384b76984a83](https://gist.github.com/pwicherski/a6aa6f4d8bd2ada28cef384b76984a83) (pełna lista)
 
 {% embed url="https://gist.github.com/pwicherski/a6aa6f4d8bd2ada28cef384b76984a83" %}
+Skrócony podgląd listy dyskusji na temat firm szkoleniowych oferujących kursy na testera oprogramowania
+{% endembed %}
 
 ## 📚 Materiały
 
-* [Black Box Software Testing course](http://www.testingeducation.org/BBST/) 📺
-* [Udacity - Software Analysis & Testing](https://eu.udacity.com/course/software-analysis-testing--ud333) 📺🕹️
-* [Udacity - Software testing. How to make software fail](https://www.udacity.com/course/software-testing--cs258) 📺🕹️
-* [Testerzy.pl - Praktyka testowania dla początkujących testerów](http://szkolenia.testerzy.pl/praktyka-testowania/praktyka-testowania-dla-poczatkujacych-testerow) 💵
-* [QA Courses - Szkoła testerów](https://qa-courses.com/szkola-testerow/) 💵
-* [EdX - Software Testing Fundamentals](https://www.edx.org/course/software-testing-fundamentals-usmx-university-maryland-university-stv1-1x) 📺🕹️
-* [Alison - Introduction to Software Testing](https://alison.com/course/introduction-to-software-testing) 📺🕹️
-* [Guru99 - Software Testing Tutorial](http://www.guru99.com/software-testing.html) 📺
-* [AST - Black Box Software Testing](http://www.associationforsoftwaretesting.org/training/) 📺💵
-* [QA Tutor](http://www.qatutor.com/) 💵
-* [Coursera - Testing with Agile](https://www.coursera.org/learn/uva-darden-agile-testing) 📺
-* [Coursera - Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design) 📺
-* [4\_Testers - Kurs dla Testerów Oprogramowania](https://4testers.pl/)💵
+* TODO
 
 Dodatkowe zbiory kursów:
 
