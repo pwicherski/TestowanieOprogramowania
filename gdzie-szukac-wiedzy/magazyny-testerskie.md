@@ -9,6 +9,7 @@
 * [LogiGEAR Magazine](http://www.logigear.com/magazine/)
 * [Better Software Magazine](https://www.stickyminds.com/better-software-magazine)
 * [Methods & Tools](http://www.methodsandtools.com/)
+* [Quality Matters](https://quality-matters.org/)
 
 ## Archiwalne
 
@@ -20,4 +21,3 @@
 * [Professional Tester Magazine](http://www.professionaltester.com/magazine/)
 * [Testing Experience](http://www.testingexperience.com/)
   * Już nie wydają nowych numerów. Jednak dostępne są pliki archiwalne zdecydowanie warte poczytania.
-
