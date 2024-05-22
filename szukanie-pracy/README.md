@@ -93,6 +93,10 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 [pierwsze-doswiadczenie.md](../od-czego-zaczac/pierwsze-doswiadczenie.md)
 {% endcontent-ref %}
 
+## Kursy
+
+* [Wygraj w rekrutację](https://www.wygrajgrewrekrutacje.pl/) 📺
+
 ## 📚 Materiały
 
 * [10 powodów, dla których adepci testowania nie mogą znaleźć pracy](http://testerzy.pl/baza-wiedzy/10-powodow-dla-ktorych-adepci-testowania-nie-moga-znalezc-pracy)
