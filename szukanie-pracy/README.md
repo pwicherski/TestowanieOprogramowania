@@ -95,7 +95,7 @@ Koniecznie zapoznaj się z poniższymi materiałami. Część z nich odnosi się
 
 ## Kursy
 
-* [Wygraj w rekrutację](https://www.wygrajgrewrekrutacje.pl/) 📺
+* [Wygraj Grę w rekrutację](https://www.wygrajgrewrekrutacje.pl/?utm_source=gitbook&utm_medium=autor&utm_campaign=WGR&utm_content=ksiazka) 📺
 
 ## 📚 Materiały
 
