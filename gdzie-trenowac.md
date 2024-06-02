@@ -48,6 +48,8 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * Various demo elements
 * [https://automationintesting.online/](https://automationintesting.online/)
   * System rezerwacji
+* [https://parabank.parasoft.com/](https://parabank.parasoft.com/)
+  * Para bank app
 * [https://bonigarcia.dev/selenium-webdriver-java/](https://bonigarcia.dev/selenium-webdriver-java/)
   * [https://www.oreilly.com/library/view/hands-on-selenium-webdriver/9781098109998/](https://www.oreilly.com/library/view/hands-on-selenium-webdriver/9781098109998/)
   * [https://github.com/bonigarcia/selenium-webdriver-java](https://github.com/bonigarcia/selenium-webdriver-java)

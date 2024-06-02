@@ -76,4 +76,5 @@
 
 ## Linki zewnętrzne
 
+* [🗒️ Autor LinkedIn](https://bit.ly/pwicherski)
 * [Autor LinkedIn](http://bit.ly/pwicherski)

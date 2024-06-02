@@ -6,7 +6,7 @@
 
 Zapraszam do wysyłania **pull requestów** ze zmianami do repozytorium, które po przeglądzie i zaakceptowaniu zostaną następnie zsynchronizowane z obecną wersją książki.
 
-{% embed url="https://github.com/pwicherski/TestowanieOprogramowania" %}
+{% @github-files/github-code-block url="https://github.com/pwicherski/TestowanieOprogramowania" %}
 
 Wszelkie błędy i sugestie także można zgłaszać poprzez zakładkę [Issues](https://github.com/pwicherski/TestowanieOprogramowania/issues)**.**
 
