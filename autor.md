@@ -4,7 +4,7 @@ description: Piotr Wicherski
 
 # Autor
 
-## Piotr Wicherski
+## [Piotr Wicherski](https://pwicherski.dev/)
 
 Certyfikowany tester oprogramowania oraz pasjonat urządzeń mobilnych, ponad 15 lat doświadczenia.
 
@@ -18,7 +18,7 @@ Członek [Harvard Business Review](https://hbr.org/) Advisory Council, [Stowarzy
 
 Mentor, prelegent i organizator przy takich wydarzeniach jak TestWarez, TestingCup, Agile & Automation Days, Automation Guild, Warszaw-QA czy Allegro Tech Days. Wykładowca zajęć z testowania aplikacji mobilnych w Warszawskiej Akademii Finansów i Biznesu Vistula.
 
-Ponad 50 prelekcji i warsztatów przeprowadzonych wokół [tematu Mobile QA](https://testujemy.mobi/wydarzenia-testerskie/).
+Ponad 50 prelekcji i warsztatów przeprowadzonych wokół tematu [Mobile QA](https://pwicherski.dev/).
 
 ### LinkedIn:
 
@@ -28,11 +28,13 @@ Ponad 50 prelekcji i warsztatów przeprowadzonych wokół [tematu Mobile QA](htt
 
 ### Blog:
 
+{% embed url="https://pwicherski.dev/" %}
+
 {% embed url="https://testujemy.mobi" %}
 
 ### Github:
 
-{% embed url="https://github.com/pwicherski" %}
+{% @github-files/github-code-block url="https://github.com/pwicherski" %}
 
 ### Twitter:
 
