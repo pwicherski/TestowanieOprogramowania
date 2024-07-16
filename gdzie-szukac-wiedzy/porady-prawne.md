@@ -10,11 +10,9 @@ Pamiętaj, żeby zawsze skontaktować się ze specjalistą przed podjęciem jaki
 
 ## Gdzie uzyskać darmową poradę prawną
 
-
-
 {% embed url="https://www.gov.pl/web/gov/skorzystaj-z-darmowej-pomocy-prawnej" %}
 
-
+{% embed url="https://www.gov.pl/web/gov/uzyskaj-podatkowa-interpretacje-indywidualna" %}
 
 {% embed url="https://obywatel.gov.pl/zasilki-i-pomoc-finansowa/skorzystaj-z-darmowej-pomocy-prawnej/" %}
 
