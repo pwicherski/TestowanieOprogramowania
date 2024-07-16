@@ -8,7 +8,7 @@ Z założenia żaden komentarz nie powinien być traktowany jako posiadający ja
 Pamiętaj, żeby zawsze skontaktować się ze specjalistą przed podjęciem jakiejkolwiek decyzji.
 {% endhint %}
 
-## Gdzie uzyskać darmową poradę prawną
+## Gdzie uzyskać darmową poradę prawną lub interpretację
 
 {% embed url="https://www.gov.pl/web/gov/skorzystaj-z-darmowej-pomocy-prawnej" %}
 
