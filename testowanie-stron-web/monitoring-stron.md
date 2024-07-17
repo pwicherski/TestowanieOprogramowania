@@ -21,8 +21,9 @@ Narzędzia do monitorowania statusu strony, w niektórych przypadkach połączon
   * Bot połączony ze Slackiem, który monitoruje zmiany w strukturze strony.
 * [https://ping.pl/](https://ping.pl/)
   * Polskie narzędzie do monitoringu dostępności stron. Testowanie wg scenariuszy, szybkości ładowania się strony, monitoring domeny i certyfikatu SSL.
+* [https://testomato.com/](https://testomato.com/)
+  * Automatyczny system monitorowania. Monitoruje zawartość strony internetowej, czas działania domeny, typowe błędy internetowe, certyfikat SSL. 
 * [https://www.webgazer.io](https://www.webgazer.io)
-* [https://www.statuscake.com/](https://www.statuscake.com/)
 * [https://www.uptrends.com](https://www.uptrends.com)
 * [https://uptime.com/](https://uptime.com/)
 * [https://www.uptimia.com/](https://www.uptimia.com/)
