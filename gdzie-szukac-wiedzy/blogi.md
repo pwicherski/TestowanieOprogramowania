@@ -16,20 +16,16 @@ Lista blogów prowadzonych przez polaków i zawierających większość wpisów 
   * Sławomir Radzymiński
 * [https://jakzostactesterem.pl/](http://jakzostactesterem.pl/)
   * Michał Putowski
+* [https://ptquality.pl/](https://ptquality.pl/)
+  * Piotr Tuński
 * [https://testelka.pl/blog/](https://testelka.pl/blog/)
   * Ela Sądel
-* [https://testerembyc.pl/](https://testerembyc.pl/)
-  * Maciej Kusz
 * [https://wyszkolewas.com.pl/blog/](https://www.wyszkolewas.com.pl/blog/)
   * Waldemar Szafraniec
 * [https://jaktestowac.pl/blog/](https://jaktestowac.pl/blog/)
   * Przemysław Barański, Krzysztof Kijas
 * [https://playwright.info/](https://playwright.info/)
   * Przemysław Barański, Krzysztof Kijas
-* [https://blog.qalabs.pl/](https://blog.qalabs.pl/)
-  * Maciej Chmielarz, Rafał Borowiec
-* [https://softie.pl/blog/](https://softie.pl/blog/)
-  * Softie.pl
 * [https://www.dlatesterow.pl/](https://www.dlatesterow.pl/)
   * Rafał Krząpa
 * [https://www.cyfrowytrener.pl/blog](http://www.cyfrowytrener.pl/blog)
@@ -38,12 +34,10 @@ Lista blogów prowadzonych przez polaków i zawierających większość wpisów 
   * Rafał Podraza
 * [https://automatyzacja.it/blog/](https://automatyzacja.it/blog/)
   * Tomasz Klepacki
-* [https://wyrodek.pl/blog](https://wyrodek.pl/blog/)
-  * Maciej Wyrodek
-* [https://www.toniebug.pl/blog/](https://www.toniebug.pl/blog/)
-  * Hubert Arciszewski
 * [https://rwasik.pl/](https://rwasik.pl/)
   * Radosław Wasik
+* [https://wyrodek.pl/blog](https://wyrodek.pl/blog/)
+  * Maciej Wyrodek
 
 ## Dawno nieaktualizowane lub zamknięte:
 
@@ -91,6 +85,10 @@ Blogi, które nie były aktualizowane ponad 2 lata i/lub zostało potwierdzone, 
   * Lilianna Poradzińska, Karol Suchocki
 * [https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
   * Remigiusz Bednarczyk
+* [https://testerembyc.pl/](https://testerembyc.pl/)
+  * Maciej Kusz
+* [https://blog.qalabs.pl/](https://blog.qalabs.pl/)
+  * Maciej Chmielarz, Rafał Borowiec
 * [https://testerprof.wordpress.com/](https://testerprof.wordpress.com/)
   * \-
 * [http://testyoprogramowania.blogspot.com](http://testyoprogramowania.blogspot.com)
@@ -158,3 +156,7 @@ Wersje archiwalne moga być niepełne i nieczytelne.
   * \-
 * [https://web.archive.org/web/20230000000000\*/http://realtester.blox.pl/](https://web.archive.org/web/20230000000000\*/http://realtester.blox.pl/)
   * \-
+* [https://softie.pl/blog/](https://softie.pl/blog/)
+  * Softie.pl
+* [https://www.toniebug.pl/blog/](https://www.toniebug.pl/blog/)
+  * Hubert Arciszewski
