@@ -1,21 +1,21 @@
-# ISTQB
+# ISTQB®
 
-### **Certyfikat ISTQB**
+### **Certyfikat ISTQB**®
 
-* [Czym jest ISTQB](https://www.youtube.com/watch?v=3LpaZXAg1l0) - webinar opowiadający o ISTQB 4.0 📺
-* [Certyfikat testerski ISTQB Foundation Level – czym jest i czy warto go mieć?](http://jakzostactesterem.pl/certyfikat-testerski-istqb-foundation-czym-warto-go-miec/)
+* [Czym jest ISTQB](https://www.youtube.com/watch?v=3LpaZXAg1l0)® - webinar opowiadający o ISTQB® 4.0 📺
+* [Certyfikat testerski ISTQB](http://jakzostactesterem.pl/certyfikat-testerski-istqb-foundation-czym-warto-go-miec/)®[ Foundation Level – czym jest i czy warto go mieć?](http://jakzostactesterem.pl/certyfikat-testerski-istqb-foundation-czym-warto-go-miec/)
 
 ### **Czy szkolenie jest niezbędne żeby zdać egzamin?**
 
 Szkolenie zdecydowanie nie jest niezbędne. Wiele jednak zależy od sposobu w jaki przyswajasz wiedzę i ile czasu poświęcisz na naukę. Posiadanie doświadczenia w testowaniu może pomóc zrozumieć treść przekazywaną w sylabusie ISTQB. Jednak nie dotyczy to wszystkich firm czy projektów. W wielu przypadkach tester musi wyzbyć się przyswojonej w praktyce wiedzy i nauczyć się tego co jest w sylabusie, bez względu na własne doświadczenia.
 
-### **Gdzie najtaniej zdać egzamin ISTQB?**
+### **Gdzie najtaniej zdać egzamin ISTQB**®**?**
 
 Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 
 {% embed url="http://sjsi.org/oplaty-egzaminacyjne/" %}
 
-### **Szkolenia do egzaminu na certyfikat ISTQB poziom podstawowy przeprowadzają takie firmy jak:**
+### **Szkolenia do egzaminu na certyfikat ISTQB**® **poziom podstawowy przeprowadzają takie firmy jak:**
 
 W kontekście ISTQB, firma która szkoli tj. przygotowuje kandydatów do egzaminu to akredytowany dostawca szkoleń. Podmiotem akredytującym w Polsce jest SJSI, które publikuje listę takich dostawców na [stronie](https://sjsi.org/akredytacje/akredytowani-dostawcy-szkolen/).
 
@@ -23,7 +23,7 @@ W kontekście ISTQB, firma która szkoli tj. przygotowuje kandydatów do egzamin
 * [Testuj.pl](https://testuj.pl/lista-szkolen?name=istqb)
 * [AmberTeam](http://www.amberteam.pl/pl/szkolenia/istqb-certyfikowany-tester---poziom-podstawowy/1)
 
-### **Przygotowanie do egzaminu ISTQB Poziom Podstawowy (Foundation Level)**
+### **Przygotowanie do egzaminu ISTQB**® **Poziom Podstawowy (Foundation Level)**
 
 * [Jak zdać egzamin ISTQB. Wprowadzenie \[ebook + wprowadzenie\]](http://testerzy.pl/baza-wiedzy/jak-zdac-egzamin-istqb-podpowiedzi)
 * [Jak zdać egzamin ISTQB Poziom Podstawowy plus streszczenie sylabusa](http://testerzy.pl/baza-wiedzy/e-book-jak-zdac-egzamin-istqb-poziom-podstawowy-plus-streszczenie-sylabusa)

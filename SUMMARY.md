@@ -66,7 +66,7 @@
     * [TestLink](narzedzia/zarzadzanie-przypadkami-testowymi/testlink.md)
 * [Certyfikacja](certyfikacja/README.md)
   * [Lista certyfikatów testerskich](certyfikacja/lista-certyfikatow-testerskich.md)
-  * [ISTQB](certyfikacja/istqb.md)
+  * [ISTQB®](certyfikacja/istqb.md)
 * [Raporty](raporty.md)
 * [Historie](historie/README.md)
   * [Historia JZT 1](historie/historia-jzt-1.md)
