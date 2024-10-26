@@ -42,8 +42,6 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * AngularJS
 * [https://www.automationtestinginsider.com/2019/08/textarea-textarea-element-defines-multi.html](https://www.automationtestinginsider.com/2019/08/textarea-textarea-element-defines-multi.html)
   * Different Elements on a Web Page
-* [http://www.seleniumframework.com/Practiceform/](http://www.seleniumframework.com/Practiceform/)
-  * Practice Form Controls
 * [https://www.globalsqa.com/demo-site/](https://www.globalsqa.com/demo-site/)
   * Various demo elements
 * [https://automationintesting.online/](https://automationintesting.online/)
@@ -76,8 +74,6 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * An API where you can get all the data from the Star Wars canon universe.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/)
   * A free online REST service that you can use for tutorials, fake data and sharing code examples.
-* [Zalando Shop API](https://api.zalando.com/swagger/index.html)
-  * Practice get commands.
 * [Restful Booker](https://restful-booker.herokuapp.com/)
   * A demo web API packed with features and bugs for you to find. You can use it to practise your API testing skills against or test an API automation framework against.
 * [TodoAPISample](https://github.com/g33klady/TodoApiSample)
@@ -88,8 +84,6 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
   * A RESTful web service to obtain movie information\*\*.\*\*
 * [Poké API](https://pokeapi.co/)
   * All the Pokémon data you'll ever need in one place, easily accessible through a modern RESTful API.
-* [Dummy REST API](http://dummy.restapiexample.com/)
-  * A fake online REST API to practice GET, POST, PUT and DELETE methods.
 
 ## Bezpieczeństwo
 
