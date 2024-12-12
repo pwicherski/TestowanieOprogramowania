@@ -56,6 +56,9 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 ## **Aplikacje lokalne**
 
+* [https://github.com/jaktestowac/gad-gui-api-demo](https://github.com/jaktestowac/gad-gui-api-demo)
+  * GAD🦎 - Application for learning testing GUI and API
+  * [https://jaktestowac.pl/about-gad/](https://jaktestowac.pl/about-gad/)
 * [https://instantwp.com](https://instantwp.com)
   * Bardzo szybka możliwość postawienia lokalnie WordPressa
 * [https://github.com/amogh-w/Simple-Pokedex](https://github.com/amogh-w/Simple-Pokedex)
