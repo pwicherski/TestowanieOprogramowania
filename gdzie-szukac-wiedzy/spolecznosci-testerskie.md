@@ -29,6 +29,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [PapryQArz](https://www.facebook.com/papryQArz/) (Szczecin)
 * [TorQA](https://www.facebook.com/torqatorun/) (Toruń)
 * [TrojQA](https://www.facebook.com/trojqa/) (Trójmiasto)
+* [Warsaw Testers' Forum](https://app.evenea.pl/event/wtf-1/) (Warszawa)
 * [WarszawQA](https://www.facebook.com/WarszawQA) (Warszawa)
 * [AppQa](https://www.facebook.com/AppQaMeetup/) (Warszawa)
 * [B2B Test Team](https://www.meetup.com/B2B-Test-Team/) (Warszawa)
@@ -81,7 +82,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
   * Grupa Testowanie Oprogramowania Facebook
 * [http://www.wykop.pl/tag/testowanieoprogramowania/](http://www.wykop.pl/tag/testowanieoprogramowania/)
   * Wykop
-* [http://www.goldenline.pl/grupy/Komputery\_Internet/software-quality-assurance/](http://www.goldenline.pl/grupy/Komputery\_Internet/software-quality-assurance/)
+* [http://www.goldenline.pl/grupy/Komputery\_Internet/software-quality-assurance/](http://www.goldenline.pl/grupy/Komputery_Internet/software-quality-assurance/)
   * Goldenline Polska
 
 ## Anglojęzyczne internetowe społeczności testerskie (wybrane)
