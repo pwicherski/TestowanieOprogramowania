@@ -58,9 +58,9 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 {% endhint %}
 
 * [ATW - Automatyzacja Testowania w Praktyce](https://atwpraktyce.pl/)
+* [Na Podbój IT!](https://podboj.it/)
 * [TADA! - Test Automation & DevOps Arena](https://tada-conf.pl/)
    * Dawniej [ConSelenium](http://conselenium.pl/)
-* [Na Podbój IT!](https://podboj.it/)
 * [TestFest](https://testfest.pl/) 🙋
 * [TestWarez](https://testwarez.pl)
 
