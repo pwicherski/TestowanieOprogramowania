@@ -54,11 +54,14 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 ## Lokalne konferencje testerskie
 
 {% hint style="info" %}
-🙋 - oznacza, że konferencja jest bezpłatna.
+🙋 - konferencja bezpłatna
+💻 - konferencja obywa się tylko w trybie ONLINE
+🎗️ - wejście płatne w formie dotacji na cele charytatywne
 {% endhint %}
 
 * [ATW - Automatyzacja Testowania w Praktyce](https://atwpraktyce.pl/)
-* [Na Podbój IT!](https://podboj.it/)
+* [Bug Hunt Fest](https://bughuntfest.pl/) 🙋💻
+* [Na Podbój IT!](https://podboj.it/) 🎗️
 * [TADA! - Test Automation & DevOps Arena](https://tada-conf.pl/)
    * Dawniej [ConSelenium](http://conselenium.pl/)
 * [TestFest](https://testfest.pl/) 🙋
@@ -67,7 +70,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 ## Konferencje wygaszone
 
 {% hint style="info" %}
-Konferencje, które nie odbyły się od ponad 24 miesięcy
+Konferencje oficjalnie wygaszone i te, które nie odbyły się od ponad 16 miesięcy
 {% endhint %}
 
 * [Agile & Automation Days](https://aadays.pl/)
@@ -81,6 +84,7 @@ Konferencje, które nie odbyły się od ponad 24 miesięcy
 * [Test Camp](https://testcamp.pl/) 🙋
 * [Test Dive](http://www.testdive.pl/) 🙋
 * [Testaton](http://testaton.pl/) 🙋
+* [Tester Summit](https://testersummit.pl/)
 * [TestingCup](http://testingcup.pl/)
 
 ## Twitter
