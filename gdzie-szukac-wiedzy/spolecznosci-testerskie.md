@@ -67,7 +67,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 ## Konferencje wygaszone
 
 {% hint style="info" %}
-Społeczności, w kórych ostatnia aktywność miała miejsce ponad 24 miesiące temu
+Konferencje, które nie odbyły się od ponad 24 miesięcy
 {% endhint %}
 
 * [Agile & Automation Days](https://aadays.pl/)
