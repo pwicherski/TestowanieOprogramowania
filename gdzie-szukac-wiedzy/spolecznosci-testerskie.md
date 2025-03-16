@@ -56,9 +56,21 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 🙋 - oznacza, że konferencja jest bezpłatna.
 {% endhint %}
 
+* [ATW - Automatyzacja Testowania w Praktyce](https://atwpraktyce.pl/)
+* [TADA! - Test Automation & DevOps Arena](https://tada-conf.pl/)
+   * Dawniej [ConSelenium](http://conselenium.pl/)
+* [Na Podbój IT!](https://podboj.it/)
+* [TestFest](https://testfest.pl/) 🙋
+* [TestWarez](https://testwarez.pl)
+
+## Konferencje wygaszone
+
+{% hint style="info" %}
+Społeczności, w kórych ostatnia aktywność miała miejsce ponad 24 miesiące temu
+{% endhint %}
+
 * [Agile & Automation Days](https://aadays.pl/)
 * [Akademia Jakości](http://successpoint.pl/)
-* [ConSelenium](http://conselenium.pl/)
 * [Forum Jakości Systemów Informatycznych](https://www.computerworld.pl/)
 * [Quality Excites](https://www.qualityexcites.pl)
 * [Konferencja Testerzy.pl](http://konferencja.testerzy.pl/) 🙋
@@ -68,10 +80,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 * [Test Camp](https://testcamp.pl/) 🙋
 * [Test Dive](http://www.testdive.pl/) 🙋
 * [Testaton](http://testaton.pl/) 🙋
-* [TestFest](https://testfest.pl/) 🙋
 * [TestingCup](http://testingcup.pl/)
-* [TestWarez](https://testwarez.pl)
-* [Niepełna lista zagranicznych konferencji](https://testingconferences.org/)
 
 ## Twitter
 
