@@ -8,13 +8,18 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 
 * [BiałQA](https://www.facebook.com/groups/BialQA/) (Białystok)
 * [ŁuczniczQA](https://www.meetup.com/luczniczqa/) (Bydgoszcz)
-* [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) (Katowice)
 * [Kolektyw](https://kolektyw-gliwice.pl/) (Gliwice)
 * [KraQA](https://www.meetup.com/KraQA-pl/) (Kraków)
 * [QA Tester Meetup](https://app.evenea.pl/event/qatesterwwa/) (Warszawa)
+* [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) (Katowice)
 * [test:fest meetup](https://www.meetup.com/test-fest/) (Wrocław)
 * [TrojQA](https://www.facebook.com/trojqa/) (Trójmiasto)
 * [Warsaw Testers' Forum](https://app.evenea.pl/event/wtf-1/) (Warszawa)
+
+## Meetupy online
+
+* [Jit.QA Meetup](https://www.facebook.com/groups/TestowanieOprogramowania/posts/9494040397285120) (Online)
+
 
 ## Społeczności wygaszone
 
@@ -55,18 +60,20 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 
 {% hint style="info" %}
 🙋 - konferencja bezpłatna
-💻 - konferencja obywa się tylko w trybie ONLINE
 🎗️ - wejście płatne w formie dotacji na cele charytatywne
 {% endhint %}
 
 * [ATW - Automatyzacja Testowania w Praktyce](https://atwpraktyce.pl/)
-* [Bug Hunt Fest](https://bughuntfest.pl/) 🙋💻
 * [Na Podbój IT!](https://podboj.it/) 🎗️
 * [TADA! - Test Automation & DevOps Arena](https://tada-conf.pl/)
    * Dawniej [ConSelenium](http://conselenium.pl/)
 * [Test:Fest](https://testfest.pl/) 🙋
 * [Test Dive](http://testdive.pl/) 🙋
 * [TestWarez](https://testwarez.pl)
+
+## Konferencje testerskie tylko online
+
+* [Bug Hunt Fest](https://bughuntfest.pl/) 🙋
 
 ## Konferencje wygaszone
 
