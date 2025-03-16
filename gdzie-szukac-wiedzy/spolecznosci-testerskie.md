@@ -7,11 +7,8 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 {% endhint %}
 
 * [BiałQA](https://www.facebook.com/groups/BialQA/) (Białystok)
-* [Bielko-BiałQA](https://www.facebook.com/groups/2562108134001630/) (Bielsko-Biała)
-* [ŁuczniczQA](https://www.meetup.com/luczniczqa/) (https://www.facebook.com/LuczniczQA/)(Bydgoszcz)
-* [Quality Meetup](https://www.meetup.com/Quality-Meetup/) (Gliwice)
+* [ŁuczniczQA](https://www.meetup.com/luczniczqa/) (Bydgoszcz)
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) (Katowice)
-* [QAtowice](https://crossweb.pl/en/event-series/qatowice-meetup/)(Katowice)
 * [KielecQA](https://www.facebook.com/kielecqa/) (Kielce)
 * [Kolektyw](https://kolektyw-gliwice.pl/) (Gliwice)
 * [KoszalinQA](https://www.meetup.com/en-AU/KoszalinQA) (Koszalin)
@@ -42,6 +39,16 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [QA Has Power](https://www.facebook.com/StxNext/) (Wrocław, Łódź, Poznań)
 * [ZielonQA](https://www.facebook.com/globallogicpoland) (Zielona góra)
 * [DebatQA](https://www.facebook.com/DebatQA/) (Brak danych)
+
+## Społeczności wygaszone
+
+{% hint style="info" %}
+Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy temu
+{% endhint %}
+
+* [Bielko-BiałQA](https://www.facebook.com/groups/2562108134001630/) (Bielsko-Biała)
+* [Quality Meetup](https://www.meetup.com/Quality-Meetup/) (Gliwice)
+* [QAtowice](https://crossweb.pl/en/event-series/qatowice-meetup/) (Katowice)
 
 ## Lokalne konferencje testerskie
 
