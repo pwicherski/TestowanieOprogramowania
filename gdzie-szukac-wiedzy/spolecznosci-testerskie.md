@@ -64,7 +64,8 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 * [Na Podbój IT!](https://podboj.it/) 🎗️
 * [TADA! - Test Automation & DevOps Arena](https://tada-conf.pl/)
    * Dawniej [ConSelenium](http://conselenium.pl/)
-* [TestFest](https://testfest.pl/) 🙋
+* [Test:Fest](https://testfest.pl/) 🙋
+* [Test Dive](http://testdive.pl/) 🙋
 * [TestWarez](https://testwarez.pl)
 
 ## Konferencje wygaszone
@@ -82,7 +83,6 @@ Konferencje oficjalnie wygaszone i te, które nie odbyły się od ponad 16 miesi
 * [ReQuest](https://request.pl)
 * [SkładQA](http://kraqa.pl/) 🙋
 * [Test Camp](https://testcamp.pl/) 🙋
-* [Test Dive](http://www.testdive.pl/) 🙋
 * [Testaton](http://testaton.pl/) 🙋
 * [Tester Summit](https://testersummit.pl/)
 * [TestingCup](http://testingcup.pl/)
