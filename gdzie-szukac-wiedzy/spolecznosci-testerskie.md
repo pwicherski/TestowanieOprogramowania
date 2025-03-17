@@ -86,6 +86,7 @@ Konferencje oficjalnie wygaszone i te, które nie odbyły się od ponad 16 miesi
 * [Forum Jakości Systemów Informatycznych](https://www.computerworld.pl/)
 * [Quality Excites](https://www.qualityexcites.pl)
 * [Konferencja Testerzy.pl](http://konferencja.testerzy.pl/) 🙋
+* [NoBullShitAbout Testing](https://nobullshitabout.com/) 🙋
 * [PTaQ Day One](http://dayone.ptaq.org/) 🙋
 * [ReQuest](https://request.pl)
 * [SkładQA](http://kraqa.pl/) 🙋
