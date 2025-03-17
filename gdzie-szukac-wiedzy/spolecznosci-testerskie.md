@@ -6,12 +6,13 @@
 Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusyjne i warsztaty.
 {% endhint %}
 
+* [QAwelin](https://www.facebook.com/groups/3780529165505528/) (Białystok)
 * [BiałQA](https://www.facebook.com/groups/BialQA/) (Białystok)
 * [ŁuczniczQA](https://www.meetup.com/luczniczqa/) (Bydgoszcz)
 * [Kolektyw](https://kolektyw-gliwice.pl/) (Gliwice)
 * [KraQA](https://www.meetup.com/KraQA-pl/) (Kraków)
 * [Po szklanie i na meetup](https://www.facebook.com/events/1674650500102548/) (Łódź)
-* [QA Tester Meetup](https://app.evenea.pl/event/qatesterwwa/) (Warszawa)
+* [QA Tester Meetup](https://app.evenea.pl/event/qatesterwwa/) (Różnie)
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) (Katowice)
 * [test:fest meetup](https://www.meetup.com/test-fest/) (Wrocław)
 * [TrojQA](https://www.facebook.com/trojqa/) (Trójmiasto)
@@ -78,6 +79,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 ## Konferencje testerskie tylko online
 
 * [Bug Hunt Fest](https://bughuntfest.pl/) 🙋
+* [Wrobocon](https://wrobocon.eu/) 🙋
 
 ## Konferencje wygaszone
 
