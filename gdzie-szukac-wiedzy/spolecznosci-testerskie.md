@@ -6,7 +6,7 @@ description: Wydarzenia, Meetupy i Konferencje testerskie
 
 Kalendarz najbliższych wydarzeń testerskich w Polsce:
 
-{% embed url="https://testowanieoprogramowania.pl/wydarzenia.html" %}
+{% embed url="https://testowanieoprogramowania.pl/wydarzenia.html" fullWidth="false" %}
 
 ## Lokalne społeczności testerskie - meetupy testerskie
 
