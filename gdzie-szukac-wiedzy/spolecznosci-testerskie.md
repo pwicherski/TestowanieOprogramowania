@@ -1,4 +1,12 @@
+---
+description: Wydarzenia, Meetupy i Konferencje testerskie
+---
+
 # Społeczności testerskie
+
+Kalendarz najbliższych wydarzeń testerskich w Polsce:
+
+{% embed url="https://testowanieoprogramowania.pl/wydarzenia.html" %}
 
 ## Lokalne społeczności testerskie - meetupy testerskie
 
@@ -12,16 +20,37 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [Kolektyw](https://kolektyw-gliwice.pl/) (Gliwice)
 * [KraQA](https://www.meetup.com/KraQA-pl/) (Kraków)
 * [Po szklanie i na meetup](https://www.facebook.com/events/1674650500102548/) (Łódź)
-* [QA Tester Meetup](https://app.evenea.pl/event/qatesterwwa/) (Różnie)
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) (Katowice)
 * [test:fest meetup](https://www.meetup.com/test-fest/) (Wrocław)
 * [TrojQA](https://www.facebook.com/trojqa/) (Trójmiasto)
 * [Warsaw Testers' Forum](https://www.facebook.com/warsawtestersforum/events) (Warszawa)
+* [QA Tester Meetup](https://app.evenea.pl/event/qatesterwwa/) (Różnie)
 
 ## Meetupy online
 
 * [Jit.QA Meetup](https://www.facebook.com/groups/TestowanieOprogramowania/posts/9494040397285120) (Online)
 
+## Lokalne konferencje testerskie
+
+{% hint style="info" %}
+🙋 - konferencja bezpłatna\
+🎗️ - wejście płatne w formie dotacji na cele charytatywne
+{% endhint %}
+
+* [ATW - Automatyzacja Testowania w Praktyce](https://atwpraktyce.pl/)
+* [Na Podbój IT!](https://podboj.it/) 🎗️
+* [QA Europe 2024 | Conference for testers](https://qaeurope.pl/) 🙋
+* [TADA! - Test Automation & DevOps Arena](https://tada-conf.pl/)
+  * Dawniej [ConSelenium](http://conselenium.pl/)
+* [Test:Fest](https://testfest.pl/) 🙋
+* [Test Dive](http://testdive.pl/) 🙋
+* [Testing Ground](https://testingground.pl/)
+* [TestWarez](https://testwarez.pl)
+
+## Konferencje testerskie tylko online
+
+* [Bug Hunt Fest](https://bughuntfest.pl/) 🙋
+* [Wrobocon](https://wrobocon.eu/) 🙋
 
 ## Społeczności wygaszone
 
@@ -61,27 +90,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 * [DebatQA](https://www.facebook.com/DebatQA/) (Brak danych)
 * [QA Winter Fest](https://stage.miquido.com/qa-winter-fest/) (Online)
 
-## Lokalne konferencje testerskie
 
-{% hint style="info" %}
-🙋 - konferencja bezpłatna
-🎗️ - wejście płatne w formie dotacji na cele charytatywne
-{% endhint %}
-
-* [ATW - Automatyzacja Testowania w Praktyce](https://atwpraktyce.pl/)
-* [Na Podbój IT!](https://podboj.it/) 🎗️
-* [QA Europe 2024 | Conference for testers](https://qaeurope.pl/) 🙋
-* [TADA! - Test Automation & DevOps Arena](https://tada-conf.pl/)
-   * Dawniej [ConSelenium](http://conselenium.pl/)
-* [Test:Fest](https://testfest.pl/) 🙋
-* [Test Dive](http://testdive.pl/) 🙋
-* [Testing Ground](https://testingground.pl/)
-* [TestWarez](https://testwarez.pl)
-
-## Konferencje testerskie tylko online
-
-* [Bug Hunt Fest](https://bughuntfest.pl/) 🙋
-* [Wrobocon](https://wrobocon.eu/) 🙋
 
 ## Konferencje wygaszone
 
