@@ -37,6 +37,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 * [Kraków.assert()](https://www.meetup.com/pl-PL/krakow-assert/) (Kraków)
 * [Quality Questions](https://www.meetup.com/High-Quality-Code-Fans/) (Kraków)
 * [QA Summer Fest](https://www.facebook.com/miquido/) (Kraków)
+* [StoneX QA Meetup](https://crossweb.pl/wydarzenia/stonex-qa-meetup-krakow-1/) (Kraków)
 * [LubQA](https://www.facebook.com/LubQA/) (Lublin)
 * [ŁódQA](https://www.facebook.com/LodQA/) (Łódź)
 * [PANDA](https://www.meetup.com/panda-meetup/) (Łódź)
@@ -66,6 +67,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 
 * [ATW - Automatyzacja Testowania w Praktyce](https://atwpraktyce.pl/)
 * [Na Podbój IT!](https://podboj.it/) 🎗️
+* [QA Europe 2024 | Conference for testers](https://qaeurope.pl/) 🙋
 * [TADA! - Test Automation & DevOps Arena](https://tada-conf.pl/)
    * Dawniej [ConSelenium](http://conselenium.pl/)
 * [Test:Fest](https://testfest.pl/) 🙋
