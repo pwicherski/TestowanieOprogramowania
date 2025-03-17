@@ -50,6 +50,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 * [WarszawQA](https://www.facebook.com/WarszawQA) (Warszawa)
 * [AppQa](https://www.facebook.com/AppQaMeetup/) (Warszawa)
 * [B2B Test Team](https://www.meetup.com/B2B-Test-Team/) (Warszawa)
+* [Wrobocon Community Meet-up](https://www.facebook.com/events/624450725955993) (Wrocław)
 * [LogCat](https://www.facebook.com/LogCatMeetup/) (Wrocław)
 * [TestIT](https://www.meetup.com/TestIT-testing-meetup/) (Wrocław)
 * [TestinQA ](https://www.facebook.com/testinqa/)(Wrocław)
