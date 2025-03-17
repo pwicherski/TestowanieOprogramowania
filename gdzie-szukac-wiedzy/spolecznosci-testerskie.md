@@ -29,7 +29,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy temu
 {% endhint %}
 
-* [Bielko-BiałQA](https://www.facebook.com/groups/2562108134001630/) (Bielsko-Biała)
+* [Bielsko-BiałQA](https://www.facebook.com/groups/2562108134001630/) (Bielsko-Biała)
 * [Quality Meetup](https://www.meetup.com/Quality-Meetup/) (Gliwice)
 * [QAtowice](https://crossweb.pl/en/event-series/qatowice-meetup/) (Katowice)
 * [KielecQA](https://www.facebook.com/kielecqa/) (Kielce)
