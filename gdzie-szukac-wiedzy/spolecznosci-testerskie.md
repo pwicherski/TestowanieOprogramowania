@@ -10,6 +10,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [ŁuczniczQA](https://www.meetup.com/luczniczqa/) (Bydgoszcz)
 * [Kolektyw](https://kolektyw-gliwice.pl/) (Gliwice)
 * [KraQA](https://www.meetup.com/KraQA-pl/) (Kraków)
+* [Po szklanie i na meetup](https://www.facebook.com/events/1674650500102548/) (Łódź)
 * [QA Tester Meetup](https://app.evenea.pl/event/qatesterwwa/) (Warszawa)
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) (Katowice)
 * [test:fest meetup](https://www.meetup.com/test-fest/) (Wrocław)
@@ -69,6 +70,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
    * Dawniej [ConSelenium](http://conselenium.pl/)
 * [Test:Fest](https://testfest.pl/) 🙋
 * [Test Dive](http://testdive.pl/) 🙋
+* [Testing Ground](https://testingground.pl/)
 * [TestWarez](https://testwarez.pl)
 
 ## Konferencje testerskie tylko online
