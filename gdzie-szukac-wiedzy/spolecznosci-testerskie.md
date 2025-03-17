@@ -58,6 +58,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 * [QA Has Power](https://www.facebook.com/StxNext/) (Wrocław, Łódź, Poznań)
 * [ZielonQA](https://www.facebook.com/globallogicpoland) (Zielona góra)
 * [DebatQA](https://www.facebook.com/DebatQA/) (Brak danych)
+* [QA Winter Fest](https://stage.miquido.com/qa-winter-fest/) (Online)
 
 ## Lokalne konferencje testerskie
 
