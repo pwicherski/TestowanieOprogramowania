@@ -14,7 +14,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) (Katowice)
 * [test:fest meetup](https://www.meetup.com/test-fest/) (Wrocław)
 * [TrojQA](https://www.facebook.com/trojqa/) (Trójmiasto)
-* [Warsaw Testers' Forum](https://app.evenea.pl/event/wtf-1/) (Warszawa)
+* [Warsaw Testers' Forum](https://www.facebook.com/warsawtestersforum/events) (Warszawa)
 
 ## Meetupy online
 
