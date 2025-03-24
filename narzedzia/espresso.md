@@ -1,10 +1,17 @@
 # Espresso
 
+## Dokumentacja
+
+* [https://developer.android.com/training/testing/espresso](https://developer.android.com/training/testing/espresso)
+* [https://github.com/android/testing-samples](https://github.com/android/testing-samples)
+* [https://github.com/android/testing-samples/tree/main/ui/espresso/BasicSample](https://github.com/android/testing-samples/tree/main/ui/espresso/BasicSample)
+
 ## Kursy
 
 * [https://www.linkedin.com/learning/effective-android-testing-for-mobile-developers](https://www.linkedin.com/learning/effective-android-testing-for-mobile-developers)
-* [https://www.linkedin.com/learning/android-espresso-essential-training](https://www.linkedin.com/learning/android-espresso-essential-training)&#x20;
+* [https://www.linkedin.com/learning/android-espresso-essential-training](https://www.linkedin.com/learning/android-espresso-essential-training)
 * [https://www.linkedin.com/learning/advanced-android-espresso-testing](https://www.linkedin.com/learning/advanced-android-espresso-testing)
+* [https://academy.droidcon.com/course/espresso-a-comprehensive-guide-to-ui-testing-in-android-with-jetpack-compose](https://academy.droidcon.com/course/espresso-a-comprehensive-guide-to-ui-testing-in-android-with-jetpack-compose)
 
 ## Cheat Sheet
 
@@ -16,14 +23,11 @@
 Książka wydana w 2019
 {% endembed %}
 
-## Artykuły
 
-* [https://developer.android.com/training/testing/ui-testing/espresso-testing](https://developer.android.com/training/testing/ui-testing/espresso-testing)
-* [https://codelabs.developers.google.com/codelabs/android-testing/#0](https://codelabs.developers.google.com/codelabs/android-testing/#0)
-* [https://www.vogella.com/tutorials/AndroidTestingEspresso/article.html](https://www.vogella.com/tutorials/AndroidTestingEspresso/article.html)
-* [https://web.archive.org/web/20180628025943/https://medium.com/mindorks/android-testing-part-1-espresso-basics-7219b86c862b](https://web.archive.org/web/20180628025943/https://medium.com/mindorks/android-testing-part-1-espresso-basics-7219b86c862b)
 
 ## Różności
 
 * Kakao DSL for Espresso
+  * [https://github.com/KakaoCup/Kakao](https://github.com/KakaoCup/Kakao)
+    * [https://kakaocup.github.io/Kakao/](https://kakaocup.github.io/Kakao/)
   * [https://proandroiddev.com/kakao-how-to-make-ui-testing-great-again-19972cf13740](https://proandroiddev.com/kakao-how-to-make-ui-testing-great-again-19972cf13740)
