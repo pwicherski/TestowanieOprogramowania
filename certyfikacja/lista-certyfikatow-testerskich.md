@@ -1,6 +1,6 @@
 # Lista certyfikatów testerskich
 
-## [\(ISTQB®\) International Software Testing Qualifications Board](https://www.istqb.org/about-us/who-we-are) (https://www.istqb.org/about-us/what-we-do) (https://www.istqb.org/about-us/why-istqb)
+## [\(ISTQB®\) International Software Testing Qualifications Board](https://www.istqb.org/about-us/who-we-are)
 
 * [Foundation Level](https://www.istqb.org/certifications/certified-tester-foundation-level)
 * [Mobile Application Testing](https://www.istqb.org/certifications/mobile-tester)
@@ -13,9 +13,9 @@
 * [Gambling Industry Tester](https://www.istqb.org/certifications/gambling-tester)
 * [Performance Testing](https://www.istqb.org/certifications/performance-tester)
 * [Acceptance Testing](https://www.istqb.org/certifications/acceptance-tester)
-* [Game Testing] (https://www.istqb.org/certifications/game-testing)
-* [AI Testing] (https://www.istqb.org/certifications/artificial-inteligence-tester)
-* [Agile Test Leadership at Scale] (https://www.istqb.org/certifications/agile-test-leadership-at-scale)
+* [Game Testing](https://www.istqb.org/certifications/game-testing)
+* [AI Testing](https://www.istqb.org/certifications/artificial-inteligence-tester)
+* [Agile Test Leadership at Scale](https://www.istqb.org/certifications/agile-test-leadership-at-scale)
 * [Advanced Level Agile Technical Tester](https://www.istqb.org/certifications/agile-technical-tester)
 * [Advanced Level Test Manager](https://www.istqb.org/certifications/test-manager)
 * [Advanced Level Test Analyst](https://www.istqb.org/certifications/test-analyst)
