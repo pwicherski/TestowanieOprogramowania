@@ -4,8 +4,9 @@
 
 * Lista ofert pracy z grupy Testowanie Oprogramowania
   * [http://bit.ly/TO-OfertyPracy](http://bit.ly/TO-OfertyPracy)
-* Zbiorcza wyszukiwarka ofert z różnych portali
+* Zbiorcze wyszukiwarki ofert z różnych portali
   * [https://itradar.io/?c=qa\&hs=1\&o=sd\&ri=qa](https://itradar.io/?c=qa\&hs=1\&o=sd\&ri=qa)
+  * [https://czyjesteldorado.pl/search](https://czyjesteldorado.pl/search)
 * [https://justjoin.it/all/testing](https://justjoin.it/all/testing)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
   * [No Fluff Jobs praca dla Junior Testerów](https://nofluffjobs.com/jobs/testing?criteria=category%3Dtesting%20seniority%3Dtrainee,junior)
@@ -14,9 +15,11 @@
 * [https://theprotocol.it/](https://theprotocol.it/)
 * [https://solid.jobs/offers/it;categories=Tester](https://solid.jobs/offers/it;categories=Tester)
 * [https://pl.indeed.com/praca](https://pl.indeed.com/praca)
+* [https://www.trueup.io/jobs](https://www.trueup.io/jobs)
 * [https://www.pracuj.pl/](https://www.pracuj.pl/)
 * [https://www.praca.pl/](https://www.praca.pl/)
 * [https://www.olx.pl/praca/](https://www.olx.pl/praca/)
+* [https://www.levels.fyi/en-gb/jobs/location/poland?locationSlug=poland&jobId=79359810415272646](https://www.levels.fyi/en-gb/jobs/location/poland?locationSlug=poland&jobId=79359810415272646)
 * [https://www.linkedin.com/jobs/](https://www.linkedin.com/jobs/)
 * [https://bulldogjob.pl/companies/jobs/s/role,tester](https://bulldogjob.pl/companies/jobs/s/role,tester)
 * [http://lmgtfy.com/?q=praca+tester](http://lmgtfy.com/?q=praca+tester)
