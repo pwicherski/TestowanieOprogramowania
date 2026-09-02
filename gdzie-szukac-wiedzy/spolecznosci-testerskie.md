@@ -15,13 +15,10 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 {% endhint %}
 
 * [ŁuczniczQA](https://luczniczqa.pl/) (Bydgoszcz)
-* [Kolektyw](https://web.archive.org/web/20250309232901/https://kolektyw-gliwice.pl/) (Gliwice)
 * [KraQA](https://www.meetup.com/KraQA-pl/) (Kraków)
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) (Katowice)
 * [test:fest meetup](https://www.meetup.com/test-fest/) (Wrocław)
-* [TrojQA](https://www.facebook.com/trojqa/) (Trójmiasto)
 * [Warsaw Testers' Forum](https://www.facebook.com/warsawtestersforum/events) (Warszawa)
-* [QA Tester Meetup](https://app.evenea.pl/event/qatesterwwa/) (Różnie)
 
 ## Meetupy online
 
@@ -36,7 +33,7 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 
 * [ATW - Automatyzacja Testowania w Praktyce](https://atwpraktyce.pl/)
 * [Na Podbój IT!](https://podboj.it/) 🎗️
-* [QA Europe 2024 | Conference for testers](https://qaeurope.pl/) 🙋
+* [QA Europe](https://qaeurope.pl/) 🙋
 * [TADA! - Test Automation & DevOps Arena](https://tada-conf.pl/)
   * Dawniej [ConSelenium](http://conselenium.pl/)
 * [Test:Fest](https://testfest.pl/) 🙋
@@ -58,6 +55,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 * [QAwelin](https://www.facebook.com/groups/3780529165505528/) (Białystok)
 * [BiałQA](https://www.facebook.com/groups/BialQA/) (Białystok)
 * [Bielsko-BiałQA](https://www.facebook.com/groups/2562108134001630/) (Bielsko-Biała)
+* [Kolektyw](https://web.archive.org/web/20250309232901/https://kolektyw-gliwice.pl/) (Gliwice)
 * [Quality Meetup](https://www.meetup.com/Quality-Meetup/) (Gliwice)
 * [QAtowice](https://crossweb.pl/en/event-series/qatowice-meetup/) (Katowice)
 * [KielecQA](https://www.facebook.com/kielecqa/) (Kielce)
@@ -76,6 +74,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 * [RzeQA](https://www.facebook.com/rzeqa/) (Rzeszów)
 * [PapryQArz](https://www.facebook.com/papryQArz/) (Szczecin)
 * [TorQA](https://www.facebook.com/torqatorun/) (Toruń)
+* [TrojQA](https://www.facebook.com/trojqa/) (Trójmiasto)
 * [WarszawQA](https://www.facebook.com/WarszawQA) (Warszawa)
 * [AppQa](https://www.facebook.com/AppQaMeetup/) (Warszawa)
 * [B2B Test Team](https://www.meetup.com/B2B-Test-Team/) (Warszawa)
@@ -87,15 +86,14 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 * [Quality3D](https://www.facebook.com/SjsiOrg/) (Wrocław, Warszawa)
 * [QA Has Power](https://www.facebook.com/StxNext/) (Wrocław, Łódź, Poznań)
 * [ZielonQA](https://www.facebook.com/globallogicpoland) (Zielona góra)
+* [QA Tester Meetup](https://app.evenea.pl/event/qatesterwwa/) (Różnie)
 * [DebatQA](https://www.facebook.com/DebatQA/) (Brak danych)
 * [QA Winter Fest](https://stage.miquido.com/qa-winter-fest/) (Online)
-
-
 
 ## Konferencje wygaszone
 
 {% hint style="info" %}
-Konferencje oficjalnie wygaszone i te, które nie odbyły się od ponad 16 miesięcy
+Konferencje oficjalnie wygaszone i te, które nie odbyły się od ponad 24 miesięcy
 {% endhint %}
 
 * [Agile & Automation Days](https://aadays.pl/)
