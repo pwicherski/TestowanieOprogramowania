@@ -11,7 +11,9 @@ Kalendarz najbliższych wydarzeń testerskich w Polsce:
 ## Lokalne społeczności testerskie - meetupy testerskie
 
 {% hint style="success" %}
-Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusyjne i warsztaty.
+Wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusyjne i warsztaty.
+
+💵 Wydarzenie płatne
 {% endhint %}
 
 * [ŁuczniczQA](https://luczniczqa.pl/) (Bydgoszcz)
@@ -19,10 +21,8 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) (Katowice)
 * [test:fest meetup](https://www.meetup.com/test-fest/) (Wrocław)
 * [Warsaw Testers' Forum](https://www.facebook.com/warsawtestersforum/events) (Warszawa)
-
-## Meetupy online
-
-* [Jit.QA Meetup](https://www.facebook.com/groups/TestowanieOprogramowania/posts/9494040397285120) (Online)
+* [BrowserStack Software Testing and QA Meetup Group Warsaw](https://www.meetup.com/pl-PL/browserstack-software-testing-and-qa-meetup-group-warsaw/) (Warszawa)
+* [Codemiy QA Meetup](https://codemify.com/monthly-qa-meetup) (Warszawa) 💵
 
 ## Lokalne konferencje testerskie
 
@@ -89,6 +89,10 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 * [QA Tester Meetup](https://app.evenea.pl/event/qatesterwwa/) (Różnie)
 * [DebatQA](https://www.facebook.com/DebatQA/) (Brak danych)
 * [QA Winter Fest](https://stage.miquido.com/qa-winter-fest/) (Online)
+
+## Meetupy online
+
+* [Jit.QA Meetup](https://www.facebook.com/groups/TestowanieOprogramowania/posts/9494040397285120) (Online)
 
 ## Konferencje wygaszone
 
