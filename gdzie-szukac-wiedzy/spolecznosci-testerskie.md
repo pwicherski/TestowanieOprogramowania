@@ -14,12 +14,9 @@ Kalendarz najbliższych wydarzeń testerskich w Polsce:
 Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusyjne i warsztaty.
 {% endhint %}
 
-* [QAwelin](https://www.facebook.com/groups/3780529165505528/) (Białystok)
-* [BiałQA](https://www.facebook.com/groups/BialQA/) (Białystok)
-* [ŁuczniczQA](https://www.meetup.com/luczniczqa/) (Bydgoszcz)
-* [Kolektyw](https://kolektyw-gliwice.pl/) (Gliwice)
+* [ŁuczniczQA](https://luczniczqa.pl/) (Bydgoszcz)
+* [Kolektyw](https://web.archive.org/web/20250309232901/https://kolektyw-gliwice.pl/) (Gliwice)
 * [KraQA](https://www.meetup.com/KraQA-pl/) (Kraków)
-* [Po szklanie i na meetup](https://www.facebook.com/events/1674650500102548/) (Łódź)
 * [Ślonzacz-QA](https://www.facebook.com/slonzaczqa/) (Katowice)
 * [test:fest meetup](https://www.meetup.com/test-fest/) (Wrocław)
 * [TrojQA](https://www.facebook.com/trojqa/) (Trójmiasto)
@@ -58,6 +55,8 @@ Bezpłatne wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusy
 Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy temu
 {% endhint %}
 
+* [QAwelin](https://www.facebook.com/groups/3780529165505528/) (Białystok)
+* [BiałQA](https://www.facebook.com/groups/BialQA/) (Białystok)
 * [Bielsko-BiałQA](https://www.facebook.com/groups/2562108134001630/) (Bielsko-Biała)
 * [Quality Meetup](https://www.meetup.com/Quality-Meetup/) (Gliwice)
 * [QAtowice](https://crossweb.pl/en/event-series/qatowice-meetup/) (Katowice)
@@ -71,6 +70,7 @@ Społeczności, w kórych ostatnia aktywność miała miejsce ponad 12 miesięcy
 * [LubQA](https://www.facebook.com/LubQA/) (Lublin)
 * [ŁódQA](https://www.facebook.com/LodQA/) (Łódź)
 * [PANDA](https://www.meetup.com/panda-meetup/) (Łódź)
+* [Po szklanie i na meetup](https://www.facebook.com/events/1674650500102548/) (Łódź)
 * [PTaQ](https://www.facebook.com/PTaQGroup/) (Poznań)
 * [Girls Who Test](https://www.facebook.com/girls.who.test/) (Poznań, Warszawa)
 * [RzeQA](https://www.facebook.com/rzeqa/) (Rzeszów)
