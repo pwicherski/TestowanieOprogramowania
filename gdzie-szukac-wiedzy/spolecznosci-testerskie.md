@@ -22,7 +22,7 @@ Wydarzenia skierowane do testerów. W tym prezentacje, panele dyskusyjne i warsz
 * [test:fest meetup](https://www.meetup.com/test-fest/) (Wrocław)
 * [Warsaw Testers' Forum](https://www.facebook.com/warsawtestersforum/events) (Warszawa)
 * [BrowserStack Software Testing and QA Meetup Group Warsaw](https://www.meetup.com/pl-PL/browserstack-software-testing-and-qa-meetup-group-warsaw/) (Warszawa)
-* [Codemiy QA Meetup](https://codemify.com/monthly-qa-meetup) (Warszawa) 💵
+* [Codemify QA Meetup](https://codemify.com/monthly-qa-meetup) (Warszawa) 💵
 
 ## Lokalne konferencje testerskie
 
