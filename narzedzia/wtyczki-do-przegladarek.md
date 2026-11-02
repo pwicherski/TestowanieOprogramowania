@@ -61,4 +61,8 @@
 * Font Finder
   * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/font-inspect/)\
 
+* [Spoof Me](https://spoof-me.com/)
+  * [Chrome](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki)
+  * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/)\
+
 
