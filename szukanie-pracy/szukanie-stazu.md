@@ -19,11 +19,10 @@ Gdzie jeszcze szukać:
 * [Oferty stażu na grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1765229770166260)
 * [Oferty pracy na grupie Testowanie Oprogramowania](https://www.facebook.com/groups/141683635854223/post\_tags/?post\_tag\_id=1765176240171613)
 * [https://nofluffjobs.com/juniors](https://nofluffjobs.com/juniors)
-* [http://www.juniorjobsonly.com/](http://www.juniorjobsonly.com/)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
 * [https://www.pracuj.pl/](https://www.pracuj.pl/)
 * [https://www.praca.pl/](https://www.praca.pl/)
-* [https://justjoin.it/all/testing](https://justjoin.it/all/testing)
+* [https://justjoin.it/job-offers/all-locations/testing](https://justjoin.it/job-offers/all-locations/testing)
 * [https://www.skillshot.pl/](https://www.skillshot.pl/)
 * [http://lmgtfy.com/?q=praca+tester](http://lmgtfy.com/?q=praca+tester)
 
