@@ -7,6 +7,7 @@
 * Zbiorcze wyszukiwarki ofert z różnych portali
   * [https://itradar.io/?c=qa\&hs=1\&o=sd\&ri=qa](https://itradar.io/?c=qa\&hs=1\&o=sd\&ri=qa)
   * [https://czyjesteldorado.pl/search](https://czyjesteldorado.pl/search)
+  * [https://noexp.it/praca/tester-manualny-bez-doswiadczenia](https://noexp.it/praca/tester-manualny-bez-doswiadczenia)
 * [https://justjoin.it/all/testing](https://justjoin.it/all/testing)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
   * [No Fluff Jobs praca dla Junior Testerów](https://nofluffjobs.com/jobs/testing?criteria=category%3Dtesting%20seniority%3Dtrainee,junior)
